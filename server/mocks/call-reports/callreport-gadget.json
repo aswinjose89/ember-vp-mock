@@ -1,0 +1,253 @@
+{
+  "callreportMetrics": [{
+    "id": "749988291330524",
+    "monthId": "201701",
+    "crDiscussionPointName": "Relationship Review",
+    "crDPAbbreviation": "RR",
+    "crCount": 5,
+    "crTotalCount": 63,
+    "valueColor": "#8c806e"
+  }, {
+    "id": "749988291351524",
+    "monthId": "201701",
+    "crDiscussionPointName": "Service Feedback",
+    "crDPAbbreviation": "SF",
+    "crCount": 1,
+    "crTotalCount": 63,
+    "valueColor": "#3584c4"
+  }, {
+    "id": "749988291364524",
+    "monthId": "201701",
+    "crDiscussionPointName": "Service Activity",
+    "crDPAbbreviation": "SA",
+    "crCount": 1,
+    "crTotalCount": 63,
+    "valueColor": "#bd564e"
+  }, {
+    "id": "749988291376524",
+    "monthId": "201611",
+    "crDiscussionPointName": "Sales",
+    "crDPAbbreviation": "SAL",
+    "crCount": 1,
+    "crTotalCount": 1,
+    "valueColor": "#409e89"
+  }, {
+    "id": "749988291383524",
+    "monthId": "201701",
+    "crDiscussionPointName": "Sales",
+    "crDPAbbreviation": "SAL",
+    "crCount": 56,
+    "crTotalCount": 63,
+    "valueColor": "#409e89"
+  }, {
+    "id": "749988291388524",
+    "monthId": "201612",
+    "crDiscussionPointName": "Sales",
+    "crDPAbbreviation": "SAL",
+    "crCount": 33,
+    "crTotalCount": 33,
+    "valueColor": "#409e89"
+  }, {
+    "id": "749988291388524",
+    "monthId": "201611",
+    "crDiscussionPointName": "Sales",
+    "crDPAbbreviation": "SAL",
+    "crCount": 33,
+    "crTotalCount": 33,
+    "valueColor": "#409e89"
+  }, {
+    "id": "749988291870524",
+    "monthId": "201610",
+    "crDiscussionPointName": "Sales",
+    "crDPAbbreviation": "SAL",
+    "crCount": 0,
+    "crTotalCount": 0,
+    "valueColor": "#ff9a6e"
+  }, {
+    "id": "749988291877524",
+    "monthId": "201609",
+    "crDiscussionPointName": "Sales",
+    "crDPAbbreviation": "SAL",
+    "crCount": 0,
+    "crTotalCount": 0,
+    "valueColor": "#ff9a6e"
+  }, {
+    "id": "749988291880524",
+    "monthId": "201608",
+    "crDiscussionPointName": "Sales",
+    "crDPAbbreviation": "SAL",
+    "crCount": 0,
+    "crTotalCount": 0,
+    "valueColor": "#ff9a6e"
+  }, {
+    "id": "749988291882524",
+    "monthId": "201607",
+    "crDiscussionPointName": "Sales",
+    "crDPAbbreviation": "SAL",
+    "crCount": 0,
+    "crTotalCount": 0,
+    "valueColor": "#ff9a6e"
+  }, {
+    "id": "749988291884524",
+    "monthId": "201606",
+    "crDiscussionPointName": "Sales",
+    "crDPAbbreviation": "SAL",
+    "crCount": 0,
+    "crTotalCount": 0,
+    "valueColor": "#ff9a6e"
+  }, {
+    "id": "749988291886524",
+    "monthId": "201605",
+    "crDiscussionPointName": "Sales",
+    "crDPAbbreviation": "SAL",
+    "crCount": 0,
+    "crTotalCount": 0,
+    "valueColor": "#ff9a6e"
+  }, {
+    "id": "749988291888524",
+    "monthId": "201604",
+    "crDiscussionPointName": "Sales",
+    "crDPAbbreviation": "SAL",
+    "crCount": 0,
+    "crTotalCount": 0,
+    "valueColor": "#ff9a6e"
+  }, {
+    "id": "749988291890524",
+    "monthId": "201603",
+    "crDiscussionPointName": "Sales",
+    "crDPAbbreviation": "SAL",
+    "crCount": 0,
+    "crTotalCount": 0,
+    "valueColor": "#ff9a6e"
+  }, {
+    "id": "749988291893524",
+    "monthId": "201602",
+    "crDiscussionPointName": "Sales",
+    "crDPAbbreviation": "SAL",
+    "crCount": 0,
+    "crTotalCount": 0,
+    "valueColor": "#ff9a6e"
+  }, {
+    "id": "749988291895524",
+    "monthId": "201601",
+    "crDiscussionPointName": "Sales",
+    "crDPAbbreviation": "SAL",
+    "crCount": 0,
+    "crTotalCount": 0,
+    "valueColor": "#ff9a6e"
+  },{
+      "id": "749988291351524",
+      "monthId": "201701",
+      "crDiscussionPointName": "Service Feedback",
+      "crDPAbbreviation": "SF",
+      "crCount": 1,
+      "crTotalCount": 63,
+      "valueColor": "#3584c4"
+    },{
+        "id": "74998829524",
+        "monthId": "201612",
+        "crDiscussionPointName": "Service Feedback",
+        "crDPAbbreviation": "SF",
+        "crCount": 1,
+        "crTotalCount": 63,
+        "valueColor": "#3584c4"
+      },{
+        "id": "74998829131234",
+        "monthId": "201611",
+        "crDiscussionPointName": "Service Feedback",
+        "crDPAbbreviation": "SF",
+        "crCount": 1,
+        "crTotalCount": 63,
+        "valueColor": "#3584c4"
+      },
+    {
+      "id": "749988296101",
+      "monthId": "201610",
+      "crDiscussionPointName": "Service Feedback",
+      "crDPAbbreviation": "SF",
+      "crCount": 0,
+      "crTotalCount": 0,
+      "valueColor": "#ff9a6e"
+    },
+    {
+      "id": "749986091",
+      "monthId": "201609",
+      "crDiscussionPointName": "Service Feedback",
+      "crDPAbbreviation": "SF",
+      "crCount": 0,
+      "crTotalCount": 0,
+      "valueColor": "#ff9a6e"
+    },
+    {
+      "id": "7499816081",
+      "monthId": "201608",
+      "crDiscussionPointName": "Service Feedback",
+      "crDPAbbreviation": "SF",
+      "crCount": 0,
+      "crTotalCount": 0,
+      "valueColor": "#ff9a6e"
+    },
+    {
+      "id": "74998816071",
+      "monthId": "201607",
+      "crDiscussionPointName": "Service Feedback",
+      "crDPAbbreviation": "SF",
+      "crCount": 0,
+      "crTotalCount": 0,
+      "valueColor": "#ff9a6e"
+    },
+    {
+      "id": "74998845061",
+      "monthId": "201606",
+      "crDiscussionPointName": "Service Feedback",
+      "crDPAbbreviation": "SF",
+      "crCount": 0,
+      "crTotalCount": 0,
+      "valueColor": "#ff9a6e"
+    },
+    {
+      "id": "7499816051",
+      "monthId": "201605",
+      "crDiscussionPointName": "Service Feedback",
+      "crDPAbbreviation": "SF",
+      "crCount": 0,
+      "crTotalCount": 0,
+      "valueColor": "#ff9a6e"
+    },
+    {
+      "id": "74998829041",
+      "monthId": "201604",
+      "crDiscussionPointName": "Service Feedback",
+      "crDPAbbreviation": "SF",
+      "crCount": 0,
+      "crTotalCount": 0,
+      "valueColor": "#ff9a6e"
+    },
+    {
+      "id": "74998816031",
+      "monthId": "201603",
+      "crDiscussionPointName": "Service Feedback",
+      "crDPAbbreviation": "SF",
+      "crCount": 0,
+      "crTotalCount": 0,
+      "valueColor": "#ff9a6e"
+    },
+    {
+      "id": "749986021",
+      "monthId": "201602",
+      "crDiscussionPointName": "Service Feedback",
+      "crDPAbbreviation": "SF",
+      "crCount": 3,
+      "crTotalCount": 2,
+      "valueColor": "#ff9a6e"
+    },
+    {
+      "id": "74998242016011",
+      "monthId": "201601",
+      "crDiscussionPointName": "Service Feedback",
+      "crDPAbbreviation": "SF",
+      "crCount": 0,
+      "crTotalCount": 0,
+      "valueColor": "#ff9a6e"
+    }]
+}

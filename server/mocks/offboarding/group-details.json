@@ -1,0 +1,55 @@
+{
+	"offboarding/groupDetails": [{
+		"id": "990004111",
+		"groupId": "990004111",
+		"groupName": "GRP NAME 990004111",
+		"region": "GREATER CHINA",
+		"domicileCountry": "TAIWAN",
+		"segmentCode": "N",
+		"segment": "FINANCIAL INSTITUTIONS",
+		"subSegment": "sub FINANCIAL INSTITUTIONS",
+		"subSegmentCode": "F3",
+		"gamId": "1447458",
+		"gamName": "Yang, Chih-Ya",
+		"gamCountry": "TW/SCTW",
+		"countOfClients": 45,
+		"transactionId": "111",
+		"status": "GROUP CLOSURE1",
+		"saved": false,
+		"submitted": true 
+	}, {
+		"id": "990011113",
+		"groupId": "990011113",
+		"groupName": "GRP NAME 990011113",
+		"region": "SOUTH ASIA",
+		"domicileCountry": "INDIA",
+		"segmentCode": "A",
+		"segment": "LOCAL CORPORATES",
+		"gamId": "1182805",
+		"gamName": "Sourish Mitra",
+		"gamCountry": "IN/SCBL",		
+		"countOfClients": 1,	
+        "status": "GROUP CLOSURE",	
+        "transactionId": "12",		
+		"saved": true,
+		"submitted": true 		
+	}, {
+		"id": "990011120",
+		"groupId": "990011120",
+		"groupName": "GRP NAME 990011120",
+		"region": "SOUTH ASIA",
+		"domicileCountry": "INDIA",
+		"segmentCode": "A",
+		"segment": "LOCAL CORPORATES",
+		"gamId": "1187911",
+		"gamName": "Vineet Ahuja",
+		"gamCountry": "IN/SCBL",
+		"countOfClients": 2,
+		"status": "GROUP CLOSURE",
+		"saved": true,
+		"submitted": true 
+	}],
+	"meta": {
+		"totalRecords": 3
+	}
+}

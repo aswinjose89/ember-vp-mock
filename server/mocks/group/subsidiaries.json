@@ -1,0 +1,197 @@
+{
+    "meta" : {
+          "totalCount" : 44
+      },
+  "subsidiaries": [
+    {
+    	"id": 1,
+		"entityId": 11000033,
+	    "entityName": "HANA BANK",
+	    "subProfileId": "10",
+	    "isFavourite": true,
+        "favouriteId": "11000033"
+    },
+    {
+    	"id": 2,
+    	"entityId": 11005853,
+	    "entityName": "KOREA EXCHANGE BANK",
+	    "subProfileId": "8",
+	    "isFavourite": true,
+        "favouriteId": "11005853"
+    },
+    {
+    	"id": 3,
+    	"entityId": 11005853,
+	    "entityName": "KOREA EXCHANGE BANK",
+	    "subProfileId": "8",
+	    "isFavourite": false,
+        "favouriteId": "11005853"
+    },
+    {
+        "id": 4,
+        "entityId": 11000033,
+        "entityName": "HANA BANK",
+        "subProfileId": "10",
+        "isFavourite": true,
+        "favouriteId": "11000033"
+    },
+    {
+        "id": 5,
+        "entityId": 11005853,
+        "entityName": "KOREA EXCHANGE BANK",
+        "subProfileId": "8",
+        "isFavourite": true,
+        "favouriteId": "11005853"
+    },
+    {
+        "id": 6,
+        "entityId": 11005853,
+        "entityName": "KOREA EXCHANGE BANK",
+        "subProfileId": "8",
+        "isFavourite": false,
+        "favouriteId": "11005853"
+    },
+    {
+        "id": 7,
+        "entityId": 11000033,
+        "entityName": "HANA BANK",
+        "subProfileId": "10",
+        "isFavourite": true,
+        "favouriteId": "11000033"
+    },
+    {
+        "id": 8,
+        "entityId": 11005853,
+        "entityName": "KOREA EXCHANGE BANK",
+        "subProfileId": "8",
+        "isFavourite": true,
+        "favouriteId": "11005853"
+    },
+    {
+        "id": 9,
+        "entityId": 11005853,
+        "entityName": "KOREA EXCHANGE BANK",
+        "subProfileId": "8",
+        "isFavourite": false,
+        "favouriteId": "11005853"
+    },{
+        "id": 10,
+        "entityId": 11000033,
+        "entityName": "HANA BANK",
+        "subProfileId": "10",
+        "isFavourite": true,
+        "favouriteId": "11000033"
+    },
+    {
+        "id": 11,
+        "entityId": 11005853,
+        "entityName": "KOREA EXCHANGE BANK",
+        "subProfileId": "8",
+        "isFavourite": true,
+        "favouriteId": "11005853"
+    },
+    {
+        "id": 12,
+        "entityId": 11005853,
+        "entityName": "KOREA EXCHANGE BANK",
+        "subProfileId": "8",
+        "isFavourite": false,
+        "favouriteId": "11005853"
+    },
+    {
+        "id": 13,
+        "entityId": 11000033,
+        "entityName": "HANA BANK",
+        "subProfileId": "10",
+        "isFavourite": true,
+        "favouriteId": "11000033"
+    },
+    {
+        "id": 21,
+        "entityId": 11005853,
+        "entityName": "KOREA EXCHANGE BANK",
+        "subProfileId": "8",
+        "isFavourite": true,
+        "favouriteId": "11005853"
+    },
+    {
+        "id": 31,
+        "entityId": 11005853,
+        "entityName": "KOREA EXCHANGE BANK",
+        "subProfileId": "8",
+        "isFavourite": false,
+        "favouriteId": "11005853"
+    },
+    {
+        "id": 41,
+        "entityId": 11000033,
+        "entityName": "HANA BANK",
+        "subProfileId": "10",
+        "isFavourite": true,
+        "favouriteId": "11000033"
+    },
+    {
+        "id": 51,
+        "entityId": 11005853,
+        "entityName": "KOREA EXCHANGE BANK",
+        "subProfileId": "8",
+        "isFavourite": true,
+        "favouriteId": "11005853"
+    },
+    {
+        "id": 61,
+        "entityId": 11005853,
+        "entityName": "KOREA EXCHANGE BANK",
+        "subProfileId": "8",
+        "isFavourite": false,
+        "favouriteId": "11005853"
+    },
+    {
+        "id": 71,
+        "entityId": 11000033,
+        "entityName": "HANA BANK",
+        "subProfileId": "10",
+        "isFavourite": true,
+        "favouriteId": "11000033"
+    },
+    {
+        "id": 81,
+        "entityId": 11005853,
+        "entityName": "KOREA EXCHANGE BANK",
+        "subProfileId": "8",
+        "isFavourite": true,
+        "favouriteId": "11005853"
+    },
+    {
+        "id": 91,
+        "entityId": 11005853,
+        "entityName": "KOREA EXCHANGE BANK",
+        "subProfileId": "8",
+        "isFavourite": false,
+        "favouriteId": "11005853"
+    },{
+        "id": 101,
+        "entityId": 11000033,
+        "entityName": "HANA BANK",
+        "subProfileId": "10",
+        "isFavourite": true,
+        "favouriteId": "11000033"
+    },
+    {
+        "id": 111,
+        "entityId": 11005853,
+        "entityName": "KOREA EXCHANGE BANK",
+        "subProfileId": "8",
+        "isFavourite": true,
+        "favouriteId": "11005853"
+    },
+    {
+        "id": 121,
+        "entityId": 11005853,
+        "entityName": "KOREA EXCHANGE BANK",
+        "subProfileId": "8",
+        "isFavourite": false,
+        "favouriteId": "11005853"
+    }
+  ]
+}

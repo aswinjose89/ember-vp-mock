@@ -1,0 +1,24 @@
+{
+  "vatCodeStatuses": [
+    {
+      "vatCodeId": "1",
+      "vatCodeStatusDescription": "VAT Registered"
+    },
+    {
+      "vatCodeId": "2",
+      "vatCodeStatusDescription": "Not VAT Registered â€“ Charity"
+    },
+    {
+      "vatCodeId": "3",
+      "vatCodeStatusDescription": "Not VAT Registered â€“ Turnover Less than GBP 75,000"
+    },
+    {
+      "vatCodeId": "4",
+      "vatCodeStatusDescription": "Not VAT Registered â€“ Non Business"
+    },
+    {
+      "vatCodeId": "5",
+      "vatCodeStatusDescription": "Not VAT Registered â€“ Other Approved"
+    }
+  ]
+}

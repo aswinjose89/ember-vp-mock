@@ -1,0 +1,81 @@
+{
+  "dealDetails": {
+    "id": "20150629100863685",
+    "description": "Test updated",
+    "readOnly": false,
+    "dealTeamMember": {
+      "id": "12",
+      "totalRecords": 4,
+      "members": [{
+        "id": "1181486",
+        "memberName": "Gang,Tristram 1",
+        "businessArea": "Corporate Finance",
+        "dealTeamRole": "0092",
+        "dealAccess": "0096",
+        "memberType": "N"
+      }, {
+        "id": "1181487",
+        "memberName": "Gang,Tristram 2",
+        "businessArea": "Corporate Finance 1",
+        "dealTeamRole": "0092",
+        "dealAccess": "0096",
+        "memberType": "N"
+      }, {
+        "id": "1181488",
+        "memberName": "Gang,Tristram 3",
+        "businessArea": "Corporate Finance 1",
+        "dealTeamRole": "0092",
+        "dealAccess": "0096",
+        "memberType": "N"
+      }, {
+        "id": "1181489",
+        "memberName": "Gang,Tristram 4",
+        "businessArea": "Corporate Finance 1",
+        "dealTeamRole": "0092",
+        "dealAccess": "0096",
+        "memberType": "N"
+      }]
+    },
+    "attachment": {
+      "id": "12",
+      "totalRecords": 2,
+      "files": [{
+        "fileName": {
+          "name": "checkout Url.txt",
+          "type": "txt"
+        },
+        "description": "test",
+        "uploadedBy": "1181483",
+        "categoryType": "WF",
+        "id": "2015062910086368511"
+      }, {
+        "fileName": {
+          "name": "checkout Url.txt",
+          "type": "txt"
+        },
+        "description": "test",
+        "uploadedBy": "1181483",
+        "categoryType": "WF",
+        "id": "2015062910086368511"
+      }]
+    },
+    "esraActivity": {
+      "id": "20150629100863685",
+      "version": 1,
+      "status": "0002",
+      "outcome": "0002",
+      "esrmRouteOnly": false,
+      "readOnly": false,
+      "saveDraftEnabled": "N",
+      "submitEnabled": "N",
+      "recallEnabled": "N",
+      "approveEnabled": "E",
+      "rejectEnabled": "N",
+      "referbackEnabled": "E",
+      "withdrawEnabled": "N",
+      "reopenEnabled": "N",
+      "deleteEnabled": "N",
+      "referToESRMEnabled": "E"
+    }
+  }
+}

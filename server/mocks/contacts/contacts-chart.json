@@ -1,0 +1,28 @@
+{
+	"contactsCharts": [
+    {
+      "id": 1,
+      "category": "No Contact(Last 12 months)",
+      "value": 7,
+      "color": "#2C85BF"
+    },
+    {
+      "id": 2,
+      "category": "Contacted(6-12 months)",
+      "value": 7,
+      "color": "#B3CDDE"
+    },
+    {
+      "id": 3,
+      "category": "Recently Contacted(6 months)",
+      "value": 5,
+      "color": "#98D18C"
+    },
+    {
+      "id": 4,
+      "category": "Total Records",
+      "value": 2,
+      "color": "#2C85BF"
+    }
+  ]
+}

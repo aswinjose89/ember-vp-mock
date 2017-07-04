@@ -1,0 +1,59 @@
+{
+	"tbUser": [{
+		"id": 1,
+	    "empCode": "LF22",
+	    "empBookingLocation": "SG/SCBL",
+	    "empPsId": "1213507",
+	    "empName": "Nikhil Vaswani",
+	    "empCountry": "SG",
+	    "empRole": "TBS"
+	}, {
+		"id":2,
+	    "empCode": "LF23",
+	    "empBookingLocation": "SG/SCBL",
+	    "empPsId": "1213508",
+	    "empName": "Nikhil Vaswani1",
+	    "empCountry": "SG",
+	    "empRole": "ACO"
+	}, {
+		"id": 3,
+	    "empCode": "LF22",
+	    "empBookingLocation": "SG/SCBL",
+	    "empPsId": "1213507",
+	    "empName": "Nikhil Vaswani",
+	    "empCountry": "SG",
+	    "empRole": "FMF"
+	}, {
+		"id": 4,
+	    "empCode": "LF22",
+	    "empBookingLocation": "SG/SCBL",
+	    "empPsId": "1213507",
+	    "empName": "Nikhil Vaswani",
+	    "empCountry": "SG",
+	    "empRole": "RTS"
+	}, {
+		"id": 5,
+	    "empCode": "LF22",
+	    "empBookingLocation": "SG/SCBL",
+	    "empPsId": "1213507",
+	    "empName": "Nikhil Vaswani",
+	    "empCountry": "SG",
+	    "empRole": "RAM"
+	}, {
+		"id": 6,
+	    "empCode": "LF22",
+	    "empBookingLocation": "SG/SCBL",
+	    "empPsId": "1213507",
+	    "empName": "Nikhil Vaswani",
+	    "empCountry": "SG",
+	    "empRole": "FAM"
+	}, {
+		"id": 7,
+	    "empCode": "LF22",
+	    "empBookingLocation": "SG/SCBL",
+	    "empPsId": "1213507",
+	    "empName": "Nikhil Vaswani",
+	    "empCountry": "SG",
+	    "empRole": "CFS"
+	}]
+}

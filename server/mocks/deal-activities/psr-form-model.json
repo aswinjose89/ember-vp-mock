@@ -1,0 +1,262 @@
+{
+  "psrForm": {
+    "psrTabs": [
+      "PSRT01",
+      "PSRT02"
+    ],
+    "dealIdRef": "201609191001258278",
+    "activityStatus": "Draft",
+    "decision": "loremipsum",
+    "readOnly": "false",
+    "locked": "false",
+    "lockMessage": "lorem ipsum",
+    "koreanDeal": "N",
+    "workflowHistories": [
+      31841,
+      24103
+    ],
+    "accessControl": {
+      "roleCodeVal": "0092",
+      "accessCodeVal": "0096",
+      "cancelEnabled": "true",
+      "saveDraftEnabled": "true",
+      "submitEnabled": "false",
+      "recallEnabled": null,
+      "approveEnabled": null,
+      "referbackEnabled": null,
+      "completeEnabled": null
+    },
+    "staticHeaderInformation": [
+      {
+        "labelId": "dealName",
+        "labelName": "Deal Name",
+        "description": "Structured Finance Deal Name"
+      },
+      {
+        "labelId": "salesStage",
+        "labelName": "Sales Stage",
+        "description": "Mandated / Under Execution"
+      },
+      {
+        "labelId": "dealId",
+        "labelName": "Deal Id",
+        "description": "DEAL-CF-2014-10-259154"
+      },
+      {
+        "labelId": "clientName",
+        "labelName": "Client Name",
+        "description": "clientnameXXXX"
+      },
+      {
+        "labelId": " productType",
+        "labelName": "Product Type",
+        "description": " Leverage Finance "
+      },
+      {
+        "labelId": " dealCloseDate",
+        "labelName": "Deal Close Date",
+        "description": "18189981989828"
+      },
+      {
+        "labelId": "dealTeamLeaders",
+        "labelName": "Deal Team Leader",
+        "description": "Gang,Tristram Francis/ Wallace,Sean Robert/ Karungi, Carol"
+      },
+      {
+        "labelId": "clientId",
+        "labelName": "Client Id",
+        "description": " clientid/1"
+      },
+      {
+        "labelId": " domicileCountry",
+        "labelName": "Domicile Country",
+        "description": "Singapore"
+      },
+      {
+        "labelId": "dealExecutionCountry",
+        "labelName": "Deal Execution Country",
+        "description": "Singapore"
+      },
+      {
+        "labelId": "subProductType",
+        "labelName": "Sub Product Type",
+        "description": "Finance"
+      },
+      {
+        "labelId": "pFam",
+        "labelName": "PFAM",
+        "description": "pfamname1-psid/pfamname2-psid"
+      },
+      {
+        "labelId": "submittedBy",
+        "labelName": "Submitted By",
+        "description": "Karungi, Carol-1412002"
+      },
+      {
+        "labelId": "approvedBy",
+        "labelName": "Approved By",
+        "description": "Wallace,Sean Robert-1315003"
+      }
+    ]
+  },
+  "psrSections": [
+    {
+      "sectionCode": "PSRS01",
+      "description": "Client and Deal Details",
+      "route": "client-deal-details",
+      "counterParties": [
+        "001",
+        "002"
+      ]
+    },
+    {
+      "sectionCode": "PSRS02",
+      "description": "Product Details",
+      "route": "product-details"
+    },
+    {
+      "sectionCode": "PSRS03",
+      "description": "Supporting Information",
+      "route": "supporting-information"
+    },
+    {
+      "sectionCode": "PSRS04",
+      "description": "Approvals/Support",
+      "route": "approvals"
+    },
+    {
+      "sectionCode": "PSRS05",
+      "description": "Deal Team",
+      "route": "deal-team"
+    },
+    {
+      "sectionCode": "PSRS06",
+      "description": "Client and Deal Details-PartB",
+      "route": "legal-council"
+    },
+    {
+      "sectionCode": "PSRS07",
+      "description": "Product Details-Part B",
+      "route": "legal-council"
+    },
+    {
+      "sectionCode": "PSRS08",
+      "description": "Supporting Information-PartB",
+      "route": "legal-council"
+    },
+    {
+      "sectionCode": "PSRS09",
+      "description": "Approvals/Support-PartB",
+      "route": "legal-council"
+    },
+    {
+      "sectionCode": "PSRS10",
+      "description": "Deal Team-PartB",
+      "route": "legal-council"
+    }
+  ],
+  "counterParties": [
+    {
+      "id": "001"
+    },
+    {
+      "id": "002"
+    }
+  ],
+  "psrTabs": [
+    {
+      "tabCode": "PSRT01",
+      "label": "Part A",
+      "disabled": false,
+      "psrSections": [
+        "PSRS01",
+        "PSRS02",
+        "PSRS03",
+        "PSRS04",
+        "PSRS05"
+      ]
+    },
+    {
+      "tabCode": "PSRT02",
+      "label": "Part B",
+      "disabled": false,
+      "psrSections": [
+        "PSRS06",
+        "PSRS07",
+        "PSRS08"
+      ]
+    }
+  ],
+  "workflowHistories": [
+    {
+      "workflowId": "31841",
+      "workflowFields": [
+        {
+          "labelId": "userName",
+          "labelName": "User Name",
+          "description": "Jean-Pierre Benichou"
+        },
+        {
+          "labelId": "action",
+          "labelName": "Action",
+          "description": "Recall"
+        },
+        {
+          "labelId": "date",
+          "labelName": "Date",
+          "description": "1474985218000"
+        },
+        {
+          "labelId": "beforeStatus",
+          "labelName": "Before Status",
+          "description": "Under Review"
+        },
+        {
+          "labelId": "afterStatus",
+          "labelName": "After Status",
+          "description": "Queried"
+        },
+        {
+          "labelId": "comment",
+          "labelName": "Comment",
+          "description": "Checklist need further information on last section. Recalling to update the checklist."
+        }
+      ]
+    },
+    {
+      "workflowId": "24103",
+      "workflowFields": [
+        {
+          "labelId": "userName",
+          "labelName": "User Name",
+          "description": "Jean-Pierre Benichou"
+        },
+        {
+          "labelId": "action",
+          "labelName": "Action",
+          "description": "Refer back"
+        },
+        {
+          "labelId": "date",
+          "labelName": "Date",
+          "description": "1474426182000"
+        },
+        {
+          "labelId": "beforeStatus",
+          "labelName": "Before Status",
+          "description": "Under Review"
+        },
+        {
+          "labelId": "afterStatus",
+          "labelName": "After Status",
+          "description": "Queried"
+        },
+        {
+          "labelId": "comment",
+          "labelName": "Comment",
+          "description": "Checklist need further information on last section. Refer back to update the checklist."
+        }
+      ]
+    }
+  ]
+}

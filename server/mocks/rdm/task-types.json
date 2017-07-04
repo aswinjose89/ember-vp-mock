@@ -1,0 +1,28 @@
+{
+  "taskTypes": [
+    {
+      "code": "TN0",
+      "description": "BBA Task"
+    },
+    {
+      "code": "TN1",
+      "description": "CDD Task"
+    },
+    {
+      "code": "TN2",
+      "description": "GA Task"
+    },
+    {
+      "code": "TN3",
+      "description": "GIC Task"
+    },
+    {
+      "code": "TN4",
+      "description": "Deferral Task"
+    },
+    {
+      "code": "TN5",
+      "description": "FATCA Task"
+    }
+  ]
+}

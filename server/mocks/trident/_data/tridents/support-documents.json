@@ -1,0 +1,34 @@
+[
+  {
+    "supportDocCode": "6",
+    "supportDocDesc": "Bank's standard Letter of Comfort (LOC) / Letter of Awareness (LOA)"
+  },
+  {
+    "supportDocCode": "7",
+    "supportDocDesc": "Comprehensive Verbal statement of support"
+  },
+  {
+    "supportDocCode": "8",
+    "supportDocDesc": "Conditional Legal Obligation"
+  },
+  {
+    "supportDocCode": "9",
+    "supportDocDesc": "Non-standard LOC / LOA (cleared with SCO)"
+  },
+  {
+    "supportDocCode": "10",
+    "supportDocDesc": "Not applicable"
+  },
+  {
+    "supportDocCode": "11",
+    "supportDocDesc": "Qualified LOC/ LOA"
+  },
+  {
+    "supportDocCode": "12",
+    "supportDocDesc": "Qualified Verbal Support"
+  },
+  {
+    "supportDocCode": "13",
+    "supportDocDesc": "Unconditional Legal Obligation"
+  }
+]

@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "totalCount":20
+    },
+  "creditEntities": [
+    {
+      "id": 1,
+      "entityId": "11182991",
+      "entityType": "C",
+      "entityName": "(HK) WONDER PHONE TECHNOLOGY&DEVELOPMENT CO., LIMITED",
+      "segmentId": "null",
+      "segmentDesc": "LOCAL CORPORATES",
+      "countryId": "null",
+      "countryDesc": "HONG KONG",
+      "regionId": "null",
+      "regionDesc": "GREATER CHINA"
+    },
+    {
+      "id": 2,
+      "entityId": "11182991",
+      "entityType": "C",
+      "entityName": "L NAME 11182991",
+      "segmentId": "A",
+      "segmentDesc": "LOCAL CORPORATES",
+      "countryId": "HK",
+      "countryDesc": "HONG KONG",
+      "regionId": "1900",
+      "regionDesc": "GREATER CHINA"
+    },
+    {
+      "id": 3,
+      "entityId": "11190520",
+      "entityType": "C",
+      "entityName": "(HK) DIMAN TECHNOLOGY CO., LIMITED",
+      "segmentId": "A",
+      "segmentDesc": "LOCAL CORPORATES",
+      "countryId": "HK",
+      "countryDesc": "HONG KONG",
+      "regionId": "1900",
+      "regionDesc": "GREATER CHINA"
+    },
+    {
+      "id": 4,
+      "entityId": "11190520",
+      "entityType": "C",
+      "entityName": "L NAME 11190520",
+      "segmentId": "A",
+      "segmentDesc": "LOCAL CORPORATES",
+      "countryId": "HK",
+      "countryDesc": "HONG KONG",
+      "regionId": "1900",
+      "regionDesc": "GREATER CHINA"
+    },
+    {
+      "id": 5,
+      "entityId": "11237611",
+      "entityType": "C",
+      "entityName": "&C. INC",
+      "segmentId": "K",
+      "segmentDesc": "GLOBAL CORPORATES",
+      "countryId": "CN",
+      "countryDesc": "CHINA",
+      "regionId": "1900",
+      "regionDesc": "GREATER CHINA"
+    },
+    {
+      "id": 6,
+      "entityId": "11237611",
+      "entityType": "C",
+      "entityName": "L NAME 11237611",
+      "segmentId": "A",
+      "segmentDesc": "LOCAL CORPORATES",
+      "countryId": "CN",
+      "countryDesc": "CHINA",
+      "regionId": "1900",
+      "regionDesc": "GREATER CHINA"
+    },
+    {
+      "id": 7,
+      "entityId": "11309474",
+      "entityType": "C",
+      "entityName": "\"ELTA-HRG CAMEROON\" SOCIETE EXECUTIVE AND LEISURE TRAVEL AGENCY",
+      "segmentId": "A",
+      "segmentDesc": "LOCAL CORPORATES",
+      "countryId": "CM",
+      "countryDesc": "CAMEROON",
+      "regionId": "1300",
+      "regionDesc": "AFRICA"
+    },
+    {
+      "id": 8,
+      "entityId": "11309474",
+      "entityType": "C",
+      "entityName": "L NAME 11309474",
+      "segmentId": "A",
+      "segmentDesc": "LOCAL CORPORATES",
+      "countryId": "CM",
+      "countryDesc": "CAMEROON",
+      "regionId": "1300",
+      "regionDesc": "AFRICA"
+    },
+    {
+      "id": 9,
+      "entityId": "20009521",
+      "entityType": "C",
+      "entityName": "(CANADA) SILIAN SAPPHIRE CORPORATION",
+      "segmentId": "A",
+      "segmentDesc": "LOCAL CORPORATES",
+      "countryId": "CA",
+      "countryDesc": "CANADA",
+      "regionId": "1600",
+      "regionDesc": "AMERICAS"
+    },
+    {
+      "id": 10,
+      "entityId": "20019611",
+      "entityType": "C",
+      "entityName": "*DO NOT USE*METROPOLITAN BANK (CHINA) LTD.",
+      "segmentId": "N",
+      "segmentDesc": "FINANCIAL INSTITUTIONS",
+      "countryId": "CN",
+      "countryDesc": "CHINA",
+      "regionId": "1900",
+      "regionDesc": "GREATER CHINA"
+    },
+    {
+      "id": 11,
+      "entityId": "20040224",
+      "entityType": "C",
+      "entityName": "(PERSERO) PT. INDUSTRI KERETA API",
+      "segmentId": "A",
+      "segmentDesc": "LOCAL CORPORATES",
+      "countryId": null,
+      "countryDesc": null,
+      "regionId": null,
+      "regionDesc": null
+    },
+    {
+      "id": 12,
+      "entityId": "20043950",
+      "entityType": "C",
+      "entityName": "(HONG KONG) TOPSHIP CHEMICALS TRADING COMPANY LIMITED",
+      "segmentId": null,
+      "segmentDesc": null,
+      "countryId": "HK",
+      "countryDesc": "HONG KONG",
+      "regionId": "1900",
+      "regionDesc": "GREATER CHINA"
+    },
+    {
+      "id": 13,
+      "entityId": "20104793",
+      "entityType": "C",
+      "entityName": "(HONG KONG) TOPSHIP CHEMICALS TRADEING COMPANY LIMITED",
+      "segmentId": null,
+      "segmentDesc": null,
+      "countryId": "HK",
+      "countryDesc": "HONG KONG",
+      "regionId": "1900",
+      "regionDesc": "GREATER CHINA"
+    },
+    {
+      "id": 14,
+      "entityId": "20118288",
+      "entityType": "C",
+      "entityName": "(HONG KONG) TOPSHIP CHEMICALS TRADING CO., LTD.",
+      "segmentId": "A",
+      "segmentDesc": "LOCAL CORPORATES",
+      "countryId": null,
+      "countryDesc": null,
+      "regionId": null,
+      "regionDesc": null
+    }
+  ]
+}

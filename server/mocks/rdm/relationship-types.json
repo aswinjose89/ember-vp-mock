@@ -1,0 +1,72 @@
+{
+  "relationshipTypes": [
+    {
+      "relationCode": "15",
+      "relationDescription": "Classes of Beneficiaries"
+    },
+    {
+      "relationCode": "16",
+      "relationDescription": "Person in Charge"
+    },
+    {
+      "relationCode": "1",
+      "relationDescription": "Director"
+    },
+    {
+      "relationCode": "2",
+      "relationDescription": "Partner"
+    },
+    {
+      "relationCode": "3",
+      "relationDescription": "Proprietor"
+    },
+    {
+      "relationCode": "4",
+      "relationDescription": "Beneficial Owner"
+    },
+    {
+      "relationCode": "5",
+      "relationDescription": "Shareholder"
+    },
+    {
+      "relationCode": "6",
+      "relationDescription": "Authorised Signatory"
+    },
+    {
+      "relationCode": "7",
+      "relationDescription": "Trustee or equivalent"
+    },
+    {
+      "relationCode": "8",
+      "relationDescription": "Settlor"
+    },
+    {
+      "relationCode": "9",
+      "relationDescription": "Protector or Controller"
+    },
+    {
+      "relationCode": "10",
+      "relationDescription": "Officer"
+    },
+    {
+      "relationCode": "11",
+      "relationDescription": "Fund Manager"
+    },
+    {
+      "relationCode": "12",
+      "relationDescription": "Fund Administrator"
+    },
+    {
+      "relationCode": "13",
+      "relationDescription": "Legal Person"
+    },
+    {
+      "relationCode": "14",
+      "relationDescription": "Others"
+    },
+    {
+      "relationCode": "17",
+      "relationDescription": "Lead Sponsor"
+    }
+  ]
+}

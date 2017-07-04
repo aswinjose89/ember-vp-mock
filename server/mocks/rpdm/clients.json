@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "totalCount": 3
+  },
+  "clients": [
+    {
+      "clientId": 4101,
+      "srcClientId": "CL0003",
+      "sourceSystem": {
+        "code": 10148,
+        "description": "RPDM"
+      },
+      "clientStatus": {
+        "code": 10153,
+        "description": "ACTIVE"
+      },
+      "clientType": {
+        "code": 10042,
+        "description": "Private Company"
+      },
+      "riskRating": {
+        "code": -1,
+        "description": "NULL"
+      },
+      "cddCaseNumber": "CDD007",
+      "cddCaseVersion": 1,
+      "cddCountry": {
+        "code": "HK",
+        "description": "HONG KONG",
+        "vat": null,
+        "region": "GREATER CHINA",
+        "type": null
+      },
+      "cddCaseStatus": {
+        "code": 10040,
+        "description": "Approved"
+      },
+      "cddCaseType": {
+        "code": 10121,
+        "description": "CDD"
+      }
+    },
+    {
+      "clientId": 3001,
+      "srcClientId": "CL0001",
+      "sourceSystem": {
+        "code": 10006,
+        "description": "eCDD+"
+      },
+      "clientStatus": {
+        "code": 10153,
+        "description": "ACTIVE"
+      },
+      "clientType": {
+        "code": 10042,
+        "description": "Private Company"
+      },
+      "riskRating": {
+        "code": -1,
+        "description": "NULL"
+      },
+      "cddCaseNumber": "CDD001",
+      "cddCaseVersion": 1,
+      "cddCountry": {
+        "code": "HK",
+        "description": "HONG KONG",
+        "vat": null,
+        "region": "GREATER CHINA",
+        "type": null
+      },
+      "cddCaseStatus": {
+        "code": 10040,
+        "description": "Approved"
+      },
+      "cddCaseType": {
+        "code": 10121,
+        "description": "CDD"
+      }
+    },
+    {
+      "clientId": 4001,
+      "srcClientId": "CL0002",
+      "sourceSystem": {
+        "code": 10006,
+        "description": "eCDD+"
+      },
+      "clientStatus": {
+        "code": 10153,
+        "description": "ACTIVE"
+      },
+      "clientType": {
+        "code": 10042,
+        "description": "Private Company"
+      },
+      "riskRating": {
+        "code": -1,
+        "description": "NULL"
+      },
+      "cddCaseNumber": "CDD002",
+      "cddCaseVersion": 1,
+      "cddCountry": {
+        "code": "HK",
+        "description": "HONG KONG",
+        "vat": null,
+        "region": "GREATER CHINA",
+        "type": null
+      },
+      "cddCaseStatus": {
+        "code": 10040,
+        "description": "Approved"
+      },
+      "cddCaseType": {
+        "code": 10121,
+        "description": "CDD"
+      }
+    }
+  ]
+}

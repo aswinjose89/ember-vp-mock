@@ -1,0 +1,25 @@
+{
+    "callReportCharts": [
+    {
+        "id": 1,
+        "category": "Sales Home",
+        "value": 70,
+        "color": "#B3CDDE"
+    }, {
+        "id": 2,
+        "category": "Relationship Review Calls",
+        "value": 50,
+        "color": "#98D18C"
+    }, {
+        "id": 3,
+        "category": "Negative Service Feedback",
+        "value": 66,
+        "color": "#E05430"
+    }, {
+        "id": 4,
+        "category": "Positive Service Feedback",
+        "value": 44,
+        "color": "#E05430"
+    }
+    ]
+}

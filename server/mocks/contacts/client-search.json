@@ -1,0 +1,74 @@
+{
+  "clients": [
+    {
+      "dummyId": "135098111990257983",
+      "clientId": "13509811",
+      "clientSubProfileId": 1,
+      "clientName": "TEST CUSTOMER CSDM1",
+      "clientGroupId": "990043973"
+    },
+    {
+      "dummyId": "110452361990000022",
+      "clientId": "11032999",
+      "clientSubProfileId": 1,
+      "clientName": "L NAME 11032999",
+      "clientGroupId": "990002802"
+    },
+    {
+      "dummyId": "112570751990000022",
+      "clientId": "11257075",
+      "clientSubProfileId": 1,
+      "clientName": "L NAME 11257075",
+      "clientGroupId": "990000022"
+    },
+    {
+      "dummyId": "112734941990000022",
+      "clientId": "11273494",
+      "clientSubProfileId": 1,
+      "clientName": "L NAME 11273494",
+      "clientGroupId": "990000022"
+    },
+    {
+      "dummyId": "112734951990000022",
+      "clientId": "11273495",
+      "clientSubProfileId": 1,
+      "clientName": "L NAME 11273495",
+      "clientGroupId": "990000022"
+    },
+    {
+      "dummyId": "112734971990000022",
+      "clientId": "11273497",
+      "clientSubProfileId": 1,
+      "clientName": "L NAME 11273497",
+      "clientGroupId": "990000022"
+    },
+    {
+      "dummyId": "113350481990000022",
+      "clientId": "11335048",
+      "clientSubProfileId": 1,
+      "clientName": "L NAME 11335048",
+      "clientGroupId": "990000022"
+    },
+    {
+      "dummyId": "113418731990000022",
+      "clientId": "11341873",
+      "clientSubProfileId": 1,
+      "clientName": "L NAME 11341873",
+      "clientGroupId": "990000022"
+    },
+    {
+      "dummyId": "115557691990000022",
+      "clientId": "11555769",
+      "clientSubProfileId": 1,
+      "clientName": "L NAME 11555769",
+      "clientGroupId": "990000022"
+    },
+    {
+      "dummyId": "115557701990000022",
+      "clientId": "11555770",
+      "clientSubProfileId": 1,
+      "clientName": "L NAME 11555770",
+      "clientGroupId": "990000022"
+    }
+  ]
+}

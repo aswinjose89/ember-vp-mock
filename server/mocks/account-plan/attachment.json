@@ -1,0 +1,29 @@
+{
+	"attachments": {
+    "id" : 12341234123,
+		"isFileDeleted":false,
+		"attachedFiles": [{
+			"id": 234,
+			"fileName": "Conflict clearance form",
+			"deleted":false,
+			"fileExtension":"pdf",
+			"attachmentType":"file",
+			"sizeInMb":"0.00",
+			"description": "when designing onboarding",
+			"fileCategory":   {
+	        "idCode": "ACPL0071",
+	        "id": "2",
+	        "val": "2",
+	        "name": "Other",
+	        "longDescription": "Other",
+	        "categoryType":"Other",
+	        "description":"Other",
+	        "status": "A",
+	        "appGroup": "*",
+	        "displayOrder": 1
+	      },
+			"uploadedBy": "Vikram Mosali Reddy",
+			"uploadedDate": 1477477465833
+		}]
+	}
+}

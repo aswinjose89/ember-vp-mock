@@ -1,0 +1,77 @@
+{
+    "picklists": [{
+        "id": "1-FI",
+        "code": "FI",
+        "description": "FINLAND",
+        "param1": "AFO"
+    }, {
+        "id": "2-RE",
+        "code": "RE",
+        "description": "REUNION",
+        "param1": "AFO"
+    }],
+  "addRam": [{
+  		"id": 1,
+		"isBulkRequest": false,
+		"exceptionMessage": null,
+		"uiServiceTokenID": null,
+		"ramEntity": [{
+			"id": "1",
+			"tabContentId": 0,
+			"ramDetailsList": {
+				"id": 1,
+			    "empCode": "LF22",
+			    "empBookingLocation": "SG/SCBL",
+			    "empPsId": "1213507",
+			    "empName": "Nikhil Vaswani",
+			    "empCountry": "SG",
+			    "empRole": "TBS"
+			},
+			"coverageLocation": ["1-FI","2-RE"],
+			"selectedRmClientList": [{
+				"id": "1",
+				"clientName": "11074113 - JP Morgan",
+				"clientId": "11074113",
+				"groupName": "Macsteel Groupqq33",
+				"groupId": "90003561",
+				"coverageLocations": ["1-FI","2-RE"]
+			}, {
+				"id": "2",
+				"clientName": "11074113 - JP Morgan",
+				"clientId": "11074113",
+				"groupName": "Macsteel Groupqq",
+				"groupId": "90003562",
+				"coverageLocations": ["1-FI","2-RE"]
+			}]
+		}, {
+			"id": "2",
+			"tabContentId": 1,
+			"ramDetailsList": {
+				"id": 1,
+			    "empCode": "LF22",
+			    "empBookingLocation": "SG/SCBL",
+			    "empPsId": "1213507",
+			    "empName": "Nikhil Vaswani",
+			    "empCountry": "SG",
+			    "empRole": "TBS"
+			},
+			"coverageLocation": ["1-FI","2-RE"],
+			"selectedRmClientList": [{
+				"id": "1",
+				"clientName": "11074113 - JP Morgan",
+				"clientId": "11074113",
+				"groupName": "Macsteel Groupqq33",
+				"groupId": "90003561",
+				"coverageLocations": ["1-FI","2-RE"]
+			}, {
+				"id": "2",
+				"clientName": "11074113 - JP Morgan",
+				"clientId": "11074113",
+				"groupName": "Macsteel Groupqq",
+				"groupId": "90003562",
+				"coverageLocations": ["1-FI","2-RE"]
+			}]
+		}]
+	}]
+
+}

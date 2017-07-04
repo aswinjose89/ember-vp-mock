@@ -1,0 +1,28 @@
+{
+    "processHistories": [
+        {
+            "eventId": "WB_26967",
+            "activityId": "A04R0",
+            "source": "BOWB",
+            "processStep": "MakeGA",
+            "status": null,
+            "stepOwner": "1444534",
+            "stepOwnerName": "Schmick, Ronald RM",
+            "startDate": "2014-05-21 00:51:28",
+            "endDate": null,
+            "auditTimestamp": "2014-05-21 00:51:28"
+        },
+        {
+            "eventId": "WB_11782",
+            "activityId": "A04R1",
+            "source": "BOWB",
+            "processStep": "RMInitiation",
+            "status": null,
+            "stepOwner": "1395762",
+            "stepOwnerName": "Adari, Bhargavi",
+            "startDate": "2014-05-21 00:51:28",
+            "endDate": null,
+            "auditTimestamp": "2014-05-21 00:51:28"
+        }
+    ]
+}

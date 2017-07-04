@@ -1,0 +1,152 @@
+{
+  "summary": {
+    "id": 123123123123123,
+    "chartData": {
+      "id": 123123123123123,
+      "series": [
+        {
+          "name": "Lead",
+          "data": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            6,
+            4,
+            17
+          ]
+        },
+        {
+          "name": "Qualified",
+          "data": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "name": "Converted",
+          "data": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            5,
+            0
+          ]
+        },
+        {
+          "name": "Disqualified",
+          "data": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            2,
+            0
+          ]
+        }
+      ],
+      "xaxis": [
+        "MAR-16",
+        "APR-16",
+        "MAY-16",
+        "JUN-16",
+        "JUL-16",
+        "AUG-16",
+        "SEP-16",
+        "OCT-16",
+        "NOV-16",
+        "DEC-16",
+        "JAN-17",
+        "FEB-17"
+      ]
+    },
+    "gridData": {
+      "totalRecords": 36,
+      "prospects": [
+        {
+          "id": 201612231001297028,
+          "prospectId": 201612231001297028,
+          "transactionId": "TXN20170331160304236825634916",
+          "crmId": "1009001068",
+          "prospectName": "2017 Feb Prospect 2 1301106 - Mirza,Sarmad 1301106 - Mirza,Sarmad 1301106 - Mirza,Sarmad",
+          "status": "0001",
+          "prospectSegment": "E",
+          "prospectSubSegment": "S2",
+          "prospectType": "0001",
+          "domicileCountry": "AF",
+          "isic": "9999",
+          "prospectSource": "0001",
+          "groupId": "",
+          "linkedGroup": "",
+          "groupSalesTurnOver": 100,
+          "legalConstitution": "0001",
+          "accountType": "BA",
+          "tbSegment": "",
+          "disqualifyReason": "",
+          "prospectOwner": "1301106 - Mirza,Sarmad J",
+          "referredBy": "001 - null",
+          "createdDate": "1487046239000",
+          "createdUser": "1511946 - Winters,William",
+          "lastUpdateUser": "1315354 - Weno,Caroline Theola",
+          "lastUpdatedDate": "1490947384000"
+        },
+        {
+          "id": 201703291001548300,
+          "prospectId": 201703291001548300,
+          "transactionId": "TXN20170329013258762892560228",
+          "crmId": "1009001579",
+          "prospectName": "Save New Design",
+          "status": "0001",
+          "prospectSegment": "S",
+          "prospectSubSegment": "K",
+          "prospectType": "0001",
+          "domicileCountry": "RA",
+          "isic": "8176",
+          "prospectSource": "0001",
+          "groupId": "",
+          "linkedGroup": "",
+          "groupSalesTurnOver": 456789,
+          "legalConstitution": "",
+          "accountType": "",
+          "tbSegment": "CIB",
+          "disqualifyReason": "",
+          "prospectOwner": "1001049 - Rees,Alun Michael Guest",
+          "referredBy": "",
+          "createdDate": "1490722378000",
+          "createdUser": "",
+          "lastUpdateUser": "",
+          "lastUpdatedDate": "1490722378000"
+        }
+      ],
+      "id": 20170316230155
+    }
+  }
+}

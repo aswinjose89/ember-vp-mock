@@ -1,0 +1,91 @@
+{
+    "task": {
+        "id": 546,
+        "clientExits": [{
+            "entityName": "Client Name",
+            "entityId": 123,
+            "id": 56,
+            "groupName": "Client",
+            "groupId": "91118799",
+            "region": "Asia",
+            "domicileCountry": "India",
+            "segment": "Global Corporate",
+            "segmentCode": "G",
+            "changeKey": "1110",
+            "uniqueKey": "1110",
+            "subSegment": "Metal Traders",
+            "subSegmentCode": "M",
+            "action": "REFERBACK",
+            "clientCount": 16
+        }],
+        "locationExits": [{
+            "entityName": "Location Exit",
+            "entityId": 123,
+            "id": 56,
+            "groupName": "LocationExit",
+            "groupId": "91118799",
+            "region": "Asia",
+            "domicileCountry": "India",
+            "segment": "Global Corporate",
+            "changeKey": "1110",
+            "uniqueKey": "1110",
+            "segmentCode": "G",
+            "subSegment": "Metal Traders",
+            "subSegmentCode": "M",
+            "action": null,
+            "clientCount": 16
+        }],
+        "accountExits": [{
+            "entityName": "tp accountExit",
+            "entityId": 123,
+            "id": 56,
+            "changeKey": "1110",
+            "uniqueKey": "1110",
+            "groupName": "tpAccountExit",
+            "groupId": "91118799",
+            "region": "Asia",
+            "domicileCountry": "India",
+            "segment": "Global Corporate",
+            "segmentCode": "G",
+            "subSegment": "Metal Traders",
+            "subSegmentCode": "M",
+            "action": "DECLINE",
+            "clientCount": 16
+        }],
+        "groupExits": [{
+            "id": 56,
+            "entityName": "JP Morgan Chase",
+            "entityId": "91118799",
+            "region": "Asia",
+            "domicileCountry": "India",
+            "segment": "Global Corporate",
+            "segmentCode": "G",
+            "subSegment": "Metal Traders",
+            "subSegmentCode": "M",
+            "checklist": "View",
+            "action": "APPROVE",
+            "clientCount": 16,
+            "changeKey": "1110",
+            "uniqueKey": "1110"
+        }],
+        "taskInfo": {
+            "id": "132",
+            "taskId": "1",
+            "activityId": "2",
+            "initiatedBy": "Tet",
+            "initiatedOn": "Date",
+            "declineTask": false,
+            "taskCompletedFlag": false,
+            "taskStatus": "XYZ",
+            "taskName": "Approval",
+            "assignedTo": "1325951"
+        },
+        "meta": {
+            "clientExitCount": 6,
+            "clientExitIds": ["1234", "3456"],
+            "locationExitCount": 2,
+            "accountExitCount": 3,
+            "groupExitCount": 0
+        }
+    }
+}

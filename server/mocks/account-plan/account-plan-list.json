@@ -1,0 +1,503 @@
+{
+    "account-plan-list": {
+        "id": "990001718",
+        "groupName": "990001718",
+        "checkForCreateFlag": false,
+        "entitlements": {
+            "id": "1511946990001718",
+            "coverage": {
+                "id": "9900017181511946",
+                "initiate": true,
+                "edit": true,
+                "view": true
+            },
+            "tbsales": {
+                "id": "20161234567877",
+                "initiate": false,
+                "edit": false,
+                "view": false
+            }
+        },
+        "coverageAccountPlans": {
+            "id": "20170107235420",
+            "groupTab": [{
+                "id": "20160301100418290",
+                "accountPlanName": "ABBOTT LABORATORIES_MAR_2016",
+                "apStatus": "Draft",
+                "isNewAccountPlan": false,
+                "apColor": "gray",
+                "moduleName": "Coverage",
+                "createdBy": "1150519-Barcelon,Josephine",
+                "createdDate": "01 Mar 2016",
+                "lastUpdatedBy": null,
+                "lastUpdatedDate": "29 Mar 2016",
+                "approvedBy": null,
+                "approvedDate": "29 Mar 2016",
+                "apfSection": {
+                    "id": "20170107235420745",
+                    "lastUpdatedDate": "29 Mar 2016",
+                    "apfSchedule": {
+                        "val": "Yes",
+                        "name": "Yes",
+                        "id": "20170107235420753",
+                        "idCode": null,
+                        "code": null,
+                        "shortDescription": null,
+                        "longDescription": null,
+                        "status": null,
+                        "appGroup": null,
+                        "displayOrder": null,
+                        "operation": null,
+                        "sequence": null,
+                        "categoryType": null,
+                        "description": null
+                    },
+                    "apfScheduleDate": 1458172800000,
+                    "apfCompletionDate": null,
+                    "apStatusObject": {
+                        "label": "Draft",
+                        "color": "gray"
+                    }
+                },
+                "taggedComments": null,
+                "showTaggedComments": null,
+                "showAPFSection": true
+            }, {
+                "id": "20160213100405661",
+                "accountPlanName": "ABBOTT LABORATORIES_MAR_2016",
+                "apStatus": "Approved",
+                "isNewAccountPlan": false,
+                "apColor": "green",
+                "moduleName": "Coverage",
+                "createdBy": "1150519-Barcelon,Josephine",
+                "createdDate": "13 Feb 2016",
+                "lastUpdatedBy": null,
+                "lastUpdatedDate": "01 Mar 2016",
+                "approvedBy": null,
+                "approvedDate": "01 Mar 2016",
+                "apfSection": {
+                    "id": "20170107235420763",
+                    "lastUpdatedDate": "01 Mar 2016",
+                    "apfSchedule": {
+                        "val": "Yes",
+                        "name": "Yes",
+                        "id": "20170107235420753",
+                        "idCode": null,
+                        "code": null,
+                        "shortDescription": null,
+                        "longDescription": null,
+                        "status": null,
+                        "appGroup": null,
+                        "displayOrder": null,
+                        "operation": null,
+                        "sequence": null,
+                        "categoryType": null,
+                        "description": null
+                    },
+                    "apfScheduleDate": 1458172800000,
+                    "apfCompletionDate": 1458172800000,
+                    "apStatusObject": {
+                        "label": "Approved",
+                        "color": "green"
+                    }
+                },
+                "taggedComments": null,
+                "showTaggedComments": null,
+                "showAPFSection": true
+            }, {
+                "id": "20150410100170742",
+                "accountPlanName": "ABBOTT LABORATORIES_APR_2015",
+                "apStatus": "Approved",
+                "isNewAccountPlan": false,
+                "apColor": "green",
+                "moduleName": "Coverage",
+                "createdBy": "1150519-Barcelon,Josephine",
+                "createdDate": "10 Apr 2015",
+                "lastUpdatedBy": "1460472-Kruse,Philip Michael",
+                "lastUpdatedDate": "15 Apr 2015",
+                "approvedBy": "1460472-Kruse,Philip Michael",
+                "approvedDate": "15 Apr 2015",
+                "apfSection": {
+                    "id": "20170107235420779",
+                    "lastUpdatedDate": "15 Apr 2015",
+                    "apfSchedule": null,
+                    "apfScheduleDate": null,
+                    "apfCompletionDate": null,
+                    "apStatusObject": {
+                        "label": "Approved",
+                        "color": "green"
+                    }
+                },
+                "taggedComments": null,
+                "showTaggedComments": null,
+                "showAPFSection": true
+            }, {
+                "id": "20160224100413370",
+                "accountPlanName": "ABBOTT LABORATORIES FEB 2016",
+                "apStatus": "Draft",
+                "isNewAccountPlan": false,
+                "apColor": "gray",
+                "moduleName": "TB Sales",
+                "createdBy": "1329118-Li,Jason",
+                "createdDate": "24 Feb 2016",
+                "lastUpdatedBy": "1329118-Li,Jason",
+                "lastUpdatedDate": "24 Feb 2016",
+                "approvedBy": "1329118-Li,Jason",
+                "approvedDate": "24 Feb 2016",
+                "apfSection": null,
+                "taggedComments": null,
+                "showTaggedComments": null,
+                "showAPFSection": false
+            }],
+            "subsidiariesTab": [{
+                "id": "20141118100076094",
+                "accountPlanName": "ABBOTT LABORATORIES (PHILIPPINES) NOV 2014",
+                "apStatus": "Approved",
+                "isNewAccountPlan": false,
+                "apColor": "green",
+                "moduleName": "TB Sales",
+                "createdBy": "1291009-Ulanova, Lydia",
+                "createdDate": "27 May 2015",
+                "lastUpdatedBy": "1291009-Ulanova, Lydia",
+                "lastUpdatedDate": "27 May 2015",
+                "approvedBy": "1291009-Ulanova, Lydia",
+                "approvedDate": "27 May 2015",
+                "apfSection": null,
+                "taggedComments": null,
+                "showTaggedComments": null,
+                "showAPFSection": false
+            }, {
+                "id": "20160120100390124",
+                "accountPlanName": "ABBOTT LABORATORIES (PHILIPPINES) JAN 2016",
+                "apStatus": "Draft",
+                "isNewAccountPlan": false,
+                "apColor": "gray",
+                "moduleName": "TB Sales",
+                "createdBy": "1138562-Reyes,Carol Arcangel",
+                "createdDate": "20 Jan 2016",
+                "lastUpdatedBy": "1138562-Reyes,Carol Arcangel",
+                "lastUpdatedDate": "20 Jan 2016",
+                "approvedBy": "1138562-Reyes,Carol Arcangel",
+                "approvedDate": "20 Jan 2016",
+                "apfSection": null,
+                "taggedComments": null,
+                "showTaggedComments": null,
+                "showAPFSection": false
+            }, {
+                "id": "20150424100186170",
+                "accountPlanName": "PT ABBOTT INDONESIA APR 2015",
+                "apStatus": "Approved",
+                "isNewAccountPlan": false,
+                "apColor": "green",
+                "moduleName": "TB Sales",
+                "createdBy": "1473854",
+                "createdDate": "23 Oct 2015",
+                "lastUpdatedBy": "1473854",
+                "lastUpdatedDate": "23 Oct 2015",
+                "approvedBy": "1473854",
+                "approvedDate": "23 Oct 2015",
+                "apfSection": null,
+                "taggedComments": null,
+                "showTaggedComments": null,
+                "showAPFSection": false
+            }],
+            "archiveTab": [{
+                "id": "20140515100058391",
+                "accountPlanName": "ABBOTT LABORATORIES_JUN_2014",
+                "apStatus": "Approved",
+                "isNewAccountPlan": false,
+                "apColor": "green",
+                "moduleName": "Coverage",
+                "createdBy": "1150519-Barcelon,Josephine",
+                "createdDate": "15 May 2014",
+                "lastUpdatedBy": "1157605-Goswamy,Rahul",
+                "lastUpdatedDate": "19 Jun 2014",
+                "approvedBy": "1157605-Goswamy,Rahul",
+                "approvedDate": "19 Jun 2014",
+                "apfSection": {
+                    "id": "20170107235420795",
+                    "lastUpdatedDate": "19 Jun 2014",
+                    "apfSchedule": null,
+                    "apfScheduleDate": null,
+                    "apfCompletionDate": null,
+                    "apStatusObject": {
+                        "label": "Approved",
+                        "color": "green"
+                    }
+                },
+                "taggedComments": null,
+                "showTaggedComments": null,
+                "showAPFSection": true
+            }, {
+                "id": "20131208100051651",
+                "accountPlanName": "ABBOTT LABORATORIES - Jul - 2013",
+                "apStatus": "Approved",
+                "isNewAccountPlan": false,
+                "apColor": "green",
+                "moduleName": "Coverage",
+                "createdBy": "WAPADM",
+                "createdDate": "08 Mar 2013",
+                "lastUpdatedBy": "WAPADM",
+                "lastUpdatedDate": "09 Jul 2013",
+                "approvedBy": "WAPADM",
+                "approvedDate": "09 Jul 2013",
+                "apfSection": {
+                    "id": "20170107235420812",
+                    "lastUpdatedDate": "09 Jul 2013",
+                    "apfSchedule": {
+                        "val": "No",
+                        "name": "No",
+                        "id": "20170107235420819",
+                        "idCode": null,
+                        "code": null,
+                        "shortDescription": null,
+                        "longDescription": null,
+                        "status": null,
+                        "appGroup": null,
+                        "displayOrder": null,
+                        "operation": null,
+                        "sequence": null,
+                        "categoryType": null,
+                        "description": null
+                    },
+                    "apfScheduleDate": 1364860800000,
+                    "apfCompletionDate": 1364860800000,
+                    "apStatusObject": {
+                        "label": "Approved",
+                        "color": "green"
+                    }
+                },
+                "taggedComments": null,
+                "showTaggedComments": null,
+                "showAPFSection": true
+            }, {
+                "id": "20131207100049590",
+                "accountPlanName": "ABBOTT LABORATORIES - Jul - 2012",
+                "apStatus": "Approved",
+                "isNewAccountPlan": false,
+                "apColor": "green",
+                "moduleName": "Coverage",
+                "createdBy": "WAPADM",
+                "createdDate": "05 Jul 2012",
+                "lastUpdatedBy": "WAPADM",
+                "lastUpdatedDate": "30 Jul 2012",
+                "approvedBy": "WAPADM",
+                "approvedDate": "30 Jul 2012",
+                "apfSection": {
+                    "id": "20170107235420830",
+                    "lastUpdatedDate": "30 Jul 2012",
+                    "apfSchedule": {
+                        "val": "No",
+                        "name": "No",
+                        "id": "20170107235420836",
+                        "idCode": null,
+                        "code": null,
+                        "shortDescription": null,
+                        "longDescription": null,
+                        "status": null,
+                        "appGroup": null,
+                        "displayOrder": null,
+                        "operation": null,
+                        "sequence": null,
+                        "categoryType": null,
+                        "description": null
+                    },
+                    "apfScheduleDate": null,
+                    "apfCompletionDate": null,
+                    "apStatusObject": {
+                        "label": "Approved",
+                        "color": "green"
+                    }
+                },
+                "taggedComments": null,
+                "showTaggedComments": null,
+                "showAPFSection": true
+            }, {
+                "id": "20131207100048854",
+                "accountPlanName": "ABBOTT LABORATORIES - May - 2012",
+                "apStatus": "Approved",
+                "isNewAccountPlan": false,
+                "apColor": "green",
+                "moduleName": "Coverage",
+                "createdBy": "WAPADM",
+                "createdDate": "07 Mar 2012",
+                "lastUpdatedBy": "WAPADM",
+                "lastUpdatedDate": "10 May 2012",
+                "approvedBy": "WAPADM",
+                "approvedDate": "10 May 2012",
+                "apfSection": {
+                    "id": "20170107235420847",
+                    "lastUpdatedDate": "10 May 2012",
+                    "apfSchedule": {
+                        "val": "No",
+                        "name": "No",
+                        "id": "20170107235420853",
+                        "idCode": null,
+                        "code": null,
+                        "shortDescription": null,
+                        "longDescription": null,
+                        "status": null,
+                        "appGroup": null,
+                        "displayOrder": null,
+                        "operation": null,
+                        "sequence": null,
+                        "categoryType": null,
+                        "description": null
+                    },
+                    "apfScheduleDate": null,
+                    "apfCompletionDate": null,
+                    "apStatusObject": {
+                        "label": "Approved",
+                        "color": "green"
+                    }
+                },
+                "taggedComments": null,
+                "showTaggedComments": null,
+                "showAPFSection": true
+            }, {
+                "id": "20131207100047667",
+                "accountPlanName": "ABBOTT LABORATORIES - Aug - 2011",
+                "apStatus": "Approved",
+                "isNewAccountPlan": false,
+                "apColor": "green",
+                "moduleName": "Coverage",
+                "createdBy": "WAPADM",
+                "createdDate": "22 Jul 2011",
+                "lastUpdatedBy": "WAPADM",
+                "lastUpdatedDate": "05 Aug 2011",
+                "approvedBy": "WAPADM",
+                "approvedDate": "05 Aug 2011",
+                "apfSection": {
+                    "id": "20170107235420862",
+                    "lastUpdatedDate": "05 Aug 2011",
+                    "apfSchedule": {
+                        "val": "No",
+                        "name": "No",
+                        "id": "20170107235420868",
+                        "idCode": null,
+                        "code": null,
+                        "shortDescription": null,
+                        "longDescription": null,
+                        "status": null,
+                        "appGroup": null,
+                        "displayOrder": null,
+                        "operation": null,
+                        "sequence": null,
+                        "categoryType": null,
+                        "description": null
+                    },
+                    "apfScheduleDate": null,
+                    "apfCompletionDate": null,
+                    "apStatusObject": {
+                        "label": "Approved",
+                        "color": "green"
+                    }
+                },
+                "taggedComments": null,
+                "showTaggedComments": null,
+                "showAPFSection": true
+            }, {
+                "id": "20131207100046862",
+                "accountPlanName": "ABBOTT LABORATORIES - Apr - 2011",
+                "apStatus": "Approved",
+                "isNewAccountPlan": false,
+                "apColor": "green",
+                "moduleName": "Coverage",
+                "createdBy": "WAPADM",
+                "createdDate": "02 Mar 2011",
+                "lastUpdatedBy": "WAPADM",
+                "lastUpdatedDate": "08 Apr 2011",
+                "approvedBy": "WAPADM",
+                "approvedDate": "08 Apr 2011",
+                "apfSection": {
+                    "id": "20170107235420878",
+                    "lastUpdatedDate": "08 Apr 2011",
+                    "apfSchedule": {
+                        "val": "No",
+                        "name": "No",
+                        "id": "20170107235420885",
+                        "idCode": null,
+                        "code": null,
+                        "shortDescription": null,
+                        "longDescription": null,
+                        "status": null,
+                        "appGroup": null,
+                        "displayOrder": null,
+                        "operation": null,
+                        "sequence": null,
+                        "categoryType": null,
+                        "description": null
+                    },
+                    "apfScheduleDate": 1299715200000,
+                    "apfCompletionDate": 1299715200000,
+                    "apStatusObject": {
+                        "label": "Approved",
+                        "color": "green"
+                    }
+                },
+                "taggedComments": null,
+                "showTaggedComments": null,
+                "showAPFSection": true
+            }, {
+                "id": "20131207100049327",
+                "accountPlanName": "ABBOTT LABORATORIES - Jun - 2012",
+                "apStatus": "Approved",
+                "isNewAccountPlan": false,
+                "apColor": "green",
+                "moduleName": "Coverage",
+                "createdBy": "WAPADM",
+                "createdDate": "16 Jun 2012",
+                "lastUpdatedBy": "WAPADM",
+                "lastUpdatedDate": "26 Jun 2012",
+                "approvedBy": "WAPADM",
+                "approvedDate": "26 Jun 2012",
+                "apfSection": {
+                    "id": "20170107235420895",
+                    "lastUpdatedDate": "26 Jun 2012",
+                    "apfSchedule": {
+                        "val": "No",
+                        "name": "No",
+                        "id": "20170107235420901",
+                        "idCode": null,
+                        "code": null,
+                        "shortDescription": null,
+                        "longDescription": null,
+                        "status": null,
+                        "appGroup": null,
+                        "displayOrder": null,
+                        "operation": null,
+                        "sequence": null,
+                        "categoryType": null,
+                        "description": null
+                    },
+                    "apfScheduleDate": null,
+                    "apfCompletionDate": null,
+                    "apStatusObject": {
+                        "label": "Approved",
+                        "color": "green"
+                    }
+                },
+                "taggedComments": null,
+                "showTaggedComments": null,
+                "showAPFSection": true
+            }, {
+                "id": "20150303100114146",
+                "accountPlanName": "ABBOTT LABORATORIES MAR 2015",
+                "apStatus": "Approved",
+                "isNewAccountPlan": false,
+                "apColor": "green",
+                "moduleName": "TB Sales",
+                "createdBy": "1368533-Test TB 1",
+                "createdDate": "05 May 2015",
+                "lastUpdatedBy": "1368533-Test TB 1",
+                "lastUpdatedDate": "05 May 2015",
+                "approvedBy": "1368533-Test TB 1",
+                "approvedDate": "05 May 2015",
+                "apfSection": null,
+                "taggedComments": null,
+                "showTaggedComments": null,
+                "showAPFSection": false
+            }]
+        }
+    }
+}

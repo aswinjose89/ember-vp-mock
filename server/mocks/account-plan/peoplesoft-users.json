@@ -1,0 +1,17 @@
+{
+	"peoplesoft-users": [{
+		"psId": "1183018",
+		"firstName": "Tan",
+		"lastName": "Boon Hwa",
+		"email": "Tan.Boon-Hwa@sc.com",
+		"operation": null,
+		"displayName": "1183018 - Tan,Boon Hwa"
+	}, {
+		"psId": "1183131",
+		"firstName": "Wong",
+		"lastName": "Kenny Soon Kwan",
+		"email": "Kenny-Soon-Kwan.Wong@sc.com",
+		"operation": null,
+		"displayName": "1183131 - Wong, Kenny Soon Kwan"
+	}]
+}

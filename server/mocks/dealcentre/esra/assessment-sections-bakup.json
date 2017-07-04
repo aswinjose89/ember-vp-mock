@@ -1,0 +1,780 @@
+{
+  "fsButtons": [
+    {
+      "action": null,
+      "btnType": "SUBMIT",
+      "cssClass": null,
+      "disabled": false,
+      "errorMsg": null,
+      "id": "assessment_0",
+      "message": null,
+      "successMsg": null,
+      "text": "Submit",
+      "visible": true
+    }
+  ],
+  "fsFields": [
+    {
+      "commentCount": 0,
+      "commentable": false,
+      "dataType": "text",
+      "disable": null,
+      "error": null,
+      "fieldAttributes": {
+        "customConfig": "",
+        "componentName": "rdm-client-type-search",
+        "dataEnrichType": "",
+        "listOptions": null
+      },
+      "fsValidations": {
+        "maxLength": ""
+      },
+      "helpText": "",
+      "id": "assessment_0_0",
+      "isOpa": true,
+      "label": "Does the transaction fall into one of the following categories?",
+      "mandatory": true,
+      "name": "in_transaction_categories",
+      "opaObject": null,
+      "readOnly": false,
+      "refreshOnChange": true,
+      "type": "wb-dropdown",
+      "uncertain": false,
+      "value": "03",
+      "visible": true
+    },
+    {
+      "commentCount": 0,
+      "commentable": false,
+      "dataType": "containment_relationship",
+      "disable": null,
+      "error": null,
+      "fieldAttributes": {
+        "customConfig": "{\"risk-field\":true}",
+        "componentName": "cdd-isic-code",
+        "customAction": "refresh_recommend_risk",
+        "dataEnrichType": ""
+      },
+      "fsValidations": {
+        "maxLength": ""
+      },
+      "helpText": null,
+      "id": "assessment_0_1",
+      "isOpa": true,
+      "label": "Under which Sector is the Project / Asset falls into?",
+      "mandatory": false,
+      "name": null,
+      "opaObject": {
+        "type": "containment_relationship",
+        "dataType": "containment_relationship",
+        "isVisible": true,
+        "properties": [
+          {
+            "key": "max_length",
+            "text": ""
+          },
+          {
+            "key": "data_enrich_type",
+            "text": ""
+          },
+          {
+            "key": "events",
+            "text": "on_change:refresh_recommend_risk"
+          },
+          {
+            "key": "component_name",
+            "text": "cdd-isic-code"
+          },
+          {
+            "key": "custom_config",
+            "text": "{\"risk-field\":true}"
+          },
+          {
+            "key": "caption",
+            "text": "Additional ISIC Code"
+          },
+          {
+            "key": "section",
+            "text": "False"
+          },
+          {
+            "key": "tooltip_text",
+            "text": ""
+          },
+          {
+            "key": "copy_from_opa",
+            "text": "False"
+          },
+          {
+            "key": "mandatory_indicator",
+            "text": "False"
+          },
+          {
+            "key": "filter_by",
+            "text": ""
+          },
+          {
+            "key": "multi_selection_list",
+            "text": ""
+          },
+          {
+            "key": "display_style",
+            "text": "multiselect"
+          },
+          {
+            "key": "hidden",
+            "text": "False"
+          },
+          {
+            "key": "is_commentable",
+            "text": "True"
+          },
+          {
+            "key": "section_layout",
+            "text": ""
+          },
+          {
+            "key": "data_enrich",
+            "text": "False"
+          },
+          {
+            "key": "text_colour_map",
+            "text": ""
+          }
+        ],
+        "relationshipId": "client_ISICs",
+        "sourceEntityId": "global",
+        "sourceInstanceId": "global",
+        "targetEntityId": "client_ISIC",
+        "relationshipType": "OneToMany",
+        "entityInstances": [
+          {
+            "entityId": "client_ISIC",
+            "instanceId": "298fce7b-7f60-4cfc-ae49-30e1c6e742d9",
+            "isVisible": true,
+            "properties": [
+              {
+                "key": "max_length",
+                "text": ""
+              },
+              {
+                "key": "data_enrich_type",
+                "text": ""
+              },
+              {
+                "key": "events",
+                "text": "on_change:refresh_recommend_risk"
+              },
+              {
+                "key": "component_name",
+                "text": "cdd-isic-code"
+              },
+              {
+                "key": "custom_config",
+                "text": "{\"risk-field\":true}"
+              },
+              {
+                "key": "caption",
+                "text": "Additional ISIC Code"
+              },
+              {
+                "key": "section",
+                "text": "False"
+              },
+              {
+                "key": "tooltip_text",
+                "text": ""
+              },
+              {
+                "key": "copy_from_opa",
+                "text": "False"
+              },
+              {
+                "key": "mandatory_indicator",
+                "text": "False"
+              },
+              {
+                "key": "filter_by",
+                "text": ""
+              },
+              {
+                "key": "multi_selection_list",
+                "text": ""
+              },
+              {
+                "key": "display_style",
+                "text": "multiselect"
+              },
+              {
+                "key": "hidden",
+                "text": "False"
+              },
+              {
+                "key": "is_commentable",
+                "text": "True"
+              },
+              {
+                "key": "section_layout",
+                "text": ""
+              },
+              {
+                "key": "data_enrich",
+                "text": "False"
+              },
+              {
+                "key": "text_colour_map",
+                "text": ""
+              }
+            ],
+            "entityControlList": [
+              {
+                "type": "screen_control",
+                "publicName": "in_project_sector",
+                "caption": "Additional ISIC Code",
+                "selectionStyle": "Dropdown",
+                "dataType": "text",
+                "currentValue": "9392",
+                "required": false,
+                "isVisible": true,
+                "isReadOnly": false,
+                "invalidValueChange": [],
+                "properties": [
+                  {
+                    "key": "max_length",
+                    "text": ""
+                  },
+                  {
+                    "key": "data_enrich_type",
+                    "text": ""
+                  },
+                  {
+                    "key": "events",
+                    "text": ""
+                  },
+                  {
+                    "key": "component_name",
+                    "text": "rdm-isic-code-search"
+                  },
+                  {
+                    "key": "custom_config",
+                    "text": ""
+                  },
+                  {
+                    "key": "caption",
+                    "text": ""
+                  },
+                  {
+                    "key": "section",
+                    "text": "False"
+                  },
+                  {
+                    "key": "tooltip_text",
+                    "text": ""
+                  },
+                  {
+                    "key": "copy_from_opa",
+                    "text": "False"
+                  },
+                  {
+                    "key": "mandatory_indicator",
+                    "text": "False"
+                  },
+                  {
+                    "key": "filter_by",
+                    "text": ""
+                  },
+                  {
+                    "key": "multi_selection_list",
+                    "text": ""
+                  },
+                  {
+                    "key": "display_style",
+                    "text": ""
+                  },
+                  {
+                    "key": "hidden",
+                    "text": "False"
+                  },
+                  {
+                    "key": "is_commentable",
+                    "text": "True"
+                  },
+                  {
+                    "key": "section_layout",
+                    "text": ""
+                  },
+                  {
+                    "key": "data_enrich",
+                    "text": "False"
+                  },
+                  {
+                    "key": "text_colour_map",
+                    "text": ""
+                  }
+                ],
+                "uncertain": false
+              }
+            ]
+          },
+          {
+            "entityId": "client_ISIC",
+            "instanceId": "6136f7a3-5179-4fcc-b1e4-754a3f089ad7",
+            "isVisible": true,
+            "properties": [
+              {
+                "key": "max_length",
+                "text": ""
+              },
+              {
+                "key": "data_enrich_type",
+                "text": ""
+              },
+              {
+                "key": "events",
+                "text": "on_change:refresh_recommend_risk"
+              },
+              {
+                "key": "component_name",
+                "text": "cdd-isic-code"
+              },
+              {
+                "key": "custom_config",
+                "text": "{\"risk-field\":true}"
+              },
+              {
+                "key": "caption",
+                "text": "Additional ISIC Code"
+              },
+              {
+                "key": "section",
+                "text": "False"
+              },
+              {
+                "key": "tooltip_text",
+                "text": ""
+              },
+              {
+                "key": "copy_from_opa",
+                "text": "False"
+              },
+              {
+                "key": "mandatory_indicator",
+                "text": "False"
+              },
+              {
+                "key": "filter_by",
+                "text": ""
+              },
+              {
+                "key": "multi_selection_list",
+                "text": ""
+              },
+              {
+                "key": "display_style",
+                "text": "multiselect"
+              },
+              {
+                "key": "hidden",
+                "text": "False"
+              },
+              {
+                "key": "is_commentable",
+                "text": "True"
+              },
+              {
+                "key": "section_layout",
+                "text": ""
+              },
+              {
+                "key": "data_enrich",
+                "text": "False"
+              },
+              {
+                "key": "text_colour_map",
+                "text": ""
+              }
+            ],
+            "entityControlList": [
+              {
+                "type": "screen_control",
+                "publicName": "in_project_sector",
+                "caption": "Additional ISIC Code",
+                "selectionStyle": "Dropdown",
+                "dataType": "text",
+                "currentValue": "9445",
+                "required": false,
+                "isVisible": true,
+                "isReadOnly": false,
+                "invalidValueChange": [],
+                "properties": [
+                  {
+                    "key": "max_length",
+                    "text": ""
+                  },
+                  {
+                    "key": "data_enrich_type",
+                    "text": ""
+                  },
+                  {
+                    "key": "events",
+                    "text": ""
+                  },
+                  {
+                    "key": "component_name",
+                    "text": "rdm-isic-code-search"
+                  },
+                  {
+                    "key": "custom_config",
+                    "text": ""
+                  },
+                  {
+                    "key": "caption",
+                    "text": ""
+                  },
+                  {
+                    "key": "section",
+                    "text": "False"
+                  },
+                  {
+                    "key": "tooltip_text",
+                    "text": ""
+                  },
+                  {
+                    "key": "copy_from_opa",
+                    "text": "False"
+                  },
+                  {
+                    "key": "mandatory_indicator",
+                    "text": "False"
+                  },
+                  {
+                    "key": "filter_by",
+                    "text": ""
+                  },
+                  {
+                    "key": "multi_selection_list",
+                    "text": ""
+                  },
+                  {
+                    "key": "display_style",
+                    "text": ""
+                  },
+                  {
+                    "key": "hidden",
+                    "text": "False"
+                  },
+                  {
+                    "key": "is_commentable",
+                    "text": "True"
+                  },
+                  {
+                    "key": "section_layout",
+                    "text": ""
+                  },
+                  {
+                    "key": "data_enrich",
+                    "text": "False"
+                  },
+                  {
+                    "key": "text_colour_map",
+                    "text": ""
+                  }
+                ],
+                "uncertain": false
+              }
+            ]
+          }
+        ],
+        "uncertain": false
+      },
+      "readOnly": false,
+      "refreshOnChange": false,
+      "type": "wb-multi-select-dropdown",
+      "uncertain": false,
+      "value": [
+        {
+          "in_project_sector": {
+            "id": "298fce7b-7f60-4cfc-ae49-30e1c6e742d9",
+            "value": "9392"
+          }
+        },
+        {
+          "in_project_sector": {
+            "id": "6136f7a3-5179-4fcc-b1e4-754a3f089ad7",
+            "value": "9445"
+          }
+        }
+      ],
+      "visible": true
+    },
+    {
+      "commentCount": 0,
+      "commentable": false,
+      "dataType": "text",
+      "disable": null,
+      "error": null,
+      "fieldAttributes": {
+        "componentName": "rdm-country-search",
+        "dataEnrichType": "",
+        "listOptions": null
+      },
+      "fsValidations": {
+        "maxLength": ""
+      },
+      "helpText": null,
+      "id": "assessment_0_2",
+      "isOpa": true,
+      "label": "Which Country is the Project / Asset located in?",
+      "mandatory": false,
+      "name": "in_project_country",
+      "opaObject": null,
+      "readOnly": false,
+      "refreshOnChange": false,
+      "type": "wb-dropdown",
+      "uncertain": false,
+      "value": null,
+      "visible": true
+    },
+    {
+      "commentCount": 0,
+      "commentable": false,
+      "dataType": "boolean",
+      "disable": null,
+      "error": null,
+      "fieldAttributes": {},
+      "fsValidations": {
+        "maxLength": ""
+      },
+      "helpText": null,
+      "id": "assessment_0_3",
+      "isOpa": true,
+      "label": "Will the Project be developed in accordance with the IFC Performance Standards, IFC General EHS Guidelines and as applicable IFC industry Sectory Guidelines?",
+      "mandatory": false,
+      "name": "in_project_guidelines",
+      "opaObject": null,
+      "readOnly": false,
+      "refreshOnChange": false,
+      "type": "wb-radio",
+      "uncertain": false,
+      "value": null,
+      "visible": true
+    },
+    {
+      "commentCount": 0,
+      "commentable": false,
+      "dataType": "text",
+      "disable": null,
+      "error": null,
+      "fieldAttributes": {
+        "componentName": "rdm-country-search",
+        "dataEnrichType": "",
+        "listOptions": null
+      },
+      "fsValidations": {
+        "maxLength": ""
+      },
+      "helpText": null,
+      "id": "assessment_0_4",
+      "isOpa": true,
+      "label": "Can it be demonstrated that the biofuels produced by the Project or Asset result in a net lifecycle (cultivation, production and utitlisation) reduction in greenhouse gas emissions of at least 35%?",
+      "mandatory": false,
+      "name": "in_biofuel_demo",
+      "opaObject": null,
+      "readOnly": false,
+      "refreshOnChange": false,
+      "type": "wb-dropdown",
+      "uncertain": false,
+      "value": null,
+      "visible": true
+    },
+    {
+      "commentCount": 0,
+      "commentable": false,
+      "dataType": "boolean",
+      "disable": null,
+      "error": null,
+      "fieldAttributes": {},
+      "fsValidations": {
+        "maxLength": ""
+      },
+      "helpText": null,
+      "id": "assessment_0_5",
+      "isOpa": true,
+      "label": "Is there any evidence of difficulties with food supplies in the vicinity of the Project / Assets?",
+      "mandatory": false,
+      "name": "in_project_diffclty_evidence",
+      "opaObject": null,
+      "readOnly": false,
+      "refreshOnChange": false,
+      "type": "wb-radio",
+      "uncertain": false,
+      "value": null,
+      "visible": true
+    }
+  ],
+  "fsForm": {
+    "autoSave": false,
+    "commentCount": 0,
+    "disable": null,
+    "errors": [],
+    "fsHeader": {
+      "consumerPayload": {
+        "sessionId": "1eead0cc-3558-4bd2-b702-3aaa618199f3",
+        "rulebaseName": "ESRA",
+        "rulebaseVersion": "1.1",
+        "userId": "77777777",
+        "module": "ECDD"
+      },
+      "id": "-1"
+    },
+    "fsPages": [
+      "assessment"
+    ],
+    "fsProperties": [
+      
+    ],
+    "id": "assessment",
+    "isOpa": true,
+    "label": "Assessment",
+    "message": {
+      "level": "info",
+      "message": null
+    },
+    "messageData": {},
+    "readOnly": null,
+    "redirectToPage": "",
+    "showValidations": true,
+    "unauthorized": false,
+    "visible": true
+  },
+  "fsPages": [
+    {
+      "commentCount": 0,
+      "commentable": false,
+      "disable": null,
+      "errors": [],
+      "fsButtons": [
+        "assessment_0"
+      ],
+      "fsHeader": {
+        "consumerPayload": {
+          "sessionId": "1eead0cc-3558-4bd2-b702-3aaa618199f3",
+          "rulebaseName": "ESRA",
+          "rulebaseVersion": "1.1",
+          "userId": "77777777",
+          "module": "ECDD"
+        },
+        "id": "-1"
+      },
+      "fsProperties": [
+        {
+          "key": "tooltip_text",
+          "text": ""
+        },
+        {
+          "key": "refresh_reference_data",
+          "text": "False"
+        },
+        {
+          "key": "is_commentable",
+          "text": "True"
+        },
+        {
+          "key": "page_layout",
+          "text": "VERTICAL"
+        },
+        {
+          "key": "page_route",
+          "text": "assessment"
+        },
+        {
+          "key": "refresh_recommend_risk",
+          "text": "False"
+        }
+      ],
+      "fsSections": [
+        "assessment_0",
+        "assessment_1",
+        "assessment_2"
+      ],
+      "hasErrors": false,
+      "id": "assessment",
+      "isOpa": true,
+      "isPageLoaded": true,
+      "label": "Environmental and Social Risk Assessment",
+      "layout": "vertical",
+      "pageId": "qs$scr_assessment_1$global$global",
+      "readOnly": false,
+      "transition": null,
+      "visible": true
+    }
+  ],
+  "fsSections": [
+    {
+      "commentCount": 0,
+      "disable": null,
+      "fsFields": [
+        "assessment_0_0",
+        "assessment_0_1",
+        "assessment_0_2",
+        "assessment_0_3",
+        "assessment_0_4",
+        "assessment_0_5"
+      ],
+      "fsAccordionFields":[
+        {
+          "label": "Title 1",
+          "fsFields": [
+            "assessment_0_2",
+            "assessment_0_3"
+          ]
+        },
+        {
+          "label": "Title 2",
+          "fsFields": [
+            "assessment_0_4",
+            "assessment_0_5"
+          ]
+        }
+      ],
+      "id": "assessment_0",
+      "isOpa": true,
+      "label": "",
+      "layout": "vertical",
+      "readOnly": null,
+      "visible": true
+    },
+    {
+      "commentCount": 0,
+      "disable": null,
+      "fsFields": [
+        "assessment_0_2",
+        "assessment_0_3"
+      ],
+      "id": "assessment_1",
+      "isOpa": true,
+      "isCollapsible": true,
+      "collapsed": true,
+      "label": "Agriculture",
+      "layout": "vertical",
+      "readOnly": null,
+      "visible": true
+    },
+    {
+      "commentCount": 0,
+      "disable": null,
+      "fsFields": [
+        "assessment_0_4",
+        "assessment_0_5"
+      ],
+      "id": "assessment_2",
+      "isOpa": true,
+      "isCollapsible": true,
+      "collapsed": false,
+      "label": "Biofuels",
+      "layout": "vertical",
+      "readOnly": null,
+      "visible": true
+    }
+  ]
+}

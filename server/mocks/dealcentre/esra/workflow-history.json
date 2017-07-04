@@ -1,0 +1,34 @@
+{
+    "workflowHistory": {
+        "id": "151426",
+        "workflowDetail": [
+            {
+                "id": 11231312321,
+                "updatedBy": "JOSESPH STEVENSON",
+                "action": "0001",
+                "beforeStatus": "0002",
+                "afterStatus": "0003",
+                "comments": "United Nations, fellow citizenry inspire social change catalyze challenges..",
+                "updatedOn": 1492183057556
+            },
+            {
+                "id": 34324234232,
+                "updatedBy": "JEAN-PIERRE BENICHOU",
+                "action": "0004",
+                "beforeStatus": "0002",
+                "afterStatus": "0003",
+                "comments": "Deal Checklist submitted for review",
+                "updatedOn": 1492183057556
+            },
+            {
+                "id": 34324234233,
+                "updatedBy": "JEAN-PIERRE BENICHOU",
+                "action": "0000",
+                "beforeStatus": "0002",
+                "afterStatus": "0003",
+                "comments": "Deal Checklist submitted for review",
+                "updatedOn": 1492183057556
+            }
+        ]
+    }
+}

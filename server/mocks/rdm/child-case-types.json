@@ -1,0 +1,16 @@
+{
+  "childCaseTypes": [
+    {
+      "code": "BBA",
+      "description": "BBA"
+    },
+    {
+      "code": "GIC",
+      "description": "GIC"
+    },
+    {
+      "code": "GA",
+      "description": "GA"
+    }
+  ]
+}

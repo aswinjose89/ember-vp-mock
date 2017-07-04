@@ -1,0 +1,84 @@
+{
+   "detail":{
+      "prospectId":null,
+      "status":null,
+      "transactionId":null,
+      "entitlement":null,
+      "prospectName":null,
+      "leId":null,
+      "prospectType":null,
+      "domicileCountry":null,
+      "linkedGroup":null,
+      "prospectSegment":null,
+      "prospectSubSegment":null,
+      "isic":null,
+      "prospectSource":null,
+      "legalConstitution":null,
+      "accountType":null,
+      "industry":null,
+      "tbSegment":null,
+      "referredBy":null,
+      "groupSalesTurnOver":null,
+      "lastUpdateUser":null,
+      "lastUpdatedDate":null,
+      "cddId":null,
+      "groupId":null,
+      "prospectOwner":null,
+      "crmId":null,
+      "isReFI":false,
+      "isReFGO":false,
+      "isNaturalPersons":false,
+      "isPIV":false,
+      "isBizBoundaries":false,
+      "recordType":null,
+      "groupName":null,
+      "createdBy":null,
+      "createdDate":null,
+      "warningMessage":null,
+      "showWarning":false,
+      "isDuplicate":false,
+      "teamDetails":[
+
+      ],
+      "notes":[
+
+      ],
+      "actions":[
+
+      ],
+      "duplicateList":[
+
+      ],
+      "duplicateLists": [{
+            "id": "20141113100523005",
+            "prospectName": "Testteam123",
+            "domicileCountry": "EE",
+            "prospectSegment": "N",
+            "prospectSubSegment": "P9",
+            "recordType": "PROSPECT",
+            "groupName": "ADIDAS GROUP",
+            "createdBy": "1235980 - Chen,Christina Yan",
+            "createdDate": "2014-11-13 14:47:34.668"
+        }, {
+            "id": "20141007100242787",
+            "prospectName": "TestProspectOct13th",
+            "domicileCountry": "EE",
+            "prospectSegment": "N",
+            "prospectSubSegment": "N2",
+            "recordType": "PROSPECT",
+            "groupName": "ACER GROUP",
+            "createdBy": "1297014 - Wallace,Sean Robert",
+            "createdDate": "2014-10-07 19:33:14.801"
+        }, {
+            "id": "20141126100623192",
+            "prospectName": "Testsubgrp",
+            "domicileCountry": "EE",
+            "prospectSegment": "N",
+            "prospectSubSegment": "P3",
+            "recordType": "PROSPECT",
+            "groupName": "ADIDAS GROUP",
+            "createdDate": "2016-12-28 16:03:11.84"
+        }],
+        "isDuplicate": true
+   }
+}

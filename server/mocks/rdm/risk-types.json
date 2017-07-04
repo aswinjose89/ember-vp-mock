@@ -1,0 +1,16 @@
+{
+  "riskTypes": [
+    {
+      "code": "H",
+      "description": "HIGH"
+    },
+    {
+      "code": "L",
+      "description": "LOW"
+    },
+    {
+      "code": "M",
+      "description": "MEDIUM"
+    }
+  ]
+}

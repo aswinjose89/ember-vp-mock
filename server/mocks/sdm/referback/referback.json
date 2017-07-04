@@ -1,0 +1,587 @@
+{
+    "task/referback/referback": {
+        "id": "9022aed0-0091-4d1c-9cb8-465cdcade3e3",
+        "initBy": {
+            "empCode": null,
+            "empPsId": "1297819",
+            "empName": "Monteiro, Parag",
+            "id": "6a37d603-a44e-4406-a95c-2c34d66e9204",
+            "empBookingLocation": null,
+            "empRole": "--1297819",
+            "valueAsString": "||1297819||Monteiro, Parag"
+        },
+        "initOn": 1484582400000,
+        "task": [
+            {
+                "id": "1",
+                "entityId": "11000600",
+                "entityName": "L NAME 11000600",
+                "entityType": "CLIENT",
+                "entityRegion": "ASEAN",
+                "entityDomcileCountry": "SG",
+                "entitySegment": "Global Corporate",
+                "entitySubSegment": "Network Clients",
+                "taskId": "WB_3549",
+                "actionType": "ADD",
+                "role": "RAM",
+                "existingValue": null,
+                "newValue": {
+                    "empCode": "A2201",
+                    "empPsId": "1002343",
+                    "empName": "KAREN RAM",
+                    "id": "d4097030-1bcc-4e64-9f00-1256c1a9cb91",
+                    "empBookingLocation": "DE/SCBL",
+                    "empRole": "DE/SCBL-A2201-1002343",
+                    "valueAsString": "DE/SCBL||A2201||1002343||KAREN RAM"
+                },
+                "sciChange": [
+                    {
+                        "id": "RAM0000000251-11000600-RAM-114",
+                        "sciKey": "RAM0000000251-11000600-RAM-114",
+                        "coverageLocation": "MV",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000600-RAM-239",
+                        "sciKey": "RAM0000000251-11000600-RAM-239",
+                        "coverageLocation": "NP",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000600-RAM-240",
+                        "sciKey": "RAM0000000251-11000600-RAM-240",
+                        "coverageLocation": "LK",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000600-RAM-241",
+                        "sciKey": "RAM0000000251-11000600-RAM-241",
+                        "coverageLocation": "BD",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000600-RAM-314",
+                        "sciKey": "RAM0000000251-11000600-RAM-314",
+                        "coverageLocation": "KR",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000600-RAM-374",
+                        "sciKey": "RAM0000000251-11000600-RAM-374",
+                        "coverageLocation": "KP",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000600-RAM-375",
+                        "sciKey": "RAM0000000251-11000600-RAM-375",
+                        "coverageLocation": "IN",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000600-RAM-376",
+                        "sciKey": "RAM0000000251-11000600-RAM-376",
+                        "coverageLocation": "BT",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000600-RAM-503",
+                        "sciKey": "RAM0000000251-11000600-RAM-503",
+                        "coverageLocation": "YE",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000600-RAM-504",
+                        "sciKey": "RAM0000000251-11000600-RAM-504",
+                        "coverageLocation": "JP",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    }
+                ],
+                "partial": true
+            },
+            {
+                "id": "2",
+                "entityId": "11000295",
+                "entityName": "L NAME 11000295",
+                "entityType": "CLIENT",
+                "entityRegion": "ASEAN",
+                "entityDomcileCountry": "SG",
+                "entitySegment": "Global Corporate",
+                "entitySubSegment": "Network Clients",
+                "taskId": "WB_3549",
+                "actionType": "ADD",
+                "role": "RAM",
+                "existingValue": null,
+                "newValue": {
+                    "empCode": "A2201",
+                    "empPsId": "1002343",
+                    "empName": "KAREN RAM",
+                    "id": "6ddcf77f-c45b-4f6f-931e-5195cf55a40e",
+                    "empBookingLocation": "DE/SCBL",
+                    "empRole": "DE/SCBL-A2201-1002343",
+                    "valueAsString": "DE/SCBL||A2201||1002343||KAREN RAM"
+                },
+                "sciChange": [
+                    {
+                        "id": "RAM0000000251-11000295-RAM-132",
+                        "sciKey": "RAM0000000251-11000295-RAM-132",
+                        "coverageLocation": "NP",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000295-RAM-322",
+                        "sciKey": "RAM0000000251-11000295-RAM-322",
+                        "coverageLocation": "MV",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000295-RAM-323",
+                        "sciKey": "RAM0000000251-11000295-RAM-323",
+                        "coverageLocation": "JP",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000295-RAM-388",
+                        "sciKey": "RAM0000000251-11000295-RAM-388",
+                        "coverageLocation": "LK",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000295-RAM-389",
+                        "sciKey": "RAM0000000251-11000295-RAM-389",
+                        "coverageLocation": "BT",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000295-RAM-453",
+                        "sciKey": "RAM0000000251-11000295-RAM-453",
+                        "coverageLocation": "IN",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000295-RAM-519",
+                        "sciKey": "RAM0000000251-11000295-RAM-519",
+                        "coverageLocation": "YE",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000295-RAM-61",
+                        "sciKey": "RAM0000000251-11000295-RAM-61",
+                        "coverageLocation": "KR",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000295-RAM-62",
+                        "sciKey": "RAM0000000251-11000295-RAM-62",
+                        "coverageLocation": "KP",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000295-RAM-63",
+                        "sciKey": "RAM0000000251-11000295-RAM-63",
+                        "coverageLocation": "BD",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    }
+                ],
+                "partial": true
+            },
+            {
+                "id": "3",
+                "entityId": "11000777",
+                "entityName": "L NAME 11000777",
+                "entityType": "CLIENT",
+                "entityRegion": "ASEAN",
+                "entityDomcileCountry": "SG",
+                "entitySegment": "Global Corporate",
+                "entitySubSegment": "Network Clients",
+                "taskId": "WB_3549",
+                "actionType": "ADD",
+                "role": "RAM",
+                "existingValue": null,
+                "newValue": {
+                    "empCode": "A2201",
+                    "empPsId": "1002343",
+                    "empName": "KAREN RAM",
+                    "id": "b0c827aa-f507-4456-b28b-3e9817c9d6c1",
+                    "empBookingLocation": "DE/SCBL",
+                    "empRole": "DE/SCBL-A2201-1002343",
+                    "valueAsString": "DE/SCBL||A2201||1002343||KAREN RAM"
+                },
+                "sciChange": [
+                    {
+                        "id": "RAM0000000251-11000777-RAM-158",
+                        "sciKey": "RAM0000000251-11000777-RAM-158",
+                        "coverageLocation": "LK",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000777-RAM-159",
+                        "sciKey": "RAM0000000251-11000777-RAM-159",
+                        "coverageLocation": "IN",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000777-RAM-28",
+                        "sciKey": "RAM0000000251-11000777-RAM-28",
+                        "coverageLocation": "NP",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000777-RAM-291",
+                        "sciKey": "RAM0000000251-11000777-RAM-291",
+                        "coverageLocation": "MV",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000777-RAM-292",
+                        "sciKey": "RAM0000000251-11000777-RAM-292",
+                        "coverageLocation": "KP",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000777-RAM-437",
+                        "sciKey": "RAM0000000251-11000777-RAM-437",
+                        "coverageLocation": "JP",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000777-RAM-492",
+                        "sciKey": "RAM0000000251-11000777-RAM-492",
+                        "coverageLocation": "YE",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000777-RAM-493",
+                        "sciKey": "RAM0000000251-11000777-RAM-493",
+                        "coverageLocation": "BT",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000777-RAM-97",
+                        "sciKey": "RAM0000000251-11000777-RAM-97",
+                        "coverageLocation": "KR",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000777-RAM-98",
+                        "sciKey": "RAM0000000251-11000777-RAM-98",
+                        "coverageLocation": "BD",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    }
+                ],
+                "partial": true
+            },
+            {
+                "id": "4",
+                "entityId": "11000984",
+                "entityName": "L NAME 11000984",
+                "entityType": "CLIENT",
+                "entityRegion": "ASEAN",
+                "entityDomcileCountry": "SG",
+                "entitySegment": "Global Corporate",
+                "entitySubSegment": "Global Corporates",
+                "taskId": "WB_3549",
+                "actionType": "ADD",
+                "role": "RAM",
+                "existingValue": null,
+                "newValue": {
+                    "empCode": "A2201",
+                    "empPsId": "1002343",
+                    "empName": "KAREN RAM",
+                    "id": "f4e55f99-66e3-4e9a-857d-9e8e1c88c251",
+                    "empBookingLocation": "DE/SCBL",
+                    "empRole": "DE/SCBL-A2201-1002343",
+                    "valueAsString": "DE/SCBL||A2201||1002343||KAREN RAM"
+                },
+                "sciChange": [
+                    {
+                        "id": "RAM0000000251-11000984-RAM-14",
+                        "sciKey": "RAM0000000251-11000984-RAM-14",
+                        "coverageLocation": "NP",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000984-RAM-15",
+                        "sciKey": "RAM0000000251-11000984-RAM-15",
+                        "coverageLocation": "KP",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000984-RAM-214",
+                        "sciKey": "RAM0000000251-11000984-RAM-214",
+                        "coverageLocation": "KR",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000984-RAM-215",
+                        "sciKey": "RAM0000000251-11000984-RAM-215",
+                        "coverageLocation": "JP",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000984-RAM-216",
+                        "sciKey": "RAM0000000251-11000984-RAM-216",
+                        "coverageLocation": "IN",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000984-RAM-217",
+                        "sciKey": "RAM0000000251-11000984-RAM-217",
+                        "coverageLocation": "BD",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000984-RAM-347",
+                        "sciKey": "RAM0000000251-11000984-RAM-347",
+                        "coverageLocation": "YE",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000984-RAM-428",
+                        "sciKey": "RAM0000000251-11000984-RAM-428",
+                        "coverageLocation": "MV",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000984-RAM-429",
+                        "sciKey": "RAM0000000251-11000984-RAM-429",
+                        "coverageLocation": "BT",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000984-RAM-479",
+                        "sciKey": "RAM0000000251-11000984-RAM-479",
+                        "coverageLocation": "LK",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    }
+                ],
+                "partial": true
+            },
+            {
+                "id": "5",
+                "entityId": "11001099",
+                "entityName": "L NAME 11001099",
+                "entityType": "CLIENT",
+                "entityRegion": "ASEAN",
+                "entityDomcileCountry": "SG",
+                "entitySegment": "Global Corporate",
+                "entitySubSegment": "Network Clients",
+                "taskId": "WB_3549",
+                "actionType": "ADD",
+                "role": "RAM",
+                "existingValue": null,
+                "newValue": {
+                    "empCode": "A2201",
+                    "empPsId": "1002343",
+                    "empName": "KAREN RAM",
+                    "id": "81b5e81b-92eb-492c-83f9-644ac7b79cc4",
+                    "empBookingLocation": "DE/SCBL",
+                    "empRole": "DE/SCBL-A2201-1002343",
+                    "valueAsString": "DE/SCBL||A2201||1002343||KAREN RAM"
+                },
+                "sciChange": [
+                    {
+                        "id": "RAM0000000251-11001099-RAM-145",
+                        "sciKey": "RAM0000000251-11001099-RAM-145",
+                        "coverageLocation": "IN",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11001099-RAM-146",
+                        "sciKey": "RAM0000000251-11001099-RAM-146",
+                        "coverageLocation": "BT",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11001099-RAM-274",
+                        "sciKey": "RAM0000000251-11001099-RAM-274",
+                        "coverageLocation": "LK",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11001099-RAM-275",
+                        "sciKey": "RAM0000000251-11001099-RAM-275",
+                        "coverageLocation": "JP",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11001099-RAM-333",
+                        "sciKey": "RAM0000000251-11001099-RAM-333",
+                        "coverageLocation": "KP",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11001099-RAM-419",
+                        "sciKey": "RAM0000000251-11001099-RAM-419",
+                        "coverageLocation": "KR",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11001099-RAM-78",
+                        "sciKey": "RAM0000000251-11001099-RAM-78",
+                        "coverageLocation": "NP",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11001099-RAM-79",
+                        "sciKey": "RAM0000000251-11001099-RAM-79",
+                        "coverageLocation": "MV",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11001099-RAM-8",
+                        "sciKey": "RAM0000000251-11001099-RAM-8",
+                        "coverageLocation": "BD",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    }
+                ],
+                "partial": false
+            },
+            {
+                "id": "6",
+                "entityId": "11000691",
+                "entityName": "L NAME 11000691",
+                "entityType": "CLIENT",
+                "entityRegion": "ASEAN",
+                "entityDomcileCountry": "SG",
+                "entitySegment": "Global Corporate",
+                "entitySubSegment": "Global Corporates",
+                "taskId": "WB_3549",
+                "actionType": "ADD",
+                "role": "RAM",
+                "existingValue": null,
+                "newValue": {
+                    "empCode": "A2201",
+                    "empPsId": "1002343",
+                    "empName": "KAREN RAM",
+                    "id": "811f7d8a-1332-45a7-ace6-cfa59829d2b9",
+                    "empBookingLocation": "DE/SCBL",
+                    "empRole": "DE/SCBL-A2201-1002343",
+                    "valueAsString": "DE/SCBL||A2201||1002343||KAREN RAM"
+                },
+                "sciChange": [
+                    {
+                        "id": "RAM0000000251-11000691-RAM-110",
+                        "sciKey": "RAM0000000251-11000691-RAM-110",
+                        "coverageLocation": "LK",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000691-RAM-234",
+                        "sciKey": "RAM0000000251-11000691-RAM-234",
+                        "coverageLocation": "KR",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000691-RAM-235",
+                        "sciKey": "RAM0000000251-11000691-RAM-235",
+                        "coverageLocation": "BT",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000691-RAM-304",
+                        "sciKey": "RAM0000000251-11000691-RAM-304",
+                        "coverageLocation": "NP",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000691-RAM-305",
+                        "sciKey": "RAM0000000251-11000691-RAM-305",
+                        "coverageLocation": "IN",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000691-RAM-369",
+                        "sciKey": "RAM0000000251-11000691-RAM-369",
+                        "coverageLocation": "MV",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000691-RAM-370",
+                        "sciKey": "RAM0000000251-11000691-RAM-370",
+                        "coverageLocation": "BD",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000691-RAM-497",
+                        "sciKey": "RAM0000000251-11000691-RAM-497",
+                        "coverageLocation": "YE",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000691-RAM-498",
+                        "sciKey": "RAM0000000251-11000691-RAM-498",
+                        "coverageLocation": "KP",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    },
+                    {
+                        "id": "RAM0000000251-11000691-RAM-499",
+                        "sciKey": "RAM0000000251-11000691-RAM-499",
+                        "coverageLocation": "JP",
+                        "status": "RAM03",
+                        "commentsCount": "0"
+                    }
+                ],
+                "partial": false
+            }
+       ],
+        "totalTaskDetails": "58"
+    }
+}

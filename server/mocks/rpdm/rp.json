@@ -1,0 +1,139 @@
+{
+	"rp":
+		{
+		"rpID": 1,
+		"rpCategory": {
+			"code": "01",
+			"description": "Person"
+		},
+		"firstName": "First Name/Company Name *",
+		"middleName": "Middle Name",
+		"lastName": "Last Name *",
+		"fullName": "FullName",
+		"alias": "Alias/Previous Company Name",
+		"previousName": "previousName",
+		"previousCompanyName": "previousCompanyName",
+		"sourceSystems": [  
+            {  
+               "sourceID":0,
+               "rpID":0,
+               "rpSourceID":null,
+               "sourceRPCreatedDt":null,
+               "sourceSystem":{  
+                  "code":3,
+                  "description":"eCDD+"
+               },
+               "clusterID":null
+            }
+         ],
+         "addresses":[  
+            {  
+               "addressID":0,
+               "rpID":0,
+               "addressType":null,
+               "fullAddress":null,
+               "add1":null,
+               "add2":null,
+               "add3":null,
+               "city":"BANGKOK",
+               "state":null,
+               "postalCode":null,
+               "country":{  
+                  "code":"TH",
+                  "description":"THAILAND",
+                  "vat":"",
+                  "region":"",
+                  "type":""
+               },
+               "deletedFlag":null
+            }
+         ],
+		"nationalities": [{
+			"code": "AG",
+			"description": "ANTIGUA AND BARBUDA",
+			"vat": "N",
+			"region": "OTHERS",
+			"type": "No Restrictions"
+		}],
+		"countryOfBirth":null,
+     	"companyName":"companyName",
+     	"parentCompanyName":"parentCompanyName",
+     	"previousCompanyName":"previousCompanyName",
+     	"incorporationNumber":"123",
+     	"doi":1450713600000,
+     	"dob": 1450713600000,
+     	"incorporationCountry":null,
+     	"mergeFlag":false,
+     	"score":0,
+     	"candidates":null,
+		"currentResidentialAddress": "Current Residential Address (0/1,000)",
+		"currentResidentialCountry": {
+			"code": "BJ",
+			"description": "BENIN",
+			"vat": "N",
+			"region": "OTHERS",
+			"type": "No Restrictions"
+		},
+		"gender": "Gender",
+		"telephoneNumber": "99999999",
+		"PEPFlag": {
+			"code": "Y",
+			"description": "Yes"
+		},
+		"FATCAFlag": {
+			"code": "N",
+			"description": "No"
+		},
+		"adverseMediaFlag": {
+			"code": "Y",
+			"description": "Yes"
+		},
+		"directorConcentrationFlag": {
+			"code": "Y",
+			"description": "Yes"
+		},
+		"linkages":[  
+            {  
+               "linkId":0,
+               "rpMaster":null,
+               "client":{  
+                  "clientId":0,
+                  "srcClientId":"12603060",
+                  "sourceSystem":{  
+                     "code":6,
+                     "description":"eCDD+"
+                  },
+                  "clientStatus":null,
+                  "custType":null,
+                  "riskRating":null,
+                  "cddCaseNumber":null,
+                  "cddCaseVersion":0,
+                  "cddCountry":null,
+                  "cddCaseStatus":null,
+                  "cddCaseType":null
+               },
+               "rpSourceId":null,
+               "ownershipPercentage":0,
+               "linkageStatus":null,
+               "relationshipType":null,
+               "linkType":null
+            }
+         ],
+		"identities": [
+			{"identityDocumentType": "Passport", "identificationNumber": "1234", "validFrom": 1450713600000, "validTo": 1450713600000, "issuingAuthorityCountry": "INDIA"},
+			{"identityDocumentType": "Passport", "identificationNumber": "1235", "validFrom": 1450713600000, "validTo": 1450713600000, "issuingAuthorityCountry": "INDIA"}
+		],
+		"clientLinkageDetails": [
+			{"rpType": "CLient", "rpUID": "1234", "cddCaseId": "14501234713", "masterClientId": "1450713600000", "countryCode": "INDIA", "sourceSystem": "COPI", "riskRating": "High"},
+			{"rpType": "Entity", "rpUID": "1235", "cddCaseId": "14507123413", "masterClientId": "1450713600000", "countryCode": "INDIA", "sourceSystem": "COPI", "riskRating": "High"}
+		],
+		"clientDetails": [
+			{"rpType": "CLient", "rpUID": "1234", "cddCaseId": "14501234713", "masterClientId": "1450713600000", "countryCode": "INDIA", "sourceSystem": "COPI", "riskRating": "High"},
+			{"rpType": "Entity", "rpUID": "1235", "cddCaseId": "14507123413", "masterClientId": "1450713600000", "countryCode": "INDIA", "sourceSystem": "COPI", "riskRating": "High"}
+		],
+		"workflowHistories": [
+			{"userName": "userName1", "userId": "1234", "dateTime": 1450713600000, "remarks": "remarks", "action": "action"},
+			{"userName": "userName2", "userId": "1235", "dateTime": 1450713600000, "remarks": "remarks", "action": "action"}
+		]
+	}
+}

@@ -1,0 +1,49 @@
+{
+    "activities":[        
+        {
+            "id": 1,
+            "icon": "icon-phone",
+            "activityName": "Call Reports"        
+        },
+        {
+            "id": 2,
+            "icon": "icon-check-circle",
+            "activityName": "Cdd Administration"
+        },
+        {
+            "id": 3,
+            "icon": "icon-account",
+            "activityName": "Client Management"
+        },
+        {
+            "id": 4,
+            "icon": "icon-account-plus",
+            "activityName": "Client Onboarding"
+        },
+        {
+            "id": 5,
+            "icon": "icon-account-remove",
+            "activityName": "Client Offboarding"
+        },
+        {
+            "id": 6,
+            "icon": "icon-credit",
+            "activityName": "Credit"
+        },
+        {
+            "id": 7,
+            "icon": "icon-deals",
+            "activityName": "Deals"
+        },
+        {
+            "id": 8,
+            "icon": "icon-fatca",
+            "activityName": "FATCA"
+        },
+        {
+            "id": 9,
+            "icon": "icon-prospects",
+            "activityName": "Prospects"
+        }
+    ]
+}

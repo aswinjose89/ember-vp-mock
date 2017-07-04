@@ -1,0 +1,157 @@
+[{
+	"creditGradeCode": "1A",
+	"creditGradeDesc": "CG1A is the best credit grade in SCB's credit masterscale and is assigned a 1-yr mid-pt PD of 0.01%",
+	"status": "A",
+	"updatedBy": "1443554",
+	"updatedDate": 1371089454061
+}, {
+	"creditGradeCode": "1B",
+	"creditGradeDesc": "CG1B is assigned a 1-yr mid-point PD of 0.02%",
+	"status": "A",
+	"updatedBy": "SYSTEM-A",
+	"updatedDate": 1371089454063
+}, {
+	"creditGradeCode": "2A",
+	"creditGradeDesc": "CG2A is assigned a 1-yr mid-point PD of 0.03%",
+	"status": "A",
+	"updatedBy": "SYSTEM-A",
+	"updatedDate": 1371089454064
+}, {
+	"creditGradeCode": "2B",
+	"creditGradeDesc": "CG2B is assigned a 1-yr mid-point PD of 0.04%",
+	"status": "A",
+	"updatedBy": "SYSTEM-A",
+	"updatedDate": 1371089454065
+}, {
+	"creditGradeCode": "3A",
+	"creditGradeDesc": "CG3A is assigned a 1-yr mid-point PD of 0.05%",
+	"status": "A",
+	"updatedBy": "SYSTEM-A",
+	"updatedDate": 1371089454086
+}, {
+	"creditGradeCode": "3B",
+	"creditGradeDesc": "CG3B is assigned a 1-yr mid-point PD of 0.07%",
+	"status": "A",
+	"updatedBy": "SYSTEM-A",
+	"updatedDate": 1371089454066
+}, {
+	"creditGradeCode": "4A",
+	"creditGradeDesc": "CG4A is assigned a 1-yr mid-point PD of 0.09%",
+	"status": "A",
+	"updatedBy": "SYSTEM-A",
+	"updatedDate": 1371089454067
+}, {
+	"creditGradeCode": "4B",
+	"creditGradeDesc": "CG4B is assigned a 1-yr mid-point PD of 0.13%",
+	"status": "A",
+	"updatedBy": "SYSTEM-A",
+	"updatedDate": 1371089454068
+}, {
+	"creditGradeCode": "5A",
+	"creditGradeDesc": "CG5A is assigned a 1-yr mid-point PD of 0.22%",
+	"status": "A",
+	"updatedBy": "1443554",
+	"updatedDate": 1371089454070
+}, {
+	"creditGradeCode": "5B",
+	"creditGradeDesc": "CG5B is assigned a 1-yr mid-point PD of 0.39%",
+	"status": "A",
+	"updatedBy": "SYSTEM-A",
+	"updatedDate": 1371089454071
+}, {
+	"creditGradeCode": "6A",
+	"creditGradeDesc": "CG6A is assigned a 1-yr mid-point PD of 0.51%",
+	"status": "A",
+	"updatedBy": "1443554",
+	"updatedDate": 1371089454072
+}, {
+	"creditGradeCode": "6B",
+	"creditGradeDesc": "CG6B is assigned a 1-yr mid-point PD of 0.67%",
+	"status": "A",
+	"updatedBy": "SYSTEM-A",
+	"updatedDate": 1371089454073
+}, {
+	"creditGradeCode": "7A",
+	"creditGradeDesc": "CG7A is assigned a 1-yr mid-point PD of 0.88%",
+	"status": "A",
+	"updatedBy": "1443554",
+	"updatedDate": 1371089454074
+}, {
+	"creditGradeCode": "7B",
+	"creditGradeDesc": "CG7B is assigned a 1-yr mid-point PD of 1.17%",
+	"status": "A",
+	"updatedBy": "SYSTEM-A",
+	"updatedDate": 1371089454087
+}, {
+	"creditGradeCode": "8A",
+	"creditGradeDesc": "CG8A is assigned a 1-yr mid-point PD of 1.54%",
+	"status": "A",
+	"updatedBy": "SYSTEM-A",
+	"updatedDate": 1371089454075
+}, {
+	"creditGradeCode": "8B",
+	"creditGradeDesc": "CG8B is assigned a 1-yr mid-point PD of 2.03%",
+	"status": "A",
+	"updatedBy": "SYSTEM-A",
+	"updatedDate": 1371089454076
+}, {
+	"creditGradeCode": "9A",
+	"creditGradeDesc": "CG9A is assigned a 1-yr mid-point PD of 2.66%",
+	"status": "A",
+	"updatedBy": "SYSTEM-A",
+	"updatedDate": 1371089454078
+}, {
+	"creditGradeCode": "9B",
+	"creditGradeDesc": "CG9B is assigned a 1-yr mid-point PD of 3.51%",
+	"status": "A",
+	"updatedBy": "SYSTEM-A",
+	"updatedDate": 1371089454080
+}, {
+	"creditGradeCode": "10A",
+	"creditGradeDesc": "CG10A is assigned a 1-yr mid-point PD of 4.62%",
+	"status": "A",
+	"updatedBy": "1268333",
+	"updatedDate": 1371089454040
+}, {
+	"creditGradeCode": "10B",
+	"creditGradeDesc": "CG10B is assigned a 1-yr mid-point PD of 6.08%",
+	"status": "A",
+	"updatedBy": "SYSTEM-A",
+	"updatedDate": 1371089454055
+}, {
+	"creditGradeCode": "11A",
+	"creditGradeDesc": "CG11A is assigned a 1-yr mid-point PD of 8.01%",
+	"status": "A",
+	"updatedBy": "SYSTEM-A",
+	"updatedDate": 1371089454056
+}, {
+	"creditGradeCode": "11B",
+	"creditGradeDesc": "CG11B is assigned a 1-yr mid-point PD of 10.54%",
+	"status": "A",
+	"updatedBy": "1443554",
+	"updatedDate": 1371089454057
+}, {
+	"creditGradeCode": "11C",
+	"creditGradeDesc": "CG11C is assigned a 1-yr mid-point PD of 13.77%",
+	"status": "A",
+	"updatedBy": "SYSTEM-A",
+	"updatedDate": 1371089454085
+}, {
+	"creditGradeCode": "12A",
+	"creditGradeDesc": "CG12A is a non default GSAM grade where there is some prospect of reinstatement to CG11C or better",
+	"status": "A",
+	"updatedBy": "1443554",
+	"updatedDate": 1371089454058
+}, {
+	"creditGradeCode": "12B",
+	"creditGradeDesc": "CG12B is a non default GSAM grade where outlook and next steps are still under investigation",
+	"status": "A",
+	"updatedBy": "SYSTEM-A",
+	"updatedDate": 1371089454059
+}, {
+	"creditGradeCode": "12C",
+	"creditGradeDesc": "CG12C is a non default GSAM grade where further deterioration is expected but not yet impaired",
+	"status": "A",
+	"updatedBy": "SYSTEM-A",
+	"updatedDate": 1371089454060
+}]

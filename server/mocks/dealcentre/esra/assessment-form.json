@@ -1,0 +1,2702 @@
+{
+    "fsButtons": [
+        {
+            "action": null,
+            "btnType": "SUBMIT",
+            "cssClass": null,
+            "disabled": false,
+            "errorMsg": "Case has not been moved successfully. Please try again.",
+            "id": "cdd-customer-due-diligence_button_0",
+            "message": null,
+            "successMsg": "Case has been successfully submitted to next stage.",
+            "text": "Submit",
+            "visible": true
+        },
+        {
+            "action": null,
+            "btnType": "DISCARD",
+            "cssClass": null,
+            "disabled": false,
+            "errorMsg": null,
+            "id": "cdd-customer-due-diligence_button_1",
+            "message": null,
+            "successMsg": null,
+            "text": "Discard",
+            "visible": true
+        },
+        {
+            "action": null,
+            "btnType": "NEXT",
+            "cssClass": null,
+            "disabled": false,
+            "errorMsg": null,
+            "id": "cdd-customer-due-diligence_button_2",
+            "message": null,
+            "successMsg": null,
+            "text": "Next",
+            "visible": true
+        },
+        {
+            "action": null,
+            "btnType": "PREVIOUS",
+            "cssClass": null,
+            "disabled": false,
+            "errorMsg": null,
+            "id": "cdd-customer-due-diligence_button_3",
+            "message": null,
+            "successMsg": null,
+            "text": "Previous",
+            "visible": true
+        },
+        {
+            "action": null,
+            "btnType": "SAVE",
+            "cssClass": null,
+            "disabled": false,
+            "errorMsg": null,
+            "id": "cdd-customer-due-diligence_button_4",
+            "message": null,
+            "successMsg": null,
+            "text": "Save",
+            "visible": true
+        }
+    ],
+    "fsFields": [
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+                "customConfig": "{\u0022risk-field\u0022:true}",
+                "componentName": "rdm-cdd-type",
+                "customAction": "cdd_type_changed",
+                "dataEnrichType": "",
+                "listOptions": null
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_0_0",
+            "isOpa": true,
+            "label": "Required CDD Type",
+            "mandatory": true,
+            "name": "in_required_CDD_type",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-dropdown",
+            "uncertain": false,
+            "value": "CO",
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": "\u0027Type of Client\u0027 is required",
+            "fieldAttributes": {
+                "customConfig": "{\u0022risk-field\u0022:true}",
+                "componentName": "rdm-customer-group-search",
+                "dataEnrichType": "",
+                "listOptions": null
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_0_1",
+            "isOpa": true,
+            "label": "Type of Client",
+            "mandatory": true,
+            "name": "in_client_type",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": true,
+            "type": "wb-dropdown",
+            "uncertain": false,
+            "value": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+                "componentName": "rdm-ownership-status-search",
+                "dataEnrichType": "",
+                "listOptions": null
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_0_2",
+            "isOpa": true,
+            "label": "Ownership status",
+            "mandatory": false,
+            "name": "in_ownership_status",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-dropdown",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+                "customConfig": "{\u0022risk-field\u0022:true}",
+                "componentName": "rdm-client-relationship-type-search",
+                "dataEnrichType": "",
+                "listOptions": null
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": "Change - The change will reset all the fields related to relationship type.",
+            "id": "cdd-customer-due-diligence_0_3",
+            "isOpa": true,
+            "label": "Relationship Type",
+            "mandatory": false,
+            "name": "in_rel_type",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": true,
+            "type": "wb-dropdown",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": false,
+            "dataType": "LabelControl",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+                "customConfig": "{\u0022customClass\u0022:\u0022warning\u0022}"
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_0_4",
+            "isOpa": true,
+            "label": "unknown",
+            "mandatory": false,
+            "name": null,
+            "opaObject": null,
+            "readOnly": null,
+            "refreshOnChange": false,
+            "type": "wb-label",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+                "componentName": "rdm-custody-type-search",
+                "dataEnrichType": "",
+                "listOptions": null
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_0_5",
+            "isOpa": true,
+            "label": "Custody Type",
+            "mandatory": false,
+            "name": "in_custody_type",
+            "opaObject": null,
+            "readOnly": true,
+            "refreshOnChange": false,
+            "type": "wb-dropdown",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "100"
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_0_6",
+            "isOpa": true,
+            "label": "Registered Number/ Incorporation Number",
+            "mandatory": false,
+            "name": "in_reg_no",
+            "opaObject": null,
+            "readOnly": true,
+            "refreshOnChange": false,
+            "type": "wb-textbox",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "date",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+                "customConfig": "{\u0022max\u0022:\u0022today\u0022}"
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_1_0",
+            "isOpa": true,
+            "label": "Date of Establishment / Incorporation Date",
+            "mandatory": false,
+            "name": "in_establishment_dte",
+            "opaObject": null,
+            "readOnly": true,
+            "refreshOnChange": false,
+            "type": "wb-datepicker",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "500"
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_2_0",
+            "isOpa": true,
+            "label": "Line 1",
+            "mandatory": false,
+            "name": "in_establishment_ctry_full_addr_1",
+            "opaObject": null,
+            "readOnly": true,
+            "refreshOnChange": false,
+            "type": "wb-textbox",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "100"
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_2_1",
+            "isOpa": true,
+            "label": "Line 2",
+            "mandatory": false,
+            "name": "in_establishment_ctry_full_addr_2",
+            "opaObject": null,
+            "readOnly": true,
+            "refreshOnChange": false,
+            "type": "wb-textbox",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "30"
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_2_2",
+            "isOpa": true,
+            "label": "City",
+            "mandatory": false,
+            "name": "in_establishment_ctry_full_addr_city",
+            "opaObject": null,
+            "readOnly": true,
+            "refreshOnChange": false,
+            "type": "wb-textbox",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "50"
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_2_3",
+            "isOpa": true,
+            "label": "State",
+            "mandatory": false,
+            "name": "in_establishment_ctry_full_addr_state",
+            "opaObject": null,
+            "readOnly": true,
+            "refreshOnChange": false,
+            "type": "wb-textbox",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "30"
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_2_4",
+            "isOpa": true,
+            "label": "Postal Code",
+            "mandatory": false,
+            "name": "in_establishment_ctry_full_addr_pcode",
+            "opaObject": null,
+            "readOnly": true,
+            "refreshOnChange": false,
+            "type": "wb-textbox",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": "\u0027Country of Incorporation\u0027 is required",
+            "fieldAttributes": {
+                "customConfig": "{\u0022risk-field\u0022:true}",
+                "componentName": "cdd-country-search",
+                "customAction": "refresh_recommend_risk",
+                "dataEnrichType": "",
+                "listOptions": null
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_2_5",
+            "isOpa": true,
+            "label": "Country of Incorporation",
+            "mandatory": true,
+            "name": "in_country_incorporation",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-dropdown",
+            "uncertain": false,
+            "value": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": false,
+            "dataType": "LabelControl",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+                "componentName": "wb-button",
+                "customAction": "client_info_copy_address",
+                "dataEnrichType": ""
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_3_0",
+            "isOpa": true,
+            "label": "Copy from registered address",
+            "mandatory": false,
+            "name": null,
+            "opaObject": null,
+            "readOnly": null,
+            "refreshOnChange": false,
+            "type": "wb-label",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": false,
+            "dataType": "LabelControl",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_3_1",
+            "isOpa": true,
+            "label": "",
+            "mandatory": false,
+            "name": null,
+            "opaObject": null,
+            "readOnly": null,
+            "refreshOnChange": false,
+            "type": "wb-label",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "100"
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_3_2",
+            "isOpa": true,
+            "label": "Line 1",
+            "mandatory": false,
+            "name": "in_full_op_addr_1",
+            "opaObject": null,
+            "readOnly": true,
+            "refreshOnChange": false,
+            "type": "wb-textbox",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "100"
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_3_3",
+            "isOpa": true,
+            "label": "Line 2",
+            "mandatory": false,
+            "name": "in_full_op_addr_2",
+            "opaObject": null,
+            "readOnly": true,
+            "refreshOnChange": false,
+            "type": "wb-textbox",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "30"
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_3_4",
+            "isOpa": true,
+            "label": "City",
+            "mandatory": false,
+            "name": "in_full_op_addr_city",
+            "opaObject": null,
+            "readOnly": true,
+            "refreshOnChange": false,
+            "type": "wb-textbox",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "50"
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_3_5",
+            "isOpa": true,
+            "label": "State",
+            "mandatory": false,
+            "name": "in_full_op_addr_state",
+            "opaObject": null,
+            "readOnly": true,
+            "refreshOnChange": false,
+            "type": "wb-textbox",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "30"
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_3_6",
+            "isOpa": true,
+            "label": "Postal Code",
+            "mandatory": false,
+            "name": "in_full_op_addr_pcode",
+            "opaObject": null,
+            "readOnly": true,
+            "refreshOnChange": false,
+            "type": "wb-textbox",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+                "componentName": "rdm-country-search",
+                "dataEnrichType": "",
+                "listOptions": null
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_3_7",
+            "isOpa": true,
+            "label": "Country",
+            "mandatory": false,
+            "name": "in_full_op_addr_ctry",
+            "opaObject": null,
+            "readOnly": true,
+            "refreshOnChange": false,
+            "type": "wb-dropdown",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": "\u0027Country of Primary Market\u0027 is required",
+            "fieldAttributes": {
+                "customConfig": "{\u0022risk-field\u0022:true}",
+                "componentName": "cdd-country-search",
+                "customAction": "refresh_recommend_risk",
+                "dataEnrichType": "",
+                "listOptions": null
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_4_0",
+            "isOpa": true,
+            "label": "Country of Primary Market",
+            "mandatory": true,
+            "name": "in_pri_market_country",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-dropdown",
+            "uncertain": false,
+            "value": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "boolean",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_5_0",
+            "isOpa": true,
+            "label": "Parent Group Legal Information Available",
+            "mandatory": false,
+            "name": "in_parent_grp_info_avail",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": true,
+            "type": "wb-radio",
+            "uncertain": false,
+            "value": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "boolean",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_5_1",
+            "isOpa": true,
+            "label": "Is New Parent Group",
+            "mandatory": false,
+            "name": "in_new_parent_grp",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": true,
+            "type": "wb-radio",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+                "componentName": "cdd-parent-group-search",
+                "customAction": "get_parent_group_details",
+                "dataEnrichType": "",
+                "listOptions": null
+            },
+            "fsValidations": {
+                "maxLength": "100"
+            },
+            "helpText": "Refers to the ultimate parent group of the client",
+            "id": "cdd-customer-due-diligence_5_2",
+            "isOpa": true,
+            "label": "Parent Company or Group Legal Name \u003cspan class=\u0027fs-link\u0027 link=\u0027flyout:cdd-norkom\u0027 config=\u0027{\u0022headerConfig\u0022:{\u0022title\u0022:\u0022Norkom Information\u0022},\u0022bodyConfig\u0022:{\u0022norkomType\u0022:\u0022PARENTGROUP\u0022}}\u0027\u003eParent Group Norkom details\u003c/span\u003e",
+            "mandatory": false,
+            "name": "in_existg_grp_legal_name",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-dropdown",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "100"
+            },
+            "helpText": "Refers to the ultimate parent group of the client",
+            "id": "cdd-customer-due-diligence_5_3",
+            "isOpa": true,
+            "label": "Parent Company or Group Legal Name \u003cspan class=\u0027fs-link\u0027 link=\u0027flyout:cdd-norkom\u0027 config=\u0027{\u0022headerConfig\u0022:{\u0022title\u0022:\u0022Norkom Information\u0022},\u0022bodyConfig\u0022:{\u0022norkomType\u0022:\u0022PARENTGROUP\u0022}}\u0027\u003eParent Group Norkom details\u003c/span\u003e",
+            "mandatory": false,
+            "name": "in_new_grp_legal_name",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-textbox",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+                "customConfig": "{\u0022risk-field\u0022:true}",
+                "componentName": "cdd-country-search",
+                "customAction": "refresh_recommend_risk",
+                "dataEnrichType": "",
+                "listOptions": null
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_5_4",
+            "isOpa": true,
+            "label": "Head Office or Parent Company Country of Establishment",
+            "mandatory": false,
+            "name": "in_head_off",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-dropdown",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "100"
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_6_0",
+            "isOpa": true,
+            "label": "Line 1",
+            "mandatory": false,
+            "name": "in_reg_addr_ctry_establishment_1",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-textbox",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "100"
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_6_1",
+            "isOpa": true,
+            "label": "Line 2",
+            "mandatory": false,
+            "name": "in_reg_addr_ctry_establishment_2",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-textbox",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "100"
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_6_2",
+            "isOpa": true,
+            "label": "City",
+            "mandatory": false,
+            "name": "in_reg_addr_ctry_establishment_city",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-textbox",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "100"
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_6_3",
+            "isOpa": true,
+            "label": "State",
+            "mandatory": false,
+            "name": "in_reg_addr_ctry_establishment_state",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-textbox",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "20"
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_6_4",
+            "isOpa": true,
+            "label": "Postal Code",
+            "mandatory": false,
+            "name": "in_reg_addr_ctry_establishment_pcode",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-textbox",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "text",
+            "disable": null,
+            "error": "\u0027Primary ISIC Code\u0027 is required",
+            "fieldAttributes": {
+                "customConfig": "{\u0022risk-field\u0022:true}",
+                "componentName": "rdm-isic-code-search",
+                "customAction": "refresh_recommend_risk",
+                "dataEnrichType": "",
+                "listOptions": null
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_7_0",
+            "isOpa": true,
+            "label": "Primary ISIC code",
+            "mandatory": true,
+            "name": "in_client_pri_ISIC_code",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-dropdown",
+            "uncertain": false,
+            "value": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "textArea",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "1000"
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_7_1",
+            "isOpa": true,
+            "label": "Primary ISIC Comments",
+            "mandatory": false,
+            "name": "in_client_pri_ISIC_code_cmmts",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-textarea",
+            "uncertain": false,
+            "value": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "containment_relationship",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+                "customConfig": "{\u0022risk-field\u0022:true}",
+                "componentName": "cdd-isic-code",
+                "customAction": "refresh_recommend_risk",
+                "dataEnrichType": ""
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_7_2",
+            "isOpa": true,
+            "label": "Additional ISIC Code",
+            "mandatory": false,
+            "name": null,
+            "opaObject": {
+                "type": "containment_relationship",
+                "dataType": "containment_relationship",
+                "isVisible": true,
+                "properties": [
+                    {
+                        "key": "max_length",
+                        "text": ""
+                    },
+                    {
+                        "key": "data_enrich_type",
+                        "text": ""
+                    },
+                    {
+                        "key": "events",
+                        "text": "on_change:refresh_recommend_risk"
+                    },
+                    {
+                        "key": "component_name",
+                        "text": "cdd-isic-code"
+                    },
+                    {
+                        "key": "custom_config",
+                        "text": "{\u0022risk-field\u0022:true}"
+                    },
+                    {
+                        "key": "caption",
+                        "text": "Additional ISIC Code"
+                    },
+                    {
+                        "key": "section",
+                        "text": "False"
+                    },
+                    {
+                        "key": "tooltip_text",
+                        "text": ""
+                    },
+                    {
+                        "key": "copy_from_opa",
+                        "text": "False"
+                    },
+                    {
+                        "key": "mandatory_indicator",
+                        "text": "False"
+                    },
+                    {
+                        "key": "filter_by",
+                        "text": ""
+                    },
+                    {
+                        "key": "multi_selection_list",
+                        "text": ""
+                    },
+                    {
+                        "key": "display_style",
+                        "text": "multiselect"
+                    },
+                    {
+                        "key": "hidden",
+                        "text": "False"
+                    },
+                    {
+                        "key": "is_commentable",
+                        "text": "True"
+                    },
+                    {
+                        "key": "section_layout",
+                        "text": ""
+                    },
+                    {
+                        "key": "data_enrich",
+                        "text": "False"
+                    },
+                    {
+                        "key": "text_colour_map",
+                        "text": ""
+                    }
+                ],
+                "relationshipId": "client_ISICs",
+                "sourceEntityId": "global",
+                "sourceInstanceId": "global",
+                "targetEntityId": "client_ISIC",
+                "relationshipType": "OneToMany",
+                "entityInstances": [
+                    {
+                        "entityId": "client_ISIC",
+                        "instanceId": "--BLANK--",
+                        "isVisible": true,
+                        "properties": [
+                            {
+                                "key": "max_length",
+                                "text": ""
+                            },
+                            {
+                                "key": "data_enrich_type",
+                                "text": ""
+                            },
+                            {
+                                "key": "events",
+                                "text": "on_change:refresh_recommend_risk"
+                            },
+                            {
+                                "key": "component_name",
+                                "text": "cdd-isic-code"
+                            },
+                            {
+                                "key": "custom_config",
+                                "text": "{\u0022risk-field\u0022:true}"
+                            },
+                            {
+                                "key": "caption",
+                                "text": "Additional ISIC Code"
+                            },
+                            {
+                                "key": "section",
+                                "text": "False"
+                            },
+                            {
+                                "key": "tooltip_text",
+                                "text": ""
+                            },
+                            {
+                                "key": "copy_from_opa",
+                                "text": "False"
+                            },
+                            {
+                                "key": "mandatory_indicator",
+                                "text": "False"
+                            },
+                            {
+                                "key": "filter_by",
+                                "text": ""
+                            },
+                            {
+                                "key": "multi_selection_list",
+                                "text": ""
+                            },
+                            {
+                                "key": "display_style",
+                                "text": "multiselect"
+                            },
+                            {
+                                "key": "hidden",
+                                "text": "False"
+                            },
+                            {
+                                "key": "is_commentable",
+                                "text": "True"
+                            },
+                            {
+                                "key": "section_layout",
+                                "text": ""
+                            },
+                            {
+                                "key": "data_enrich",
+                                "text": "False"
+                            },
+                            {
+                                "key": "text_colour_map",
+                                "text": ""
+                            }
+                        ],
+                        "entityControlList": [
+                            {
+                                "type": "screen_control",
+                                "publicName": "in_client_ISIC_code",
+                                "caption": "Additional ISIC Code",
+                                "selectionStyle": "Dropdown",
+                                "dataType": "text",
+                                "required": false,
+                                "isVisible": true,
+                                "isReadOnly": false,
+                                "invalidValueChange": [
+
+                                ],
+                                "properties": [
+                                    {
+                                        "key": "max_length",
+                                        "text": ""
+                                    },
+                                    {
+                                        "key": "data_enrich_type",
+                                        "text": ""
+                                    },
+                                    {
+                                        "key": "events",
+                                        "text": ""
+                                    },
+                                    {
+                                        "key": "component_name",
+                                        "text": "rdm-isic-code-search"
+                                    },
+                                    {
+                                        "key": "custom_config",
+                                        "text": ""
+                                    },
+                                    {
+                                        "key": "caption",
+                                        "text": ""
+                                    },
+                                    {
+                                        "key": "section",
+                                        "text": "False"
+                                    },
+                                    {
+                                        "key": "tooltip_text",
+                                        "text": ""
+                                    },
+                                    {
+                                        "key": "copy_from_opa",
+                                        "text": "False"
+                                    },
+                                    {
+                                        "key": "mandatory_indicator",
+                                        "text": "False"
+                                    },
+                                    {
+                                        "key": "filter_by",
+                                        "text": ""
+                                    },
+                                    {
+                                        "key": "multi_selection_list",
+                                        "text": ""
+                                    },
+                                    {
+                                        "key": "display_style",
+                                        "text": ""
+                                    },
+                                    {
+                                        "key": "hidden",
+                                        "text": "False"
+                                    },
+                                    {
+                                        "key": "is_commentable",
+                                        "text": "True"
+                                    },
+                                    {
+                                        "key": "section_layout",
+                                        "text": ""
+                                    },
+                                    {
+                                        "key": "data_enrich",
+                                        "text": "False"
+                                    },
+                                    {
+                                        "key": "text_colour_map",
+                                        "text": ""
+                                    }
+                                ],
+                                "uncertain": false
+                            }
+                        ]
+                    }
+                ],
+                "uncertain": false
+            },
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-multi-select-dropdown",
+            "uncertain": false,
+            "value": [
+
+            ],
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "textArea",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "1000"
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_7_3",
+            "isOpa": true,
+            "label": "Additional ISIC Comment",
+            "mandatory": false,
+            "name": "in_CDD_comments",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-textarea",
+            "uncertain": false,
+            "value": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "textArea",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "1000"
+            },
+            "helpText": "YOU MUST fill this out with sufficient detail.  See below: \\n Examples of NOT ENOUGH DETAIL:  ‘ Import and export of business products’ or ‘ Healthcare Products’ or ‘Real Estate’ \\nExamples of ENOUGH DETAIL:  ‘Import and Export of children’s toys where, import to China and Taiwan, export to Southeast Asia or ‘Retails Sale of healthcare products such as equipment for measuring blood pressure and blood sugar, vitamins, etc.  Mr. A and his brother are the owners of the company with Mr. A being the decision maker in the company’ \\nFor clients with an Account Plan or BCA, the RM can use the same text to describe the business that is used in the Account Plan and/or BCA \\nThe description MUST BE CONSISTENT with the ISIC code selected.",
+            "id": "cdd-customer-due-diligence_7_4",
+            "isOpa": true,
+            "label": "Nature of Business",
+            "mandatory": false,
+            "name": "in_nature_of_biz",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-textarea",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "textArea",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "1000"
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_7_5",
+            "isOpa": true,
+            "label": "Nature and details of the business",
+            "mandatory": false,
+            "name": "in_nature_of_biz_details",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-textarea",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "textArea",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "1000"
+            },
+            "helpText": "Record whether the Trust/ Foundation is discretionary, testamentary, or bare. Describe the purpose of the Trust/ Foundation (e.g., Inheritance planning, provision for spouse and other family dependants, preservation of family wealth, etc.)",
+            "id": "cdd-customer-due-diligence_7_6",
+            "isOpa": true,
+            "label": "Nature and purpose of trust/foundation",
+            "mandatory": false,
+            "name": "in_nature_fund_fdt",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-textarea",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "textArea",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "1000"
+            },
+            "helpText": "YOU MUST fill this out with sufficient detail.  See below: \\n Examples of NOT ENOUGH DETAIL:  ‘ Import and export of business products’ or ‘ Healthcare Products’ or ‘Real Estate’ \\nExamples of ENOUGH DETAIL:  ‘Import and Export of children’s toys where, import to China and Taiwan, export to Southeast Asia or ‘Retails Sale of healthcare products such as equipment for measuring blood pressure and blood sugar, vitamins, etc.  Mr. A and his brother are the owners of the company with Mr. A being the decision maker in the company’ \\nFor clients with an Account Plan or BCA, the RM can use the same text to describe the business that is used in the Account Plan and/or BCA \\nThe description MUST BE CONSISTENT with the ISIC code selected.",
+            "id": "cdd-customer-due-diligence_7_7",
+            "isOpa": true,
+            "label": "Nature of the body’s purpose or objectives/ideology and its activities",
+            "mandatory": false,
+            "name": "in_nature_act_obj",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-textarea",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "textArea",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "1000"
+            },
+            "helpText": "YOU MUST fill this out with sufficient detail.  See below: \\n Examples of NOT ENOUGH DETAIL:  ‘ Import and export of business products’ or ‘ Healthcare Products’ or ‘Real Estate’ \\nExamples of ENOUGH DETAIL:  ‘Import and Export of children’s toys where, import to China and Taiwan, export to Southeast Asia or ‘Retails Sale of healthcare products such as equipment for measuring blood pressure and blood sugar, vitamins, etc.  Mr. A and his brother are the owners of the company with Mr. A being the decision maker in the company’ \\nFor clients with an Account Plan or BCA, the RM can use the same text to describe the business that is used in the Account Plan and/or BCA \\nThe description MUST BE CONSISTENT with the ISIC code selected.",
+            "id": "cdd-customer-due-diligence_7_8",
+            "isOpa": true,
+            "label": "Please describe purpose of the club/society",
+            "mandatory": false,
+            "name": "in_purpose_club_soc_desc",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-textarea",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "textArea",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "1000"
+            },
+            "helpText": "Record whether the customer is a central bank, supranational organization, statutory corporation, government ministry, treaty organisation etc.",
+            "id": "cdd-customer-due-diligence_7_9",
+            "isOpa": true,
+            "label": "Nature and status of entity",
+            "mandatory": false,
+            "name": "in_entity_nature_status",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-textarea",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "textArea",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "1000"
+            },
+            "helpText": "Demonstrate understanding of the origin of funds to be used / received throughout the relationship. In practice that means the activity from which the funds are ultimately derived (e.g., the customer’s business activities or sale of assets). \\nDescription such as \u0027Business proceeds\u0027 would be fine if there is information available, for example, financial statements demonstrating a business that generates such proceeds. If there is a BCA for the customer, RM should have such data on its ability to generate revenues. For non-borrowing customers with no BCA, more description is required, for example, \u0027proceeds from media business that generates $x of annual sales and has a record operating income of $y in 2011.",
+            "id": "cdd-customer-due-diligence_7_10",
+            "isOpa": true,
+            "label": "Source of Funds",
+            "mandatory": false,
+            "name": "in_funds_source",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-textarea",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "textArea",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "1024"
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_7_11",
+            "isOpa": true,
+            "label": "Source of Wealth",
+            "mandatory": false,
+            "name": "in_client_source_wealth",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-textarea",
+            "uncertain": false,
+            "value": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "textArea",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "1024"
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_7_12",
+            "isOpa": true,
+            "label": "Source of Income",
+            "mandatory": false,
+            "name": "in_client_source_income",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-textarea",
+            "uncertain": false,
+            "value": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "textArea",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "1000"
+            },
+            "helpText": "Document in detail the customer’s business activities, going beyond the description for (A). The RM should cover some of the following: \\n(i) Describe the main business Divisions / Lines of Business of the customer where applicable \\n(ii) Describe the main product lines of the business Divisions \\n(iii) Describe any major clients of the customer \\n(iv) Describe any major suppliers to the customer \\n(v) Describe any competitors of the customer \\n(vi) Describe the main countries or regions where the customer does business \\nWhere the RM has completed an Account Plan or BCA either at the entity level or at the level of the customer’s group, the RM may cross reference any detailed information included in those documents and limit the description in eCDD+ to a short summary of the above. There is no need to attach the Account Plan or BCA provided that the Account Plan or BCA can be retrieved on request by a reviewer (e.g., Compliance, Audit, regulator).",
+            "id": "cdd-customer-due-diligence_7_13",
+            "isOpa": true,
+            "label": "Detailed description of business activities",
+            "mandatory": false,
+            "name": "in_biz_act_desc",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-textarea",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "textArea",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "1000"
+            },
+            "helpText": "Where the Trust / Foundation is supporting significant activities, describes those activities in detail and the locations in which the Trust / Foundation is active.",
+            "id": "cdd-customer-due-diligence_7_14",
+            "isOpa": true,
+            "label": "Detailed description of business activities that the trust / foundation supports",
+            "mandatory": false,
+            "name": "in_desc_act_trust",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-textarea",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "textArea",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "1000"
+            },
+            "helpText": "The RM should:\\n- Identify and record names of any large contributors / donors to the NGO or charity \\n- Record the geographic locations served (including headquarters and operational areas)",
+            "id": "cdd-customer-due-diligence_7_15",
+            "isOpa": true,
+            "label": "Detailed description of the activities of the NGO or charity",
+            "mandatory": false,
+            "name": "in_desc_act_NGO",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-textarea",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "textArea",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "1000"
+            },
+            "helpText": "For example:\\n-Professional society for lawyers or accountants: the members’ objective is to maintain their professional qualification status.\\n -Recreational club: the members are entitled to the usage of the recreational facilities, (e.g., golf course etc.) available in the country as well as overseas where the club operates. Where the club operates in different countries, record all the geographic locations.",
+            "id": "cdd-customer-due-diligence_7_16",
+            "isOpa": true,
+            "label": "Describe how members or associates use or benefit from the club / society",
+            "mandatory": false,
+            "name": "in_club_mem_benefit_desc",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-textarea",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "boolean",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+                "customConfig": "{\u0022risk-field\u0022:true}"
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_8_0",
+            "isOpa": true,
+            "label": "Has the client been with the bank for less than 5 years?",
+            "mandatory": false,
+            "name": "in_client_less_5years",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": true,
+            "type": "wb-radio",
+            "uncertain": false,
+            "value": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "boolean",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_8_1",
+            "isOpa": true,
+            "label": "Has the client been with the bank for less than 5 years (System Calculated)?",
+            "mandatory": false,
+            "name": "out_client_less_5years",
+            "opaObject": null,
+            "readOnly": true,
+            "refreshOnChange": false,
+            "type": "wb-radio",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "boolean",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+                "customConfig": "{\u0022risk-field\u0022:true}",
+                "customAction": "refresh_recommend_risk"
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": "Customers that are off-shore trusts (unless controlled by the Group or where the third party controlling the trust structure is subject to and supervised for compliance with AML/CFT requirements in an equivalent jurisdiction);",
+            "id": "cdd-customer-due-diligence_8_2",
+            "isOpa": true,
+            "label": "Is the entity an off-shore trusts?",
+            "mandatory": false,
+            "name": "in_offshore_trusts",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-radio",
+            "uncertain": false,
+            "value": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "boolean",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+                "customConfig": "{\u0022risk-field\u0022:true}",
+                "customAction": "refresh_recommend_risk"
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": "Unduly Complex Structure \\n‘Complex structure’ of ownership generally means there are 4 layers or more of shareholding ownership between the company and the ultimate principal beneficial owners. ‘Unduly complex structure’ means that a complex structure has been put in place for no apparent purpose, suggesting that it is mainly there to disguise the beneficial owners. \\n The following types of entities are not considered ‘unduly complex structure’:\\n(i) Entities with any of their principal shareholders being publicly quoted company on a regulated market listed in Appendix G or its majority owned subsidiary; or \\n (ii) Entities with any of their principal shareholders being a financial institution regulated by an equivalent regulator or its majority owned subsidiary (excluding a money service bureau); or \\n (iii) Entities with any of their principal shareholders being a government or government entity or its majority owned subsidiary from a low or medium risk country; or \\n(iv) Entities with any of their principal shareholders being a significant and well-established entity or its majority owned subsidiary.\\n NB: Principal shareholder means owns a proportionate aggregate interest of at least 25% shares/ capital or voting rights.",
+            "id": "cdd-customer-due-diligence_8_3",
+            "isOpa": true,
+            "label": "Does the entity have an unduly complex structure of ownership?",
+            "mandatory": false,
+            "name": "in_unduly_complex_ownship",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-radio",
+            "uncertain": false,
+            "value": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "boolean",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+                "customConfig": "{\u0022risk-field\u0022:true}",
+                "customAction": "refresh_recommend_risk"
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": "Answer this question as ‘Yes’ for all discretionary accounts of an IMAA Regulated or Registered in a Non Equivalent Jurisdiction",
+            "id": "cdd-customer-due-diligence_8_4",
+            "isOpa": true,
+            "label": "Is the Investment Manager/Advisor and/or Agent (IMAA) Regulated or Registered  in a Non Equivalent Jurisdiction? \u003cspan class=\u0027fs-link\u0027 link=\u0027winopen:http://iconnect.zone1.scb.net/wb/fcr/Documents/Policy,%20Procedures%20and%20Guidance/Guidance/Adverse%20Media%20Assessment%20Form%20Guidance.docx\u0027\u003eIMAA and their respective Discretionary Accounts CDD Procedure\u003c/span\u003e",
+            "mandatory": false,
+            "name": "in_unregulated_fund",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-radio",
+            "uncertain": false,
+            "value": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "boolean",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_8_5",
+            "isOpa": true,
+            "label": "Is the entity an unregulated investment/ fund manager?",
+            "mandatory": false,
+            "name": "in_unregulated_fund_mgr",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-radio",
+            "uncertain": false,
+            "value": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "boolean",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+                "customConfig": "{\u0022risk-field\u0022:true}",
+                "customAction": "refresh_recommend_risk"
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_8_6",
+            "isOpa": true,
+            "label": "Is the client an Embassy or Consulate in a high risk country?",
+            "mandatory": false,
+            "name": "in_embassy_consulate",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-radio",
+            "uncertain": false,
+            "value": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "boolean",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_8_7",
+            "isOpa": true,
+            "label": "Client Regulated in Equivalent Jurisdiction",
+            "mandatory": false,
+            "name": "out_country_incorporation_ej",
+            "opaObject": null,
+            "readOnly": true,
+            "refreshOnChange": false,
+            "type": "wb-radio",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "boolean",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_8_8",
+            "isOpa": true,
+            "label": "Is the FI regulated for AML in an Equivalent Jurisdiction?",
+            "mandatory": false,
+            "name": "out_FI_regulated_ej",
+            "opaObject": null,
+            "readOnly": true,
+            "refreshOnChange": false,
+            "type": "wb-radio",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "boolean",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+                "customConfig": "{\u0022risk-field\u0022:true}"
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_8_9",
+            "isOpa": true,
+            "label": "Should the risk of the case be \u0027High\u0027 based on local regulatory requirements identified in the Country Addendum?",
+            "mandatory": false,
+            "name": "in_risk_high_local_reg",
+            "opaObject": null,
+            "readOnly": true,
+            "refreshOnChange": true,
+            "type": "wb-radio",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "textArea",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "1000"
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_8_10",
+            "isOpa": true,
+            "label": "Please specify",
+            "mandatory": false,
+            "name": "in_CDD_spec",
+            "opaObject": null,
+            "readOnly": true,
+            "refreshOnChange": false,
+            "type": "wb-textarea",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "textArea",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": "2000"
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_8_11",
+            "isOpa": true,
+            "label": "Additional Country requirements / Other requirements, if any \u003cspan class=\u0027fs-link\u0027 link=\u0027winopen:http://iconnect.zone1.scb.net/wb/fcr/Pages/WB%20CDD%20Standards.aspx\u0027\u003eCountry Addendum\u003c/span\u003e",
+            "mandatory": false,
+            "name": "in_add_country_req",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-textarea",
+            "uncertain": false,
+            "value": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "boolean",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_8_12",
+            "isOpa": true,
+            "label": "Has the Country Addendum and all relevant documents been attached?",
+            "mandatory": false,
+            "name": "in_CDD_country_addem_attached",
+            "opaObject": null,
+            "readOnly": true,
+            "refreshOnChange": false,
+            "type": "wb-radio",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "dataType": "boolean",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+
+            },
+            "fsValidations": {
+                "maxLength": ""
+            },
+            "helpText": null,
+            "id": "cdd-customer-due-diligence_8_13",
+            "isOpa": true,
+            "label": "Does the client conduct private banking business as its sole business?",
+            "mandatory": false,
+            "name": "in_pte_banking_sole_biz",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": false,
+            "type": "wb-radio",
+            "uncertain": false,
+            "value": null,
+            "visible": false
+        }
+    ],
+    "fsForms": [
+        {
+            "autoSave": false,
+            "commentCount": 0,
+            "disable": null,
+            "errors": [
+                {
+                    "code": "CDD169",
+                    "fatcaStatus": null,
+                    "fieldId": "in_rel_start_dte",
+                    "message": "\u0027Relationship Start Date\u0027 is required",
+                    "pageId": "cdd-client-information",
+                    "payload": null,
+                    "primaryKey": null,
+                    "subType": null,
+                    "type": null
+                },
+                {
+                    "code": "CDD174",
+                    "fatcaStatus": null,
+                    "fieldId": "in_legal_constitution",
+                    "message": "\u0027Legal Constitution\u0027 is required",
+                    "pageId": "cdd-client-information",
+                    "payload": null,
+                    "primaryKey": null,
+                    "subType": null,
+                    "type": null
+                },
+                {
+                    "code": "CDD007",
+                    "fatcaStatus": null,
+                    "fieldId": "in_has_guarantor",
+                    "message": "\u0027Does the Client Have a Guarantor\u0027 is required",
+                    "pageId": "cdd-client-information",
+                    "payload": null,
+                    "primaryKey": null,
+                    "subType": null,
+                    "type": null
+                },
+                {
+                    "code": "CDD189",
+                    "fatcaStatus": null,
+                    "fieldId": "in_pri_market_country",
+                    "message": "\u0027Country of Primary Market\u0027 is required",
+                    "pageId": "cdd-customer-due-diligence",
+                    "payload": null,
+                    "primaryKey": null,
+                    "subType": null,
+                    "type": null
+                },
+                {
+                    "code": "CDD182",
+                    "fatcaStatus": null,
+                    "fieldId": "in_country_incorporation",
+                    "message": "\u0027Country of Incorporation\u0027 is required",
+                    "pageId": "cdd-customer-due-diligence",
+                    "payload": null,
+                    "primaryKey": null,
+                    "subType": null,
+                    "type": null
+                },
+                {
+                    "code": "CDD001",
+                    "fatcaStatus": null,
+                    "fieldId": "in_client_type",
+                    "message": "\u0027Type of Client\u0027 is required",
+                    "pageId": "cdd-customer-due-diligence",
+                    "payload": null,
+                    "primaryKey": null,
+                    "subType": null,
+                    "type": null
+                },
+                {
+                    "code": "CDD269",
+                    "fatcaStatus": null,
+                    "fieldId": "in_client_pri_ISIC_code",
+                    "message": "\u0027Primary ISIC Code\u0027 is required",
+                    "pageId": "cdd-customer-due-diligence",
+                    "payload": null,
+                    "primaryKey": null,
+                    "subType": null,
+                    "type": null
+                },
+                {
+                    "code": "CDD241",
+                    "fatcaStatus": null,
+                    "fieldId": "in_reason_open_acct",
+                    "message": "\u0027What is the purpose and reason for opening the account?\u0027 is required",
+                    "pageId": "cdd-products-and-services",
+                    "payload": null,
+                    "primaryKey": null,
+                    "subType": null,
+                    "type": null
+                },
+                {
+                    "code": "CDD297",
+                    "fatcaStatus": null,
+                    "fieldId": "client_products",
+                    "message": "The client\u0027s product is required",
+                    "pageId": "cdd-products-and-services",
+                    "payload": null,
+                    "primaryKey": null,
+                    "subType": null,
+                    "type": null
+                },
+                {
+                    "code": "CDD043",
+                    "fatcaStatus": null,
+                    "fieldId": "in_issue_bearer_shares",
+                    "message": "\u0027Does the entity issue bearer shares?\u0027 is required",
+                    "pageId": "cdd-specialised-due-diligence",
+                    "payload": null,
+                    "primaryKey": null,
+                    "subType": null,
+                    "type": null
+                },
+                {
+                    "code": "CDD040",
+                    "fatcaStatus": null,
+                    "fieldId": "in_FI_biz_against_SCB_policy",
+                    "message": "\u0027Does the customer  conduct business with any countries subject to the controls in the SCB Group Sanctions Policy and Procedures?\u0027 is required",
+                    "pageId": "cdd-specialised-due-diligence",
+                    "payload": null,
+                    "primaryKey": null,
+                    "subType": null,
+                    "type": null
+                },
+                {
+                    "code": "CDD058",
+                    "fatcaStatus": null,
+                    "fieldId": "in_gaming_business",
+                    "message": "\u0027Is the entity involved in the Gaming/Casino business?\u0027 is required",
+                    "pageId": "cdd-specialised-due-diligence",
+                    "payload": null,
+                    "primaryKey": null,
+                    "subType": null,
+                    "type": null
+                },
+                {
+                    "code": "CDD055",
+                    "fatcaStatus": null,
+                    "fieldId": "in_trades_rough_diamonds",
+                    "message": "\u0027Does the entity trade in rough diamonds?\u0027 is required",
+                    "pageId": "cdd-specialised-due-diligence",
+                    "payload": null,
+                    "primaryKey": null,
+                    "subType": null,
+                    "type": null
+                },
+                {
+                    "code": "CDD052",
+                    "fatcaStatus": null,
+                    "fieldId": "in_PIC",
+                    "message": "\u0027Is this client a Personal Investment Company (PIC)?\u0027 is required",
+                    "pageId": "cdd-specialised-due-diligence",
+                    "payload": null,
+                    "primaryKey": null,
+                    "subType": null,
+                    "type": null
+                },
+                {
+                    "code": "CDD034",
+                    "fatcaStatus": null,
+                    "fieldId": "in_ad_media_news",
+                    "message": "\u0027Is there any Adverse Media news on the client and / or its related entities? \u0027 is required",
+                    "pageId": "cdd-specialised-due-diligence",
+                    "payload": null,
+                    "primaryKey": null,
+                    "subType": null,
+                    "type": null
+                },
+                {
+                    "code": "FAC001",
+                    "fatcaStatus": null,
+                    "fieldId": "FATCA_infos",
+                    "message": "There is no FATCA status selected for this client. The case cannot be submitted without a FATCA status.",
+                    "pageId": "cdd-fatca-details",
+                    "payload": null,
+                    "primaryKey": null,
+                    "subType": null,
+                    "type": null
+                }
+            ],
+            "fsHeader": {
+                "consumerPayload": {
+                    "sessionId": "b6ba5d83-068d-422b-a0d8-f532e7ff96e5",
+                    "rulebaseName": "CDD",
+                    "rulebaseVersion": "1.0",
+                    "userId": "77777777",
+                    "requestType": "GetScreen",
+                    "caseId": "CDD00608457",
+                    "caseVersion": "1.0",
+                    "module": "ECDD"
+                },
+                "id": "-1"
+            },
+            "fsPages": [
+                "pre-screening",
+                "cdd-client-information",
+                "cdd-customer-due-diligence",
+                "cdd-products-and-services",
+                "cdd-specialised-due-diligence",
+                "cdd-fatca-details",
+                "cdd-confirmation",
+                "cdd-summary"
+            ],
+            "fsProperties": [
+                {
+                    "key": "tooltip_text",
+                    "text": ""
+                },
+                {
+                    "key": "refresh_reference_data",
+                    "text": "True"
+                },
+                {
+                    "key": "is_commentable",
+                    "text": "True"
+                },
+                {
+                    "key": "page_layout",
+                    "text": "VERTICAL"
+                },
+                {
+                    "key": "page_route",
+                    "text": "cdd-customer-due-diligence"
+                },
+                {
+                    "key": "refresh_recommend_risk",
+                    "text": "False"
+                }
+            ],
+            "id": "J55R1#CDD00608457#1.0",
+            "isOpa": true,
+            "label": "On-Boarding",
+            "message": {
+                "level": "info",
+                "message": null
+            },
+            "messageData": {
+                "caseVersion": "1.0",
+                "requestId": "J55R1",
+                "caseId": "CDD00608457",
+                "requestType": "ACO"
+            },
+            "readOnly": null,
+            "redirectToPage": "cdd-customer-due-diligence",
+            "showValidations": true,
+            "unauthorized": false,
+            "visible": true
+        }
+    ],
+    "fsPages": [
+        {
+            "commentCount": 0,
+            "commentable": false,
+            "disable": null,
+            "errors": null,
+            "fsButtons": [
+
+            ],
+            "fsHeader": null,
+            "fsProperties": null,
+            "fsSections": [
+
+            ],
+            "hasErrors": false,
+            "id": "pre-screening",
+            "isOpa": true,
+            "isPageLoaded": false,
+            "label": "PreScreening",
+            "layout": "vertical",
+            "pageId": "qs$scr_Defence_Goods_prescreening_1$global$global",
+            "readOnly": false,
+            "transition": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": false,
+            "disable": null,
+            "errors": null,
+            "fsButtons": [
+
+            ],
+            "fsHeader": null,
+            "fsProperties": null,
+            "fsSections": [
+
+            ],
+            "hasErrors": true,
+            "id": "cdd-client-information",
+            "isOpa": true,
+            "isPageLoaded": false,
+            "label": "Client Information",
+            "layout": "vertical",
+            "pageId": "qs$scr_CDD_client_info_1$global$global",
+            "readOnly": false,
+            "transition": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": true,
+            "disable": null,
+            "errors": [
+
+            ],
+            "fsButtons": [
+                "cdd-customer-due-diligence_button_0",
+                "cdd-customer-due-diligence_button_1",
+                "cdd-customer-due-diligence_button_2",
+                "cdd-customer-due-diligence_button_3",
+                "cdd-customer-due-diligence_button_4"
+            ],
+            "fsHeader": {
+                "consumerPayload": {
+                    "sessionId": "b6ba5d83-068d-422b-a0d8-f532e7ff96e5",
+                    "rulebaseName": "CDD",
+                    "rulebaseVersion": "1.0",
+                    "userId": "77777777",
+                    "requestType": "GetScreen",
+                    "caseId": "CDD00608457",
+                    "caseVersion": "1.0",
+                    "module": "ECDD"
+                },
+                "id": "-1"
+            },
+            "fsProperties": [
+                {
+                    "key": "tooltip_text",
+                    "text": ""
+                },
+                {
+                    "key": "refresh_reference_data",
+                    "text": "True"
+                },
+                {
+                    "key": "is_commentable",
+                    "text": "True"
+                },
+                {
+                    "key": "page_layout",
+                    "text": "VERTICAL"
+                },
+                {
+                    "key": "page_route",
+                    "text": "cdd-customer-due-diligence"
+                },
+                {
+                    "key": "refresh_recommend_risk",
+                    "text": "False"
+                }
+            ],
+            "fsSections": [
+                "cdd-customer-due-diligence_0",
+                "cdd-customer-due-diligence_1",
+                "cdd-customer-due-diligence_2",
+                "cdd-customer-due-diligence_3",
+                "cdd-customer-due-diligence_4",
+                "cdd-customer-due-diligence_5",
+                "cdd-customer-due-diligence_6",
+                "cdd-customer-due-diligence_7",
+                "cdd-customer-due-diligence_8"
+            ],
+            "hasErrors": true,
+            "id": "cdd-customer-due-diligence",
+            "isOpa": true,
+            "isPageLoaded": true,
+            "label": "Customer Due Diligence",
+            "layout": "vertical",
+            "pageId": "qs$scr_CDD_CDD_2$global$global",
+            "readOnly": false,
+            "transition": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": false,
+            "disable": null,
+            "errors": null,
+            "fsButtons": [
+
+            ],
+            "fsHeader": null,
+            "fsProperties": null,
+            "fsSections": [
+
+            ],
+            "hasErrors": true,
+            "id": "cdd-products-and-services",
+            "isOpa": true,
+            "isPageLoaded": false,
+            "label": "Product and Services",
+            "layout": "vertical",
+            "pageId": "qs$scr_CDD_products_services_3$global$global",
+            "readOnly": false,
+            "transition": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": false,
+            "disable": null,
+            "errors": null,
+            "fsButtons": [
+
+            ],
+            "fsHeader": null,
+            "fsProperties": null,
+            "fsSections": [
+
+            ],
+            "hasErrors": true,
+            "id": "cdd-specialised-due-diligence",
+            "isOpa": true,
+            "isPageLoaded": false,
+            "label": "Specialised Due Diligence",
+            "layout": "vertical",
+            "pageId": "qs$scr_CDD_specDD_4$global$global",
+            "readOnly": false,
+            "transition": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": false,
+            "disable": null,
+            "errors": null,
+            "fsButtons": [
+
+            ],
+            "fsHeader": null,
+            "fsProperties": null,
+            "fsSections": [
+
+            ],
+            "hasErrors": true,
+            "id": "cdd-fatca-details",
+            "isOpa": true,
+            "isPageLoaded": false,
+            "label": "FATCA Details",
+            "layout": "vertical",
+            "pageId": "qs$scr_CDD_FATCA_details_9$global$global",
+            "readOnly": false,
+            "transition": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": false,
+            "disable": null,
+            "errors": null,
+            "fsButtons": [
+
+            ],
+            "fsHeader": null,
+            "fsProperties": null,
+            "fsSections": [
+
+            ],
+            "hasErrors": false,
+            "id": "cdd-confirmation",
+            "isOpa": true,
+            "isPageLoaded": false,
+            "label": "Confirmation",
+            "layout": "vertical",
+            "pageId": "qs$scr_CDD_confirmation_10$global$global",
+            "readOnly": false,
+            "transition": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "commentable": false,
+            "disable": null,
+            "errors": null,
+            "fsButtons": [
+
+            ],
+            "fsHeader": null,
+            "fsProperties": null,
+            "fsSections": [
+
+            ],
+            "hasErrors": false,
+            "id": "cdd-summary",
+            "isOpa": true,
+            "isPageLoaded": false,
+            "label": "CDD Summary",
+            "layout": "vertical",
+            "pageId": "qs$scr_CDD_summary_12$global$global",
+            "readOnly": false,
+            "transition": null,
+            "visible": true
+        }
+    ],
+    "fsSections": [
+        {
+            "commentCount": 0,
+            "disable": null,
+            "fsFields": [
+                "cdd-customer-due-diligence_0_0",
+                "cdd-customer-due-diligence_0_1",
+                "cdd-customer-due-diligence_0_2",
+                "cdd-customer-due-diligence_0_3",
+                "cdd-customer-due-diligence_0_4",
+                "cdd-customer-due-diligence_0_5",
+                "cdd-customer-due-diligence_0_6"
+            ],
+            "id": "cdd-customer-due-diligence_0",
+            "isOpa": true,
+            "label": "",
+            "layout": "vertical",
+            "readOnly": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "disable": null,
+            "fsFields": [
+                "cdd-customer-due-diligence_1_0"
+            ],
+            "id": "cdd-customer-due-diligence_1",
+            "isOpa": true,
+            "label": "",
+            "layout": "vertical",
+            "readOnly": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "disable": null,
+            "fsFields": [
+                "cdd-customer-due-diligence_2_0",
+                "cdd-customer-due-diligence_2_1",
+                "cdd-customer-due-diligence_2_2",
+                "cdd-customer-due-diligence_2_3",
+                "cdd-customer-due-diligence_2_4",
+                "cdd-customer-due-diligence_2_5"
+            ],
+            "id": "cdd-customer-due-diligence_2",
+            "isOpa": true,
+            "label": "Full Registered Address in Country of Establishment/Incorporation including Country",
+            "layout": "2Col",
+            "readOnly": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "disable": null,
+            "fsFields": [
+                "cdd-customer-due-diligence_3_0",
+                "cdd-customer-due-diligence_3_1",
+                "cdd-customer-due-diligence_3_2",
+                "cdd-customer-due-diligence_3_3",
+                "cdd-customer-due-diligence_3_4",
+                "cdd-customer-due-diligence_3_5",
+                "cdd-customer-due-diligence_3_6",
+                "cdd-customer-due-diligence_3_7"
+            ],
+            "id": "cdd-customer-due-diligence_3",
+            "isOpa": true,
+            "label": "Full Operating Address (the correspondence address and/or the address for where the operations of the customer are managed)",
+            "layout": "2Col",
+            "readOnly": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "disable": null,
+            "fsFields": [
+                "cdd-customer-due-diligence_4_0"
+            ],
+            "id": "cdd-customer-due-diligence_4",
+            "isOpa": true,
+            "label": "",
+            "layout": "2Col",
+            "readOnly": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "disable": null,
+            "fsFields": [
+                "cdd-customer-due-diligence_5_0",
+                "cdd-customer-due-diligence_5_1",
+                "cdd-customer-due-diligence_5_2",
+                "cdd-customer-due-diligence_5_3",
+                "cdd-customer-due-diligence_5_4"
+            ],
+            "id": "cdd-customer-due-diligence_5",
+            "isOpa": true,
+            "label": "Parent Company or Group Legal Entity Information",
+            "layout": "vertical",
+            "readOnly": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "disable": null,
+            "fsFields": [
+                "cdd-customer-due-diligence_6_0",
+                "cdd-customer-due-diligence_6_1",
+                "cdd-customer-due-diligence_6_2",
+                "cdd-customer-due-diligence_6_3",
+                "cdd-customer-due-diligence_6_4"
+            ],
+            "id": "cdd-customer-due-diligence_6",
+            "isOpa": true,
+            "label": "Registered Address in Country of Establishment",
+            "layout": "2Col",
+            "readOnly": null,
+            "visible": false
+        },
+        {
+            "commentCount": 0,
+            "disable": null,
+            "fsFields": [
+                "cdd-customer-due-diligence_7_0",
+                "cdd-customer-due-diligence_7_1",
+                "cdd-customer-due-diligence_7_2",
+                "cdd-customer-due-diligence_7_3",
+                "cdd-customer-due-diligence_7_4",
+                "cdd-customer-due-diligence_7_5",
+                "cdd-customer-due-diligence_7_6",
+                "cdd-customer-due-diligence_7_7",
+                "cdd-customer-due-diligence_7_8",
+                "cdd-customer-due-diligence_7_9",
+                "cdd-customer-due-diligence_7_10",
+                "cdd-customer-due-diligence_7_11",
+                "cdd-customer-due-diligence_7_12",
+                "cdd-customer-due-diligence_7_13",
+                "cdd-customer-due-diligence_7_14",
+                "cdd-customer-due-diligence_7_15",
+                "cdd-customer-due-diligence_7_16"
+            ],
+            "id": "cdd-customer-due-diligence_7",
+            "isOpa": true,
+            "label": "Describe Client\u0027s Nature of Business and Business Activities",
+            "layout": "vertical",
+            "readOnly": null,
+            "visible": true
+        },
+        {
+            "commentCount": 0,
+            "disable": null,
+            "fsFields": [
+                "cdd-customer-due-diligence_8_0",
+                "cdd-customer-due-diligence_8_1",
+                "cdd-customer-due-diligence_8_2",
+                "cdd-customer-due-diligence_8_3",
+                "cdd-customer-due-diligence_8_4",
+                "cdd-customer-due-diligence_8_5",
+                "cdd-customer-due-diligence_8_6",
+                "cdd-customer-due-diligence_8_7",
+                "cdd-customer-due-diligence_8_8",
+                "cdd-customer-due-diligence_8_9",
+                "cdd-customer-due-diligence_8_10",
+                "cdd-customer-due-diligence_8_11",
+                "cdd-customer-due-diligence_8_12",
+                "cdd-customer-due-diligence_8_13"
+            ],
+            "id": "cdd-customer-due-diligence_8",
+            "isOpa": true,
+            "label": "Risk questions",
+            "layout": "vertical",
+            "readOnly": null,
+            "visible": true
+        }
+    ]
+}

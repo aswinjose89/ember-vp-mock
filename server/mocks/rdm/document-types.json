@@ -1,0 +1,12 @@
+{
+  "documentTypes": [
+    {
+      "code": "CUSTOMER",
+      "description": "CUSTOMER"
+    },
+    {
+      "code": "INDIVIDUAL",
+      "description": "INDIVIDUAL"
+    }
+  ]
+}

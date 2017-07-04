@@ -1,0 +1,62 @@
+{
+    "reports": {
+        "id": 1,
+        "rpCntByCat": [{
+            "category": "ENTITY",
+            "splitCategory": "",
+            "count": 150
+        }, {
+            "category": "INDIVIDUAL",
+            "splitCategory": "",
+            "count": 150
+        }],
+        "rpAsClnCnt": 2,
+        "rpCntByCatMon": [{
+            "category": "INDIVIDUAL",
+            "splitCategory": "JAN-16",
+            "count": 2
+        }, {
+            "category": "ENTITY",
+            "splitCategory": "NOV-15",
+            "count": 200
+        }, {
+            "category": "ENTITY",
+            "splitCategory": "JAN-16",
+            "count": 1
+        }, {
+            "category": "INDIVIDUAL",
+            "splitCategory": "DEC-15",
+            "count": 6
+        }, {
+            "category": "ENTITY",
+            "splitCategory": "DEC-15",
+            "count": 1
+        }, {
+            "category": "INDIVIDUAL",
+            "splitCategory": "NOV-15",
+            "count": 199
+        }],
+        "caseCntByStatus": [{
+            "category": "PENDING-INITIATION",
+            "splitCategory": "",
+            "count": 1
+        }, {
+            "category": "INPROGRESS-MADE",
+            "splitCategory": "",
+            "count": 1
+        }, {
+            "category": "INPROGRESS-INITIATED",
+            "splitCategory": "",
+            "count": 5
+        }],
+        "rpAsClntCntBySrc": [{
+            "category": "INDIVIDUAL",
+            "splitCategory": "eCDD+",
+            "count": 1
+        }, {
+            "category": "ENTITY",
+            "splitCategory": "eCDD+",
+            "count": 1
+        }]
+    }
+}

@@ -1,0 +1,622 @@
+{
+  "groupDetails": {
+    "id": 1,
+    "clientCount": null,
+    "groupId": "990012229",
+    "groupName": "GRP NAME 990012229",
+    "region": null,
+    "domicileCountry": null,
+    "segment": "ME",
+    "subSegment": "03",
+    "gts": {
+      "id": 12,
+      "empCode": "LF22",
+      "empBookingLocation": "TH/SCBL",
+      "empPsId": "1234562",
+      "empName": "Basheer Pitt",
+      "empCountry": "SG",
+      "empRole": "GTS"
+    },
+    "inflight": {
+      "id": 1,
+      "documentId": [],
+      "uiUserToken": null,
+      "actionType": "Add GTS",
+      "roleType": "GTS",
+      "activityId": 1234,
+      "taskId": 3456,
+      "initiatedOn": null,
+      "location": "TH/SCBL",
+      "comments": [],
+      "initiatedBy": {
+        "id": 2,
+        "empCode": "LF22",
+        "empBookingLocation": "SG/SCBL",
+        "empPsId": "1213507",
+        "empName": "Nikhil Vaswani",
+        "empCountry": "SG",
+        "empRole": "TBS"
+      },
+      "exSalesPerson": [],
+      "salesPerson": {
+        "id": 3,
+        "empCode": "LF22",
+        "empBookingLocation": "SG/SCBL",
+        "empPsId": "1213507",
+        "empName": "Ramesh Test",
+        "empCountry": "SG",
+        "empRole": "TBS"
+      },
+      "entityIdList": null
+    },
+    "clients": [
+      {
+        "id": 1,
+        "clientId": "11000175",
+        "clientName": "L NAME 11000175",
+        "groupId": "990012746",
+        "groupName": "GRP NAME 990012746",
+        "region": null,
+        "domicileCountry": "Singapore",
+        "segment": "33",
+        "subSegment": "55",
+        "inflightException":true,
+        "tbs": [
+          {
+            "id": 1,
+            "empCode": "LF22",
+            "empBookingLocation": "SG/SCBL",
+            "empPsId": "1234561",
+            "empName": "Bradley Pitt",
+            "empCountry": "SG",
+            "empRole": "TBS"
+          },
+          {
+            "id": 2,
+            "empCode": "LF22",
+            "empBookingLocation": "SG/SCBL",
+            "empPsId": "1213507",
+            "empName": "Nikhil Vaswani",
+            "empCountry": "SG",
+            "empRole": "TBS"
+          }
+        ],
+        "rts": [
+          {
+            "id": 1,
+            "empCode": "LF22",
+            "empBookingLocation": "SG/SCBL",
+            "empPsId": "1234561",
+            "empName": "Bradley Pitt",
+            "empCountry": "SG",
+            "empRole": "TBS"
+          },
+          {
+            "id": 2,
+            "empCode": "LF22",
+            "empBookingLocation": "SG/SCBL",
+            "empPsId": "1213507",
+            "empName": "Nikhil Vaswani",
+            "empCountry": "SG",
+            "empRole": "TBS"
+          }
+        ],
+        "inflight": [
+          {
+            "id": 11,
+            "documentId": [],
+            "uiUserToken": null,
+            "actionType": "Add RTS",
+            "roleType": "RTS",
+            "activityId": 1234,
+            "taskId": 3456,
+            "initiatedOn": null,
+            "location": "SG/SCBL",
+            "comments": [],
+            "initiatedBy": {
+              "id": 2,
+              "empCode": "LF22",
+              "empBookingLocation": "SG/SCBL",
+              "empPsId": "1213507",
+              "empName": "Nikhil Vaswani",
+              "empCountry": "SG",
+              "empRole": "TBS"
+            },
+            "exSalesPerson": [],
+            "salesPerson": {
+              "id": 3,
+              "empCode": "LF22",
+              "empBookingLocation": "SG/SCBL",
+              "empPsId": "1213507",
+              "empName": "Ramesh Test",
+              "empCountry": "SG",
+              "empRole": "TBS"
+            },
+            "entityIdList": null,
+            "exceptionSummary":[{"code":"1","description": "Many TBS per Client"},{"code":"2","description": "More than one TBS in a single booking location per Client"} ]
+          },
+          {
+            "id": 1,
+            "documentId": [],
+            "uiUserToken": null,
+            "actionType": "Add TBS",
+            "roleType": "TBS",
+            "activityId": 12345,
+            "taskId": 34565,
+            "initiatedOn": null,
+            "location": "MY/SCBL",
+            "comments": [],
+            "initiatedBy": {
+              "id": 14,
+              "empCode": "LF22",
+              "empBookingLocation": "SG/SCBL",
+              "empPsId": "1213507",
+              "empName": "Ved Vaswani",
+              "empCountry": "SG",
+              "empRole": "TBS"
+            },
+            "exSalesPerson": [],
+            "salesPerson": {
+              "id": 3,
+              "empCode": "LF22",
+              "empBookingLocation": "SG/SCBL",
+              "empPsId": "1213507",
+              "empName": "Ganesh Test",
+              "empCountry": "SG",
+              "empRole": "TBS"
+            },
+            "entityIdList": null
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "clientId": "11000175",
+        "clientName": "J P Morgan Bank",
+        "groupId": "990012741",
+        "groupName": "J P Morgan",
+        "region": null,
+        "domicileCountry": "Singapore",
+        "segment": "33",
+        "subSegment": "55",
+        "tbs": [
+          {
+            "id": 1,
+            "empCode": "LF22",
+            "empBookingLocation": "SG/SCBL",
+            "empPsId": "1234561",
+            "empName": "Bradley Pitt",
+            "empCountry": "SG",
+            "empRole": "TBS"
+          },
+          {
+            "id": 2,
+            "empCode": "LF22",
+            "empBookingLocation": "SG/SCBL",
+            "empPsId": "1213507",
+            "empName": "Nikhil Vaswani",
+            "empCountry": "SG",
+            "empRole": "TBS"
+          }
+        ],
+        "rts": [
+          {
+            "id": 1,
+            "empCode": "LF22",
+            "empBookingLocation": "SG/SCBL",
+            "empPsId": "1234561",
+            "empName": "Bradley Pitt",
+            "empCountry": "SG",
+            "empRole": "TBS"
+          },
+          {
+            "id": 2,
+            "empCode": "LF22",
+            "empBookingLocation": "SG/SCBL",
+            "empPsId": "1213507",
+            "empName": "Nikhil Vaswani",
+            "empCountry": "SG",
+            "empRole": "TBS"
+          }
+        ],
+        "inflight": [
+          {
+            "id": 11,
+            "documentId": [],
+            "uiUserToken": null,
+            "actionType": "Add RTS",
+            "roleType": "RTS",
+            "activityId": 1234,
+            "taskId": 3456,
+            "initiatedOn": null,
+            "location": "SG/SCBL",
+            "comments": [],
+            "initiatedBy": {
+              "id": 2,
+              "empCode": "LF22",
+              "empBookingLocation": "SG/SCBL",
+              "empPsId": "1213507",
+              "empName": "Nikhil Vaswani",
+              "empCountry": "SG",
+              "empRole": "TBS"
+            },
+            "exSalesPerson": [],
+            "salesPerson": {
+              "id": 3,
+              "empCode": "LF22",
+              "empBookingLocation": "SG/SCBL",
+              "empPsId": "1213507",
+              "empName": "Ramesh Test",
+              "empCountry": "SG",
+              "empRole": "TBS"
+            },
+            "entityIdList": null
+          },
+          {
+            "id": 1,
+            "documentId": [],
+            "uiUserToken": null,
+            "actionType": "Add TBS",
+            "roleType": "TBS",
+            "activityId": 12345,
+            "taskId": 34565,
+            "initiatedOn": null,
+            "location": "MY/SCBL",
+            "comments": [],
+            "initiatedBy": {
+              "id": 14,
+              "empCode": "LF22",
+              "empBookingLocation": "SG/SCBL",
+              "empPsId": "1213507",
+              "empName": "Ved Vaswani",
+              "empCountry": "SG",
+              "empRole": "TBS"
+            },
+            "exSalesPerson": [],
+            "salesPerson": {
+              "id": 3,
+              "empCode": "LF22",
+              "empBookingLocation": "SG/SCBL",
+              "empPsId": "1213507",
+              "empName": "Ganesh Test",
+              "empCountry": "SG",
+              "empRole": "TBS"
+            },
+            "entityIdList": null
+          },
+          {
+            "id": 3,
+            "documentId": [],
+            "uiUserToken": null,
+            "actionType": "Add TBS",
+            "roleType": "TBS",
+            "activityId": 12345,
+            "taskId": 34565,
+            "initiatedOn": null,
+            "location": "MY/SCBL",
+            "comments": [],
+            "initiatedBy": {
+              "id": 14,
+              "empCode": "LF22",
+              "empBookingLocation": "SG/SCBL",
+              "empPsId": "1213507",
+              "empName": "Ved Vaswani",
+              "empCountry": "SG",
+              "empRole": "TBS"
+            },
+            "exSalesPerson": [],
+            "salesPerson": {
+              "id": 3,
+              "empCode": "LF22",
+              "empBookingLocation": "SG/SCBL",
+              "empPsId": "1213507",
+              "empName": "Ganesh Test",
+              "empCountry": "SG",
+              "empRole": "TBS"
+            },
+            "entityIdList": null
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "clientId": "11000176",
+        "clientName": "ANZ Bank",
+        "groupId": "990012741",
+        "groupName": "ANZ",
+        "region": null,
+        "domicileCountry": "Australia",
+        "segment": "33",
+        "subSegment": "55",
+        "tbs": [
+          {
+            "id": 1,
+            "empCode": "LF22",
+            "empBookingLocation": "SG/SCBL",
+            "empPsId": "1234561",
+            "empName": "Bradley Pitt",
+            "empCountry": "SG",
+            "empRole": "TBS"
+          },
+          {
+            "id": 2,
+            "empCode": "LF22",
+            "empBookingLocation": "SG/SCBL",
+            "empPsId": "1213507",
+            "empName": "Nikhil Vaswani",
+            "empCountry": "SG",
+            "empRole": "TBS"
+          }
+        ],
+        "rts": [
+          {
+            "id": 1,
+            "empCode": "LF22",
+            "empBookingLocation": "SG/SCBL",
+            "empPsId": "1234561",
+            "empName": "Bradley Pitt",
+            "empCountry": "SG",
+            "empRole": "TBS"
+          },
+          {
+            "id": 2,
+            "empCode": "LF22",
+            "empBookingLocation": "SG/SCBL",
+            "empPsId": "1213507",
+            "empName": "Nikhil Vaswani",
+            "empCountry": "SG",
+            "empRole": "TBS"
+          }
+        ],
+        "inflight": [
+          {
+            "id": 11,
+            "documentId": [],
+            "uiUserToken": null,
+            "actionType": "Add RTS",
+            "roleType": "RTS",
+            "activityId": 1234,
+            "taskId": 3456,
+            "initiatedOn": null,
+            "location": "SG/SCBL",
+            "comments": [],
+            "initiatedBy": {
+              "id": 2,
+              "empCode": "LF22",
+              "empBookingLocation": "SG/SCBL",
+              "empPsId": "1213507",
+              "empName": "Nikhil Vaswani",
+              "empCountry": "SG",
+              "empRole": "TBS"
+            },
+            "exSalesPerson": [],
+            "salesPerson": {
+              "id": 3,
+              "empCode": "LF22",
+              "empBookingLocation": "SG/SCBL",
+              "empPsId": "1213507",
+              "empName": "Ramesh Test",
+              "empCountry": "SG",
+              "empRole": "TBS"
+            },
+            "entityIdList": null
+          },
+          {
+            "id": 1,
+            "documentId": [],
+            "uiUserToken": null,
+            "actionType": "Add TBS",
+            "roleType": "TBS",
+            "activityId": 12345,
+            "taskId": 34565,
+            "initiatedOn": null,
+            "location": "MY/SCBL",
+            "comments": [],
+            "initiatedBy": {
+              "id": 14,
+              "empCode": "LF22",
+              "empBookingLocation": "SG/SCBL",
+              "empPsId": "1213507",
+              "empName": "Ved Vaswani",
+              "empCountry": "SG",
+              "empRole": "TBS"
+            },
+            "exSalesPerson": [],
+            "salesPerson": {
+              "id": 3,
+              "empCode": "LF22",
+              "empBookingLocation": "SG/SCBL",
+              "empPsId": "1213507",
+              "empName": "Ganesh Test",
+              "empCountry": "SG",
+              "empRole": "TBS"
+            },
+            "entityIdList": null
+          },
+          {
+            "id": 3,
+            "documentId": [],
+            "uiUserToken": null,
+            "actionType": "Add TBS",
+            "roleType": "TBS",
+            "activityId": 12345,
+            "taskId": 34565,
+            "initiatedOn": null,
+            "location": "MY/SCBL",
+            "comments": [],
+            "initiatedBy": {
+              "id": 14,
+              "empCode": "LF22",
+              "empBookingLocation": "SG/SCBL",
+              "empPsId": "1213507",
+              "empName": "Ved Vaswani",
+              "empCountry": "SG",
+              "empRole": "TBS"
+            },
+            "exSalesPerson": [],
+            "salesPerson": {
+              "id": 3,
+              "empCode": "LF22",
+              "empBookingLocation": "SG/SCBL",
+              "empPsId": "1213507",
+              "empName": "Ganesh Test",
+              "empCountry": "SG",
+              "empRole": "TBS"
+            },
+            "entityIdList": null
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "clientId": "11000177",
+        "clientName": "Morgan Stanley Bank",
+        "groupId": "990012741",
+        "groupName": "J P Morgan",
+        "region": null,
+        "domicileCountry": "Singapore",
+        "segment": "33",
+        "subSegment": "55",
+        "tbs": [
+          {
+            "id": 1,
+            "empCode": "LF22",
+            "empBookingLocation": "SG/SCBL",
+            "empPsId": "1234561",
+            "empName": "Bradley Pitt",
+            "empCountry": "SG",
+            "empRole": "TBS"
+          },
+          {
+            "id": 2,
+            "empCode": "LF22",
+            "empBookingLocation": "SG/SCBL",
+            "empPsId": "1213507",
+            "empName": "Nikhil Vaswani",
+            "empCountry": "SG",
+            "empRole": "TBS"
+          }
+        ],
+        "rts": [
+          {
+            "id": 1,
+            "empCode": "LF22",
+            "empBookingLocation": "SG/SCBL",
+            "empPsId": "1234561",
+            "empName": "Bradley Pitt",
+            "empCountry": "SG",
+            "empRole": "TBS"
+          },
+          {
+            "id": 2,
+            "empCode": "LF22",
+            "empBookingLocation": "SG/SCBL",
+            "empPsId": "1213507",
+            "empName": "Nikhil Vaswani",
+            "empCountry": "SG",
+            "empRole": "TBS"
+          }
+        ],
+        "inflight": [
+          {
+            "id": 11,
+            "documentId": [],
+            "uiUserToken": null,
+            "actionType": "Add RTS",
+            "roleType": "RTS",
+            "activityId": 1234,
+            "taskId": 3456,
+            "initiatedOn": null,
+            "location": "SG/SCBL",
+            "comments": [],
+            "initiatedBy": {
+              "id": 2,
+              "empCode": "LF22",
+              "empBookingLocation": "SG/SCBL",
+              "empPsId": "1213507",
+              "empName": "Nikhil Vaswani",
+              "empCountry": "SG",
+              "empRole": "TBS"
+            },
+            "exSalesPerson": [],
+            "salesPerson": {
+              "id": 3,
+              "empCode": "LF22",
+              "empBookingLocation": "SG/SCBL",
+              "empPsId": "1213507",
+              "empName": "Ramesh Test",
+              "empCountry": "SG",
+              "empRole": "TBS"
+            },
+            "entityIdList": null
+          },
+          {
+            "id": 1,
+            "documentId": [],
+            "uiUserToken": null,
+            "actionType": "Add TBS",
+            "roleType": "TBS",
+            "activityId": 12345,
+            "taskId": 34565,
+            "initiatedOn": null,
+            "location": "MY/SCBL",
+            "comments": [],
+            "initiatedBy": {
+              "id": 14,
+              "empCode": "LF22",
+              "empBookingLocation": "SG/SCBL",
+              "empPsId": "1213507",
+              "empName": "Ved Vaswani",
+              "empCountry": "SG",
+              "empRole": "TBS"
+            },
+            "exSalesPerson": [],
+            "salesPerson": {
+              "id": 3,
+              "empCode": "LF22",
+              "empBookingLocation": "SG/SCBL",
+              "empPsId": "1213507",
+              "empName": "Ganesh Test",
+              "empCountry": "SG",
+              "empRole": "TBS"
+            },
+            "entityIdList": null
+          },
+          {
+            "id": 3,
+            "documentId": [],
+            "uiUserToken": null,
+            "actionType": "Add TBS",
+            "roleType": "TBS",
+            "activityId": 12345,
+            "taskId": 34565,
+            "initiatedOn": null,
+            "location": "MY/SCBL",
+            "comments": [],
+            "initiatedBy": {
+              "id": 14,
+              "empCode": "LF22",
+              "empBookingLocation": "SG/SCBL",
+              "empPsId": "1213507",
+              "empName": "Ved Vaswani",
+              "empCountry": "SG",
+              "empRole": "TBS"
+            },
+            "exSalesPerson": [],
+            "salesPerson": {
+              "id": 3,
+              "empCode": "LF22",
+              "empBookingLocation": "SG/SCBL",
+              "empPsId": "1213507",
+              "empName": "Ganesh Test",
+              "empCountry": "SG",
+              "empRole": "TBS"
+            },
+            "entityIdList": null
+          }
+        ]
+      }
+
+    ]
+  }
+}

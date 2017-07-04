@@ -1,0 +1,806 @@
+{
+   "feeBookingRowList":    [
+            {
+         "feeBookingId": "20150617100863404",
+         "uniqueId": "DEAL-CM-2015-06-861461 FB 2",
+         "product": "DCM",
+         "subProduct": "G3 High Yield",
+         "status": "Queried",
+         "createdDate": 1434537310008,
+         "createdBy": "Siddiqi, Fatima",
+         "lastUpdatedDate": 1434623818061,
+         "lastUpdatedBy": "Siddiqi, Fatima",
+         "entitlementStr": "-",
+         "structure": "0148",
+         "dealCurrency": "AFN",
+         "tenor": "12",
+         "draftView": false,
+         "entitlement": null,
+         "productsForToolTip":          {
+            "primary": null,
+            "subValues": null
+         },
+         "structuresList": ["RMBS/CMBS"],
+         "structuresToolTip":          {
+            "primary": "RMBS/CMBS",
+            "subValues": []
+         },
+         "tenorList": [         {
+            "key": "RMBS/CMBS",
+            "values": "12"
+         }],
+         "tenorsToolTip":          {
+            "primary": "12",
+            "subValues": []
+         },
+         "dealCurrencyList": [         {
+            "key": "RMBS/CMBS",
+            "values": "AFN"
+         }],
+         "dealCurrencyToolTip":          {
+            "primary": "AFN",
+            "subValues": []
+         }
+      },
+            {
+         "feeBookingId": "20150622100863592",
+         "uniqueId": "DEAL-CM-2015-06-861461 FB 6",
+         "product": "DCM",
+         "subProduct": "G3 High Yield",
+         "status": "Queried",
+         "createdDate": 1434972179548,
+         "createdBy": "Karungi, Carol",
+         "lastUpdatedDate": 1434972427409,
+         "lastUpdatedBy": "Karungi, Carol",
+         "entitlementStr": "-",
+         "structure": "0148",
+         "dealCurrency": "AFN",
+         "tenor": "1200",
+         "draftView": false,
+         "entitlement": null,
+         "productsForToolTip":          {
+            "primary": null,
+            "subValues": null
+         },
+         "structuresList": ["RMBS/CMBS"],
+         "structuresToolTip":          {
+           "primary": "RMBS/CMBS",
+            "subValues": []
+         },
+         "tenorList": [         {
+            "key": "RMBS/CMBS",
+            "values": "1200"
+         }],
+         "tenorsToolTip":          {
+            "primary": "1200",
+            "subValues": []
+         },
+         "dealCurrencyList": [         {
+            "key": "RMBS/CMBS",
+            "values": "AFN"
+         }],
+         "dealCurrencyToolTip":          {
+            "primary": "AFN",
+            "subValues": []
+         }
+      },
+            {
+         "feeBookingId": "20150701100863868",
+         "uniqueId": "DEAL-CM-2015-06-861461 FB 14",
+         "product": "DCM",
+         "subProduct": "G3 High Yield",
+         "status": "Draft",
+         "createdDate": 1435729627276,
+         "createdBy": "Chaudron, Cedric Louis Robert",
+         "lastUpdatedDate": 1435729627338,
+         "lastUpdatedBy": "Chaudron, Cedric Louis Robert",
+         "entitlementStr": "-",
+         "structure": null,
+         "dealCurrency": null,
+         "tenor": null,
+         "draftView": false,
+         "entitlement": null,
+         "productsForToolTip":          {
+            "primary": null,
+            "subValues": null
+         },
+         "structuresList": [],
+         "structuresToolTip":          {
+            "primary": "",
+            "subValues": []
+         },
+         "tenorList": [],
+         "tenorsToolTip":          {
+            "primary": "",
+            "subValues": []
+         },
+         "dealCurrencyList": [],
+         "dealCurrencyToolTip":          {
+            "primary": "",
+            "subValues": []
+         }
+      },
+            {
+         "feeBookingId": "20150716100864564",
+         "uniqueId": "DEAL-CM-2015-06-861461 FB 16",
+         "product": "DCM",
+         "subProduct": "G3 High Yield",
+         "status": "Draft",
+         "createdDate": 1437053241790,
+         "createdBy": "Chaudron, Cedric Louis Robert",
+         "lastUpdatedDate": 1437053242007,
+         "lastUpdatedBy": "Chaudron, Cedric Louis Robert",
+         "entitlementStr": "-",
+         "structure": "0148",
+         "dealCurrency": "AFN",
+         "tenor": "1200",
+         "draftView": false,
+         "entitlement": null,
+         "productsForToolTip":          {
+            "primary": null,
+            "subValues": null
+         },
+         "structuresList": ["RMBS/CMBS"],
+         "structuresToolTip":          {
+            "primary": "RMBS/CMBS",
+            "subValues": []
+         },
+         "tenorList": [         {
+            "key": "RMBS/CMBS",
+            "values": "1200"
+         }],
+         "tenorsToolTip":          {
+            "primary": "1200",
+            "subValues": []
+         },
+         "dealCurrencyList": [         {
+            "key": "RMBS/CMBS",
+            "values": "AFN"
+         }],
+         "dealCurrencyToolTip":          {
+            "primary": "AFN",
+            "subValues": []
+         }
+      },
+            {
+         "feeBookingId": "20150807100865388",
+         "uniqueId": "DEAL-CM-2015-06-861461 FB 21",
+         "product": null,
+         "subProduct": null,
+         "status": "Draft",
+         "createdDate": 1438933739160,
+         "createdBy": "Chaudron, Cedric Louis Robert",
+         "lastUpdatedDate": 1439461089303,
+         "lastUpdatedBy": "Chaudron, Cedric Louis Robert",
+         "entitlementStr": "-",
+         "structure": "0138",
+         "dealCurrency": "XUA",
+         "tenor": "200",
+         "draftView": false,
+         "entitlement": null,
+         "productsForToolTip":          {
+            "primary": null,
+            "subValues": null
+         },
+         "structuresList": ["Lower Tier 2"],
+         "structuresToolTip":          {
+            "primary": "Lower Tier 2",
+            "subValues": []
+         },
+         "tenorList": [         {
+            "key": "Lower Tier 2",
+            "values": "200"
+         }],
+         "tenorsToolTip":          {
+            "primary": "200",
+            "subValues": []
+         },
+         "dealCurrencyList": [         {
+            "key": "Lower Tier 2",
+            "values": "XUA"
+         }],
+         "dealCurrencyToolTip":          {
+            "primary": "XUA",
+            "subValues": []
+         }
+      },
+            {
+         "feeBookingId": "20150630100863769",
+         "uniqueId": "DEAL-CM-2015-06-861461 FB 11",
+         "product": null,
+         "subProduct": null,
+         "status": "Draft",
+         "createdDate": 1435662122959,
+         "createdBy": "Chaudron, Cedric Louis Robert",
+         "lastUpdatedDate": 1435672992238,
+         "lastUpdatedBy": "Chaudron, Cedric Louis Robert",
+         "entitlementStr": "-",
+         "structure": null,
+         "dealCurrency": null,
+         "tenor": null,
+         "draftView": false,
+         "entitlement": null,
+         "productsForToolTip":          {
+            "primary": null,
+            "subValues": null
+         },
+         "structuresList": [],
+         "structuresToolTip":          {
+            "primary": "",
+            "subValues": []
+         },
+         "tenorList": [],
+         "tenorsToolTip":          {
+            "primary": "",
+            "subValues": []
+         },
+         "dealCurrencyList": [],
+         "dealCurrencyToolTip":          {
+            "primary": "",
+            "subValues": []
+         }
+      },
+            {
+         "feeBookingId": "20150623100863616",
+         "uniqueId": "DEAL-CM-2015-06-861461 FB 8",
+         "product": null,
+         "subProduct": null,
+         "status": "Draft",
+         "createdDate": 1435037413229,
+         "createdBy": "Chaudron, Cedric Louis Robert",
+         "lastUpdatedDate": 1435037413328,
+         "lastUpdatedBy": "Chaudron, Cedric Louis Robert",
+         "entitlementStr": "-",
+         "structure": null,
+         "dealCurrency": null,
+         "tenor": null,
+         "draftView": false,
+         "entitlement": null,
+         "productsForToolTip":          {
+            "primary": null,
+            "subValues": null
+         },
+         "structuresList": [],
+         "structuresToolTip":          {
+            "primary": "",
+            "subValues": []
+         },
+         "tenorList": [],
+         "tenorsToolTip":          {
+            "primary": "",
+            "subValues": []
+         },
+         "dealCurrencyList": [],
+         "dealCurrencyToolTip":          {
+            "primary": "",
+            "subValues": []
+         }
+      },
+            {
+         "feeBookingId": "20150622100863574",
+         "uniqueId": "DEAL-CM-2015-06-861461 FB 3",
+         "product": "DCM",
+         "subProduct": "G3 High Yield",
+         "status": "Under Review-PC",
+         "createdDate": 1434958098110,
+         "createdBy": "Chaudron, Cedric Louis Robert",
+         "lastUpdatedDate": 1434958483098,
+         "lastUpdatedBy": "Chaudron, Cedric Louis Robert",
+         "entitlementStr": "-",
+         "structure": "0148",
+         "dealCurrency": "AFN",
+         "tenor": "1200",
+         "draftView": false,
+         "entitlement": null,
+         "productsForToolTip":          {
+            "primary": null,
+            "subValues": null
+         },
+         "structuresList": ["RMBS/CMBS"],
+         "structuresToolTip":          {
+            "primary": "RMBS/CMBS",
+            "subValues": []
+         },
+         "tenorList": [         {
+            "key": "RMBS/CMBS",
+            "values": "1200"
+         }],
+         "tenorsToolTip":          {
+            "primary": "1200",
+            "subValues": []
+         },
+         "dealCurrencyList": [         {
+            "key": "RMBS/CMBS",
+            "values": "AFN"
+         }],
+         "dealCurrencyToolTip":          {
+            "primary": "AFN",
+            "subValues": []
+         }
+      },
+            {
+         "feeBookingId": "20150622100863585",
+         "uniqueId": "DEAL-CM-2015-06-861461 FB 4",
+         "product": "DCM",
+         "subProduct": "G3 High Yield",
+         "status": "Under Review-PC",
+         "createdDate": 1434963131720,
+         "createdBy": "Chaudron, Cedric Louis Robert",
+         "lastUpdatedDate": 1434964914217,
+         "lastUpdatedBy": "Chaudron, Cedric Louis Robert",
+         "entitlementStr": "-",
+         "structure": "0148",
+         "dealCurrency": "AFN",
+         "tenor": "1200",
+         "draftView": false,
+         "entitlement": null,
+         "productsForToolTip":          {
+            "primary": null,
+            "subValues": null
+         },
+         "structuresList": ["RMBS/CMBS"],
+         "structuresToolTip":          {
+            "primary": "RMBS/CMBS",
+            "subValues": []
+         },
+         "tenorList": [         {
+            "key": "RMBS/CMBS",
+            "values": "1200"
+         }],
+         "tenorsToolTip":          {
+            "primary": "1200",
+            "subValues": []
+         },
+         "dealCurrencyList": [         {
+            "key": "RMBS/CMBS",
+            "values": "AFN"
+         }],
+         "dealCurrencyToolTip":          {
+            "primary": "AFN",
+            "subValues": []
+         }
+      },
+            {
+         "feeBookingId": "20150630100863807",
+         "uniqueId": "DEAL-CM-2015-06-861461 FB 13",
+         "product": "Loans",
+         "subProduct": "Bridge",
+         "status": "Draft",
+         "createdDate": 1435674588408,
+         "createdBy": "Chaudron, Cedric Louis Robert",
+         "lastUpdatedDate": 1435675718120,
+         "lastUpdatedBy": "Chaudron, Cedric Louis Robert",
+         "entitlementStr": "-",
+         "structure": "0137",
+         "dealCurrency": "AZN",
+         "tenor": "22",
+         "draftView": false,
+         "entitlement": null,
+         "productsForToolTip":          {
+            "primary": null,
+            "subValues": null
+         },
+         "structuresList": ["Innovative Tier 1"],
+         "structuresToolTip":          {
+            "primary": "Innovative Tier 1",
+            "subValues": []
+         },
+         "tenorList": [         {
+            "key": "Innovative Tier 1",
+            "values": "22"
+         }],
+         "tenorsToolTip":          {
+            "primary": "22",
+            "subValues": []
+         },
+         "dealCurrencyList": [         {
+            "key": "Innovative Tier 1",
+            "values": "AZN"
+         }],
+         "dealCurrencyToolTip":          {
+            "primary": "AZN",
+            "subValues": []
+         }
+      },
+            {
+         "feeBookingId": "20150716100864574",
+         "uniqueId": "DEAL-CM-2015-06-861461 FB 17",
+         "product": "DCM",
+         "subProduct": "G3 High Yield",
+         "status": "Queried",
+         "createdDate": 1437055003404,
+         "createdBy": "Chaudron, Cedric Louis Robert",
+         "lastUpdatedDate": 1437055032014,
+         "lastUpdatedBy": "Chaudron, Cedric Louis Robert",
+         "entitlementStr": "-",
+         "structure": "0148",
+         "dealCurrency": "AFN",
+         "tenor": "1200",
+         "draftView": false,
+         "entitlement": null,
+         "productsForToolTip":          {
+            "primary": null,
+            "subValues": null
+         },
+         "structuresList": ["RMBS/CMBS"],
+         "structuresToolTip":          {
+            "primary": "RMBS/CMBS",
+            "subValues": []
+         },
+         "tenorList": [         {
+            "key": "RMBS/CMBS",
+            "values": "1200"
+         }],
+         "tenorsToolTip":          {
+            "primary": "1200",
+            "subValues": []
+         },
+         "dealCurrencyList": [         {
+            "key": "RMBS/CMBS",
+            "values": "AFN"
+         }],
+         "dealCurrencyToolTip":          {
+            "primary": "AFN",
+            "subValues": []
+         }
+      },
+            {
+         "feeBookingId": "20150813100865793",
+        "uniqueId": "DEAL-CM-2015-06-861461 FB 23",
+         "product": "CMS",
+         "subProduct": "CMS Bonds",
+         "status": "Draft",
+         "createdDate": 1439461411256,
+         "createdBy": "Chaudron, Cedric Louis Robert",
+         "lastUpdatedDate": 1450348131435,
+         "lastUpdatedBy": "Chaudron, Cedric Louis Robert",
+         "entitlementStr": "-",
+         "structure": "0135",
+         "dealCurrency": "AFN",
+         "tenor": "1",
+         "draftView": false,
+         "entitlement": null,
+         "productsForToolTip":          {
+            "primary": null,
+            "subValues": null
+         },
+         "structuresList": ["CP"],
+         "structuresToolTip":          {
+            "primary": "CP",
+            "subValues": []
+         },
+         "tenorList": [         {
+            "key": "CP",
+            "values": "1"
+         }],
+         "tenorsToolTip":          {
+            "primary": "1",
+            "subValues": []
+         },
+         "dealCurrencyList": [         {
+            "key": "CP",
+            "values": "AFN"
+         }],
+         "dealCurrencyToolTip":          {
+            "primary": "AFN",
+            "subValues": []
+         }
+      },
+            {
+         "feeBookingId": "20150812100865691",
+         "uniqueId": "DEAL-CM-2015-06-861461 FB 22",
+         "product": "DCM",
+         "subProduct": "G3 High Yield",
+         "status": "Under Review-PC",
+         "createdDate": 1439373056443,
+         "createdBy": "Chaudron, Cedric Louis Robert",
+         "lastUpdatedDate": 1439373151043,
+         "lastUpdatedBy": "Travers, Neill",
+         "entitlementStr": "-",
+         "structure": "0148",
+         "dealCurrency": "AFN",
+         "tenor": "1200",
+         "draftView": false,
+         "entitlement": null,
+         "productsForToolTip":          {
+            "primary": null,
+            "subValues": null
+         },
+         "structuresList": ["RMBS/CMBS"],
+         "structuresToolTip":          {
+            "primary": "RMBS/CMBS",
+            "subValues": []
+         },
+         "tenorList": [         {
+            "key": "RMBS/CMBS",
+            "values": "1200"
+         }],
+         "tenorsToolTip":          {
+            "primary": "1200",
+            "subValues": []
+         },
+         "dealCurrencyList": [         {
+            "key": "RMBS/CMBS",
+            "values": "AFN"
+         }],
+         "dealCurrencyToolTip":          {
+            "primary": "AFN",
+            "subValues": []
+        }
+      },
+            {
+         "feeBookingId": "20150807100865387",
+         "uniqueId": "DEAL-CM-2015-06-861461 FB 20",
+         "product": "DCM",
+         "subProduct": "G3 High Yield",
+         "status": "Draft",
+         "createdDate": 1438933732623,
+         "createdBy": "Chaudron, Cedric Louis Robert",
+         "lastUpdatedDate": 1438933732720,
+         "lastUpdatedBy": "Chaudron, Cedric Louis Robert",
+         "entitlementStr": "-",
+         "structure": "0148",
+         "dealCurrency": "AFN",
+         "tenor": "1200",
+         "draftView": false,
+         "entitlement": null,
+         "productsForToolTip":          {
+            "primary": null,
+            "subValues": null
+         },
+         "structuresList": ["RMBS/CMBS"],
+         "structuresToolTip":          {
+            "primary": "RMBS/CMBS",
+            "subValues": []
+         },
+         "tenorList": [         {
+            "key": "RMBS/CMBS",
+            "values": "1200"
+         }],
+         "tenorsToolTip":          {
+            "primary": "1200",
+            "subValues": []
+         },
+         "dealCurrencyList": [         {
+            "key": "RMBS/CMBS",
+            "values": "AFN"
+         }],
+         "dealCurrencyToolTip":          {
+            "primary": "AFN",
+            "subValues": []
+         }
+      },
+            {
+         "feeBookingId": "20150605100862054",
+         "uniqueId": "DEAL-CM-2015-06-861461 FB 1",
+         "product": "DCM",
+         "subProduct": "G3 High Yield",
+         "status": "Under Review-RH",
+         "createdDate": 1433508869871,
+         "createdBy": "Chaudron, Cedric Louis Robert",
+         "lastUpdatedDate": 1435583246512,
+         "lastUpdatedBy": "Chaudron, Cedric Louis Robert",
+         "entitlementStr": "-",
+         "structure": "0148",
+         "dealCurrency": "AFN",
+         "tenor": "1200",
+         "draftView": false,
+         "entitlement": null,
+         "productsForToolTip":          {
+            "primary": null,
+            "subValues": null
+         },
+         "structuresList": ["RMBS/CMBS"],
+         "structuresToolTip":          {
+            "primary": "RMBS/CMBS",
+            "subValues": []
+         },
+         "tenorList": [         {
+            "key": "RMBS/CMBS",
+            "values": "1200"
+         }],
+         "tenorsToolTip":          {
+            "primary": "1200",
+            "subValues": []
+         },
+         "dealCurrencyList": [         {
+            "key": "RMBS/CMBS",
+            "values": "AFN"
+         }],
+         "dealCurrencyToolTip":          {
+            "primary": "AFN",
+            "subValues": []
+         }
+      },
+            {
+         "feeBookingId": "20150622100863590",
+         "uniqueId": "DEAL-CM-2015-06-861461 FB 5",
+         "product": null,
+         "subProduct": null,
+         "status": "Draft",
+         "createdDate": 1434970768091,
+         "createdBy": "Chaudron, Cedric Louis Robert",
+         "lastUpdatedDate": 1434970768122,
+         "lastUpdatedBy": "Chaudron, Cedric Louis Robert",
+         "entitlementStr": "-",
+         "structure": null,
+         "dealCurrency": null,
+         "tenor": null,
+         "draftView": false,
+         "entitlement": null,
+         "productsForToolTip":          {
+            "primary": null,
+            "subValues": null
+         },
+         "structuresList": [],
+         "structuresToolTip":          {
+            "primary": "",
+            "subValues": []
+         },
+         "tenorList": [],
+         "tenorsToolTip":          {
+            "primary": "",
+            "subValues": []
+         },
+         "dealCurrencyList": [],
+         "dealCurrencyToolTip":          {
+            "primary": "",
+            "subValues": []
+         }
+      },
+            {
+         "feeBookingId": "20150701100863869",
+         "uniqueId": "DEAL-CM-2015-06-861461 FB 15",
+         "product": null,
+         "subProduct": null,
+         "status": "Draft",
+         "createdDate": 1435729690341,
+         "createdBy": "Chaudron, Cedric Louis Robert",
+         "lastUpdatedDate": 1435729690365,
+         "lastUpdatedBy": "Chaudron, Cedric Louis Robert",
+         "entitlementStr": "-",
+         "structure": null,
+         "dealCurrency": null,
+         "tenor": null,
+         "draftView": false,
+         "entitlement": null,
+         "productsForToolTip":          {
+            "primary": null,
+            "subValues": null
+         },
+         "structuresList": [],
+         "structuresToolTip":          {
+            "primary": "",
+            "subValues": []
+         },
+         "tenorList": [],
+         "tenorsToolTip":          {
+            "primary": "",
+            "subValues": []
+         },
+         "dealCurrencyList": [],
+         "dealCurrencyToolTip":          {
+            "primary": "",
+            "subValues": []
+         }
+      },
+            {
+         "feeBookingId": "20150630100863753",
+         "uniqueId": "DEAL-CM-2015-06-861461 FB 10",
+         "product": null,
+         "subProduct": null,
+         "status": "Draft",
+         "createdDate": 1435658730509,
+         "createdBy": "Chaudron, Cedric Louis Robert",
+         "lastUpdatedDate": 1435661531714,
+         "lastUpdatedBy": "Chaudron, Cedric Louis Robert",
+         "entitlementStr": "-",
+         "structure": null,
+         "dealCurrency": null,
+         "tenor": null,
+         "draftView": false,
+         "entitlement": null,
+         "productsForToolTip":          {
+            "primary": null,
+            "subValues": null
+         },
+         "structuresList": [],
+         "structuresToolTip":          {
+            "primary": "",
+            "subValues": []
+         },
+         "tenorList": [],
+         "tenorsToolTip":          {
+            "primary": "",
+            "subValues": []
+         },
+         "dealCurrencyList": [],
+         "dealCurrencyToolTip":          {
+            "primary": "",
+            "subValues": []
+         }
+      },
+            {
+         "feeBookingId": "20150804100865281",
+         "uniqueId": "DEAL-CM-2015-06-861461 FB 19",
+         "product": null,
+         "subProduct": null,
+         "status": "Draft",
+         "createdDate": 1438692603917,
+         "createdBy": "Chaudron, Cedric Louis Robert",
+         "lastUpdatedDate": 1438692893116,
+         "lastUpdatedBy": "Chaudron, Cedric Louis Robert",
+         "entitlementStr": "-",
+         "structure": null,
+         "dealCurrency": null,
+         "tenor": null,
+         "draftView": false,
+         "entitlement": null,
+         "productsForToolTip":          {
+            "primary": null,
+            "subValues": null
+         },
+         "structuresList": [],
+         "structuresToolTip":          {
+            "primary": "",
+            "subValues": []
+         },
+         "tenorList": [],
+         "tenorsToolTip":          {
+            "primary": "",
+            "subValues": []
+         },
+         "dealCurrencyList": [],
+         "dealCurrencyToolTip":          {
+            "primary": "",
+            "subValues": []
+         }
+      },
+            {
+         "feeBookingId": "20150630100863799",
+         "uniqueId": "DEAL-CM-2015-06-861461 FB 12",
+         "product": null,
+         "subProduct": null,
+         "status": "Draft",
+         "createdDate": 1435673241678,
+         "createdBy": "Chaudron, Cedric Louis Robert",
+         "lastUpdatedDate": 1435674354960,
+         "lastUpdatedBy": "Chaudron, Cedric Louis Robert",
+         "entitlementStr": "-",
+         "structure": null,
+         "dealCurrency": null,
+         "tenor": null,
+         "draftView": false,
+         "entitlement": null,
+         "productsForToolTip":          {
+            "primary": null,
+            "subValues": null
+         },
+         "structuresList": [],
+         "structuresToolTip":          {
+            "primary": "",
+            "subValues": []
+         },
+         "tenorList": [],
+         "tenorsToolTip":          {
+            "primary": "",
+            "subValues": []
+         },
+         "dealCurrencyList": [],
+         "dealCurrencyToolTip":          {
+            "primary": "",
+            "subValues": []
+         }
+      }
+   ],
+   "meta":    {
+      "page": 1,
+      "size": 0,
+      "totalRecords": 13,
+      "totalDeals": 0,
+      "sortOrder": null,
+      "sortField": null,
+      "filters": null,
+      "addFBEntitlement": true
+   }
+}

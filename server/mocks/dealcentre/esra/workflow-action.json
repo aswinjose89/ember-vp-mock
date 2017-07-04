@@ -1,0 +1,35 @@
+{
+  "workflowAction": {
+    "id": 20150629100863685,
+    "action": null,
+    "approvalRoute": null,
+    "comments": null,
+    "status": "success",
+    "responseTitle": "Title",
+    "responseMessage": "Successfully",
+    "showValidationError": true,
+    "esraActivity": {
+      "id": "20150629100863685",
+      "version": 1,
+      "status": "0001",
+      "outcome": "0002",
+      "esrmRouteOnly": false,
+      "readOnly": false,
+      "locked": false,
+      "saveDraftEnabled": "E",
+      "submitEnabled": "E",
+      "recallEnabled": "N",
+      "approveEnabled": "N",
+      "rejectEnabled": "N",
+      "referBackEnabled": "N",
+      "workflowHistoryEnabled":true,
+      "withdrawEnabled": "N",
+      "reopenEnabled": "N",
+      "deleteEnabled": "E",
+      "referToESRMEnabled": "N",
+      "assignToReviewEnabled": "N",
+      "lockMessage": null
+    },
+    "assignee": null
+  }
+}

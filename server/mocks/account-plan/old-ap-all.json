@@ -1,0 +1,201 @@
+{
+  "accountPlanLists": [
+    {
+      "accountPlanName": "SONANGOL GROUP_DEC_2016",
+      "createdBy": "1183119",
+      "createdByName": "Sebina,Mothusi",
+      "createdDate": 1481861284000,
+      "status": "Draft",
+      "statusCode": "0001",
+      "lastModifiedDate": 1481861284000,
+      "approvedDate": null,
+      "approvedBy": null,
+      "approvedByName": null,
+      "clientId": null,
+      "clientName": null,
+      "groupId": null,
+      "groupName": null,
+      "template": "Corporate Group",
+      "id": "20161216100533572",
+      "version": "TXN201612161208046222039554088",
+      "entitlement": {
+        "view": true,
+        "edit": true,
+        "abort": false,
+        "unlock": false,
+        "submit": false,
+        "hasPrivateDealAccess": false,
+        "id": "E20161216100533572"
+      },
+      "accountPlanType": "Corporate Group",
+      "apfSchedule": null,
+      "apfScheduleDate": null,
+      "apfCompletionDate": null,
+      "selApYear": 2017,
+      "apEntitlement": "E20161216100533572"
+    },
+    {
+      "accountPlanName": "SONANGOL GROUP_APR_2016",
+      "createdBy": "1451388",
+      "createdByName": "Egberink,Chris",
+      "createdDate": 1457518655000,
+      "status": "Approved",
+      "statusCode": "0004",
+      "lastModifiedDate": 1461734877000,
+      "approvedDate": 1461734878000,
+      "approvedBy": null,
+      "approvedByName": null,
+      "clientId": null,
+      "clientName": null,
+      "groupId": null,
+      "groupName": null,
+      "template": "Corporate Group",
+      "id": "20160309100425679",
+      "version": "TXN201604271327549241324054700",
+      "entitlement": {
+        "view": true,
+        "edit": false,
+        "abort": false,
+        "unlock": false,
+        "submit": false,
+        "hasPrivateDealAccess": false,
+        "id": "E20160309100425679"
+      },
+      "accountPlanType": "Corporate Group",
+      "apfSchedule": null,
+      "apfScheduleDate": null,
+      "apfCompletionDate": null,
+      "selApYear": 2016,
+      "apEntitlement": "E20160309100425679"
+    },
+    {
+      "accountPlanName": "SONANGOL GROUP_APR_2015",
+      "createdBy": "1308581",
+      "createdByName": "Roy,Brian",
+      "createdDate": 1426088562000,
+      "status": "Approved",
+      "statusCode": "0004",
+      "lastModifiedDate": 1427963608000,
+      "approvedDate": 1427963609000,
+      "approvedBy": null,
+      "approvedByName": "Tantakitti, Somruetai",
+      "clientId": null,
+      "clientName": null,
+      "groupId": null,
+      "groupName": null,
+      "template": "Corporate Group",
+      "id": "20150311100126944",
+      "version": "TXN20150402163327056559297061",
+      "entitlement": {
+        "view": true,
+        "edit": false,
+        "abort": false,
+        "unlock": false,
+        "submit": false,
+        "hasPrivateDealAccess": false,
+        "id": "E20150311100126944"
+      },
+      "accountPlanType": "Corporate Group",
+      "apfSchedule": true,
+      "apfScheduleDate": 1426003200000,
+      "apfCompletionDate": 1426003200000,
+      "selApYear": null,
+      "apEntitlement": "E20150311100126944"
+    },
+    {
+      "accountPlanName": "SONANGOL GROUP_MAY_2014",
+      "createdBy": "1001401",
+      "createdByName": " Keith Williams",
+      "createdDate": 1395157214000,
+      "status": "Approved",
+      "statusCode": "0004",
+      "lastModifiedDate": 1399250636000,
+      "approvedDate": 1399250636000,
+      "approvedBy": null,
+      "approvedByName": "Wallace,Sean Robert",
+      "clientId": null,
+      "clientName": null,
+      "groupId": null,
+      "groupName": null,
+      "template": "Corporate Group",
+      "id": "20140318100056982",
+      "version": "TXN20140505084356160378601257",
+      "entitlement": {
+        "view": true,
+        "edit": false,
+        "abort": false,
+        "unlock": false,
+        "submit": false,
+        "hasPrivateDealAccess": false,
+        "id": "E20140318100056982"
+      },
+      "accountPlanType": "Corporate Group",
+      "apfSchedule": true,
+      "apfScheduleDate": 1395158400000,
+      "apfCompletionDate": 1394035200000,
+      "selApYear": null,
+      "apEntitlement": "E20140318100056982"
+    }
+  ],
+  "apEntitlements": [
+    {
+      "view": true,
+      "edit": true,
+      "abort": false,
+      "unlock": false,
+      "submit": false,
+      "hasPrivateDealAccess": false,
+      "id": "E20161216100533572"
+    },
+    {
+      "view": true,
+      "edit": false,
+      "abort": false,
+      "unlock": false,
+      "submit": false,
+      "hasPrivateDealAccess": false,
+      "id": "E20160309100425679"
+    },
+    {
+      "view": true,
+      "edit": false,
+      "abort": false,
+      "unlock": false,
+      "submit": false,
+      "hasPrivateDealAccess": false,
+      "id": "E20150311100126944"
+    },
+    {
+      "view": true,
+      "edit": false,
+      "abort": false,
+      "unlock": false,
+      "submit": false,
+      "hasPrivateDealAccess": false,
+      "id": "E20140318100056982"
+    }
+  ],
+  "meta": {
+    "create": true,
+    "createMM": true,
+    "paginationDetails": {
+      "spgno": 1,
+      "reccount": 50,
+      "lastPage": true,
+      "totalRecords": 0
+    },
+    "tooltipApLite": true,
+    "tooltipApUltraLite": true,
+    "totalCount": 0
+  },
+  "header": {
+    "messages": [
+      {
+        "messageId": "MSG01",
+        "messageDesc": "Success"
+      }
+    ],
+    "error": null,
+    "responseCode": "0000"
+  }
+}

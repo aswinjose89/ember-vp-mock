@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "productCode": "101",
+      "productGroup": "Financial Markets",
+      "productGroupCode": "1",
+      "productName": "ALM"
+    },
+    {
+      "productCode": "102",
+      "productGroup": "Financial Markets",
+      "productGroupCode": "1",
+      "productName": "Capital Markets"
+    },
+    {
+      "productCode": "103",
+      "productGroup": "Financial Markets",
+      "productGroupCode": "1",
+      "productName": "Commodity"
+    },
+    {
+      "productCode": "104",
+      "productGroup": "Financial Markets",
+      "productGroupCode": "1",
+      "productName": "Equity"
+    },
+    {
+      "productCode": "105",
+      "productGroup": "Financial Markets",
+      "productGroupCode": "1",
+      "productName": "Credit"
+    },
+    {
+      "productCode": "106",
+      "productGroup": "Financial Markets",
+      "productGroupCode": "1",
+      "productName": "Rates"
+    },
+    {
+      "productCode": "107",
+      "productGroup": "Financial Markets",
+      "productGroupCode": "1",
+      "productName": "GFX"
+    },
+    {
+      "productCode": "108",
+      "productGroup": "Transaction Banking",
+      "productGroupCode": "2",
+      "productName": "Cash Management and Payments"
+    },
+    {
+      "productCode": "109",
+      "productGroup": "Transaction Banking",
+      "productGroupCode": "2",
+      "productName": "Documentary Trade"
+    },
+    {
+      "productCode": "110",
+      "productGroup": "Transaction Banking",
+      "productGroupCode": "2",
+      "productName": "Receivable Services"
+    },
+    {
+      "productCode": "111",
+      "productGroup": "Transaction Banking",
+      "productGroupCode": "2",
+      "productName": "Custody & Clearing"
+    },
+    {
+      "productCode": "112",
+      "productGroup": "Transaction Banking",
+      "productGroupCode": "2",
+      "productName": "Fund Services"
+    },
+    {
+      "productCode": "113",
+      "productGroup": "Transaction Banking",
+      "productGroupCode": "2",
+      "productName": "Trade Guarantees"
+    },
+    {
+      "productCode": "114",
+      "productGroup": "Transaction Banking",
+      "productGroupCode": "2",
+      "productName": "Trade Loans"
+    },
+    {
+      "productCode": "115",
+      "productGroup": "Transaction Banking",
+      "productGroupCode": "2",
+      "productName": "Trade Other"
+    },
+    {
+      "productCode": "116",
+      "productGroup": "OCC Lending",
+      "productGroupCode": "3",
+      "productName": "Commercial Real Estate"
+    },
+    {
+      "productCode": "117",
+      "productGroup": "OCC Lending",
+      "productGroupCode": "3",
+      "productName": "Other C&I Lending"
+    },
+    {
+      "productCode": "118",
+      "productGroup": "Corporate Finance",
+      "productGroupCode": "4",
+      "productName": "Corporate Advisory & Finance "
+    },
+    {
+      "productCode": "119",
+      "productGroup": "Corporate Finance",
+      "productGroupCode": "4",
+      "productName": "Other CF"
+    },
+    {
+      "productCode": "120",
+      "productGroup": "Corporate Finance",
+      "productGroupCode": "4",
+      "productName": "Struct Trade Finance & Fin Solutions"
+    },
+    {
+      "productCode": "121",
+      "productGroup": "Corporate Finance",
+      "productGroupCode": "4",
+      "productName": "Structured Finance"
+    },
+    {
+      "productCode": "000",
+      "productGroup": "Accounts",
+      "productGroupCode": "0",
+      "productName": "Initiate GIC without Product"
+    }
+  ]
+}

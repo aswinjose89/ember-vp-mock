@@ -1,0 +1,25 @@
+{
+   "details": {
+      "id" : "prospectID",
+      "operation":null,
+      "sequence":null,
+      "transactionId":null,
+      "status":null,
+      "entitlement":null,
+      "prospectName":"Test",
+      "leId":null,
+      "prospectType":null,
+      "domicileCountry":null,
+      "prospectSegment":null,
+      "prospectSubSegment":null,
+      "isic":null,
+      "prospectSource":null,
+      "lastUpdateUser":null,
+      "lastUpdatedDate":null,
+      "cddId":null,
+      "groupId":null,
+      "prospectOwner":null,
+      "crmId":null,
+      "prospectTeamList":null,
+   }
+}

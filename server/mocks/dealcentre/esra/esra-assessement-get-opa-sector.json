@@ -1,0 +1,5267 @@
+{
+  "assessmentDetail": {
+    "id": "201701241001362928",
+    "version": 8,
+    "sector": null,
+    "fsData": {
+      "fsForm": {
+        "label": "Assessment",
+        "visible": true,
+        "readOnly": false,
+        "disable": null,
+        "isOpa": true,
+        "id": "qs$scr_assessment$global$global",
+        "commentCount": 0,
+        "fsHeader": {
+          "consumerPayload": {
+            "sessionId": "e3a13164-14cb-4d9d-90bd-e99928a84ada",
+            "rulebaseName": "ESRA",
+            "rulebaseVersion": "1.0",
+            "userId": "1193293",
+            "requestType": "RefreshScreen",
+            "caseId": "201701241001362928",
+            "caseVersion": "8",
+            "module": "ESRA"
+          },
+          "id": "-1"
+        },
+        "fsPages": [
+          "scr_assessment"
+        ],
+        "autoSave": false,
+        "redirectToPage": "scr_assessment",
+        "message": null,
+        "messageData": null,
+        "showValidations": false,
+        "errors": [],
+        "fsProperties": [
+          {
+            "key": "fresh_reference_data",
+            "text": "False"
+          },
+          {
+            "key": "is_commentable",
+            "text": ""
+          },
+          {
+            "key": "page_layout",
+            "text": ""
+          },
+          {
+            "key": "tooltip_text",
+            "text": ""
+          },
+          {
+            "key": "page_route",
+            "text": "scr_assessment"
+          }
+        ],
+        "unauthorized": false
+      },
+      "fsPages": [
+        {
+          "label": "Assessment",
+          "visible": true,
+          "readOnly": null,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment",
+          "commentCount": 0,
+          "fsSections": [
+            "scr_assessment_0",
+            "scr_assessment_1",
+            "scr_assessment_2",
+            "scr_assessment_3",
+            "scr_assessment_4",
+            "scr_assessment_5",
+            "scr_assessment_6",
+            "scr_assessment_7",
+            "scr_assessment_8",
+            "scr_assessment_9",
+            "scr_assessment_10",
+            "scr_assessment_11",
+            "scr_assessment_12",
+            "scr_assessment_13",
+            "scr_assessment_14",
+            "scr_assessment_15",
+            "scr_assessment_16"
+          ],
+          "layout": "",
+          "isPageLoaded": true,
+          "transition": null,
+          "fsHeader": {
+            "consumerPayload": {
+              "sessionId": "e3a13164-14cb-4d9d-90bd-e99928a84ada",
+              "rulebaseName": "ESRA",
+              "rulebaseVersion": "1.0",
+              "userId": "1193293",
+              "requestType": "RefreshScreen",
+              "caseId": "201701241001362928",
+              "caseVersion": "8",
+              "module": "ESRA"
+            },
+            "id": "-1"
+          },
+          "pageId": "qs$scr_assessment$global$global",
+          "hasErrors": false,
+          "fsButtons": [],
+          "errors": null,
+          "fsProperties": [
+            {
+              "key": "fresh_reference_data",
+              "text": "False"
+            },
+            {
+              "key": "is_commentable",
+              "text": ""
+            },
+            {
+              "key": "page_layout",
+              "text": ""
+            },
+            {
+              "key": "tooltip_text",
+              "text": ""
+            },
+            {
+              "key": "page_route",
+              "text": "scr_assessment"
+            }
+          ],
+          "commentable": false
+        }
+      ],
+      "fsSections": [
+        {
+          "label": "",
+          "visible": true,
+          "readOnly": null,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_0",
+          "commentCount": 0,
+          "layout": "vertical",
+          "fsFields": [
+            "scr_assessment_0_0",
+            "scr_assessment_0_1"
+          ]
+        },
+        {
+          "label": "",
+          "visible": true,
+          "readOnly": null,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_1",
+          "commentCount": 0,
+          "layout": "vertical",
+          "fsFields": [
+            "scr_assessment_1_0",
+            "scr_assessment_1_1",
+            "scr_assessment_1_2",
+            "scr_assessment_1_3",
+            "scr_assessment_1_4",
+            "scr_assessment_1_5",
+            "scr_assessment_1_6",
+            "scr_assessment_1_7",
+            "scr_assessment_1_8",
+            "scr_assessment_1_9",
+            "scr_assessment_1_10",
+            "scr_assessment_1_11",
+            "scr_assessment_1_12",
+            "scr_assessment_1_13",
+            "scr_assessment_1_14",
+            "scr_assessment_1_15",
+            "scr_assessment_1_16",
+            "scr_assessment_1_17",
+            "scr_assessment_1_18"
+          ]
+        },
+        {
+          "label": "",
+          "visible": true,
+          "readOnly": null,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_2",
+          "commentCount": 0,
+          "layout": "vertical",
+          "fsFields": [
+            "scr_assessment_2_0",
+            "scr_assessment_2_1",
+            "scr_assessment_2_2",
+            "scr_assessment_2_3",
+            "scr_assessment_2_4",
+            "scr_assessment_2_5",
+            "scr_assessment_2_6",
+            "scr_assessment_2_7",
+            "scr_assessment_2_8",
+            "scr_assessment_2_9",
+            "scr_assessment_2_10",
+            "scr_assessment_2_11",
+            "scr_assessment_2_12",
+            "scr_assessment_2_13",
+            "scr_assessment_2_14",
+            "scr_assessment_2_15",
+            "scr_assessment_2_16",
+            "scr_assessment_2_17",
+            "scr_assessment_2_18",
+            "scr_assessment_2_19",
+            "scr_assessment_2_20"
+          ]
+        },
+        {
+          "label": "Sectors of the Project / Assets",
+          "visible": false,
+          "readOnly": null,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_3",
+          "commentCount": 0,
+          "layout": "tabs",
+          "fsFields": [
+            "scr_assessment_3_0",
+            "scr_assessment_3_1"
+          ]
+        },
+        {
+          "label": "0001|unknown",
+          "visible": false,
+          "readOnly": null,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_4",
+          "commentCount": 0,
+          "layout": "tab",
+          "fsFields": [
+            "scr_assessment_4_0",
+            "scr_assessment_4_1",
+            "scr_assessment_4_2",
+            "scr_assessment_4_3",
+            "scr_assessment_4_4",
+            "scr_assessment_4_5",
+            "scr_assessment_4_6"
+          ]
+        },
+        {
+          "label": "0002|unknown",
+          "visible": false,
+          "readOnly": null,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_5",
+          "commentCount": 0,
+          "layout": "tab",
+          "fsFields": [
+            "scr_assessment_5_0",
+            "scr_assessment_5_1",
+            "scr_assessment_5_2",
+            "scr_assessment_5_3",
+            "scr_assessment_5_4",
+            "scr_assessment_5_5"
+          ]
+        },
+        {
+          "label": "0003|unknown",
+          "visible": false,
+          "readOnly": null,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_6",
+          "commentCount": 0,
+          "layout": "tab",
+          "fsFields": [
+            "scr_assessment_6_0",
+            "scr_assessment_6_1",
+            "scr_assessment_6_2",
+            "scr_assessment_6_3",
+            "scr_assessment_6_4",
+            "scr_assessment_6_5",
+            "scr_assessment_6_6",
+            "scr_assessment_6_7",
+            "scr_assessment_6_8",
+            "scr_assessment_6_9"
+          ]
+        },
+        {
+          "label": "0004|unknown",
+          "visible": false,
+          "readOnly": null,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_7",
+          "commentCount": 0,
+          "layout": "tab",
+          "fsFields": [
+            "scr_assessment_7_0",
+            "scr_assessment_7_1",
+            "scr_assessment_7_2",
+            "scr_assessment_7_3",
+            "scr_assessment_7_4"
+          ]
+        },
+        {
+          "label": "0005|unknown",
+          "visible": false,
+          "readOnly": null,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_8",
+          "commentCount": 0,
+          "layout": "tab",
+          "fsFields": [
+            "scr_assessment_8_0",
+            "scr_assessment_8_1",
+            "scr_assessment_8_2",
+            "scr_assessment_8_3"
+          ]
+        },
+        {
+          "label": "0006|unknown",
+          "visible": false,
+          "readOnly": null,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_9",
+          "commentCount": 0,
+          "layout": "tab",
+          "fsFields": [
+            "scr_assessment_9_0",
+            "scr_assessment_9_1",
+            "scr_assessment_9_2",
+            "scr_assessment_9_3",
+            "scr_assessment_9_4",
+            "scr_assessment_9_5",
+            "scr_assessment_9_6",
+            "scr_assessment_9_7",
+            "scr_assessment_9_8",
+            "scr_assessment_9_9",
+            "scr_assessment_9_10",
+            "scr_assessment_9_11",
+            "scr_assessment_9_12",
+            "scr_assessment_9_13"
+          ]
+        },
+        {
+          "label": "0007|unknown",
+          "visible": false,
+          "readOnly": null,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_10",
+          "commentCount": 0,
+          "layout": "tab",
+          "fsFields": [
+            "scr_assessment_10_0",
+            "scr_assessment_10_1",
+            "scr_assessment_10_2",
+            "scr_assessment_10_3",
+            "scr_assessment_10_4",
+            "scr_assessment_10_5",
+            "scr_assessment_10_6",
+            "scr_assessment_10_7",
+            "scr_assessment_10_8",
+            "scr_assessment_10_9",
+            "scr_assessment_10_10"
+          ]
+        },
+        {
+          "label": "0008|unknown",
+          "visible": false,
+          "readOnly": null,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_11",
+          "commentCount": 0,
+          "layout": "tab",
+          "fsFields": [
+            "scr_assessment_11_0",
+            "scr_assessment_11_1",
+            "scr_assessment_11_2",
+            "scr_assessment_11_3",
+            "scr_assessment_11_4",
+            "scr_assessment_11_5"
+          ]
+        },
+        {
+          "label": "0009|unknown",
+          "visible": false,
+          "readOnly": null,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_12",
+          "commentCount": 0,
+          "layout": "tab",
+          "fsFields": [
+            "scr_assessment_12_0",
+            "scr_assessment_12_1",
+            "scr_assessment_12_2",
+            "scr_assessment_12_3",
+            "scr_assessment_12_4",
+            "scr_assessment_12_5",
+            "scr_assessment_12_6",
+            "scr_assessment_12_7",
+            "scr_assessment_12_8",
+            "scr_assessment_12_9",
+            "scr_assessment_12_10",
+            "scr_assessment_12_11",
+            "scr_assessment_12_12",
+            "scr_assessment_12_13",
+            "scr_assessment_12_14"
+          ]
+        },
+        {
+          "label": "0010|unknown",
+          "visible": false,
+          "readOnly": null,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_13",
+          "commentCount": 0,
+          "layout": "tab",
+          "fsFields": [
+            "scr_assessment_13_0",
+            "scr_assessment_13_1",
+            "scr_assessment_13_2",
+            "scr_assessment_13_3",
+            "scr_assessment_13_4",
+            "scr_assessment_13_5",
+            "scr_assessment_13_6",
+            "scr_assessment_13_7",
+            "scr_assessment_13_8",
+            "scr_assessment_13_9",
+            "scr_assessment_13_10",
+            "scr_assessment_13_11"
+          ]
+        },
+        {
+          "label": "0011|unknown",
+          "visible": false,
+          "readOnly": null,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_14",
+          "commentCount": 0,
+          "layout": "tab",
+          "fsFields": [
+            "scr_assessment_14_0",
+            "scr_assessment_14_1",
+            "scr_assessment_14_2",
+            "scr_assessment_14_3",
+            "scr_assessment_14_4",
+            "scr_assessment_14_5",
+            "scr_assessment_14_6",
+            "scr_assessment_14_7",
+            "scr_assessment_14_8",
+            "scr_assessment_14_9"
+          ]
+        },
+        {
+          "label": "0012|unknown",
+          "visible": false,
+          "readOnly": null,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_15",
+          "commentCount": 0,
+          "layout": "tab",
+          "fsFields": [
+            "scr_assessment_15_0",
+            "scr_assessment_15_1",
+            "scr_assessment_15_2",
+            "scr_assessment_15_3",
+            "scr_assessment_15_4",
+            "scr_assessment_15_5",
+            "scr_assessment_15_6",
+            "scr_assessment_15_7",
+            "scr_assessment_15_8",
+            "scr_assessment_15_9",
+            "scr_assessment_15_10",
+            "scr_assessment_15_11",
+            "scr_assessment_15_12",
+            "scr_assessment_15_13",
+            "scr_assessment_15_14",
+            "scr_assessment_15_15",
+            "scr_assessment_15_16",
+            "scr_assessment_15_17",
+            "scr_assessment_15_18",
+            "scr_assessment_15_19"
+          ]
+        },
+        {
+          "label": "0015|infrd_tobacco_oil_has_error",
+          "visible": false,
+          "readOnly": null,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_16",
+          "commentCount": 0,
+          "layout": "tab",
+          "fsFields": [
+            "scr_assessment_16_0",
+            "scr_assessment_16_1"
+          ]
+        }
+      ],
+      "fsFields": [
+        {
+          "label": "ESRA outcome:",
+          "visible": false,
+          "readOnly": true,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_0_0",
+          "commentCount": 0,
+          "name": "out_final_esra_outcome",
+          "type": "wb-textbox",
+          "dataType": "text",
+          "value": "0005",
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Select Catergory of Transaction ESRA.",
+          "visible": true,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_0_1",
+          "commentCount": 0,
+          "name": "in_trans_category",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": "EIQ01d",
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "Project financing advisory services",
+                "isVisible": "true",
+                "value": "EIQ01a"
+              },
+              {
+                "displayText": "Bridge Loans with a tenor of less than two years and a proposed Project Finance or Project-Related Corporate Loan take-out (as determined in discussion with the client, and where such PF / PRCL take-out structures will meet the definitions below)",
+                "isVisible": "true",
+                "value": "EIQ01b"
+              },
+              {
+                "displayText": "Will project impacts occur during the term of the facility / advisory engagement?",
+                "isVisible": "true",
+                "value": "EIQ01c"
+              },
+              {
+                "displayText": "Project-Related Corporate Loans (â��PRCLâ��)  which meet all of the following criteria:  i. total aggregated loan amount committed by all parties, whether bilateral/syndicated/club, is at least US$100m; ii. Standard Charteredâ��s participation  is at least US$50m; iii. tenor is 2 years or longer;  iv. over 50% of proceeds will be used to finance the development, expansion or upgrade of a single Project; and, v. the borrower has effective control (direct or indirect) over the Project.",
+                "isVisible": "true",
+                "value": "EIQ01d"
+              },
+              {
+                "displayText": "None of the above",
+                "isVisible": "true",
+                "value": "EIQ01e"
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Are there current or potential legal claims or actions relating specifically to the Project's / Asset's E&S performance?",
+          "visible": true,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_1_0",
+          "commentCount": 0,
+          "name": "in_reputation_legal_claims",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": true,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_1_1",
+          "commentCount": 0,
+          "name": "in_reputation_legal_claims_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Has the Project / Asset ever been the subject of local stakeholder grievances, media or non-governmental organisation (NGO) campaigns over E&S issues?",
+          "visible": true,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_1_2",
+          "commentCount": 0,
+          "name": "in_reputation_stakeholder_grievance",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": true,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_1_3",
+          "commentCount": 0,
+          "name": "in_reputation_stakeholder_grievance_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Does the Transaction involve a Project/Asset?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_1_4",
+          "commentCount": 0,
+          "name": "in_trans_type",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "Project",
+                "isVisible": "true",
+                "value": "Project"
+              },
+              {
+                "displayText": "Asset",
+                "isVisible": "true",
+                "value": "Asset"
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Is the Asset an established operation held in a legal entity, for which a BCA is / will be in place at the transaction approval stage?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_1_5",
+          "commentCount": 0,
+          "name": "in_asset_established_operation",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Will there be transaction-specific due diligence conducted on the asset (e.g. legal, commercial, technical)?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_1_6",
+          "commentCount": 0,
+          "name": "in_trans_asset_due_diligence",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "What Country is the Project / Asset located in?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_1_7",
+          "commentCount": 0,
+          "name": "in_country_project_asset",
+          "type": "wb-dropdown",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "componentName": "dealCountry",
+            "dataEnrichType": null,
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Is the Project or Asset located within, or nearby and with the potential to impact upon, a UNESCO World Heritage Site or RAMSAR Wetland?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_1_8",
+          "commentCount": 0,
+          "name": "in_located_impact_UNESCO",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Will the Project be developed in accordance with the IFC Performance Standards, IFC General EHS Guidelines and as applicable IFC Industry Sector Guidelines?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_1_9",
+          "commentCount": 0,
+          "name": "in_sec_ifc_standards",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_1_10",
+          "commentCount": 0,
+          "name": "in_sec_ifc_standards_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Has an assessment been conducted to determine if the Project will require the resettlement (physical or economic displacement) of people living nearby?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_1_11",
+          "commentCount": 0,
+          "name": "in_sec_assess_resettlement_people",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "No",
+                "isVisible": "true",
+                "value": "No"
+              },
+              {
+                "displayText": "Yes, and this will be managed in alignment with IFC PS5",
+                "isVisible": "true",
+                "value": "Yes, and this will be managed in alignment with IFC PS5"
+              },
+              {
+                "displayText": "Yes, and this will be managed in accordance with local or national regulation",
+                "isVisible": "true",
+                "value": "Yes, and this will be managed in accordance with local or national regulation"
+              },
+              {
+                "displayText": "Not known if the Project will have such impacts / no such assessment has been carried out",
+                "isVisible": "true",
+                "value": "Not known if the Project will have such impacts / no such assessment has been carried out"
+              },
+              {
+                "displayText": "The Project / Assets does not require, and have not required, any resettlement.",
+                "isVisible": "true",
+                "value": "The Project / Assets does not require, and have not required, any resettlement."
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_1_12",
+          "commentCount": 0,
+          "name": "in_sec_assess_resettlement_people_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Has an assessment been conducted to determine if the Project / Assets have an adverse impact on Protected Areas (including Key Biodiversity Areas) or Critical Habitats?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_1_13",
+          "commentCount": 0,
+          "name": "in_sec_assess_protected_areas",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "No",
+                "isVisible": "true",
+                "value": "No"
+              },
+              {
+                "displayText": "Yes, and this is / will be managed in alignment with IFC PS6",
+                "isVisible": "true",
+                "value": "Yes, and this is / will be managed in alignment with IFC PS6"
+              },
+              {
+                "displayText": "Yes, and this is / will be managed in accordance with local or national regulation.",
+                "isVisible": "true",
+                "value": "Yes, and this is / will be managed in accordance with local or national regulation."
+              },
+              {
+                "displayText": "Not known if the Project will have such impacts / no such assessment has been carried out.",
+                "isVisible": "true",
+                "value": "Not known if the Project will have such impacts / no such assessment has been carried out."
+              },
+              {
+                "displayText": "The Project / Assets have no / will have no adverse impact on any Protected Areas or Critical Habitats.",
+                "isVisible": "true",
+                "value": "The Project / Assets have no / will have no adverse impact on any Protected Areas or Critical Habitats."
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_1_14",
+          "commentCount": 0,
+          "name": "in_sec_assess_protected_areas_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Has an assessment been conducted to determine if the Project / Assets will significantly or adversely impact on indigenous peoples (those whose identity is distinct from mainstream society)?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_1_15",
+          "commentCount": 0,
+          "name": "in_sec_assess_indigenous_people",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "No",
+                "isVisible": "true",
+                "value": "No"
+              },
+              {
+                "displayText": "Yes, and this will be managed in alignment with IFC PS7.",
+                "isVisible": "true",
+                "value": "Yes, and this will be managed in alignment with IFC PS7."
+              },
+              {
+                "displayText": "Yes, and this will be managed in accordance with local or national regulation.",
+                "isVisible": "true",
+                "value": "Yes, and this will be managed in accordance with local or national regulation."
+              },
+              {
+                "displayText": "The Project / Assets will have no significant or adverse impact on indigenous peoples.",
+                "isVisible": "true",
+                "value": "The Project / Assets will have no significant or adverse impact on indigenous peoples."
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_1_16",
+          "commentCount": 0,
+          "name": "in_sec_assess_indigenous_people_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Will an ESMS be developed for the Project, either by applying the client's / sponsor's ESMS or developing a new one?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_1_17",
+          "commentCount": 0,
+          "name": "in_sec_esms_develop",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_1_18",
+          "commentCount": 0,
+          "name": "in_sec_esms_develop_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Please indicate which Equator Principles structure is being assessed?",
+          "visible": false,
+          "readOnly": true,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_2_0",
+          "commentCount": 0,
+          "name": "infrd_equator_principle_trans_category_descr",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": "Project-Related Corporate Loans (â��PRCLâ��)  which meet all of the following criteria: i. total aggregated loan amount committed by all parties, whether bilateral/syndicated/club, is at least US$100m;nii. Standard Charteredâ��s participation  is at least US$50m;niii. tenor is 2 years or longer; niv. over 50% of proceeds will be used to finance the development, expansion or upgrade of a single Project; and,nv. the borrower has effective control (direct or indirect) over the Project.",
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Please indicate the Equator Principles categorisation of the transaction as advised by the Independent Environmental and Social Consultant.",
+          "visible": true,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_2_1",
+          "commentCount": 0,
+          "name": "in_equator_category_advised_IESC",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": "B",
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "A",
+                "isVisible": "true",
+                "value": "A"
+              },
+              {
+                "displayText": "B",
+                "isVisible": "true",
+                "value": "B"
+              },
+              {
+                "displayText": "C",
+                "isVisible": "true",
+                "value": "C"
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "",
+          "visible": true,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_2_2",
+          "commentCount": 0,
+          "name": "in_equator_principle_justification",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "Will project impacts occur during the term of the facility / advisory engagement?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_2_3",
+          "commentCount": 0,
+          "name": "in_equator_impact_facility_engagement",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_2_4",
+          "commentCount": 0,
+          "name": "in_equator_impact_facility_engagement_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Has it been confirmed that the client will undertake an Environmental and Social Assessment process in due course?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_2_5",
+          "commentCount": 0,
+          "name": "in_equator_client_undertake_ES_assessment",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_2_6",
+          "commentCount": 0,
+          "name": "in_equator_client_undertake_ES_assessment_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Will an approved Independent E&S consultant be appointed during the term of the engagement / tenor of the facility, in accordance with the Bank's standard Scope of Work?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_2_7",
+          "commentCount": 0,
+          "name": "in_equator_ES_consultant",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_2_8",
+          "commentCount": 0,
+          "name": "in_equator_ES_consultant_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Has an E&S report (by an approved independent consultant and aligned to the Bank's standard Scope of Work) been received, provided to, and reviewed by ESRM?",
+          "visible": true,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_2_9",
+          "commentCount": 0,
+          "name": "in_equator_ES_report",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": false,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": true,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_2_10",
+          "commentCount": 0,
+          "name": "in_equator_ES_report_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Is it proposed to appoint an approved independent consultant, using the Bank's standard Scope of Work?",
+          "visible": true,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_2_11",
+          "commentCount": 0,
+          "name": "in_equator_appoint_independet_consultant",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": true,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_2_12",
+          "commentCount": 0,
+          "name": "in_equator_appoint_independent_consultant_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Have all the requirements of EP Procedure Appendix A  been followed, and any exceptions been clearly indicated?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_2_13",
+          "commentCount": 0,
+          "name": "in_equator_EP_procedure",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_2_14",
+          "commentCount": 0,
+          "name": "in_equator_EP_procedure_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Has the following language been included in documentation (e.g. in the Mandate Letter): ''Environmental & Social Standards SCB is a signatory to the Equator Principles which requires SCB to ensure that projects for which it provides financing and/or advisory services are developed in a manner that is socially responsible and reflects sound environmental management practices.  [**In addition, SCB has issued numerous position statements which provide SCB with a formalised framework to ensure that its clients are adopting sound environmental and social management practices.**]  The  [**Engagement/Mandate/Services**] will be undertaken strictly in accordance with [**both**] the Equator Principles [**and SCB's position statements**]''",
+          "visible": true,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_2_15",
+          "commentCount": 0,
+          "name": "in_equator_SCB_signatory_included",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": false,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": true,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_2_16",
+          "commentCount": 0,
+          "name": "in_equator_SCB_signatory_included_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "''To the extent applicable,  the client intends to adhere to the requirements of the Equator Principles when subsequently seeking financing''",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_2_17",
+          "commentCount": 0,
+          "name": "in_equator_client_adhere_requirements",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_2_18",
+          "commentCount": 0,
+          "name": "in_equator_client_adhere_requirements_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Has client consent been acquired for project name reporting to the EP Association (e.g. by means of the template in Appendix E of the Equator Principles Procedure)?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_2_19",
+          "commentCount": 0,
+          "name": "in_equator_client_consent_acquired",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_2_20",
+          "commentCount": 0,
+          "name": "in_equator_client_consent_acquired_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": null,
+          "visible": false,
+          "readOnly": true,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_3_0",
+          "commentCount": 0,
+          "name": null,
+          "type": "wb-textbox",
+          "dataType": "containment_relationship",
+          "value": [],
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": {
+            "type": "containment_relationship",
+            "dataType": "containment_relationship",
+            "isVisible": true,
+            "properties": [
+              {
+                "key": "assessment_outcome",
+                "text": "False"
+              },
+              {
+                "key": "is_commentable",
+                "text": ""
+              },
+              {
+                "key": "copy_from_opa",
+                "text": "True"
+              },
+              {
+                "key": "component_name",
+                "text": ""
+              },
+              {
+                "key": "filter_by",
+                "text": ""
+              },
+              {
+                "key": "section",
+                "text": ""
+              },
+              {
+                "key": "custom_config",
+                "text": ""
+              },
+              {
+                "key": "tooltip_text",
+                "text": ""
+              },
+              {
+                "key": "text_colour_map",
+                "text": ""
+              },
+              {
+                "key": "multi_selection_list",
+                "text": ""
+              },
+              {
+                "key": "is_comment_mandatory",
+                "text": ""
+              },
+              {
+                "key": "section_layout",
+                "text": ""
+              },
+              {
+                "key": "events",
+                "text": ""
+              },
+              {
+                "key": "max_length",
+                "text": ""
+              }
+            ],
+            "relationshipId": "rel_sectors",
+            "sourceEntityId": "global",
+            "sourceInstanceId": "global",
+            "targetEntityId": "ent_sector",
+            "relationshipType": "OneToMany",
+            "entityInstances": [],
+            "uncertain": false
+          },
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": null,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_3_1",
+          "commentCount": 0,
+          "name": null,
+          "type": "wb-label",
+          "dataType": "LabelControl",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Is there any evidence of difficulties with food supplies in the vicinity of the Project / Assets?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_4_0",
+          "commentCount": 0,
+          "name": "in_agri_diff_food_supplies",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_4_1",
+          "commentCount": 0,
+          "name": "in_agri_steps_food_supplies",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "If the Project or Assets use a significant quantity of water, are measures in place, in alignment with IFC Performance Standard 3, to ensure the operations do  not cause or contribute to water stress or water pollution, and to ensure efficient water use?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_4_2",
+          "commentCount": 0,
+          "name": "in_agri_status_ifc_standard_3",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "Project / Asset does not use significant quantities of water",
+                "isVisible": "true",
+                "value": "Project / Asset does not use significant quantities of water"
+              },
+              {
+                "displayText": "Project / Asset uses significant quantities of water, but appropriate measures are in place.",
+                "isVisible": "true",
+                "value": "Project / Asset uses significant quantities of water, but appropriate measures are in place."
+              },
+              {
+                "displayText": "Project / Asset uses significant quantities of water, but appropriate measures are not in place.",
+                "isVisible": "true",
+                "value": "Project / Asset uses significant quantities of water, but appropriate measures are not in place."
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_4_3",
+          "commentCount": 0,
+          "name": "in_agri_status_ifc_standard_3_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Does the Project / Assets involve the production of soy, cocoa and coffee beans, sugarcane, cotton or livestock commodities?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_4_4",
+          "commentCount": 0,
+          "name": "in_agri_involve_beans_livestock",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Are there controls in place in relation to the Project or Asset which ensure effective management and control of the potential for forced and child labour?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_4_5",
+          "commentCount": 0,
+          "name": "in_agri_child_labour",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_4_6",
+          "commentCount": 0,
+          "name": "in_agri_child_labour_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Can it be demonstrated that the biofuels produced by the Project or Asset result in a net lifecycle (cultivation, production and utilisation) reduction in greenhouse gas emissions of at least 35%",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_5_0",
+          "commentCount": 0,
+          "name": "in_bio_demo_status",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "Yes, studies are available confirming biofuels produced result in a net lifecycle GHG reduction of at least 35%. ",
+                "isVisible": "true",
+                "value": "Yes, studies are available confirming biofuels produced result in a net lifecycle GHG reduction of at least 35%%. "
+              },
+              {
+                "displayText": "No. Studies are available but lifecycle GHG reduction is below 35%.",
+                "isVisible": "true",
+                "value": "No. Studies are available but lifecycle GHG reduction is below 35%%."
+              },
+              {
+                "displayText": "No. studies are not available.",
+                "isVisible": "true",
+                "value": "No. studies are not available."
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_5_1",
+          "commentCount": 0,
+          "name": "in_bio_demo_status_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Have any natural forests been cleared, or will be cleared, as part of the Project or in connection with the Assets?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_5_2",
+          "commentCount": 0,
+          "name": "in_bio_nat_forest_clear",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_5_3",
+          "commentCount": 0,
+          "name": "in_bio_nat_forest_clear_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Is there any evidence of difficulties with food supplies in the vicinity of the Project / Assets?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_5_4",
+          "commentCount": 0,
+          "name": "in_bio_diff_food_supplies",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_5_5",
+          "commentCount": 0,
+          "name": "in_bio_steps_food_supplies",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "Will or does the Project or Asset use a significant quantity of water?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_6_0",
+          "commentCount": 0,
+          "name": "in_chem_significant_water",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "No",
+                "isVisible": "true",
+                "value": "No"
+              },
+              {
+                "displayText": "Yes, and measures are in place to manage water use, water stress and pollution.These are aligned to IFC Performance Standard 3.",
+                "isVisible": "true",
+                "value": "Yes, and measures are in place to manage water use, water stress and pollution.These are aligned to IFC Performance Standard 3."
+              },
+              {
+                "displayText": "Yes, and measures are in place to manage water use, water stress and pollution. These are not aligned to IFC Performance Standard 3.",
+                "isVisible": "true",
+                "value": "Yes, and measures are in place to manage water use, water stress and pollution. These are not aligned to IFC Performance Standard 3."
+              },
+              {
+                "displayText": "Yes, and measures are not in place to manage water use.",
+                "isVisible": "true",
+                "value": "Yes, and measures are not in place to manage water use."
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_6_1",
+          "commentCount": 0,
+          "name": "in_chem_significant_water_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Does the Project or Asset involve the manufacture or processing of products containing asbestos?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_6_2",
+          "commentCount": 0,
+          "name": "in_chem_involve_asbestos",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_6_3",
+          "commentCount": 0,
+          "name": "in_chem_involve_asbestos_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Is the asbestos bonded or unbonded?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_6_4",
+          "commentCount": 0,
+          "name": "in_chem_asbestos_state",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "Bonded",
+                "isVisible": "true",
+                "value": "Bonded"
+              },
+              {
+                "displayText": "Unbonded",
+                "isVisible": "true",
+                "value": "Unbonded"
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_6_5",
+          "commentCount": 0,
+          "name": "in_chem_asbestos_state_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Does the client adhere to the ILO Code of Practice on Safety in the use of asbestos?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_6_6",
+          "commentCount": 0,
+          "name": "in_chem_asbestos_ILO_code",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_6_7",
+          "commentCount": 0,
+          "name": "in_chem_asbestos_ILO_code_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Are there controls in place in relation to the Project or Asset which ensure effective management and control of the potential for forced and child labour?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_6_8",
+          "commentCount": 0,
+          "name": "in_chem_child_labour",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_6_9",
+          "commentCount": 0,
+          "name": "in_chem_child_labour_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Does the Project relate to the development of a new dam?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_7_0",
+          "commentCount": 0,
+          "name": "in_dam_proj_devt",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Is the project being developed in accordance with the International Hydropower Association's Sustainability Assessment Protocol?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_7_1",
+          "commentCount": 0,
+          "name": "in_dam_proj_IHA_protocol",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_7_2",
+          "commentCount": 0,
+          "name": "in_dam_proj_IHA_protocol_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Has the Project scored at least a 5 for each of the following criteria: <br />Ã¢â�¬Â¢ Biodiversity: Biodiversity and Invasive Species (P-19, I-15, O-15);  <br />Ã¢â�¬Â¢ Project affected people and livelihoods: Project-Affected Communities and Livelihood (P-13, I9, O-9), Resettlement (P-14, I10, O-10) and Indigenous People (P-15, I-11, O-11);  <br />Ã¢â�¬Â¢ Hydrology: Hydrological Resource (P-7), Downstream Flow Regimes (P-23, I-20, O-19); and  <br />Ã¢â�¬Â¢ Design safety: Infrastructure Safety (P-8, I-5, O-6).",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_7_3",
+          "commentCount": 0,
+          "name": "in_dam_score_5_protocol",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_7_4",
+          "commentCount": 0,
+          "name": "in_dam_score_5_protocol_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Is the project developed in accordance with the IFC Performance Standards and IFC Good Practice Note on Animal Welfare in Livestock Operations?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_8_0",
+          "commentCount": 0,
+          "name": "in_fish_proj_IFC_good_practice",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_8_1",
+          "commentCount": 0,
+          "name": "in_fish_proj_IFC_good_practice_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Are the controls in place in relation to the project or asset which ensure effective management and control of the potential for forced and child labour for fisheries sector?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_8_2",
+          "commentCount": 0,
+          "name": "in_fish_child_labour",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_8_3",
+          "commentCount": 0,
+          "name": "in_fish_child_labour_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "Does the Project or Asset include forests managed for the purposes of producing timber or wood products (including paper)?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_9_0",
+          "commentCount": 0,
+          "name": "in_forest_wood_products",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_9_1",
+          "commentCount": 0,
+          "name": "in_forest_wood_products_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Are these forests certified, or will obtain certification, by the Forest Stewardship Council or equivalent?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_9_2",
+          "commentCount": 0,
+          "name": "in_forest_certification",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "Yes, the forests are FSC /equivalently certified, or there is a time-bound contractual commitment to obtain certification as part of the Transaction.",
+                "isVisible": "true",
+                "value": "Yes, the forests are FSC /equivalently certified, or there is a time-bound contractual commitment to obtain certification as part of the Transaction."
+              },
+              {
+                "displayText": "Some forests are FSC / equivalently certified, but not all.",
+                "isVisible": "true",
+                "value": "Some forests are FSC / equivalently certified, but not all."
+              },
+              {
+                "displayText": "No; the forests are not FSC certified or an equivalent.",
+                "isVisible": "true",
+                "value": "No; the forests are not FSC certified or an equivalent."
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_9_3",
+          "commentCount": 0,
+          "name": "in_forest_certification_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Does the Project or Asset have clear land tenure through leases, concessions and agreements in place and legal rights to logging?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_9_4",
+          "commentCount": 0,
+          "name": "in_forest_land_tenure",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "Yes, clear land tenure is held through legally-recognised mechanisms. Legal right to log can be demonstrated.",
+                "isVisible": "true",
+                "value": "new"
+              },
+              {
+                "displayText": "Land tenure is established for most sites and a time-bound plan is in place to complete this for remaining sites. Legal right to log can be demonstrated.",
+                "isVisible": "true",
+                "value": "Land tenure is established for most sites and a time-bound plan is in place to complete this for remaining sites. Legal right to log can be demonstrated."
+              },
+              {
+                "displayText": "Legally recognised land tenure and logging rights cannot be demonstrated.",
+                "isVisible": "true",
+                "value": "Legally recognised land tenure and logging rights cannot be demonstrated."
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_9_5",
+          "commentCount": 0,
+          "name": "in_forest_land_tenure_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Do local communities have legal or customary tenure or land use rights in connection with the Project or Assets?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_9_6",
+          "commentCount": 0,
+          "name": "in_forest_land_control",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "No",
+                "isVisible": "true",
+                "value": "No"
+              },
+              {
+                "displayText": "Yes; Local communities maintain control of forest operations",
+                "isVisible": "true",
+                "value": "Yes; Local communities maintain control of forest operations"
+              },
+              {
+                "displayText": "Yes; Local communities have delegated control with free prior and informed consent, in accordance with IFC and FSC requirements and this can be demonstrated through documentation.",
+                "isVisible": "true",
+                "value": "Yes; Local communities have delegated control with free prior and informed consent, in accordance with IFC and FSC requirements and this can be demonstrated through documentation."
+              },
+              {
+                "displayText": "Yes; A documented and time-bound process is being followed, incorporated in transaction documentation, to ensure that free prior and informed consent is obtained from local communities or that they have sufficient control of forest operations.",
+                "isVisible": "true",
+                "value": "Yes; A documented and time-bound process is being followed, incorporated in transaction documentation, to ensure that free prior and informed consent is obtained from local communities or that they have sufficient control of forest operations."
+              },
+              {
+                "displayText": "Yes, but it cannot be demonstrated that local communities have control or have delegated control in accordance with FSC and IFC requirements.",
+                "isVisible": "true",
+                "value": "Yes, but it cannot be demonstrated that local communities have control or have delegated control in accordance with FSC and IFC requirements."
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_9_7",
+          "commentCount": 0,
+          "name": "in_forest_land_control_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Does the Project or Asset have in place practices to minimise soil disturbance, including impacts on land stability and run-off?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_9_8",
+          "commentCount": 0,
+          "name": "in_forest_minimise_soil_disturb",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_9_9",
+          "commentCount": 0,
+          "name": "in_forest_minimise_soil_disturb_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Will or have the Project / Assets involved the conversion of natural forests to wood plantations, or impact upon High Conservation Value areas or Primary Forest?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_9_10",
+          "commentCount": 0,
+          "name": "in_forest_involve_conversion",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_9_11",
+          "commentCount": 0,
+          "name": "in_forest_involve_conversion_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Will the Project  / Assets involve the use of fire for the purposes of land clearance (including in preparation for planting)?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_9_12",
+          "commentCount": 0,
+          "name": "in_forest_involve_fire",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_9_13",
+          "commentCount": 0,
+          "name": "in_forest_involve_fire_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "If the Project is a coal fired power plant, does it employ super-critical or ultra-super-critical technology?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_10_0",
+          "commentCount": 0,
+          "name": "in_fossil_coal_super_critical_tech",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_10_1",
+          "commentCount": 0,
+          "name": "in_fossil_coal_super_critical_tech_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "If the Project is a coal fired power plant, does it meet an emissions intensity criteria of at least 830g/CO2/kWh??",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_10_2",
+          "commentCount": 0,
+          "name": "in_fossil_coal_emission_criteria",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_10_3",
+          "commentCount": 0,
+          "name": "in_fossil_coal_emission_criteria_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "Does the Asset / will the Project monitor and externally report actual greenhouse gas emissions no less than annually, in accordance with an internationally recognised methodology (e.g. GHG Protocol)? (Note: such reporting may occur at Group level)?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_10_4",
+          "commentCount": 0,
+          "name": "in_fossil_report_green_house_emission",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_10_5",
+          "commentCount": 0,
+          "name": "in_fossil_report_green_house_emission_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Does the Project / Asset have an emissions reduction target?",
+          "visible": false,
+          "readOnly": true,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_10_6",
+          "commentCount": 0,
+          "name": "in_fossil_emission_reduction_target",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_10_7",
+          "commentCount": 0,
+          "name": "in_fossil_emission_reduction_target_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Does the Project involve the construction of a desalination plant?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_10_8",
+          "commentCount": 0,
+          "name": "in_fossil_involve_desalination_plant",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Are appropriate measures in place to mitigate the adverse impact related to the disposal of brine and/or abstraction of seawater?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_10_9",
+          "commentCount": 0,
+          "name": "in_fossil_mitigate_impact_seawater",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_10_10",
+          "commentCount": 0,
+          "name": "in_fossil_mitigate_impact_seawater_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Will the Project involve workers living on-site?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_11_0",
+          "commentCount": 0,
+          "name": "in_infra_involve_workers",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Has, or will, the IFC / EBRD Guidance Note on Workers' Accommodation: Processes and Standards been followed?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_11_1",
+          "commentCount": 0,
+          "name": "in_infra_IFC_guidance_compliance",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "Yes, the Guidance Note has been followed",
+                "isVisible": "true",
+                "value": "Yes, the Guidance Note has been followed"
+              },
+              {
+                "displayText": "No new worker accommodation is required for the Project.",
+                "isVisible": "true",
+                "value": "No new worker accommodation is required for the Project."
+              },
+              {
+                "displayText": "No, the Guidance Note has not been followed.",
+                "isVisible": "true",
+                "value": "No, the Guidance Note has not been followed."
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_11_2",
+          "commentCount": 0,
+          "name": "in_infra_IFC_guidance_compliance_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Does the Project involve the construction of a desalination plant?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_11_3",
+          "commentCount": 0,
+          "name": "in_infra_involve_desalination_plant",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Are appropriate measures in place to mitigate the adverse impact related to the disposal of brine and/or abstraction of seawater?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_11_4",
+          "commentCount": 0,
+          "name": "in_infra_mitigate_impact_seawater",
+          "type": "wb-textbox",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_11_5",
+          "commentCount": 0,
+          "name": "in_infra_mitigate_impact_seawater_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Does the Project / Assets involve the mining, processing and transportation of uranium?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_12_0",
+          "commentCount": 0,
+          "name": "in_mining_transport_uranium",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Does the client comply with the World Nuclear Association's Principles  2, 3, 5, 6 and 8?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_12_1",
+          "commentCount": 0,
+          "name": "in_mining_comply_nucluear_assoc",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "Yes, the client complies with the World Nuclear Association's Principles  2, 3, 5, 6 and 8.",
+                "isVisible": "true",
+                "value": "Yes, the client complies with the World Nuclear Association's Principles  2, 3, 5, 6 and 8."
+              },
+              {
+                "displayText": "The client does not fully comply with the World Nuclear Association's Principles  2, 3, 5, 6 and 8, but is working toward this.",
+                "isVisible": "true",
+                "value": "The client does not fully comply with the World Nuclear Association's Principles  2, 3, 5, 6 and 8, but is working toward this."
+              },
+              {
+                "displayText": "No; the client does not comply with the World Nuclear Association's Principles  2, 3, 5, 6 and 8.",
+                "isVisible": "true",
+                "value": "No; the client does not comply with the World Nuclear Association's Principles  2, 3, 5, 6 and 8."
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_12_2",
+          "commentCount": 0,
+          "name": "in_mining_comply_nucluear_assoc_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Does the Project / Assets involve the exploration or Asset of deep-sea mining activities?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_12_3",
+          "commentCount": 0,
+          "name": "in_mining_deep_sea_explore",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "No",
+                "isVisible": "true",
+                "value": "No"
+              },
+              {
+                "displayText": "Yes, and the client complies with the International Seabed Authority Mining Code.",
+                "isVisible": "true",
+                "value": "Yes, and the client complies with the International Seabed Authority Mining Code."
+              },
+              {
+                "displayText": "Yes. The client does not yet comply with the International Seabed Authority Mining Code, but intends to do so.",
+                "isVisible": "true",
+                "value": "Yes. The client does not yet comply with the International Seabed Authority Mining Code, but intends to do so."
+              },
+              {
+                "displayText": "Yes, but the client does not comply with the International Seabed Authority Mining Code, and does not intend to do so. ",
+                "isVisible": "true",
+                "value": "Yes, but the client does not comply with the International Seabed Authority Mining Code, and does not intend to do so. "
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_12_4",
+          "commentCount": 0,
+          "name": "in_mining_deep_sea_explore_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Does the Project / Assets involve the mining of gold, wolframite, casserite and columbite-tantalite, and the processing and trade of gold, tantalum, tin and tungsten?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_12_5",
+          "commentCount": 0,
+          "name": "in_mining_trade_gold_tantalum_tin_tungsten",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "No",
+                "isVisible": "true",
+                "value": "No"
+              },
+              {
+                "displayText": "Yes, and the client has taken documented action to prevent contribution to supporting armed conflicts and breaches of human rights, both through their own Assets and their supply chain.",
+                "isVisible": "true",
+                "value": "Yes, and the client has taken documented action to prevent contribution to supporting armed conflicts and breaches of human rights, both through their own Assets and their supply chain."
+              },
+              {
+                "displayText": "Yes. The client has not considered indirect human rights breaches, but is taking steps to do so.",
+                "isVisible": "true",
+                "value": "Yes. The client has not considered indirect human rights breaches, but is taking steps to do so."
+              },
+              {
+                "displayText": "Yes. The client has not considered indirect human rights breaches and does not intend to do so.",
+                "isVisible": "true",
+                "value": "Yes. The client has not considered indirect human rights breaches and does not intend to do so."
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_12_6",
+          "commentCount": 0,
+          "name": "in_mining_trade_gold_tantalum_tin_tungsten_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Does the Project / Assets involve the mining or trading of rough diamonds?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_12_7",
+          "commentCount": 0,
+          "name": "in_mining_trade_rough_diamonds",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "No",
+                "isVisible": "true",
+                "value": "No"
+              },
+              {
+                "displayText": "Yes, the Project / Assets are certified under the Kimberley Process Certification Scheme. If the Project / Assets are in Zimbabwe or Angola, additional due diligence has been, or will be, made available to ESRM.",
+                "isVisible": "true",
+                "value": "Yes, the Project / Assets are certified under the Kimberley Process Certification Scheme. If the Project / Assets are in Zimbabwe or Angola, additional due diligence has been, or will be, made available to ESRM."
+              },
+              {
+                "displayText": "Yes, the Project / Assets are not certified under the Kimberley Process Certification Scheme OR Project / Assets are in Zimbabwe or Angola and the client cannot provide additional due diligence.",
+                "isVisible": "true",
+                "value": "Yes, the Project / Assets are not certified under the Kimberley Process Certification Scheme OR Project / Assets are in Zimbabwe or Angola and the client cannot provide additional due diligence."
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_12_8",
+          "commentCount": 0,
+          "name": "in_mining_trade_rough_diamonds_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "If the Project / Assets are in Zimbabwe or Angola, has additional due diligence been made, or will be made, available to ESRM?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_12_9",
+          "commentCount": 0,
+          "name": "in_mining_addl_due_diligence",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_12_10",
+          "commentCount": 0,
+          "name": "in_mining_addl_due_diligence_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": " Does the Project / Assets involve the processing of gold using cyanide?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_12_11",
+          "commentCount": 0,
+          "name": "in_mining_proc_gold_cyanice",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "Yes and the Project / Assets are, or are in the process of becoming, signatories to the International Cyanide Management Code.",
+                "isVisible": "true",
+                "value": "Yes and the Project / Assets are, or are in the process of becoming, signatories to the International Cyanide Management Code."
+              },
+              {
+                "displayText": "Yes, and cyanide management is conducted in accordance with relevant local / national legislation.",
+                "isVisible": "true",
+                "value": "Yes, and cyanide management is conducted in accordance with relevant local / national legislation."
+              },
+              {
+                "displayText": "No.",
+                "isVisible": "true",
+                "value": "No."
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_12_12",
+          "commentCount": 0,
+          "name": "in_mining_proc_gold_cyanice_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Does the Project / Assets involve the mining of asbestos?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_12_13",
+          "commentCount": 0,
+          "name": "in_mining_asbestos",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_12_14",
+          "commentCount": 0,
+          "name": "in_mining_asbestos_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Does the Project involve the construction of a nuclear power plant?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_13_0",
+          "commentCount": 0,
+          "name": "in_nuclear_plant",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Is the Project being developed in accordance with the IAEA Nuclear Safety Standards and Security Series?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_13_1",
+          "commentCount": 0,
+          "name": "in_nuclear_IAEA_standards",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_13_2",
+          "commentCount": 0,
+          "name": "in_nuclear_IAEA_standards_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "Is the supplier of the power plant to the project a member of the Nuclear Power Plant Exporters Code of Conduct?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_13_3",
+          "commentCount": 0,
+          "name": "in_nuclear_supplier_member_conduct",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_13_4",
+          "commentCount": 0,
+          "name": "in_nuclear_supplier_member_conduct_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "Will independent verification of the Project's/Asset's ongoing compliance with the IAEA Nuclear Safety Standards and Security Series be provided?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_13_5",
+          "commentCount": 0,
+          "name": "in_nuclear_verify_IAEA_compliance",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "Yes. This is an asset for which independent verification is already provided.",
+                "isVisible": "true",
+                "value": "Yes. This is an asset for which independent verification is already provided."
+              },
+              {
+                "displayText": "Yes. This is a Project for which independent verification will be provided.",
+                "isVisible": "true",
+                "value": "Yes. This is a Project for which independent verification will be provided."
+              },
+              {
+                "displayText": "No verification will be provided.",
+                "isVisible": "true",
+                "value": "No verification will be provided."
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_13_6",
+          "commentCount": 0,
+          "name": "in_nuclear_verify_IAEA_compliance_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Has it been confirmed that the Project suppliers are members of the Nuclear Supplier Group Guidelines?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_13_7",
+          "commentCount": 0,
+          "name": "in_nuclear_supplier_guideline_confirm",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_13_8",
+          "commentCount": 0,
+          "name": "in_nuclear_supplier_guideline_confirm_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Has the Project been/will be subject to the IAEA's Site and External Events Design (SEED) review?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_13_9",
+          "commentCount": 0,
+          "name": "in_nuclear_IAEA_design_review",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_13_10",
+          "commentCount": 0,
+          "name": "in_nuclear_IAEA_design_review_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Is the country where the Project / Asset is located a signatory to the Treaty for Non Proliferation of Nuclear Weapons?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_13_11",
+          "commentCount": 0,
+          "name": "infrd_country_nuclear_non_proliferatio",
+          "type": "wb-textbox",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Does the Project/Assets have in place spill prevention measures appropriate to operating activities (including transportation and bunkering) and national legislation, including Maritime Pollution (MARPOL)?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_14_0",
+          "commentCount": 0,
+          "name": "in_oilgas_spill_prevention",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "Yes, the Project / Assets have in place place spill prevention measures appropriate to operating activities.",
+                "isVisible": "true",
+                "value": "Yes, the Project / Assets have in place place spill prevention measures appropriate to operating activities."
+              },
+              {
+                "displayText": "Project / Assets are developing have in place place spill prevention measures appropriate to operating activities, OR have in place generic spill prevention measures.",
+                "isVisible": "true",
+                "value": "Project / Assets are developing have in place place spill prevention measures appropriate to operating activities, OR have in place generic spill prevention measures."
+              },
+              {
+                "displayText": "No, Project / Assets have no spill prevention measures in place.",
+                "isVisible": "true",
+                "value": "No, Project / Assets have no spill prevention measures in place."
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_14_1",
+          "commentCount": 0,
+          "name": "in_oilgas_spill_prevention_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Do the Project/Assets have preparedness and response plans which are appropriate to operating activities, adapted to their local operating environment and aligned to the OPPRC Convention or IPIECA's guidance?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_14_2",
+          "commentCount": 0,
+          "name": "in_oilgas_response_plans_OPPRC",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "Yes, preparedness and response plans are in place which are appropriate to operating activities, adapted to their local operating environment.",
+                "isVisible": "true",
+                "value": "Yes, preparedness and response plans are in place which are appropriate to operating activities, adapted to their local operating environment."
+              },
+              {
+                "displayText": "Preparedness and response plans are in place but are generic in nature.",
+                "isVisible": "true",
+                "value": "Preparedness and response plans are in place but are generic in nature."
+              },
+              {
+                "displayText": "No; preparedness and response plans are not in place.",
+                "isVisible": "true",
+                "value": "No; preparedness and response plans are not in place."
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_14_3",
+          "commentCount": 0,
+          "name": "in_oilgas_response_plans_OPPRC_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Do the Assets policies and procedures to maintain asset integrity (including pipelines, tanks, equipment and control measures)?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_14_4",
+          "commentCount": 0,
+          "name": "in_oilgas_policy_asset_integrity",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_14_5",
+          "commentCount": 0,
+          "name": "in_oilgas_policy_asset_integrity_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Does the Project/Assets involve offshore exploration, development or production?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_14_6",
+          "commentCount": 0,
+          "name": "in_oilgas_offshore_exploration",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "Yes, and Project / Assets are fully aligned to industry best practice for offshore activities and have access to appropriate oil spill response resources.",
+                "isVisible": "true",
+                "value": "Yes, and Project / Assets are fully aligned to industry best practice for offshore activities and have access to appropriate oil spill response resources."
+              },
+              {
+                "displayText": "Yes, but Project  / Assets do not have access to appropriate oil spill response resource, and / or measures to address risks of drilling offshore require are limited in scope or implementation.",
+                "isVisible": "true",
+                "value": "Yes, but Project  / Assets do not have access to appropriate oil spill response resource, and / or measures to address risks of drilling offshore require are limited in scope or implementation."
+              },
+              {
+                "displayText": "Project / Assets do not involve offshort exploration, development or production.",
+                "isVisible": "true",
+                "value": "Project / Assets do not involve offshort exploration, development or production."
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_14_7",
+          "commentCount": 0,
+          "name": "in_oilgas_offshore_exploration_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Does the Project/Assets include transportation of heavy grades of oil?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_14_8",
+          "commentCount": 0,
+          "name": "in_oilgas_transport_heavy_oil",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "No",
+                "isVisible": "true",
+                "value": "No"
+              },
+              {
+                "displayText": "Yes, and this takes place in double hulled tankers",
+                "isVisible": "true",
+                "value": "Yes, and this takes place in double hulled tankers"
+              },
+              {
+                "displayText": "Yes, and some transportation takes place in single hulled tankers",
+                "isVisible": "true",
+                "value": "Yes, and some transportation takes place in single hulled tankers"
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_14_9",
+          "commentCount": 0,
+          "name": "in_oilgas_transport_heavy_oil_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Does the operator adhere to the Roundtable for Sustainable Palm Oil (RSPO) New Plantings Procedure?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_15_0",
+          "commentCount": 0,
+          "name": "in_palm_roundtable_planting_proc",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "Yes",
+                "isVisible": "true",
+                "value": "Yes"
+              },
+              {
+                "displayText": "No, but an Environmental and Social Impact Assessment (ESIA) to IFC standards has been carried out for the Project.",
+                "isVisible": "true",
+                "value": "No, but an Environmental and Social Impact Assessment (ESIA) to IFC standards has been carried out for the Project."
+              },
+              {
+                "displayText": "No",
+                "isVisible": "true",
+                "value": "No"
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_15_1",
+          "commentCount": 0,
+          "name": "in_palm_roundtable_planting_proc_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Does the Project or Asset have clear land tenure through leases, concessions and agreements in place and legal rights to planting?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_15_2",
+          "commentCount": 0,
+          "name": "in_palm_land_tenure",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "Yes, clear land tenure is held through legally-recognised mechanisms. Legal right to log can be demonstrated.",
+                "isVisible": "true",
+                "value": "Yes, clear land tenure is held through legally-recognised mechanisms. Legal right to log can be demonstrated."
+              },
+              {
+                "displayText": "Land tenure is established for most sites and a time-bound plan is in place to complete this for remaining sites. Legal right to log can be demonstrated.",
+                "isVisible": "true",
+                "value": "Land tenure is established for most sites and a time-bound plan is in place to complete this for remaining sites. Legal right to log can be demonstrated."
+              },
+              {
+                "displayText": "Legally recognised land tenure and logging rights cannot be demonstrated.",
+                "isVisible": "true",
+                "value": "Legally recognised land tenure and logging rights cannot be demonstrated."
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_15_3",
+          "commentCount": 0,
+          "name": "in_palm_land_tenure_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Do local communities have legal or customary tenure or land use rights in connection with the Project or Assets?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_15_4",
+          "commentCount": 0,
+          "name": "in_palm_land_control",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "There are no local communities with legal or customary tenure or land use rights in connection with the Project or Assets.",
+                "isVisible": "true",
+                "value": "There are no local communities with legal or customary tenure or land use rights in connection with the Project or Assets."
+              },
+              {
+                "displayText": "Local communities maintain control of forest operations.",
+                "isVisible": "true",
+                "value": "Local communities maintain control of forest operations."
+              },
+              {
+                "displayText": "Local communities have delegated control with free prior and informed consent, in accordance with IFC and RSPO requirements and this can be demonstrated through documentation .",
+                "isVisible": "true",
+                "value": "Local communities have delegated control with free prior and informed consent, in accordance with IFC and RSPO requirements and this can be demonstrated through documentation ."
+              },
+              {
+                "displayText": "A documented and time-bound process is being followed, incorporated in transaction documentation, to ensure that free prior and informed consent is obtained from local communities or that they have sufficient control of forest operations.",
+                "isVisible": "true",
+                "value": "A documented and time-bound process is being followed, incorporated in transaction documentation, to ensure that free prior and informed consent is obtained from local communities or that they have sufficient control of forest operations."
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_15_5",
+          "commentCount": 0,
+          "name": "in_palm_land_control_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Is or does the Project or Asset include a Palm oil Mill?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_15_6",
+          "commentCount": 0,
+          "name": "in_palm_oil_mill",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Is the mill supplied by plantations not owned or controlled by the Client Sponsor(s)?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_15_7",
+          "commentCount": 0,
+          "name": "in_palm_supplied_plantations",
+          "type": "wb-radio",
+          "dataType": "text",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [
+              {
+                "displayText": "No",
+                "isVisible": "true",
+                "value": "No"
+              },
+              {
+                "displayText": "Yes, but these suppliers operate in accordance with all relevant international, regional and national laws. (Clients who are compliant with the RSPO P&Cs should ensure that these suppliers are also compliant with the RSPO P&Cs for independent smallholders)",
+                "isVisible": "true",
+                "value": "Yes, but these suppliers operate in accordance with all relevant international, regional and national laws. (Clients who are compliant with the RSPO P&Cs should ensure that these suppliers are also compliant with the RSPO P&Cs for independent smallholders)"
+              },
+              {
+                "displayText": "Yes; compliance of these suppliers with all relevant international, regional and national laws cannot be confirmed.",
+                "isVisible": "true",
+                "value": "Yes; compliance of these suppliers with all relevant international, regional and national laws cannot be confirmed."
+              }
+            ]
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_15_8",
+          "commentCount": 0,
+          "name": "in_palm_supplied_plantations_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Does the Project relate to replanting of existing plantations/is replanting occurring in connection with the Asset?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_15_9",
+          "commentCount": 0,
+          "name": "in_palm_replanting",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": true,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "Was the existing plantation previously a High Conservation Value (HCV) area?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_15_10",
+          "commentCount": 0,
+          "name": "in_palm_high_conservation_value",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_15_11",
+          "commentCount": 0,
+          "name": "in_palm_high_conservation_value_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Will the replanting address previous practices that are deemed to be non-compliant to any relevant international, regional and national regulations?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_15_12",
+          "commentCount": 0,
+          "name": "in_palm_address_non_compliant",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_15_13",
+          "commentCount": 0,
+          "name": "in_palm_address_non_compliant_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Will the project follow compensation requirements in accordance to any relevant international,  regional and national laws as well as those put forth by the RSPO where relevant?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_15_14",
+          "commentCount": 0,
+          "name": "in_palm_compensation_requirements",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_15_15",
+          "commentCount": 0,
+          "name": "in_palm_compensation_requirements_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Will a drainability assessment be completed prior to any replanting on peat?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_15_16",
+          "commentCount": 0,
+          "name": "in_palm_drain_assessment",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_15_17",
+          "commentCount": 0,
+          "name": "in_palm_drain_assessment_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        },
+        {
+          "label": "Can it be confirmed the Project/Assets do not involve the use of fire in land clearance/land preparation?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_15_18",
+          "commentCount": 0,
+          "name": "in_palm_involve_fire",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_15_19",
+          "commentCount": 0,
+          "name": "in_palm_involve_fire_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "Are there controls in place in relation to the Project or Asset which ensure effective management and control of the potential for forced and child labour?",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_16_0",
+          "commentCount": 0,
+          "name": "in_tobacco_child_labour",
+          "type": "wb-radio",
+          "dataType": "boolean",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": null
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": true
+        },
+        {
+          "label": "",
+          "visible": false,
+          "readOnly": false,
+          "disable": null,
+          "isOpa": true,
+          "id": "scr_assessment_16_1",
+          "commentCount": 0,
+          "name": "in_tobacco_child_labour_commnts",
+          "type": "wb-textarea",
+          "dataType": "textArea",
+          "value": null,
+          "uncertain": false,
+          "mandatory": false,
+          "refreshOnChange": false,
+          "error": null,
+          "fieldAttributes": {},
+          "fsValidations": {
+            "maxLength": "1000"
+          },
+          "opaObject": null,
+          "helpText": null,
+          "commentable": false
+        }
+      ],
+      "id": "qs$scr_assessment$global$global"
+    },
+    "esraActivity": {
+      "id": "201701241001362928",
+      "version": 8,
+      "status": "0001",
+      "outcome": "0005",
+      "esrmRouteOnly": true,
+      "readOnly": false,
+      "locked": false,
+      "workflowHistoryEnabled": false,
+      "saveDraftEnabled": "E",
+      "submitEnabled": "E",
+      "recallEnabled": "N",
+      "approveEnabled": "N",
+      "rejectEnabled": "N",
+      "referBackEnabled": "N",
+      "withdrawEnabled": "N",
+      "reopenEnabled": "N",
+      "deleteEnabled": "E",
+      "referToESRMEnabled": "N",
+      "assignToReviewEnabled": "N",
+      "lockMessage": null,
+      "userRole": "0092",
+      "userAccess": "0096"
+    }
+  }
+}

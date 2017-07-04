@@ -1,0 +1,191 @@
+{
+	"addAccountPlan": {
+		"id": "12424",
+    "groupName" : "Singapore Aviation & General Insurance Company...",
+		"apManualRefresh" : false,
+		"showCreateFlag":true,
+		"globalSubsidaryFlag":true,
+		"subSegmentSubsidaries":[{
+			"id": "2016090618",
+			"val": "1",
+			"name": "ABM Industries"
+			},
+			{
+				"id": "2016090619",
+				"val": "2",
+				"name": "Adams Resources & Energy"
+				}],
+		"subsidaryDetails":[{
+			"id": "2016090618",
+			"val": "1",
+			"name": "ABM Industries"
+			},
+			{
+				"id": "2016090619",
+				"val": "2",
+				"name": "Adams Resources & Energy"
+				},
+				{
+					"id": "2016090678",
+					"val": "3",
+					"name": "Affiliated computer services"
+					},
+					{
+						"id": "2016090679",
+						"val": "4",
+						"name": "Bank of New york"
+						}],
+		"entitlements": {
+			"id": "121234",
+			"coverage": {
+				"id": "20161234567890",
+				"edit": true,
+				"view": true
+			},
+			"tbsales": {
+				"id": "201612345678901",
+				"edit": true,
+				"view": true
+			}
+		},
+		"coverageSections": [{
+			"id": "1",
+			"name": "Client Contact Management",
+			"route": "coverage.client-contact",
+			"status": "",
+			"mandatory": true,
+			"type": "Man",
+      "isChecked":true
+		}, {
+			"id": "2",
+			"name": "Liabilities",
+			"route": "coverage.liabilities",
+			"status": "",
+			"mandatory": true,
+			"type": "Rec",
+      "isChecked":true
+		}, {
+			"id": "3",
+			"name": "Client Strategy",
+			"route": "coverage.client-strategy",
+			"status": "",
+			"mandatory": false,
+			"type": "Opt",
+      "isChecked":false
+		}, 	{
+			"id": "77",
+			"name": "Client Strategy Lite",
+			"route": "coverage.client-strategy-lite",
+			"status": "",
+			"mandatory": false,
+			"type": "Opt",
+      "isChecked":false
+		}, {
+			"id": "16",
+			"name": "Client Strategy Investor",
+			"route": "coverage.client-strategy-investor",
+			"status": "",
+			"mandatory": false,
+			"type": "Opt",
+      "isChecked":false
+		}, {
+			"id": "4",
+			"name": "Estimated Fee Paid",
+			"route": "coverage.estimated-fee-paid",
+			"status": "",
+			"mandatory": false,
+			"type": "Rec",
+      "isChecked":true
+		}, {
+			"id": "5",
+			"name": "Deal Pipeline & History",
+			"route": "coverage.dealpipeline-history",
+			"status": "",
+			"mandatory": false,
+			"type": "Rec",
+      "isChecked":true
+		}, {
+			"id": "6",
+			"name": "Attachments",
+			"route": "coverage.attachments",
+			"status": "",
+			"mandatory": false,
+			"type": "Opt",
+      "isChecked":false
+		}, {
+			"id": "7",
+			"name": "Wallet Sizing",
+			"route": "coverage.wallet-sizing",
+			"status": "",
+			"mandatory": true,
+			"type": "Man",
+      "isChecked":true
+		}, {
+			"id": "8",
+			"name": "Key Financials",
+			"route": "coverage.key-financials",
+			"status": "",
+			"mandatory": false,
+			"type": "Opt",
+      "isChecked":false
+		}, {
+			"id": "9",
+			"name": "Sign Off",
+			"route": "coverage.signoff",
+			"status": "",
+			"mandatory": true,
+			"type": "Man",
+      "isChecked":true
+		}],
+		"tbsalesSections": [{
+			"id": "10",
+			"name": "Client Contact Management",
+			"route": "tbsales.client-contact",
+			"status": "",
+			"mandatory": true,
+      "type": "Man",
+      "isChecked":true
+		}, {
+			"id": "11",
+			"name": "Client Penetration",
+			"route": "tbsales.client-penetration",
+			"status": "",
+			"mandatory": true,
+      "type": "Man",
+      "isChecked":true
+		}, {
+			"id": "12",
+			"name": "Financials",
+			"route": "tbsales.financial",
+			"status": "",
+			"mandatory": false,
+      "type": "Rec",
+      "isChecked":true
+		}, {
+			"id": "13",
+			"name": "Action Plan",
+			"route": "tbsales.actionplan",
+			"status": "",
+			"mandatory": true,
+      "type": "Rec",
+      "isChecked":true
+		}, {
+			"id": "14",
+			"name": "Buying Behaviour",
+			"route": "tbsales.buyingbehaviour",
+			"status": "",
+			"mandatory": false,
+      "type": "Opt",
+      "isChecked":false
+		}, {
+			"id": "15",
+			"name": "Sign Off",
+			"route": "tbsales.signoff",
+			"status": "",
+			"mandatory": true,
+      "type": "Man",
+      "isChecked":true
+		}],
+		"kthreeSubSegment":true
+	}
+}

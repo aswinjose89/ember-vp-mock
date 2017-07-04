@@ -1,0 +1,12 @@
+{
+  "cddTypes": [
+    {
+      "code": "FI",
+      "description": "Financial Institution"
+    },
+    {
+      "code": "CO",
+      "description": "Corporates"
+    }
+  ]
+}

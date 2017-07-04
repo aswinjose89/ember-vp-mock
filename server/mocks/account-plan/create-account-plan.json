@@ -1,0 +1,127 @@
+{
+  "add-account-plan": {
+    "id": "12424",
+    "entitlements":{
+        "id":"121234",
+        "coverage":{
+          "id":"20161234567890",
+          "edit":true,
+          "view":true
+        },
+        "tbsales":{
+          "id":"201612345678901",
+          "edit":true,
+          "view":true
+        }
+    },
+    "coverageSections":[
+        {
+          "id": "1",
+          "name":"Client Contact Management",
+          "route":"coverage.client-contact",
+          "status":"",
+          "mandatory": true
+        },
+        {
+          "id": "2",
+          "name":"Liabilities",
+          "route":"coverage.liabilities",
+          "status":"",
+          "mandatory": true
+        },
+        {
+          "id": "3",
+          "name":"Client Strategy",
+          "route":"coverage.client-strategy",
+          "status":"",
+          "mandatory": false
+        },
+        {
+          "id": "4",
+          "name":"Estimated Fee Paid",
+          "route":"coverage.estimated-fee-paid",
+          "status":"",
+          "mandatory": false
+        },
+        {
+          "id": "5",
+          "name":"Deal Pipeline & History",
+          "route":"coverage.dealpipeline-history",
+          "status":"",
+          "mandatory": true
+        },
+        {
+          "id": "6",
+          "name":"Attachments",
+          "route":"coverage.attachments",
+          "status":"",
+          "mandatory": true
+        },
+        {
+          "id": "7",
+          "name":"Wallet Sizing",
+          "route":"coverage.wallet-sizing",
+          "status":"",
+          "mandatory": true
+        },
+        {
+          "id": "8",
+          "name":"Key Financials",
+          "route":"coverage.key-financials",
+          "status":"",
+          "mandatory": true
+        },
+        {
+          "id": "9",
+          "name":"Sign Off",
+          "route":"coverage.signoff",
+          "status":"",
+          "mandatory": false
+        }
+    ],
+    "tbsalesSections":[
+        {
+          "id": "10",
+          "name":"Client Contact Management",
+          "route":"tbsales.client-contact",
+          "status":"",
+          "mandatory": true
+        },
+        {
+          "id": "11",
+          "name":"Client Penetration",
+          "route":"tbsales.client-penetration",
+          "status":"",
+          "mandatory": true
+        },
+        {
+          "id": "12",
+          "name":"Financials",
+          "route":"tbsales.financial",
+          "status":"",
+          "mandatory": false
+        },
+        {
+          "id": "13",
+          "name":"Action Plan",
+          "route":"tbsales.actionplan",
+          "status":"",
+          "mandatory": true
+        },
+        {
+          "id": "14",
+          "name":"Buying Behaviour",
+          "route":"tbsales.buyingbehaviour",
+          "status":"",
+          "mandatory": false
+        },
+        {
+          "id": "15",
+          "name":"Sign Off",
+          "route":"tbsales.signoff",
+          "status":"",
+          "mandatory": true
+        }
+    ]
+  }
+}

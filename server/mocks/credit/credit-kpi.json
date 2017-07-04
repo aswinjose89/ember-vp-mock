@@ -1,0 +1,8 @@
+{
+    "creditKpis": [{
+        "id": 1,
+        "overdueTotal": 0,
+        "forthcomingTotal": 111,
+        "actionedTotal": 24
+    }]
+}

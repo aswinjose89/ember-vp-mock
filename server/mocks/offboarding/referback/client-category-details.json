@@ -1,0 +1,100 @@
+{
+  "offboarding/task/referback/category-detail": {
+    "id": 1,
+    "success": true,
+    "bbaCaseDetails": [
+      {
+        "id": "111317064-BBA-1",
+        "caseType": "BBA",
+        "bookingLocation": "IN/SCBL",
+        "caseStatus": "Approved",
+        "locationId": "INSCBL",
+        "countryCode": "IN",
+        "approvedDate": "18 Nov 2014",
+        "version": 2,
+        "nextReviewDate": "18 Nov 2017",
+        "riskRating": "L",
+        "country": "INDIA",
+        "subStatusDesc": "Approved",
+        "statusCode": "S02",
+        "cddType": "CO",
+        "caseId": 106631,
+        "closureStatus": "Active",
+        "subStatusCode": "SS08",
+        "statusDesc": "Approved",
+        "accountDetails": [],
+        "selected": false,
+        "changeKey": "111317064-BBA-1-ChangeKey",
+        "fatcaDetail": "111317064-BBA-FATCA"
+      },
+      {
+        "id": "111317064-BBA-2",
+        "caseType": "BBA",
+        "bookingLocation": "IN/SCBL",
+        "caseStatus": "Approved",
+        "locationId": "INSCBL",
+        "countryCode": "IN",
+        "approvedDate": "18 Nov 2014",
+        "version": 2,
+        "nextReviewDate": "18 Nov 2017",
+        "riskRating": "L",
+        "country": "INDIA",
+        "subStatusDesc": "Approved",
+        "statusCode": "S02",
+        "cddType": "CO",
+        "caseId": 106631,
+        "closureStatus": "Active",
+        "subStatusCode": "SS08",
+        "statusDesc": "Approved",
+        "accountDetails": [],
+        "selected": false,
+        "changeKey": "111317064-BBA-2-ChangeKey"
+      }
+    ],
+    "locationDetails": [
+      {
+        "categoryId": "1892",
+        "categoryType": "LOCATION",
+        "changeKey": "0",
+        "sciLeId": "11090921",
+        "bookingLocation": "TH/SCBL",
+        "caseId": null,
+        "caseType": null,
+        "cddCaseId": null,
+        "cddCaseType": null,
+        "pfamName": "dsfsdg",
+        "pfamCountry": "dsgdssds",
+        "gamName": "dsfdfsg",
+        "uniqueKey": "0",
+        "id": "01892LOCATION11090921"
+      }
+    ],
+    "gaCaseDetail": {
+      "caseType": "GA",
+      "bookingLocation": "IN/SCBL",
+      "caseStatus": "Approved",
+      "locationId": "INSCBL",
+      "countryCode": "IN",
+      "approvedDate": "18 Nov 2014",
+      "version": 2,
+      "nextReviewDate": "18 Nov 2017",
+      "riskRating": "L",
+      "id": "111317064-GA",
+      "country": "INDIA",
+      "subStatusDesc": "Approved",
+      "statusCode": "S02",
+      "cddType": "CO",
+      "caseId": 106630,
+      "closureStatus": "Active",
+      "subStatusCode": "SS08",
+      "statusDesc": "Approved",
+      "accountDetails": [],
+      "selected": false,
+      "accountsCount": 67,
+      "changeKey": "111317064-GA-ChangeKey"
+    },
+    "meta": {
+      "totalRecords": 0
+    }
+  }
+}

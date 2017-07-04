@@ -1,0 +1,168 @@
+{
+  "caseSubStatuses": [
+    {
+      "code": "SS00",
+      "description": "Draft"
+    },
+    {
+      "code": "SS01",
+      "description": "Initiated"
+    },
+    {
+      "code": "SS02",
+      "description": "Made"
+    },
+    {
+      "code": "SS03",
+      "description": "Checked"
+    },
+    {
+      "code": "SS04",
+      "description": "Proposed"
+    },
+    {
+      "code": "SS05",
+      "description": "Rejected For Rework"
+    },
+    {
+      "code": "SS06",
+      "description": "Recommended For Approval"
+    },
+    {
+      "code": "SS08",
+      "description": "Recommended to be Declined"
+    },
+    {
+      "code": "SS08",
+      "description": "Approved"
+    },
+    {
+      "code": "SS10",
+      "description": "Declined"
+    },
+    {
+      "code": "SS10",
+      "description": "Deferral Initiated"
+    },
+    {
+      "code": "SS11",
+      "description": "Deferral Made"
+    },
+    {
+      "code": "SS12",
+      "description": "Deferral Checked"
+    },
+    {
+      "code": "SS13",
+      "description": "Deferral Proposed"
+    },
+    {
+      "code": "SS14",
+      "description": "Deferral Recommended For Approval"
+    },
+    {
+      "code": "SS15",
+      "description": "Deferral Recommended For Rejection"
+    },
+    {
+      "code": "SS16",
+      "description": "Deferral Approved"
+    },
+    {
+      "code": "SS17",
+      "description": "Deferral Rejected"
+    },
+    {
+      "code": "SS18",
+      "description": "Deferral Rejected For Rework"
+    },
+    {
+      "code": "SS19",
+      "description": "Deferral Expired"
+    },
+    {
+      "code": "SS22",
+      "description": "Deferral Cancelled"
+    },
+    {
+      "code": "SS24",
+      "description": "GA Made"
+    },
+    {
+      "code": "SS25",
+      "description": "GA Checked"
+    },
+    {
+      "code": "SS26",
+      "description": "GA Approved"
+    },
+    {
+      "code": "SS27",
+      "description": "GA Declined"
+    },
+    {
+      "code": "SS28",
+      "description": "GA Initiated"
+    },
+    {
+      "code": "SS29",
+      "description": "Requested For Acceptance"
+    },
+    {
+      "code": "SS39",
+      "description": "Deferral Extension Rejected"
+    },
+    {
+      "code": "SS41",
+      "description": "GA Overdue For Review"
+    },
+    {
+      "code": "SS42",
+      "description": "Deferral Extension Expired"
+    },
+    {
+      "code": "SS51",
+      "description": "Update - RM Made"
+    },
+    {
+      "code": "SS52",
+      "description": "Update - Maker Made"
+    },
+    {
+      "code": "SS54",
+      "description": "Update - Maker Rejected"
+    },
+    {
+      "code": "SS55",
+      "description": "Update Initiated"
+    },
+    {
+      "code": "SS58",
+      "description": "GA Update - Maker Made"
+    },
+    {
+      "code": "SS61",
+      "description": "Update Initiated With GA Approved"
+    },
+    {
+      "code": "XX08",
+      "description": "Closed"
+    },
+    {
+      "code": "XX08",
+      "description": "Exempted"
+    },
+    {
+      "code": "SS71",
+      "description": "CRC"
+    },
+    {
+      "code": "SS72",
+      "description": "CSDU"
+    },
+    {
+      "code": "SS73",
+      "description": "Submit Deferral Docs"
+    }
+  ]
+}

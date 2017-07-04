@@ -1,0 +1,436 @@
+{
+  "fatcaStatuses": [
+    {
+      "code": "1",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "2",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "3",
+      "caseType": "BBA",
+      "displayOnScreen": "Y",
+      "fatcaStatus": "Nonparticipating FFI (including a limited FFI or limited branch)",
+      "minimumDocumentRequired": "W8",
+      "report": "Yes",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "4",
+      "caseType": "BBA",
+      "displayOnScreen": "Y",
+      "fatcaStatus": "Nonparticipating FFI (including a limited FFI or limited branch)",
+      "minimumDocumentRequired": "W8",
+      "report": "Yes",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "5",
+      "caseType": "BBA",
+      "displayOnScreen": "Y",
+      "fatcaStatus": "Nonparticipating FFI (including a limited FFI or limited branch)",
+      "minimumDocumentRequired": "W8",
+      "report": "Yes",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "6",
+      "caseType": "BBA",
+      "displayOnScreen": "Y",
+      "fatcaStatus": "Nonparticipating FFI (including a limited FFI or limited branch)",
+      "minimumDocumentRequired": "W8",
+      "report": "Yes",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "7",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "8",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "9",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "10",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "11",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "12",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "13",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "14",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "15",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "16",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "17",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "18",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "19",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "20",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "21",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "22",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "23",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "24",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "25",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "26",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "27",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "28",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "29",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "30",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "31",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "32",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "33",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "34",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "35",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "36",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "37",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "38",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "39",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "40",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "41",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "42",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "43",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "44",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "45",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "46",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "47",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    },
+    {
+      "code": "48",
+      "caseType": "CDD",
+      "displayOnScreen": "N",
+      "fatcaStatus": "FDD Required",
+      "minimumDocumentRequired": null,
+      "report": "No",
+      "unwrappingRequired": "No"
+    }
+  ]
+}

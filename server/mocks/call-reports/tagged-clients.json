@@ -1,0 +1,49 @@
+{
+	"taggedClients": [
+		{
+          "searchId":1,
+		  "clientId": "990000024",
+		  "clientName": "Singapore Airlines"
+		},
+		{
+          "searchId":2,
+		  "clientId": "990000063",
+		  "clientName": "Tradewinds Tours & Travel Pte Ltd"
+		},
+		{
+          "searchId":3,
+		  "clientId": "990000064",
+		  "clientName": "BRAC UGANDA MICROFINANCE LIMITED (BY GUARANTEE)"
+		},
+		{
+          "searchId":4,
+		  "clientId": "990000223",
+		  "clientName": "BRITISH HIGH COMMISSION STAFF PROVIDENT FUND"
+		},
+		{
+          "searchId":5,
+		  "clientId": "990002999",
+		  "clientName": "BERONG NICKEL CORPORATION"
+		},
+		{
+          "searchId":6,
+		  "clientId": "990011291",
+		  "clientName": "AVANT ENTERPRISES PRIVATE LIMITED"
+		},
+		{
+          "searchId":7,
+		  "clientId": "990012562",
+		  "clientName": "ATLAS COPCO SOUTH AFRICA (PTY) LTD"
+		},
+		{
+          "searchId":8,
+		  "clientId": "990012573",
+		  "clientName": "AFRICAN MICRO-FINANCE HOLDINGS"
+		},
+		{
+          "searchId":9,
+		  "clientId": "990012647",
+		  "clientName": "BUMI GEO ENGINEERING LTD"
+		}
+	]
+}

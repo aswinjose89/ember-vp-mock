@@ -1,0 +1,40 @@
+{
+  "businessSegments": [
+    {
+      "businessSegmentCode": "01",
+      "businessSegment": "Local Corporates",
+      "cddType": "CO",
+      "businessSegmentId": "A"
+    },
+    {
+      "businessSegmentCode": "02",
+      "businessSegment": "Global Corporates",
+      "cddType": "CO",
+      "businessSegmentId": "K"
+    },
+    {
+      "businessSegmentCode": "03",
+      "businessSegment": "Commodity Traders & Agribusiness",
+      "cddType": "CO",
+      "businessSegmentId": "E"
+    },
+    {
+      "businessSegmentCode": "04",
+      "businessSegment": "Financial Institutions",
+      "cddType": "FI",
+      "businessSegmentId": "N"
+    },
+    {
+      "businessSegmentCode": "05",
+      "businessSegment": "Own Acc",
+      "cddType": "CO",
+      "businessSegmentId": "S"
+    },
+    {
+      "businessSegmentCode": "09",
+      "businessSegment": "Middle Market",
+      "cddType": "CO",
+      "businessSegmentId": "MM"
+    }
+  ]
+}

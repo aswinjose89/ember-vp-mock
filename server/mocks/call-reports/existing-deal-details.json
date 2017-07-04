@@ -1,0 +1,43 @@
+{
+	"existingDealDetails" : [
+		{
+			"dealId": 1,
+			"dealRefId": "1232444", 
+			"dealName": "SAARC - Export bussiness", 
+			"productName":"Loan", 
+			"productType":"Insurance Loan", 
+			"privateDeal": false,
+            "enableChannel" : true
+
+		},
+		{
+			"dealId": 2,
+			"dealRefId": "1232445", 
+			"dealName": "SAARC - Export bussiness HHAP/RS", 
+			"productName":"Loan", 
+			"productType":"Insurance Loan", 
+			"privateDeal": false,
+            "enableOutcome":true
+		},
+		{
+			"dealId": 3,
+			"dealRefId": "1232446", 
+			"dealName": "SAARC - Trade Export Financing", 
+			"productName":"Loan", 
+			"productType":"Insurance Loan", 
+			"privateDeal": false,
+            "enableChannel" : true,
+            "enableOutcome":true
+
+		},
+		{
+			"dealId": 4,
+			"dealRefId": "1232447", 
+			"dealName": "SAARC - Buyer Finance", 
+			"productName":"Loan", 
+			"productType":"Insurance Loan", 
+			"privateDeal": false
+
+		}
+	]
+}

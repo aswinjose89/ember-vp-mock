@@ -1,0 +1,32 @@
+{
+   "action":    {
+      "id":"201612231001297020",
+      "description": "Task:1485341655852",
+      "dueDate": "1485148721000",
+      "assignedTo": [      {
+         "userId": "1002819",
+         "userName": "Bill Winters"
+      }],
+      "delegatedTo": {"userId": "1002819",
+      "userName": "Bill Winters"},
+      "delegatedById": "",
+      "delegatedByName": "",
+      "comments": "Task for Today",
+      "createdById": "1511946",
+      "createdAt": "1485341655000",
+      "action": "DELEGATED",
+      "taskId": "WB_3909",
+      "categoryId": "201612231001297020",
+      "categoryName": "PROSPECT",
+      "source": "RMWB",
+      "acceptedBy": null,
+      "acceptedDate": null,
+      "actionId": "WB_3909",
+      "actionType": "ASSIGNED",
+      "createdByName": "Bill Winters",
+      "type": "Actions",
+      "actionRequestId": "",
+      "prospectName": null,
+      "actionURL": "wb-ui-prospect-summary-detail!!201701031001312078"
+   }
+}

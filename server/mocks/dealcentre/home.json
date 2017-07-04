@@ -1,0 +1,4705 @@
+{
+    "dealcentreHomes": [
+        {
+            "id": "1193293",
+            "dealKpis": 1,
+            "dealFavourites": [],
+            "atwLists": [],
+            "dcDealLists": [
+                "20150609100862331",
+                "20150619100863527",
+                "20150623100863615",
+                "20150617100863416",
+                "20150702100863926",
+                "20150716100864477",
+                "20150623100863609",
+                "201604281001050278",
+                "201604281001049928",
+                "201604271001049478",
+                "201604291001053128",
+                "20160328100992528",
+                "20160121100886028",
+                "20150830100866410",
+                "20141208100680326",
+                "20160302100922028",
+                "20160315100946128",
+                "20160210100895478",
+                "20160121100885978",
+                "20160223100917428",
+                "20160224100918378",
+                "20160223100916578",
+                "20160223100917278",
+                "20160210100895378",
+                "20160222100914228",
+                "20160222100915378",
+                "20160222100915178",
+                "20160224100918128",
+                "20160224100918478",
+                "20160224100918878",
+                "20160222100915028",
+                "20160223100916728",
+                "20160223100916928",
+                "20160223100917178",
+                "20160222100914728",
+                "20160222100915528",
+                "20160222100915628",
+                "20160223100916778",
+                "20160222100914028",
+                "201604261001046928",
+                "20150907100866609",
+                "20150908100866692",
+                "20150908100866694",
+                "20150908100866696",
+                "20150908100866691",
+                "20150908100866687",
+                "20150908100866684",
+                "20150904100866587",
+                "20150826100866334",
+                "20150908100866703"
+            ],
+            "monthlyPipelineChart": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14",
+                "15",
+                "16",
+                "17",
+                "18",
+                "19",
+                "20",
+                "21",
+                "22",
+                "23",
+                "24",
+                "25",
+                "26",
+                "27",
+                "28",
+                "29",
+                "30",
+                "31",
+                "32",
+                "33",
+                "34",
+                "35",
+                "36"
+            ],
+            "topDeals": [
+                "20150609100862331",
+                "20150904100866564",
+                "20150716100864477",
+                "20150702100863926",
+                "20150616100863235",
+                "20150617100863416",
+                "20150706100864010",
+                "20150623100863609",
+                "20150619100863527",
+                "201605231001079578"
+            ],
+            "recents": [
+                22691052,
+                22691059,
+                22691075,
+                22691076,
+                22651902,
+                22691074,
+                22691073,
+                22651246,
+                22691053,
+                22690956
+            ]
+        }
+    ],
+    "users": [
+        {
+            "roleHead": "N",
+            "psId": "1193293",
+            "firstName": "Carol",
+            "lastName": "Karungi",
+            "emailId": "Carol.Karungi@sc.com",
+            "department": "C& I - Credit Analysis",
+            "jobTitle": "Mr.",
+            "shortDescription": null,
+            "userCountry": "KE",
+            "roleHeadType": 1,
+            "atwUserType": 1,
+            "atwUser": "N",
+            "cobamRoles": null,
+            "ldapRoles": [
+                "ROLE_MOBILE_ANALYTICS_ACCESS",
+                "ROLE_RM",
+                "ROLE_CF_BANKERS_PFAM"
+            ],
+            "userRoles": [
+                "MOBILE_ANALYTICS_ACCESS",
+                "CF_BANKERS_PFAM",
+                "RM"
+            ],
+            "pseudoId": null,
+            "telephoneNumber": null,
+            "mobileNumber": null,
+            "address": null,
+            "departmentCode": "CF",
+            "fapData": {
+                "WB": {
+                    "DC_HOME": {
+                        "ACTION": "VIEW"
+                    },
+                    "CALENDAR_HOME": {
+                        "ACTION": "DISABLE"
+                    },
+                    "SALES_HOME": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACTION": "VIEW",
+                    "CREDIT_HOME": {
+                        "ACTION": "DISABLE"
+                    }
+                },
+                "WB_SALES_HOME": {
+                    "ALL_DEALS_TAB": {
+                        "ACTION": "VIEW"
+                    },
+                    "DEAL_PIPELINE_ACCESS": {
+                        "ACTION": "VIEW"
+                    },
+                    "CCT_MAINTENANCE": {
+                        "ACTION": "VIEW"
+                    },
+                    "CALL_REPORTS_TAB": {
+                        "ADD_CALL_REPORT_BTN": {
+                            "ACTION": "VIEW"
+                        },
+                        "ACTION": "VIEW",
+                        "DELETE_CALL_REPORT": {
+                            "ACTION": "VIEW"
+                        }
+                    },
+                    "ADD_NEW_PROSPECT": {
+                        "ACTION": "DISABLE"
+                    },
+                    "EDIT_PROSPECT": {
+                        "ACTION": "DISABLE"
+                    },
+                    "FAVOURITES_REPORTS": {
+                        "ACCOUNT_PLAN_SUB8": {
+                            "ACTION": "VIEW"
+                        },
+                        "ACCOUNT_PLAN_MAIN": {
+                            "ACTION": "VIEW"
+                        },
+                        "REVENUE_DASHBOARD": {
+                            "ACTION": "VIEW"
+                        },
+                        "ACCOUNT_PLAN_SUB4": {
+                            "ACTION": "VIEW"
+                        },
+                        "REVENUE_TREND": {
+                            "ACTION": "VIEW"
+                        },
+                        "ACCOUNT_PLAN_SUB5": {
+                            "ACTION": "VIEW"
+                        },
+                        "ACCOUNT_PLAN_SUB6": {
+                            "ACTION": "VIEW"
+                        },
+                        "REVENUE_DET": {
+                            "ACTION": "VIEW"
+                        },
+                        "ACCOUNT_PLAN_SUB7": {
+                            "ACTION": "VIEW"
+                        },
+                        "ACCOUNT_PLAN_SUB1": {
+                            "ACTION": "VIEW"
+                        },
+                        "ACCOUNT_PLAN_SUB2": {
+                            "ACTION": "VIEW"
+                        },
+                        "ACCOUNT_PLAN_SUB3": {
+                            "ACTION": "VIEW"
+                        },
+                        "ACTION": "VIEW"
+                    },
+                    "ACTION": "VIEW",
+                    "LAST_50_CALLS_TAB": {
+                        "ACTION": "HIDDEN"
+                    }
+                },
+                "WB_REPORT_HOME_PORTFOLIO_REPORTS": {
+                    "CALL_PARTICIPANTS_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "FM_DELTA_SUMMARY_DASHBOARD": {
+                        "ACTION": "DISABLE"
+                    },
+                    "REVENUE_DET_ALL": {
+                        "ACTION": "VIEW"
+                    },
+                    "TB_DEAL_PIPELINE": {
+                        "ACTION": "DISABLE"
+                    },
+                    "FM_DEAL_PIPELINE_2": {
+                        "ACTION": "DISABLE"
+                    },
+                    "TWELVE_MONTHS_PIPELINE_TREND": {
+                        "ACTION": "VIEW"
+                    },
+                    "RCR_DASHBOARD": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB8": {
+                        "ACTION": "VIEW"
+                    },
+                    "HOGS": {
+                        "ACTION": "VIEW"
+                    },
+                    "ADHOC_REPORTING": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB4": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB5": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB6": {
+                        "ACTION": "VIEW"
+                    },
+                    "SIX_MONTHS_PIPELINE_TREND": {
+                        "ACTION": "VIEW"
+                    },
+                    "GENERAL_CALL_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB7": {
+                        "ACTION": "VIEW"
+                    },
+                    "MY_CLIENT_ACCESS": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB1": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB2": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB3": {
+                        "ACTION": "VIEW"
+                    },
+                    "FM_DEAL_PIPELINE_1": {
+                        "ACTION": "DISABLE"
+                    },
+                    "ACTION": "VIEW",
+                    "DISCUSSION_DETAILS_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "RISK_VIEW": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_MAIN": {
+                        "ACTION": "VIEW"
+                    },
+                    "REVENUE_DASHBOARD": {
+                        "ACTION": "VIEW"
+                    },
+                    "REVENUE_TREND": {
+                        "ACTION": "VIEW"
+                    },
+                    "TB_DEAL_LIST": {
+                        "ACTION": "DISABLE"
+                    },
+                    "ONEWB_USER_LIST": {
+                        "ACTION": "DISABLE"
+                    },
+                    "DEAL_VIEWER": {
+                        "ACTION": "VIEW"
+                    },
+                    "TIER_1_CUST_DASHBOARD": {
+                        "ACTION": "VIEW"
+                    },
+                    "REVENUE_DET": {
+                        "ACTION": "VIEW"
+                    },
+                    "CLIENT_CNT_ACT_ENQUIRY_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "RCR_AD_HOC": {
+                        "ACTION": "VIEW"
+                    }
+                },
+                "WB_REPORT_HOME_CLIENT_REPORTS": {
+                    "CALL_PARTICIPANTS_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "CLIENT_LEND_PORTFOLIO": {
+                        "ACTION": "VIEW"
+                    },
+                    "RCR_DASHBOARD": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB8": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB4": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB5": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB6": {
+                        "ACTION": "VIEW"
+                    },
+                    "GENERAL_CALL_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB7": {
+                        "ACTION": "VIEW"
+                    },
+                    "MY_CLIENT_ACCESS": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB1": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB2": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB3": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACTION": "VIEW",
+                    "DISCUSSION_DETAILS_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "RISK_VIEW": {
+                        "ACTION": "VIEW"
+                    },
+                    "FM_LIMIT_UTIL_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_MAIN": {
+                        "ACTION": "VIEW"
+                    },
+                    "REVENUE_DASHBOARD": {
+                        "ACTION": "VIEW"
+                    },
+                    "REVENUE_TREND": {
+                        "ACTION": "VIEW"
+                    },
+                    "DEAL_VIEWER": {
+                        "ACTION": "VIEW"
+                    },
+                    "TIER_1_CUST_DASHBOARD": {
+                        "ACTION": "VIEW"
+                    },
+                    "REVENUE_DET": {
+                        "ACTION": "VIEW"
+                    },
+                    "RCR_AD_HOC": {
+                        "ACTION": "VIEW"
+                    },
+                    "CLIENT_CNT_ACT_REPORT": {
+                        "ACTION": "VIEW"
+                    }
+                },
+                "WB_REPORT_HOME_GROUP_REPORTS": {
+                    "CALL_PARTICIPANTS_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_MAIN": {
+                        "ACTION": "VIEW"
+                    },
+                    "REVENUE_DASHBOARD": {
+                        "ACTION": "VIEW"
+                    },
+                    "REVENUE_TREND": {
+                        "ACTION": "VIEW"
+                    },
+                    "RCR_DASHBOARD": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB8": {
+                        "ACTION": "VIEW"
+                    },
+                    "DEAL_VIEWER": {
+                        "ACTION": "VIEW"
+                    },
+                    "TIER_1_CUST_DASHBOARD": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB4": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB5": {
+                        "ACTION": "VIEW"
+                    },
+                    "GENERAL_CALL_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB6": {
+                        "ACTION": "VIEW"
+                    },
+                    "REVENUE_DET": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB7": {
+                        "ACTION": "VIEW"
+                    },
+                    "MY_CLIENT_ACCESS": {
+                        "ACTION": "VIEW"
+                    },
+                    "RCR_AD_HOC": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB1": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB2": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB3": {
+                        "ACTION": "VIEW"
+                    },
+                    "DISCUSSION_DETAILS_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACTION": "VIEW",
+                    "RISK_VIEW": {
+                        "ACTION": "VIEW"
+                    },
+                    "CLIENT_CNT_ACT_REPORT": {
+                        "ACTION": "VIEW"
+                    }
+                },
+                "WB_REPORT_HOME_DEAL_REPORTS": {
+                    "ONEWB_USER_LIST": {
+                        "ACTION": "DISABLE"
+                    },
+                    "REGIONAL_PIPELINE": {
+                        "ACTION": "VIEW"
+                    },
+                    "DEAL_ACTIVITY_STATUS_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "INDUSTRY_PIPELINE": {
+                        "ACTION": "VIEW"
+                    },
+                    "CM_REVENUE_FORECAST": {
+                        "ACTION": "DISABLE"
+                    },
+                    "PRODUCT_PIPELINE": {
+                        "ACTION": "VIEW"
+                    },
+                    "LOANS_PIPELINE_MEETING": {
+                        "ACTION": "DISABLE"
+                    },
+                    "CM_DEAL_PIPELINE": {
+                        "ACTION": "DISABLE"
+                    },
+                    "VOLCKER_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACTION": "VIEW",
+                    "GLOBAL_PIPELINE": {
+                        "ACTION": "VIEW"
+                    },
+                    "PAM_ACTIVITY_STATUS_REPORT": {
+                        "ACTION": "VIEW"
+                    }
+                },
+                "DEAL_CENTRE": {
+                    "DEAL_ACTIVITY_ACCESS": {
+                        "ACTION": "HIDDEN"
+                    },
+                    "WB_REPORT_HOME_CF_DEAL_REPORTS": {
+                        "ACTION": "HIDDEN"
+                    },
+                    "DEAL_PIPELINE_ACCESS": {
+                        "ACTION": "HIDDEN"
+                    },
+                    "DEAL_CENTRE_ACCESS": {
+                        "ACTION": "HIDDEN"
+                    },
+                    "ACTION": "HIDDEN",
+                    "DEAL_ACTIVITY_ACCESS_KOREA": {
+                        "ACTION": "HIDDEN"
+                    }
+                },
+                "WB_ACTIVITIES": {
+                    "WB_LOANS": {
+                        "ACTION": "HIDDEN"
+                    },
+                    "ACCOUNT_PLAN": {
+                        "ACTION": "VIEW"
+                    },
+                    "PROSPECTS": {
+                        "ADD_NEW_PROSPECT": {
+                            "ACTION": "DISABLE"
+                        },
+                        "REOPEN_PROSPECT": {
+                            "ACTION": "DISABLE"
+                        },
+                        "EDIT_PROSPECT": {
+                            "ACTION": "DISABLE"
+                        },
+                        "ACTION": "VIEW",
+                        "DISQUALIFY_PROSPECT": {
+                            "ACTION": "DISABLE"
+                        }
+                    },
+                    "SDM": {
+                        "SDM_TB": {
+                            "ACTION": "HIDDEN"
+                        },
+                        "SDM_FM": {
+                            "ACTION": "HIDDEN"
+                        },
+                        "SDM_OCC": {
+                            "ACTION": "VIEW"
+                        },
+                        "ACTION": "VIEW"
+                    },
+                    "REPORTS": {
+                        "ACTION": "VIEW"
+                    },
+                    "LIMIT_ALLOCATION": {
+                        "ACTION": "VIEW"
+                    },
+                    "DEAL_APPROVAL": {
+                        "ACTION": "VIEW"
+                    },
+                    "BULK_FATCA": {
+                        "ACTION": "VIEW"
+                    },
+                    "CREDIT": {
+                        "FM_A_S": {
+                            "ACTION": "VIEW"
+                        },
+                        "GLAS": {
+                            "ACTION": "VIEW"
+                        },
+                        "EMSIF": {
+                            "ACTION": "VIEW"
+                        },
+                        "SF_BCA": {
+                            "ACTION": "VIEW"
+                        },
+                        "ISDACTS": {
+                            "ACTION": "VIEW"
+                        },
+                        "STD_BCA": {
+                            "ACTION": "VIEW"
+                        },
+                        "SPREAD": {
+                            "ACTION": "VIEW"
+                        },
+                        "ESRA": {
+                            "ACTION": "VIEW"
+                        },
+                        "ACTION": "VIEW",
+                        "TER": {
+                            "ACTION": "VIEW"
+                        },
+                        "RISK_VIEW": {
+                            "ACTION": "DISABLE"
+                        },
+                        "SCORECARD": {
+                            "ACTION": "VIEW"
+                        },
+                        "FILA": {
+                            "ACTION": "VIEW"
+                        }
+                    },
+                    "DEAL_PIPELINE": {
+                        "DEAL_PIPELINE_ACCESS": {
+                            "ACTION": "VIEW"
+                        },
+                        "ACTION": "VIEW"
+                    },
+                    "FATCA": {
+                        "INITIATE_FATCA": {
+                            "ACTION": "HIDDEN"
+                        },
+                        "ACTION": "VIEW"
+                    },
+                    "EPDM": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACTION": "VIEW",
+                    "RISK_VIEW": {
+                        "ACTION": "VIEW"
+                    },
+                    "TB_CLIENT_MAP": {
+                        "ACTION": "VIEW"
+                    },
+                    "OBL": {
+                        "BLA": {
+                            "ACTION": "VIEW"
+                        },
+                        "ACTION": "VIEW",
+                        "PCB": {
+                            "ACTION": "DISABLE"
+                        }
+                    },
+                    "DEAL_REFERRAL": {
+                        "ACTION": "VIEW"
+                    },
+                    "CDD_ADMINISTRATION": {
+                        "WORKFLOW_ROLLBACK": {
+                            "ACTION": "DISABLE"
+                        },
+                        "TRIGGER_EVENT": {
+                            "ACTION": "DISABLE"
+                        },
+                        "ACTION": "DISABLE",
+                        "REASSIGNMENT": {
+                            "ACTION": "DISABLE"
+                        }
+                    },
+                    "CLIENT_OFF_BOARDING": {
+                        "ACTION": "VIEW"
+                    },
+                    "RAPTOR": {
+                        "ACTION": "VIEW"
+                    },
+                    "DEAL_CENTRE_ACT_ACCESS": {
+                        "ACTION": "VIEW"
+                    },
+                    "CLIENT_MANAGEMENT": {
+                        "ACTION": "DISABLE"
+                    },
+                    "RCR": {
+                        "ACTION": "VIEW"
+                    },
+                    "CONTACT-360": {
+                        "ACTION": "VIEW"
+                    },
+                    "CP_CR": {
+                        "ACTION": "HIDDEN"
+                    },
+                    "CLIENT_ON_BOARDING": {
+                        "ACTION": "DISABLE"
+                    },
+                    "CREDIT_CALENDAR": {
+                        "ACTION": "VIEW"
+                    }
+                }
+            },
+            "userManagementRole": [],
+            "epdmCountry": []
+        },
+        {
+            "psId": "1193293",
+            "department": "OCC",
+            "firstName": "Carol",
+            "lastName": "Karungi",
+            "email": "Carol.Karungi@sc.com",
+            "userCountry": "KE",
+            "jobTitle": "Mr.",
+            "timeZone": null,
+            "userDepartment": "C& I - Credit Analysis",
+            "activeFlag": "Y",
+            "effectiveDate": 1472105376000,
+            "groups": "CF_BANKERS_PFAM,RM,MOBILE_ANALYTICS_ACCESS",
+            "fullName": "Karungi, Carol",
+            "searchField": "Carol Karungi 1193293"
+        }
+    ],
+    "dealKpis": [
+        {
+            "id": 1,
+            "totalDeals": 195,
+            "totalDealsColor": "#54AA4F",
+            "revenue": 10264101720,
+            "revenueColor": "#54AA4F",
+            "assets": 157954,
+            "assetsColor": "#54AA4F",
+            "rwa": 33108,
+            "rwaColor": "#54AA4F"
+        }
+    ],
+    "dealFavourites": [],
+    "atwLists": [],
+    "dcDealLists": [
+        {
+            "isFavourite": null,
+            "id": "20150609100862331",
+            "dealId": "20150609100862331",
+            "dealRefId": "DEAL-CF-2015-06-862331",
+            "projectName": "PRE_UAT_CF_DEAL",
+            "clientName": null,
+            "groupName": "GRP NAME 990000160",
+            "productGroup": null,
+            "clientSegment": "GLOBAL CORPORATE",
+            "clientRegion": "ASEAN",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1443542400000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "AFRICA"
+            ],
+            "products": [
+                "Structured Trade Finance & Financing Solutions",
+                "Leveraged Finance"
+            ],
+            "subProducts": [
+                "Asset Backed Finance",
+                "Equity Capital Markets"
+            ],
+            "currencies": [],
+            "bookingLocations": [
+                "ALBANIA",
+                "Asset Backed Finance - ALBANIA",
+                "Asset Backed Finance - ANTIGUA AND BARBUDA"
+            ],
+            "activityTypes": [
+                "ECM - Others",
+                "Equity Capital Markets - ECM - Others",
+                "Asset Backed Finance - Financing - Finance Lease"
+            ],
+            "cfVerticals": [],
+            "fundArrangements": [
+                "Club (client-led)"
+            ],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "55,555",
+                "Equity Capital Markets - 55,555",
+                "Asset Backed Finance - 999,999,999"
+            ],
+            "roRwaList": [
+                "0",
+                "Equity Capital Markets - 0",
+                "Asset Backed Finance - 6,000"
+            ],
+            "totalFees": [
+                "55,555",
+                "Equity Capital Markets - 55,555",
+                "Asset Backed Finance - 999,999,999"
+            ],
+            "currentYearFees": [
+                "55,555",
+                "Equity Capital Markets - 55,555",
+                "Asset Backed Finance - 999,999,999"
+            ],
+            "holdingAmounts": [
+                "0",
+                "Equity Capital Markets - 0",
+                "Asset Backed Finance - 400"
+            ],
+            "rwaAmounts": [
+                "0",
+                "Equity Capital Markets - 0",
+                "Asset Backed Finance - 400"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20150619100863527",
+            "dealId": "20150619100863527",
+            "dealRefId": "DEAL-CF-2015-06-863527",
+            "projectName": "Deal for testing Aruna's comments",
+            "clientName": null,
+            "groupName": "GRP NAME 990011108",
+            "productGroup": null,
+            "clientSegment": "LOCAL CORPORATE",
+            "clientRegion": null,
+            "dealStage": "Mandated",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1446307200000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "EUROPE"
+            ],
+            "products": [
+                "Structured Trade Finance & Financing Solutions"
+            ],
+            "subProducts": [
+                "Structured Trade Finance & Financing Solutions"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Structuring / Advisory"
+            ],
+            "cfVerticals": [],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "999,999,999"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "999,999,999"
+            ],
+            "currentYearFees": [
+                "999,999,999"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20150623100863615",
+            "dealId": "20150623100863615",
+            "dealRefId": "DEAL-CF-2015-06-863615",
+            "projectName": "testing cms notification by madhu",
+            "clientName": "L NAME 11027459",
+            "groupName": "GRP NAME 990111191",
+            "productGroup": null,
+            "clientSegment": "MIDDLE MARKETS",
+            "clientRegion": "GREATER CHINA",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1458144000000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "AFRICA"
+            ],
+            "products": [
+                "Structured Trade Finance & Financing Solutions"
+            ],
+            "subProducts": [
+                "Structured Trade Finance & Financing Solutions"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Structuring / Advisory"
+            ],
+            "cfVerticals": [],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "999,999,999"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "999,999,999"
+            ],
+            "currentYearFees": [
+                "999,999,999"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20150617100863416",
+            "dealId": "20150617100863416",
+            "dealRefId": "DEAL-CF-2015-06-863416",
+            "projectName": "inactivation date of clients",
+            "clientName": "L NAME 11063526",
+            "groupName": "GRP NAME 990011119",
+            "productGroup": null,
+            "clientSegment": "GLOBAL CORPORATE",
+            "clientRegion": "SOUTH ASIA",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1449763200000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "AMERICAS"
+            ],
+            "products": [
+                "Structured Trade Finance & Financing Solutions"
+            ],
+            "subProducts": [
+                "Structured Trade Finance & Financing Solutions"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Structuring / Advisory"
+            ],
+            "cfVerticals": [],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "999,999,999"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "999,999,999"
+            ],
+            "currentYearFees": [
+                "999,999,999"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20150702100863926",
+            "dealId": "20150702100863926",
+            "dealRefId": "DEAL-CF-2015-07-863926",
+            "projectName": "Deal for testing duplication of mail notification",
+            "clientName": "L NAME 11079358",
+            "groupName": "GRP NAME 990038999",
+            "productGroup": null,
+            "clientSegment": "SMALL AND MEDIUM ENTERPRISES",
+            "clientRegion": "GREATER CHINA",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1448553600000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "AMERICAS"
+            ],
+            "products": [
+                "Structured Trade Finance & Financing Solutions"
+            ],
+            "subProducts": [
+                "Structured Trade Finance & Financing Solutions"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Structuring / Advisory"
+            ],
+            "cfVerticals": [],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "999,999,999"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "999,999,999"
+            ],
+            "currentYearFees": [
+                "999,999,999"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20150716100864477",
+            "dealId": "20150716100864477",
+            "dealRefId": "DEAL-CF-2015-07-864477",
+            "projectName": "Testing London Release",
+            "clientName": "L NAME 11079358",
+            "groupName": "GRP NAME 990038999",
+            "productGroup": null,
+            "clientSegment": "SMALL AND MEDIUM ENTERPRISES",
+            "clientRegion": "GREATER CHINA",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1462809600000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "AMERICAS"
+            ],
+            "products": [
+                "Leveraged Finance"
+            ],
+            "subProducts": [
+                "Equity Linked Solutions"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Convertible Bonds / Exchangeable Bonds"
+            ],
+            "cfVerticals": [],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "999,999,999"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "999,999,999"
+            ],
+            "currentYearFees": [
+                "999,999,999"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20150623100863609",
+            "dealId": "20150623100863609",
+            "dealRefId": "DEAL-CF-2015-06-863609",
+            "projectName": "Deal for testing notification condition in dev",
+            "clientName": "L NAME 11002999",
+            "groupName": "GRP NAME 990000040",
+            "productGroup": null,
+            "clientSegment": "HIGH VALUE SMALL BUSINESS",
+            "clientRegion": "ASEAN",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1561392000000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "AFRICA"
+            ],
+            "products": [
+                "Structured Trade Finance & Financing Solutions"
+            ],
+            "subProducts": [
+                "Structured Trade Finance & Financing Solutions"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Structuring / Advisory"
+            ],
+            "cfVerticals": [],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "999,999,999"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "999,999,999"
+            ],
+            "currentYearFees": [
+                "999,999,999"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "201604281001050278",
+            "dealId": "201604281001050278",
+            "dealRefId": "DEAL-CF-2016-04-1050278",
+            "projectName": "deal for cms notification",
+            "clientName": "CCCC THIRD HARBOUR ENGINEERING CO LTD MALAYSIA BRANCH",
+            "groupName": null,
+            "productGroup": null,
+            "clientSegment": "GLOBAL CORPORATE",
+            "clientRegion": null,
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1471536000000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "NE Asia"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "897,698,686"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "897,698,686"
+            ],
+            "currentYearFees": [
+                "897,698,686"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "201604281001049928",
+            "dealId": "201604281001049928",
+            "dealRefId": "DEAL-CF-2016-04-1049928",
+            "projectName": "Korean Deal 1",
+            "clientName": "dealsubsidarytestone",
+            "groupName": null,
+            "productGroup": null,
+            "clientSegment": "OWN ACCOUNT",
+            "clientRegion": null,
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1476979200000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "NE Asia",
+                "MENAP",
+                "AFRICA",
+                "AFRICA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "897,234,271"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "897,234,271"
+            ],
+            "currentYearFees": [
+                "897,234,271"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "201604271001049478",
+            "dealId": "201604271001049478",
+            "dealRefId": "DEAL-CF-2016-04-1049478",
+            "projectName": "Deal retag",
+            "clientName": "L NAME 11117400",
+            "groupName": "GRP NAME 990000084",
+            "productGroup": null,
+            "clientSegment": "GLOBAL CORPORATE",
+            "clientRegion": "MENAP",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1476288000000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "AFRICA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "364,821,781"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "364,821,781"
+            ],
+            "currentYearFees": [
+                "364,821,781"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "201604291001053128",
+            "dealId": "201604291001053128",
+            "dealRefId": "DEAL-CF-2016-04-1053128",
+            "projectName": "Deal for testing CMS notification - name change",
+            "clientName": "Group_Test_Subsidary_TEST_2",
+            "groupName": null,
+            "productGroup": null,
+            "clientSegment": "MIDDLE MARKETS",
+            "clientRegion": null,
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1501084800000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "NE Asia"
+            ],
+            "products": [
+                "Structured Finance",
+                "Leveraged Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance",
+                "Leveraged Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing",
+                "Aviation Finance - Advisory / Remarketing",
+                "Leveraged Finance - Financing - Debt"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "6,757",
+                "Leveraged Finance - 6,757",
+                "Aviation Finance - 93,873,927"
+            ],
+            "roRwaList": [
+                "0",
+                "Leveraged Finance - 0",
+                "Aviation Finance - 0"
+            ],
+            "totalFees": [
+                "6,757",
+                "Leveraged Finance - 6,757",
+                "Aviation Finance - 93,873,927"
+            ],
+            "currentYearFees": [
+                "6,757",
+                "Leveraged Finance - 6,757",
+                "Aviation Finance - 93,873,927"
+            ],
+            "holdingAmounts": [
+                "0",
+                "Leveraged Finance - 0",
+                "Aviation Finance - 0"
+            ],
+            "rwaAmounts": [
+                "0",
+                "Leveraged Finance - 0",
+                "Aviation Finance - 0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160328100992528",
+            "dealId": "20160328100992528",
+            "dealRefId": "DEAL-CF-2016-03-992528",
+            "projectName": "Non Loan Syndication Deal",
+            "clientName": "CCCC THIRD HARBOUR ENGINEERING CO LTD MALAYSIA BRANCH",
+            "groupName": null,
+            "productGroup": null,
+            "clientSegment": "GLOBAL CORPORATE",
+            "clientRegion": null,
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1469721600000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "NE Asia",
+                "AMERICAS",
+                "NE Asia"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [
+                "ANGOLA",
+                "Aviation Finance - ANGOLA",
+                "Aviation Finance - ANTIGUA AND BARBUDA"
+            ],
+            "activityTypes": [
+                "Asset Sales"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "8,686,787"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "8,686,787"
+            ],
+            "currentYearFees": [
+                "8,686,787"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160121100886028",
+            "dealId": "20160121100886028",
+            "dealRefId": "DEAL-CF-2016-01-886028",
+            "projectName": "20 mins timeout",
+            "clientName": "ANHUI JIANGHUAI AUTOMOBILE CO., LTD",
+            "groupName": null,
+            "productGroup": null,
+            "clientSegment": "LOCAL CORPORATE",
+            "clientRegion": null,
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1456675200000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "SOUTH ASIA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "50,000"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "50,000"
+            ],
+            "currentYearFees": [
+                "50,000"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20150830100866410",
+            "dealId": "20150830100866410",
+            "dealRefId": "DEAL-CF-2015-08-866410",
+            "projectName": "nameclearancedeal",
+            "clientName": null,
+            "groupName": "GRP NAME 990011210",
+            "productGroup": null,
+            "clientSegment": "LOCAL CORPORATE",
+            "clientRegion": "SOUTH ASIA",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1440950400000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "EUROPE",
+                "AMERICAS"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Financing - Debt"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "12,345"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "1,233,333"
+            ],
+            "currentYearFees": [
+                "12,345"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20141208100680326",
+            "dealId": "20141208100680326",
+            "dealRefId": "DEAL-CF-2014-12-680326",
+            "projectName": "KT PSR Deal 2",
+            "clientName": null,
+            "groupName": null,
+            "productGroup": null,
+            "clientSegment": null,
+            "clientRegion": null,
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1452614400000,
+            "actualCompletion": null,
+            "dealAccess": "View Only",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "AFRICA"
+            ],
+            "products": [],
+            "subProducts": [
+                "M&A Advisory"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Buy Side"
+            ],
+            "cfVerticals": [
+                "General Industries Group"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "23,456,695"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "123,495"
+            ],
+            "currentYearFees": [
+                "12,300"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160302100922028",
+            "dealId": "20160302100922028",
+            "dealRefId": "DEAL-CF-2016-03-922028",
+            "projectName": "DEAL_MAR_02",
+            "clientName": "L NAME 11111179",
+            "groupName": "GRP NAME 990000024",
+            "productGroup": null,
+            "clientSegment": "GLOBAL CORPORATE",
+            "clientRegion": "ASEAN",
+            "dealStage": "Mandated",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1469635200000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "SOUTH ASIA",
+                "EUROPE",
+                "AFRICA",
+                "EUROPE"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "9,999"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "9,999"
+            ],
+            "currentYearFees": [
+                "9,999"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160315100946128",
+            "dealId": "20160315100946128",
+            "dealRefId": "DEAL-CF-2016-03-946128",
+            "projectName": "FYI_TEST",
+            "clientName": "L NAME 11111350",
+            "groupName": null,
+            "productGroup": null,
+            "clientSegment": "GLOBAL CORPORATE",
+            "clientRegion": "ASEAN",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1464624000000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "SOUTH ASIA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "9,999"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "9,999"
+            ],
+            "currentYearFees": [
+                "9,999"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160210100895478",
+            "dealId": "20160210100895478",
+            "dealRefId": "DEAL-CF-2016-02-895478",
+            "projectName": "CMS_RETAG_2",
+            "clientName": "L NAME 11108300",
+            "groupName": "GRP NAME 990111191",
+            "productGroup": null,
+            "clientSegment": "MIDDLE MARKETS",
+            "clientRegion": "GREATER CHINA",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1461945600000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "SOUTH ASIA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "5,555"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "5,555"
+            ],
+            "currentYearFees": [
+                "5,555"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160121100885978",
+            "dealId": "20160121100885978",
+            "dealRefId": "DEAL-CF-2016-01-885978",
+            "projectName": "test timeout",
+            "clientName": "2Jafffa_subsidary",
+            "groupName": null,
+            "productGroup": null,
+            "clientSegment": "FINANCIAL INSTITUTION",
+            "clientRegion": null,
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1453824000000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "EUROPE"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [
+                "ANGOLA",
+                "Aviation Finance - ANGOLA",
+                "Aviation Finance - ALAND ISLANDS"
+            ],
+            "activityTypes": [
+                "Financing - Debt"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [
+                "Club (bank-led)"
+            ],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "5,000"
+            ],
+            "roRwaList": [
+                "5,000"
+            ],
+            "totalFees": [
+                "5,000"
+            ],
+            "currentYearFees": [
+                "5,000"
+            ],
+            "holdingAmounts": [
+                "5,000"
+            ],
+            "rwaAmounts": [
+                "5,000"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160223100917428",
+            "dealId": "20160223100917428",
+            "dealRefId": "DEAL-CF-2016-02-917428",
+            "projectName": "CMS_RETAGGING_TEST7",
+            "clientName": "L NAME 11111175",
+            "groupName": "GRP NAME 990000060",
+            "productGroup": null,
+            "clientSegment": "GLOBAL CORPORATE",
+            "clientRegion": "ASEAN",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1464624000000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "SOUTH ASIA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "4,444"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "4,444"
+            ],
+            "currentYearFees": [
+                "4,444"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160224100918378",
+            "dealId": "20160224100918378",
+            "dealRefId": "DEAL-CF-2016-02-918378",
+            "projectName": "RETAG_PROSPECT",
+            "clientName": "Shanghai Luojing Ore Terminal Co Ltd",
+            "groupName": null,
+            "productGroup": null,
+            "clientSegment": "COMMODITY TRADERS & AGRICULTURE",
+            "clientRegion": null,
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1464624000000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "SOUTH ASIA",
+                "NE Asia",
+                "EUROPE",
+                "AFRICA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [
+                "ZIMBABWE",
+                "Aviation Finance - ZIMBABWE",
+                "Aviation Finance - LIECHTENSTEIN",
+                "Aviation Finance - ANGOLA",
+                "Aviation Finance - COSTA RICA",
+                "Aviation Finance - JORDAN",
+                "Aviation Finance - YUGOSLAVIA ",
+                "Aviation Finance - PAKISTAN"
+            ],
+            "activityTypes": [
+                "Asset Sales"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "4,444"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "4,444"
+            ],
+            "currentYearFees": [
+                "4,444"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160223100916578",
+            "dealId": "20160223100916578",
+            "dealRefId": "DEAL-CF-2016-02-916578",
+            "projectName": "CMS_RETAG_FEB23",
+            "clientName": "L NAME 11108300",
+            "groupName": "GRP NAME 990111191",
+            "productGroup": null,
+            "clientSegment": "MIDDLE MARKETS",
+            "clientRegion": "GREATER CHINA",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1464624000000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "SOUTH ASIA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "4,444"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "4,444"
+            ],
+            "currentYearFees": [
+                "4,444"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160223100917278",
+            "dealId": "20160223100917278",
+            "dealRefId": "DEAL-CF-2016-02-917278",
+            "projectName": "CMS_RETAGGING_TEST5",
+            "clientName": "L NAME 11111179",
+            "groupName": "GRP NAME 990000024",
+            "productGroup": null,
+            "clientSegment": "GLOBAL CORPORATE",
+            "clientRegion": "ASEAN",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1467216000000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "SOUTH ASIA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "4,444"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "4,444"
+            ],
+            "currentYearFees": [
+                "4,444"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160210100895378",
+            "dealId": "20160210100895378",
+            "dealRefId": "DEAL-CF-2016-02-895378",
+            "projectName": "CMS_RETAG",
+            "clientName": "L NAME 11117400",
+            "groupName": "GRP NAME 990000084",
+            "productGroup": null,
+            "clientSegment": "GLOBAL CORPORATE",
+            "clientRegion": "MENAP",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1461945600000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "SOUTH ASIA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "4,444"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "4,444"
+            ],
+            "currentYearFees": [
+                "4,444"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160222100914228",
+            "dealId": "20160222100914228",
+            "dealRefId": "DEAL-CF-2016-02-914228",
+            "projectName": "RETAGGING_TEST2",
+            "clientName": "L NAME 11108300",
+            "groupName": "GRP NAME 990111191",
+            "productGroup": null,
+            "clientSegment": "MIDDLE MARKETS",
+            "clientRegion": "GREATER CHINA",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1459353600000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "SOUTH ASIA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "4,444"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "4,444"
+            ],
+            "currentYearFees": [
+                "4,444"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160222100915378",
+            "dealId": "20160222100915378",
+            "dealRefId": "DEAL-CF-2016-02-915378",
+            "projectName": "RETAGGING_TEST7",
+            "clientName": "L NAME 11108300",
+            "groupName": "GRP NAME 990111191",
+            "productGroup": null,
+            "clientSegment": "MIDDLE MARKETS",
+            "clientRegion": "GREATER CHINA",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1461945600000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "SOUTH ASIA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "4,444"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "4,444"
+            ],
+            "currentYearFees": [
+                "4,444"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160222100915178",
+            "dealId": "20160222100915178",
+            "dealRefId": "DEAL-CF-2016-02-915178",
+            "projectName": "RETAGGING_TEST6",
+            "clientName": "L NAME 11108300",
+            "groupName": "GRP NAME 990111191",
+            "productGroup": null,
+            "clientSegment": "MIDDLE MARKETS",
+            "clientRegion": "GREATER CHINA",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1459353600000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "SOUTH ASIA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "4,444"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "4,444"
+            ],
+            "currentYearFees": [
+                "4,444"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160224100918128",
+            "dealId": "20160224100918128",
+            "dealRefId": "DEAL-CF-2016-02-918128",
+            "projectName": "RECYCLE_RETAG",
+            "clientName": "Shanghai Luojing Ore Terminal Co Ltd",
+            "groupName": null,
+            "productGroup": null,
+            "clientSegment": "COMMODITY TRADERS & AGRICULTURE",
+            "clientRegion": null,
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1464624000000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "SOUTH ASIA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "4,444"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "4,444"
+            ],
+            "currentYearFees": [
+                "4,444"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160224100918478",
+            "dealId": "20160224100918478",
+            "dealRefId": "DEAL-CF-2016-02-918478",
+            "projectName": "RETAG_ADD_COUNT",
+            "clientName": null,
+            "groupName": "GRP NAME 990000020",
+            "productGroup": null,
+            "clientSegment": "MEDIUM ENTERPRISE",
+            "clientRegion": "ASEAN",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1464624000000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "SOUTH ASIA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "4,444"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "4,444"
+            ],
+            "currentYearFees": [
+                "4,444"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160224100918878",
+            "dealId": "20160224100918878",
+            "dealRefId": "DEAL-CF-2016-02-918878",
+            "projectName": "RETAG_ADD_COUNTER",
+            "clientName": "L NAME 11111350",
+            "groupName": null,
+            "productGroup": null,
+            "clientSegment": "GLOBAL CORPORATE",
+            "clientRegion": "ASEAN",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1467216000000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "SOUTH ASIA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "4,444"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "4,444"
+            ],
+            "currentYearFees": [
+                "4,444"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160222100915028",
+            "dealId": "20160222100915028",
+            "dealRefId": "DEAL-CF-2016-02-915028",
+            "projectName": "RETAGGING_TEST5",
+            "clientName": "L NAME 11108300",
+            "groupName": "GRP NAME 990111191",
+            "productGroup": null,
+            "clientSegment": "MIDDLE MARKETS",
+            "clientRegion": "GREATER CHINA",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1461945600000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "SOUTH ASIA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "4,444"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "4,444"
+            ],
+            "currentYearFees": [
+                "4,444"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160223100916728",
+            "dealId": "20160223100916728",
+            "dealRefId": "DEAL-CF-2016-02-916728",
+            "projectName": "CMS_RETAGGING_TEST1",
+            "clientName": "L NAME 11111179",
+            "groupName": "GRP NAME 990000024",
+            "productGroup": null,
+            "clientSegment": "GLOBAL CORPORATE",
+            "clientRegion": "ASEAN",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1467216000000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "SOUTH ASIA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "4,444"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "4,444"
+            ],
+            "currentYearFees": [
+                "4,444"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160223100916928",
+            "dealId": "20160223100916928",
+            "dealRefId": "DEAL-CF-2016-02-916928",
+            "projectName": "CMS_RETAGGING_TEST3",
+            "clientName": "L NAME 11111179",
+            "groupName": "GRP NAME 990000024",
+            "productGroup": null,
+            "clientSegment": "GLOBAL CORPORATE",
+            "clientRegion": "ASEAN",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1467216000000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "SOUTH ASIA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "4,444"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "4,444"
+            ],
+            "currentYearFees": [
+                "4,444"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160223100917178",
+            "dealId": "20160223100917178",
+            "dealRefId": "DEAL-CF-2016-02-917178",
+            "projectName": "CMS_RETAGGING_TEST4",
+            "clientName": "L NAME 11111179",
+            "groupName": "GRP NAME 990000024",
+            "productGroup": null,
+            "clientSegment": "GLOBAL CORPORATE",
+            "clientRegion": "ASEAN",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1467216000000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "SOUTH ASIA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "4,444"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "4,444"
+            ],
+            "currentYearFees": [
+                "4,444"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160222100914728",
+            "dealId": "20160222100914728",
+            "dealRefId": "DEAL-CF-2016-02-914728",
+            "projectName": "RETAGGING_TEST4",
+            "clientName": "L NAME 11108300",
+            "groupName": "GRP NAME 990111191",
+            "productGroup": null,
+            "clientSegment": "MIDDLE MARKETS",
+            "clientRegion": "GREATER CHINA",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1461945600000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "SOUTH ASIA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "4,444"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "4,444"
+            ],
+            "currentYearFees": [
+                "4,444"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160222100915528",
+            "dealId": "20160222100915528",
+            "dealRefId": "DEAL-CF-2016-02-915528",
+            "projectName": "RETAGGING_TEST8",
+            "clientName": "L NAME 11108300",
+            "groupName": "GRP NAME 990111191",
+            "productGroup": null,
+            "clientSegment": "MIDDLE MARKETS",
+            "clientRegion": "GREATER CHINA",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1467216000000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "SOUTH ASIA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "4,444"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "4,444"
+            ],
+            "currentYearFees": [
+                "4,444"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160222100915628",
+            "dealId": "20160222100915628",
+            "dealRefId": "DEAL-CF-2016-02-915628",
+            "projectName": "RETAGGING_TEST9",
+            "clientName": "L NAME 11108300",
+            "groupName": "GRP NAME 990111191",
+            "productGroup": null,
+            "clientSegment": "MIDDLE MARKETS",
+            "clientRegion": "GREATER CHINA",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1461945600000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "SOUTH ASIA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "4,444"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "4,444"
+            ],
+            "currentYearFees": [
+                "4,444"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160223100916778",
+            "dealId": "20160223100916778",
+            "dealRefId": "DEAL-CF-2016-02-916778",
+            "projectName": "CMS_RETAGGING_TEST2",
+            "clientName": "L NAME 11111179",
+            "groupName": "GRP NAME 990000024",
+            "productGroup": null,
+            "clientSegment": "GLOBAL CORPORATE",
+            "clientRegion": "ASEAN",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1467216000000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "SOUTH ASIA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "4,444"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "4,444"
+            ],
+            "currentYearFees": [
+                "4,444"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20160222100914028",
+            "dealId": "20160222100914028",
+            "dealRefId": "DEAL-CF-2016-02-914028",
+            "projectName": "RETAGGING_TEST1",
+            "clientName": "L NAME 11111498",
+            "groupName": "GRP NAME 990000150",
+            "productGroup": null,
+            "clientSegment": "GLOBAL CORPORATE",
+            "clientRegion": "ASEAN",
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1461945600000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "SOUTH ASIA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "3,333"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "3,333"
+            ],
+            "currentYearFees": [
+                "3,333"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "201604261001046928",
+            "dealId": "201604261001046928",
+            "dealRefId": "DEAL-CF-2016-04-1046928",
+            "projectName": "26_04_2016_debt_domain_deal",
+            "clientName": "L NAME 11234574",
+            "groupName": "GRP NAME 990012027",
+            "productGroup": null,
+            "clientSegment": "MIDDLE MARKETS",
+            "clientRegion": "ASEAN",
+            "dealStage": "Mandated",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1461945600000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "MENAP"
+            ],
+            "products": [],
+            "subProducts": [],
+            "currencies": [],
+            "bookingLocations": [
+                "ALBANIA"
+            ],
+            "activityTypes": [
+                "Financing - Debt"
+            ],
+            "cfVerticals": [],
+            "fundArrangements": [
+                "Syndicated"
+            ],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "423,432"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "2,343"
+            ],
+            "currentYearFees": [
+                "2,343"
+            ],
+            "holdingAmounts": [
+                "23,432"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20150907100866609",
+            "dealId": "20150907100866609",
+            "dealRefId": "DEAL-CF-2015-09-866609",
+            "projectName": "Dont delete",
+            "clientName": "EHL Meadows Clinic Branch of EHL Clinics LLC",
+            "groupName": null,
+            "productGroup": null,
+            "clientSegment": "LOCAL CORPORATE",
+            "clientRegion": null,
+            "dealStage": "Marketing",
+            "probability": "Medium",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1443196800000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "MENAP"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Aviation Finance"
+            ],
+            "currencies": [],
+            "bookingLocations": [],
+            "activityTypes": [
+                "Advisory / Remarketing"
+            ],
+            "cfVerticals": [
+                "Aviation"
+            ],
+            "fundArrangements": [],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "2,333"
+            ],
+            "roRwaList": [
+                "0"
+            ],
+            "totalFees": [
+                "2,333"
+            ],
+            "currentYearFees": [
+                "2,333"
+            ],
+            "holdingAmounts": [
+                "0"
+            ],
+            "rwaAmounts": [
+                "0"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20150908100866692",
+            "dealId": "20150908100866692",
+            "dealRefId": "DEAL-CF-2015-09-866692",
+            "projectName": "test deal",
+            "clientName": null,
+            "groupName": null,
+            "productGroup": null,
+            "clientSegment": null,
+            "clientRegion": null,
+            "dealStage": "Mandated",
+            "probability": "High",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1453737600000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "AFRICA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Principal Structured Finance Syndications"
+            ],
+            "currencies": [],
+            "bookingLocations": [
+                "ANGOLA"
+            ],
+            "activityTypes": [
+                "Principal Structured Finance"
+            ],
+            "cfVerticals": [],
+            "fundArrangements": [
+                "Syndicated"
+            ],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "2,000"
+            ],
+            "roRwaList": [
+                "2"
+            ],
+            "totalFees": [
+                "3,000"
+            ],
+            "currentYearFees": [
+                "2,000"
+            ],
+            "holdingAmounts": [
+                "1,600"
+            ],
+            "rwaAmounts": [
+                "4"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20150908100866694",
+            "dealId": "20150908100866694",
+            "dealRefId": "DEAL-CF-2015-09-866694",
+            "projectName": "test deal",
+            "clientName": null,
+            "groupName": null,
+            "productGroup": null,
+            "clientSegment": null,
+            "clientRegion": null,
+            "dealStage": "Mandated",
+            "probability": "High",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1453737600000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "AFRICA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Principal Structured Finance Syndications"
+            ],
+            "currencies": [],
+            "bookingLocations": [
+                "ANGOLA"
+            ],
+            "activityTypes": [
+                "Principal Structured Finance"
+            ],
+            "cfVerticals": [],
+            "fundArrangements": [
+                "Syndicated"
+            ],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "2,000"
+            ],
+            "roRwaList": [
+                "2"
+            ],
+            "totalFees": [
+                "3,000"
+            ],
+            "currentYearFees": [
+                "2,000"
+            ],
+            "holdingAmounts": [
+                "1,600"
+            ],
+            "rwaAmounts": [
+                "4"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20150908100866696",
+            "dealId": "20150908100866696",
+            "dealRefId": "DEAL-CF-2015-09-866696",
+            "projectName": "test deal",
+            "clientName": null,
+            "groupName": null,
+            "productGroup": null,
+            "clientSegment": null,
+            "clientRegion": null,
+            "dealStage": "Mandated",
+            "probability": "High",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1453737600000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "AFRICA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Principal Structured Finance Syndications"
+            ],
+            "currencies": [],
+            "bookingLocations": [
+                "ANGOLA"
+            ],
+            "activityTypes": [
+                "Principal Structured Finance"
+            ],
+            "cfVerticals": [],
+            "fundArrangements": [
+                "Syndicated"
+            ],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "2,000"
+            ],
+            "roRwaList": [
+                "2"
+            ],
+            "totalFees": [
+                "3,000"
+            ],
+            "currentYearFees": [
+                "2,000"
+            ],
+            "holdingAmounts": [
+                "1,600"
+            ],
+            "rwaAmounts": [
+                "4"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20150908100866691",
+            "dealId": "20150908100866691",
+            "dealRefId": "DEAL-CF-2015-09-866691",
+            "projectName": "test deal",
+            "clientName": null,
+            "groupName": null,
+            "productGroup": null,
+            "clientSegment": null,
+            "clientRegion": null,
+            "dealStage": "Mandated",
+            "probability": "High",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1453737600000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "AFRICA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Principal Structured Finance Syndications"
+            ],
+            "currencies": [],
+            "bookingLocations": [
+                "ANGOLA"
+            ],
+            "activityTypes": [
+                "Principal Structured Finance"
+            ],
+            "cfVerticals": [],
+            "fundArrangements": [
+                "Syndicated"
+            ],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "2,000"
+            ],
+            "roRwaList": [
+                "2"
+            ],
+            "totalFees": [
+                "3,000"
+            ],
+            "currentYearFees": [
+                "2,000"
+            ],
+            "holdingAmounts": [
+                "1,600"
+            ],
+            "rwaAmounts": [
+                "4"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20150908100866687",
+            "dealId": "20150908100866687",
+            "dealRefId": "DEAL-CF-2015-09-866687",
+            "projectName": "test deal",
+            "clientName": null,
+            "groupName": null,
+            "productGroup": null,
+            "clientSegment": null,
+            "clientRegion": null,
+            "dealStage": "Mandated",
+            "probability": "High",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1453737600000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "AFRICA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Principal Structured Finance Syndications"
+            ],
+            "currencies": [],
+            "bookingLocations": [
+                "ANGOLA"
+            ],
+            "activityTypes": [
+                "Principal Structured Finance"
+            ],
+            "cfVerticals": [],
+            "fundArrangements": [
+                "Syndicated"
+            ],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "2,000"
+            ],
+            "roRwaList": [
+                "2"
+            ],
+            "totalFees": [
+                "3,000"
+            ],
+            "currentYearFees": [
+                "2,000"
+            ],
+            "holdingAmounts": [
+                "1,600"
+            ],
+            "rwaAmounts": [
+                "4"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20150908100866684",
+            "dealId": "20150908100866684",
+            "dealRefId": "DEAL-CF-2015-09-866684",
+            "projectName": "test deal",
+            "clientName": null,
+            "groupName": null,
+            "productGroup": null,
+            "clientSegment": null,
+            "clientRegion": null,
+            "dealStage": "Mandated",
+            "probability": "High",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1453737600000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "AFRICA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Principal Structured Finance Syndications"
+            ],
+            "currencies": [],
+            "bookingLocations": [
+                "ANGOLA"
+            ],
+            "activityTypes": [
+                "Principal Structured Finance"
+            ],
+            "cfVerticals": [],
+            "fundArrangements": [
+                "Syndicated"
+            ],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "2,000"
+            ],
+            "roRwaList": [
+                "2"
+            ],
+            "totalFees": [
+                "3,000"
+            ],
+            "currentYearFees": [
+                "2,000"
+            ],
+            "holdingAmounts": [
+                "1,600"
+            ],
+            "rwaAmounts": [
+                "4"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20150904100866587",
+            "dealId": "20150904100866587",
+            "dealRefId": "DEAL-CF-2015-09-866587",
+            "projectName": "Yuvaraj_1",
+            "clientName": null,
+            "groupName": null,
+            "productGroup": null,
+            "clientSegment": null,
+            "clientRegion": null,
+            "dealStage": "Mandated",
+            "probability": "High",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1453737600000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "AFRICA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Principal Structured Finance Syndications"
+            ],
+            "currencies": [],
+            "bookingLocations": [
+                "ANGOLA"
+            ],
+            "activityTypes": [
+                "Principal Structured Finance"
+            ],
+            "cfVerticals": [],
+            "fundArrangements": [
+                "Syndicated"
+            ],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "2,000"
+            ],
+            "roRwaList": [
+                "2"
+            ],
+            "totalFees": [
+                "3,000"
+            ],
+            "currentYearFees": [
+                "2,000"
+            ],
+            "holdingAmounts": [
+                "1,600"
+            ],
+            "rwaAmounts": [
+                "4"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20150826100866334",
+            "dealId": "20150826100866334",
+            "dealRefId": "DEAL-CF-2015-08-866334",
+            "projectName": "test deal",
+            "clientName": null,
+            "groupName": null,
+            "productGroup": null,
+            "clientSegment": null,
+            "clientRegion": null,
+            "dealStage": "Mandated",
+            "probability": "High",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1453737600000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "AFRICA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Principal Structured Finance Syndications"
+            ],
+            "currencies": [],
+            "bookingLocations": [
+                "ANGOLA"
+            ],
+            "activityTypes": [
+                "Principal Structured Finance"
+            ],
+            "cfVerticals": [],
+            "fundArrangements": [
+                "Syndicated"
+            ],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "2,000"
+            ],
+            "roRwaList": [
+                "2"
+            ],
+            "totalFees": [
+                "3,000"
+            ],
+            "currentYearFees": [
+                "2,000"
+            ],
+            "holdingAmounts": [
+                "1,600"
+            ],
+            "rwaAmounts": [
+                "4"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        },
+        {
+            "isFavourite": null,
+            "id": "20150908100866703",
+            "dealId": "20150908100866703",
+            "dealRefId": "DEAL-CF-2015-09-866703",
+            "projectName": "test deal",
+            "clientName": null,
+            "groupName": null,
+            "productGroup": null,
+            "clientSegment": null,
+            "clientRegion": null,
+            "dealStage": "Mandated",
+            "probability": "High",
+            "scbCreditGrade": null,
+            "expectedCompletion": 1453737600000,
+            "actualCompletion": null,
+            "dealAccess": "Edit",
+            "hasWorkspaceAccess": "true",
+            "salesStage": "Current",
+            "dealRegions": [
+                "AFRICA"
+            ],
+            "products": [
+                "Structured Finance"
+            ],
+            "subProducts": [
+                "Principal Structured Finance Syndications"
+            ],
+            "currencies": [],
+            "bookingLocations": [
+                "ANGOLA"
+            ],
+            "activityTypes": [
+                "Principal Structured Finance"
+            ],
+            "cfVerticals": [],
+            "fundArrangements": [
+                "Syndicated"
+            ],
+            "tenors": [],
+            "dealSizesVal": null,
+            "dealSizes": [],
+            "totalDealSizes": [
+                "2,000"
+            ],
+            "roRwaList": [
+                "2"
+            ],
+            "totalFees": [
+                "3,000"
+            ],
+            "currentYearFees": [
+                "2,000"
+            ],
+            "holdingAmounts": [
+                "1,600"
+            ],
+            "rwaAmounts": [
+                "4"
+            ],
+            "totalRevenues": [],
+            "upfrontFees": []
+        }
+    ],
+    "monthlyPipelineChart": [
+        {
+            "id": "1",
+            "monthId": 201601,
+            "longDescription": "High",
+            "codeValue": "0001",
+            "valueColor": "#28B207",
+            "noOfDeal": 39,
+            "revenue": 66000,
+            "assets": 52800,
+            "rwa": 132,
+            "totalDeal": 52,
+            "totalRevenue": 83886,
+            "totalAssets": 57924,
+            "totalRWA": 5145
+        },
+        {
+            "id": "2",
+            "monthId": 201601,
+            "longDescription": "Medium",
+            "codeValue": "0002",
+            "valueColor": "#E8C217",
+            "noOfDeal": 13,
+            "revenue": 17886,
+            "assets": 5124,
+            "rwa": 5013,
+            "totalDeal": 52,
+            "totalRevenue": 83886,
+            "totalAssets": 57924,
+            "totalRWA": 5145
+        },
+        {
+            "id": "3",
+            "monthId": 201601,
+            "longDescription": "zzzLow",
+            "codeValue": "0003",
+            "valueColor": "#FA1D24",
+            "noOfDeal": 0,
+            "revenue": 0,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 52,
+            "totalRevenue": 83886,
+            "totalAssets": 57924,
+            "totalRWA": 5145
+        },
+        {
+            "id": "4",
+            "monthId": 201602,
+            "longDescription": "High",
+            "codeValue": "0001",
+            "valueColor": "#28B207",
+            "noOfDeal": 0,
+            "revenue": 0,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 1,
+            "totalRevenue": 50000,
+            "totalAssets": 0,
+            "totalRWA": 0
+        },
+        {
+            "id": "5",
+            "monthId": 201602,
+            "longDescription": "Medium",
+            "codeValue": "0002",
+            "valueColor": "#E8C217",
+            "noOfDeal": 1,
+            "revenue": 50000,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 1,
+            "totalRevenue": 50000,
+            "totalAssets": 0,
+            "totalRWA": 0
+        },
+        {
+            "id": "6",
+            "monthId": 201602,
+            "longDescription": "zzzLow",
+            "codeValue": "0003",
+            "valueColor": "#FA1D24",
+            "noOfDeal": 0,
+            "revenue": 0,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 1,
+            "totalRevenue": 50000,
+            "totalAssets": 0,
+            "totalRWA": 0
+        },
+        {
+            "id": "7",
+            "monthId": 201603,
+            "longDescription": "High",
+            "codeValue": "0001",
+            "valueColor": "#28B207",
+            "noOfDeal": 0,
+            "revenue": 0,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 9,
+            "totalRevenue": 1000009378,
+            "totalAssets": 1231,
+            "totalRWA": 1231
+        },
+        {
+            "id": "8",
+            "monthId": 201603,
+            "longDescription": "Medium",
+            "codeValue": "0002",
+            "valueColor": "#E8C217",
+            "noOfDeal": 9,
+            "revenue": 1000009378,
+            "assets": 1231,
+            "rwa": 1231,
+            "totalDeal": 9,
+            "totalRevenue": 1000009378,
+            "totalAssets": 1231,
+            "totalRWA": 1231
+        },
+        {
+            "id": "9",
+            "monthId": 201603,
+            "longDescription": "zzzLow",
+            "codeValue": "0003",
+            "valueColor": "#FA1D24",
+            "noOfDeal": 0,
+            "revenue": 0,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 9,
+            "totalRevenue": 1000009378,
+            "totalAssets": 1231,
+            "totalRWA": 1231
+        },
+        {
+            "id": "10",
+            "monthId": 201604,
+            "longDescription": "High",
+            "codeValue": "0001",
+            "valueColor": "#28B207",
+            "noOfDeal": 0,
+            "revenue": 0,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 27,
+            "totalRevenue": 35264,
+            "totalAssets": 23481,
+            "totalRWA": 0
+        },
+        {
+            "id": "11",
+            "monthId": 201604,
+            "longDescription": "Medium",
+            "codeValue": "0002",
+            "valueColor": "#E8C217",
+            "noOfDeal": 27,
+            "revenue": 35264,
+            "assets": 23481,
+            "rwa": 0,
+            "totalDeal": 27,
+            "totalRevenue": 35264,
+            "totalAssets": 23481,
+            "totalRWA": 0
+        },
+        {
+            "id": "12",
+            "monthId": 201604,
+            "longDescription": "zzzLow",
+            "codeValue": "0003",
+            "valueColor": "#FA1D24",
+            "noOfDeal": 0,
+            "revenue": 0,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 27,
+            "totalRevenue": 35264,
+            "totalAssets": 23481,
+            "totalRWA": 0
+        },
+        {
+            "id": "13",
+            "monthId": 201605,
+            "longDescription": "High",
+            "codeValue": "0001",
+            "valueColor": "#28B207",
+            "noOfDeal": 0,
+            "revenue": 0,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 29,
+            "totalRevenue": 1000032242,
+            "totalAssets": 32,
+            "totalRWA": 0
+        },
+        {
+            "id": "14",
+            "monthId": 201605,
+            "longDescription": "Medium",
+            "codeValue": "0002",
+            "valueColor": "#E8C217",
+            "noOfDeal": 29,
+            "revenue": 1000032242,
+            "assets": 32,
+            "rwa": 0,
+            "totalDeal": 29,
+            "totalRevenue": 1000032242,
+            "totalAssets": 32,
+            "totalRWA": 0
+        },
+        {
+            "id": "15",
+            "monthId": 201605,
+            "longDescription": "zzzLow",
+            "codeValue": "0003",
+            "valueColor": "#FA1D24",
+            "noOfDeal": 0,
+            "revenue": 0,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 29,
+            "totalRevenue": 1000032242,
+            "totalAssets": 32,
+            "totalRWA": 0
+        },
+        {
+            "id": "16",
+            "monthId": 201606,
+            "longDescription": "High",
+            "codeValue": "0001",
+            "valueColor": "#28B207",
+            "noOfDeal": 0,
+            "revenue": 0,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 12,
+            "totalRevenue": 31210,
+            "totalAssets": 0,
+            "totalRWA": 0
+        },
+        {
+            "id": "17",
+            "monthId": 201606,
+            "longDescription": "Medium",
+            "codeValue": "0002",
+            "valueColor": "#E8C217",
+            "noOfDeal": 12,
+            "revenue": 31210,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 12,
+            "totalRevenue": 31210,
+            "totalAssets": 0,
+            "totalRWA": 0
+        },
+        {
+            "id": "18",
+            "monthId": 201606,
+            "longDescription": "zzzLow",
+            "codeValue": "0003",
+            "valueColor": "#FA1D24",
+            "noOfDeal": 0,
+            "revenue": 0,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 12,
+            "totalRevenue": 31210,
+            "totalAssets": 0,
+            "totalRWA": 0
+        },
+        {
+            "id": "19",
+            "monthId": 201607,
+            "longDescription": "High",
+            "codeValue": "0001",
+            "valueColor": "#28B207",
+            "noOfDeal": 0,
+            "revenue": 0,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 5,
+            "totalRevenue": 8697318,
+            "totalAssets": 123,
+            "totalRWA": 0
+        },
+        {
+            "id": "20",
+            "monthId": 201607,
+            "longDescription": "Medium",
+            "codeValue": "0002",
+            "valueColor": "#E8C217",
+            "noOfDeal": 5,
+            "revenue": 8697318,
+            "assets": 123,
+            "rwa": 0,
+            "totalDeal": 5,
+            "totalRevenue": 8697318,
+            "totalAssets": 123,
+            "totalRWA": 0
+        },
+        {
+            "id": "21",
+            "monthId": 201607,
+            "longDescription": "zzzLow",
+            "codeValue": "0003",
+            "valueColor": "#FA1D24",
+            "noOfDeal": 0,
+            "revenue": 0,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 5,
+            "totalRevenue": 8697318,
+            "totalAssets": 123,
+            "totalRWA": 0
+        },
+        {
+            "id": "22",
+            "monthId": 201608,
+            "longDescription": "High",
+            "codeValue": "0001",
+            "valueColor": "#28B207",
+            "noOfDeal": 0,
+            "revenue": 0,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 9,
+            "totalRevenue": 897698698,
+            "totalAssets": 0,
+            "totalRWA": 0
+        },
+        {
+            "id": "23",
+            "monthId": 201608,
+            "longDescription": "Medium",
+            "codeValue": "0002",
+            "valueColor": "#E8C217",
+            "noOfDeal": 9,
+            "revenue": 897698698,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 9,
+            "totalRevenue": 897698698,
+            "totalAssets": 0,
+            "totalRWA": 0
+        },
+        {
+            "id": "24",
+            "monthId": 201608,
+            "longDescription": "zzzLow",
+            "codeValue": "0003",
+            "valueColor": "#FA1D24",
+            "noOfDeal": 0,
+            "revenue": 0,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 9,
+            "totalRevenue": 897698698,
+            "totalAssets": 0,
+            "totalRWA": 0
+        },
+        {
+            "id": "25",
+            "monthId": 201609,
+            "longDescription": "High",
+            "codeValue": "0001",
+            "valueColor": "#28B207",
+            "noOfDeal": 0,
+            "revenue": 0,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 5,
+            "totalRevenue": 100,
+            "totalAssets": 0,
+            "totalRWA": 0
+        },
+        {
+            "id": "26",
+            "monthId": 201609,
+            "longDescription": "Medium",
+            "codeValue": "0002",
+            "valueColor": "#E8C217",
+            "noOfDeal": 5,
+            "revenue": 100,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 5,
+            "totalRevenue": 100,
+            "totalAssets": 0,
+            "totalRWA": 0
+        },
+        {
+            "id": "27",
+            "monthId": 201609,
+            "longDescription": "zzzLow",
+            "codeValue": "0003",
+            "valueColor": "#FA1D24",
+            "noOfDeal": 0,
+            "revenue": 0,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 5,
+            "totalRevenue": 100,
+            "totalAssets": 0,
+            "totalRWA": 0
+        },
+        {
+            "id": "28",
+            "monthId": 201610,
+            "longDescription": "High",
+            "codeValue": "0001",
+            "valueColor": "#28B207",
+            "noOfDeal": 0,
+            "revenue": 0,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 2,
+            "totalRevenue": 1262056052,
+            "totalAssets": 0,
+            "totalRWA": 0
+        },
+        {
+            "id": "29",
+            "monthId": 201610,
+            "longDescription": "Medium",
+            "codeValue": "0002",
+            "valueColor": "#E8C217",
+            "noOfDeal": 2,
+            "revenue": 1262056052,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 2,
+            "totalRevenue": 1262056052,
+            "totalAssets": 0,
+            "totalRWA": 0
+        },
+        {
+            "id": "30",
+            "monthId": 201610,
+            "longDescription": "zzzLow",
+            "codeValue": "0003",
+            "valueColor": "#FA1D24",
+            "noOfDeal": 0,
+            "revenue": 0,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 2,
+            "totalRevenue": 1262056052,
+            "totalAssets": 0,
+            "totalRWA": 0
+        },
+        {
+            "id": "31",
+            "monthId": 201611,
+            "longDescription": "High",
+            "codeValue": "0001",
+            "valueColor": "#28B207",
+            "noOfDeal": 0,
+            "revenue": 0,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 0,
+            "totalRevenue": 0,
+            "totalAssets": 0,
+            "totalRWA": 0
+        },
+        {
+            "id": "32",
+            "monthId": 201611,
+            "longDescription": "Medium",
+            "codeValue": "0002",
+            "valueColor": "#E8C217",
+            "noOfDeal": 0,
+            "revenue": 0,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 0,
+            "totalRevenue": 0,
+            "totalAssets": 0,
+            "totalRWA": 0
+        },
+        {
+            "id": "33",
+            "monthId": 201611,
+            "longDescription": "zzzLow",
+            "codeValue": "0003",
+            "valueColor": "#FA1D24",
+            "noOfDeal": 0,
+            "revenue": 0,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 0,
+            "totalRevenue": 0,
+            "totalAssets": 0,
+            "totalRWA": 0
+        },
+        {
+            "id": "34",
+            "monthId": 201612,
+            "longDescription": "High",
+            "codeValue": "0001",
+            "valueColor": "#28B207",
+            "noOfDeal": 0,
+            "revenue": 0,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 2,
+            "totalRevenue": 2,
+            "totalAssets": 0,
+            "totalRWA": 0
+        },
+        {
+            "id": "35",
+            "monthId": 201612,
+            "longDescription": "Medium",
+            "codeValue": "0002",
+            "valueColor": "#E8C217",
+            "noOfDeal": 2,
+            "revenue": 2,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 2,
+            "totalRevenue": 2,
+            "totalAssets": 0,
+            "totalRWA": 0
+        },
+        {
+            "id": "36",
+            "monthId": 201612,
+            "longDescription": "zzzLow",
+            "codeValue": "0003",
+            "valueColor": "#FA1D24",
+            "noOfDeal": 0,
+            "revenue": 0,
+            "assets": 0,
+            "rwa": 0,
+            "totalDeal": 2,
+            "totalRevenue": 2,
+            "totalAssets": 0,
+            "totalRWA": 0
+        }
+    ],
+    "topDeals": [
+        {
+            "id": "20150609100862331",
+            "dealId": "20150609100862331",
+            "dealVersion": null,
+            "dealName": "PRE_UAT_CF_DEAL",
+            "dealReferenceId": "DEAL-CF-2015-06-862331",
+            "entityType": "C",
+            "entityId": "11090003",
+            "entityName": "L NAME 11090003",
+            "subProfileId": "1",
+            "hasWorkspaceAccess": "true",
+            "revenue": "$1,000,055,554.00",
+            "assets": "$400.00",
+            "dealSize": "$1,000,055,554.00",
+            "rwa": "$400.00"
+        },
+        {
+            "id": "20150904100866564",
+            "dealId": "20150904100866564",
+            "dealVersion": null,
+            "dealName": "UAT_CR_CHANGE_PAM_FB",
+            "dealReferenceId": "DEAL-CF-2015-09-866564",
+            "entityType": "C",
+            "entityId": "11000600",
+            "entityName": "L NAME 11000600",
+            "subProfileId": "2",
+            "hasWorkspaceAccess": "false",
+            "revenue": "$1,000,001,999.00",
+            "assets": "$1,000.00",
+            "dealSize": "$1,000,001,999.00",
+            "rwa": "$1,000.00"
+        },
+        {
+            "id": "20150716100864477",
+            "dealId": "20150716100864477",
+            "dealVersion": null,
+            "dealName": "Testing London Release",
+            "dealReferenceId": "DEAL-CF-2015-07-864477",
+            "entityType": "C",
+            "entityId": "11079358",
+            "entityName": "L NAME 11079358",
+            "subProfileId": "1",
+            "hasWorkspaceAccess": "true",
+            "revenue": "$999,999,999.00",
+            "assets": "$0",
+            "dealSize": "$999,999,999.00",
+            "rwa": "$0"
+        },
+        {
+            "id": "20150702100863926",
+            "dealId": "20150702100863926",
+            "dealVersion": null,
+            "dealName": "Deal for testing duplication of mail notification",
+            "dealReferenceId": "DEAL-CF-2015-07-863926",
+            "entityType": "C",
+            "entityId": "11079358",
+            "entityName": "L NAME 11079358",
+            "subProfileId": "1",
+            "hasWorkspaceAccess": "true",
+            "revenue": "$999,999,999.00",
+            "assets": "$0",
+            "dealSize": "$999,999,999.00",
+            "rwa": "$0"
+        },
+        {
+            "id": "20150616100863235",
+            "dealId": "20150616100863235",
+            "dealVersion": null,
+            "dealName": "Deal for testing clients duplication",
+            "dealReferenceId": "DEAL-CF-2015-06-863235",
+            "entityType": "C",
+            "entityId": "11168736",
+            "entityName": "L NAME 11168736",
+            "subProfileId": "1",
+            "hasWorkspaceAccess": "false",
+            "revenue": "$999,999,999.00",
+            "assets": "$0",
+            "dealSize": "$999,999,999.00",
+            "rwa": "$0"
+        },
+        {
+            "id": "20150617100863416",
+            "dealId": "20150617100863416",
+            "dealVersion": null,
+            "dealName": "inactivation date of clients",
+            "dealReferenceId": "DEAL-CF-2015-06-863416",
+            "entityType": "C",
+            "entityId": "11063526",
+            "entityName": "L NAME 11063526",
+            "subProfileId": "1",
+            "hasWorkspaceAccess": "true",
+            "revenue": "$999,999,999.00",
+            "assets": "$0",
+            "dealSize": "$999,999,999.00",
+            "rwa": "$0"
+        },
+        {
+            "id": "20150706100864010",
+            "dealId": "20150706100864010",
+            "dealVersion": null,
+            "dealName": "Fee Booking Testing on july 6th",
+            "dealReferenceId": "DEAL-CF-2015-07-864010",
+            "entityType": "C",
+            "entityId": "11079358",
+            "entityName": "L NAME 11079358",
+            "subProfileId": "1",
+            "hasWorkspaceAccess": "false",
+            "revenue": "$999,999,999.00",
+            "assets": "$0",
+            "dealSize": "$999,999,999.00",
+            "rwa": "$0"
+        },
+        {
+            "id": "20150623100863609",
+            "dealId": "20150623100863609",
+            "dealVersion": null,
+            "dealName": "Deal for testing notification condition in dev",
+            "dealReferenceId": "DEAL-CF-2015-06-863609",
+            "entityType": "C",
+            "entityId": "11002999",
+            "entityName": "L NAME 11002999",
+            "subProfileId": "1",
+            "hasWorkspaceAccess": "true",
+            "revenue": "$999,999,999.00",
+            "assets": "$0",
+            "dealSize": "$999,999,999.00",
+            "rwa": "$0"
+        },
+        {
+            "id": "20150619100863527",
+            "dealId": "20150619100863527",
+            "dealVersion": null,
+            "dealName": "Deal for testing Aruna's comments",
+            "dealReferenceId": "DEAL-CF-2015-06-863527",
+            "entityType": "C",
+            "entityId": "11231883",
+            "entityName": null,
+            "subProfileId": "1",
+            "hasWorkspaceAccess": "true",
+            "revenue": "$999,999,999.00",
+            "assets": "$0",
+            "dealSize": "$999,999,999.00",
+            "rwa": "$0"
+        },
+        {
+            "id": "201605231001079578",
+            "dealId": "201605231001079578",
+            "dealVersion": null,
+            "dealName": "TESTING_IE_11",
+            "dealReferenceId": "DEAL-CF-2016-05-1079578",
+            "entityType": "C",
+            "entityId": "11246313",
+            "entityName": "L NAME 11246313",
+            "subProfileId": "1",
+            "hasWorkspaceAccess": "true",
+            "revenue": "$999,999,999.00",
+            "assets": "$0",
+            "dealSize": "$99,999,999.00",
+            "rwa": "$0"
+        }
+    ],
+    "meta": {
+        "noProductAccess": false,
+        "totalDeals": 194
+    },
+    "recents": [
+        {
+            "id": 22691052,
+            "psId": "1193293",
+            "activityCode": "DEAL-WORKSPACE",
+            "activityName": null,
+            "entityName": "PRE_UAT_CF_DEAL",
+            "entityId": "DEAL-CF-2015-06-862331",
+            "entityType": "D",
+            "activityId": null,
+            "routeName": "wb-ui-dealcentre.dealcentre-workspace.deal-documents",
+            "queryParams": "{}",
+            "url": "[\"20150609100862331\"]",
+            "subProfileId": null
+        },
+        {
+            "id": 22691059,
+            "psId": "1193293",
+            "activityCode": "DEAL-WORKSPACE",
+            "activityName": null,
+            "entityName": "Deal for testing Aruna's comments",
+            "entityId": "DEAL-CF-2015-06-863527",
+            "entityType": "D",
+            "activityId": null,
+            "routeName": "wb-ui-dealcentre.dealcentre-workspace.deal-documents",
+            "queryParams": "{}",
+            "url": "[\"20150619100863527\"]",
+            "subProfileId": null
+        },
+        {
+            "id": 22691075,
+            "psId": "1193293",
+            "activityCode": "DEAL-WORKSPACE",
+            "activityName": null,
+            "entityName": "Testing London Release",
+            "entityId": "DEAL-CF-2015-07-864477",
+            "entityType": "D",
+            "activityId": null,
+            "routeName": "wb-ui-dealcentre.dealcentre-workspace.deal-documents",
+            "queryParams": "{}",
+            "url": "[\"20150716100864477\"]",
+            "subProfileId": null
+        },
+        {
+            "id": 22691076,
+            "psId": "1193293",
+            "activityCode": null,
+            "activityName": "COMVIVA TECHNOLOGIES LIMITED",
+            "entityName": "COMVIVA TECHNOLOGIES LIMITED",
+            "entityId": "0000081875",
+            "entityType": "P",
+            "activityId": null,
+            "routeName": "wb-ui-sales.search-iframe",
+            "queryParams": "{\"_dc\":\"1474533827375\",\"redirectUrl\":\"rmwb/clients?source=WB2&type=PROSPECT&crmViewId=0000081875&entityId=&entityType=&prospectName=COMVIVA+TECHNOLOGIES+LIMITED&isProspectView=ViewProspect\",\"redirectParams\":{\"componentId\":\"0000081875\",\"name\":\"COMVIVA TECHNOLOGIES LIMITED\",\"entityId\":\"0000081875\",\"entityType\":\"P\",\"entityName\":\"COMVIVA TECHNOLOGIES LIMITED\"},\"routeParams\":{\"name\":\"COMVIVA TECHNOLOGIES LIMITED\",\"entityId\":\"0000081875\",\"entityName\":\"COMVIVA TECHNOLOGIES LIMITED\",\"entityType\":\"P\"}}",
+            "url": "[\"comviva-technologies-limited\"]",
+            "subProfileId": null
+        },
+        {
+            "id": 22651902,
+            "psId": "1193293",
+            "activityCode": "PROSPECTS",
+            "activityName": null,
+            "entityName": null,
+            "entityId": null,
+            "entityType": null,
+            "activityId": null,
+            "routeName": "wb-ui-sales.sales.prospects",
+            "queryParams": "{}",
+            "url": "[\"my\"]",
+            "subProfileId": null
+        },
+        {
+            "id": 22691074,
+            "psId": "1193293",
+            "activityCode": "DEAL-WORKSPACE",
+            "activityName": null,
+            "entityName": "Deal for testing duplication of mail notification",
+            "entityId": "DEAL-CF-2015-07-863926",
+            "entityType": "D",
+            "activityId": null,
+            "routeName": "wb-ui-dealcentre.dealcentre-workspace.deal-documents",
+            "queryParams": "{}",
+            "url": "[\"20150702100863926\"]",
+            "subProfileId": null
+        },
+        {
+            "id": 22691073,
+            "psId": "1193293",
+            "activityCode": "DEAL-WORKSPACE",
+            "activityName": null,
+            "entityName": "CMS_RETAGGING_TEST1",
+            "entityId": "DEAL-CF-2016-02-916728",
+            "entityType": "D",
+            "activityId": null,
+            "routeName": "wb-ui-dealcentre.dealcentre-workspace.deal-documents",
+            "queryParams": "{}",
+            "url": "[\"20160223100916728\"]",
+            "subProfileId": null
+        },
+        {
+            "id": 22651246,
+            "psId": "1193293",
+            "activityCode": "DEAL_PIPELINE",
+            "activityName": null,
+            "entityName": null,
+            "entityId": null,
+            "entityType": null,
+            "activityId": null,
+            "routeName": "wb-ui-dealcentre.dealcentre.deal-pipeline",
+            "queryParams": "{}",
+            "url": "[\"my\"]",
+            "subProfileId": null
+        },
+        {
+            "id": 22691053,
+            "psId": "1193293",
+            "activityCode": "DEAL-WORKSPACE",
+            "activityName": null,
+            "entityName": "LCALCALCA",
+            "entityId": "DEAL-CM-2015-06-863607",
+            "entityType": "D",
+            "activityId": null,
+            "routeName": "wb-ui-dealcentre.dealcentre-workspace.deal-documents",
+            "queryParams": "{}",
+            "url": "[\"20150622100863607\"]",
+            "subProfileId": null
+        },
+        {
+            "id": 22690956,
+            "psId": "1193293",
+            "activityCode": "DEAL-WORKSPACE",
+            "activityName": null,
+            "entityName": "test-2016",
+            "entityId": "DEAL-CF-2016-09-453801",
+            "entityType": "D",
+            "activityId": null,
+            "routeName": "wb-ui-dealcentre.dealcentre-workspace.deal-documents",
+            "queryParams": "{}",
+            "url": "[\"20160905100453801\"]",
+            "subProfileId": null
+        }
+    ]
+}

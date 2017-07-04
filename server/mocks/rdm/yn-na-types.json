@@ -1,0 +1,16 @@
+{
+  "ynNaTypes": [
+    {
+      "code": "Y",
+      "description": "Yes"
+    },
+    {
+      "code": "N",
+      "description": "No"
+    },
+    {
+      "code": "NA",
+      "description": "NA"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+	"export-pdf": {
+		"id": "20170104100000061",
+		"moduleSections": null,
+		"salesModuleSections": [{
+			"id": "20170104175047454000001",
+			"title": "Client Contact Management",
+			"active": false,
+			"disabled": false,
+			"route": "client-contact"
+		}, {
+			"id": "20170104175047455000002",
+			"title": "Buying Behaviour",
+			"active": false,
+			"disabled": false,
+			"route": "buyingbehaviour"
+		}, {
+			"id": "20170104175047456000003",
+			"title": "Client Penetration",
+			"active": false,
+			"disabled": false,
+			"route": "client-penetration"
+		}, {
+			"id": "20170104175047457000004",
+			"title": "Financials",
+			"active": false,
+			"disabled": false,
+			"route": "financial"
+		}, {
+			"id": "20170104175047457000005",
+			"title": "Action Plan",
+			"active": false,
+			"disabled": false,
+			"route": "actionplan"
+		}, {
+			"id": "20170104175047458000006",
+			"title": "Sign Off",
+			"active": false,
+			"disabled": false,
+			"route": "signoff"
+		}],
+		"additionalSections": null,
+		"companyProfileSections": null
+	}
+}

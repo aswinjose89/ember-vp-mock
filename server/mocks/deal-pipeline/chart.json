@@ -1,0 +1,22 @@
+{
+    "dealCharts": [
+      {
+          "id": 1,
+          "category": "Open",
+          "value": 1786,
+          "color": "#B3CDDE"
+       },
+          {
+          "id": 2,
+          "category": "Closing soon",
+          "value": 10,
+          "color": "#98D18C"
+       },
+          {
+          "id": 3,
+          "category": "Stale",
+          "value": 0,
+          "color": "#E05430"
+       }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+  "dealChecklistIndex": {
+    "dealIdRef": "20150630100863795",
+    "dealPipelineInformations": [
+      {
+        "labelId": "dealName",
+        "labelName": "Deal Name",
+        "description": "ddddd"
+      },
+      {
+        "labelId": "salesStage",
+        "labelName": "Sales Stage",
+        "description": "Pitching / Marketing / Early-stage"
+      },
+      {
+        "labelId": "dealId",
+        "labelName": "Deal ID",
+        "description": "DEAL-CM-2015-06-863795"
+      },
+      {
+        "labelId": "productType",
+        "labelName": "Product Type",
+        "description": null
+      },
+      {
+        "labelId": "clientOrGroupName",
+        "labelName": "Client/Group Name",
+        "description": null
+      },
+      {
+        "labelId": "dealCloseDate",
+        "labelName": "Deal Close Date",
+        "description": "05 Aug 2015"
+      },
+      {
+        "labelId": "dealTeamLeader",
+        "labelName": "Deal Team Leader",
+        "description": "Gang,Tristram Francis"
+      },
+      {
+        "labelId": "managerName",
+        "labelName": "PFAM",
+        "description": null
+      },
+      {
+        "labelId": "clientId",
+        "labelName": "Client ID",
+        "description": null
+      },
+      {
+        "labelId": "domicileCountry",
+        "labelName": "Domicile Country",
+        "description": null
+      },
+      {
+        "labelId": "subProductType",
+        "labelName": "Sub-Product Type",
+        "description": null
+      },
+      {
+        "labelId": "dealExecutionCountry",
+        "labelName": "Deal Execution Country",
+        "description": null
+      },
+      {
+        "labelId": "submittedBy",
+        "labelName": "Submitted by",
+        "description": null
+      },
+      {
+        "labelId": "approvedBy",
+        "labelName": "Approved by",
+        "description": null
+      }
+    ],
+    "checklistDetails": [
+      {
+        "checklistRefId": "DEAL-CM-2015-06-863795CHKL6",
+        "lastUpdatedDate": 1473304775000,
+        "lastUpdatedBy": "1181483 - Gang,Tristram Francis",
+        "checklistStatus": "Completed",
+        "checklistId": 20050,
+        "productGroup": "CF",
+        "version": "6",
+        "dealId": "20150630100863795",
+        "dealRefId": "DEAL-CM-2015-06-863795",
+        "active": true
+      },
+      {
+        "checklistRefId": "DEAL-CM-2015-06-863795CHKL5",
+        "lastUpdatedDate": 1473308117000,
+        "lastUpdatedBy": "1181483 - Gang,Tristram Francis",
+        "checklistStatus": "Completed",
+        "checklistId": 19905,
+        "productGroup": "CF",
+        "version": "5",
+        "dealId": "20150630100863795",
+        "dealRefId": "DEAL-CM-2015-06-863795",
+        "active": false
+      },
+      {
+        "checklistRefId": "DEAL-CM-2015-06-863795CHKL4",
+        "lastUpdatedDate": 1473304650000,
+        "lastUpdatedBy": "1181483 - Gang,Tristram Francis",
+        "checklistStatus": "Completed",
+        "checklistId": 19904,
+        "productGroup": "CF",
+        "version": "4",
+        "dealId": "20150630100863795",
+        "dealRefId": "DEAL-CM-2015-06-863795",
+        "active": false
+      },
+      {
+        "checklistRefId": "DEAL-CM-2015-06-863795CHKL3",
+        "lastUpdatedDate": 1476278428000,
+        "lastUpdatedBy": "1241479 - Raj, June",
+        "checklistStatus": "Completed",
+        "checklistId": 19903,
+        "productGroup": "CF",
+        "version": "3",
+        "dealId": "20150630100863795",
+        "dealRefId": "DEAL-CM-2015-06-863795",
+        "active": false
+      },
+      {
+        "checklistRefId": "DEAL-CM-2015-06-863795CHKL2",
+        "lastUpdatedDate": 1476278428000,
+        "lastUpdatedBy": "1241479 - Raj, June",
+        "checklistStatus": "Completed",
+        "checklistId": 19902,
+        "productGroup": "CF",
+        "version": "2",
+        "dealId": "20150630100863795",
+        "dealRefId": "DEAL-CM-2015-06-863795",
+        "active": false
+      },
+      {
+        "checklistRefId": "DEAL-CM-2015-06-863795CHKL1",
+        "lastUpdatedDate": 1476278428000,
+        "lastUpdatedBy": "1241479 - Raj, June",
+        "checklistStatus": "Completed",
+        "checklistId": 13200,
+        "productGroup": "CF",
+        "version": "1",
+        "dealId": "20150630100863795",
+        "dealRefId": "DEAL-CM-2015-06-863795",
+        "active": false
+      }
+    ]
+  }
+}

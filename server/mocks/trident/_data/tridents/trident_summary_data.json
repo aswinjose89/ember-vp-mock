@@ -1,0 +1,1477 @@
+{
+  "details": [],
+  "tridentInfo": {
+    "tridentId": "a3ea6245-2df1-4906-86eb-ed7f72beb915",
+    "tridentName": "Testing Trident again -2",
+    "wacg": "3B",
+    "el": "171069.04",
+    "lastUpdatedDate": "31 Oct 2016",
+    "updatedBy": "1254664 - Shyong Huei Chan",
+    "gamName": "1364039-Ruofeng Shen",
+    "groupName": "GRP NAME 990038126",
+    "domicileCountry": "CN",
+    "unformattedUpdatedDate": 1477907020000,
+    "nonAccessibleEntities": [],
+    "createdById": "1254664",
+    "status": "DRAFT",
+    "primaryGroup": true,
+    "modelGenerationStatus": false,
+    "limitItemsMap": {},
+    "accessible": false
+  },
+  "limitTypeWiseLimitDataSum": {
+    "CAT1": {
+      "GM": 717500000,
+      "BCA": 663000000,
+      "PROPOSED": 663000000
+    },
+    "CAT2": {
+      "GM": 70000000,
+      "BCA": 106000000,
+      "PROPOSED": 106000000
+    },
+    "CAT1_CAT2": {
+      "GM": 787500000,
+      "BCA": 769000000,
+      "PROPOSED": 769000000
+    },
+    "CAT3": {
+      "GM": 0,
+      "BCA": 0,
+      "PROPOSED": 0
+    },
+    "CAT5": {
+      "GM": 0,
+      "BCA": 0,
+      "PROPOSED": 0
+    },
+    "CONTROL": {
+      "GM": 300000000,
+      "BCA": 300000000,
+      "PROPOSED": 300000000
+    }
+  },
+  "allClientsCat1CatSum": 9159500000,
+  "tridentEntitySummaryDTOs": [
+    {
+      "tridentId": "a3ea6245-2df1-4906-86eb-ed7f72beb915",
+      "entityXRefId": "6c2e7e26-4db3-4bc3-851b-ba9f7feb7676",
+      "generateModels": false,
+      "clientName": "Headroom Client - GRP NAME 990038126",
+      "limitItemsMap": {
+        "CAT1": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 3535000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT2": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 700000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT1_CAT2": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 4235000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT3": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT5": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 350000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CONTROL": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ]
+      },
+      "cat1Cat2SumValue": 4340000000
+    },
+    {
+      "tridentId": "a3ea6245-2df1-4906-86eb-ed7f72beb915",
+      "entityXRefId": "1eb40b56-3a36-4db3-9c63-79132ec54d74",
+      "generateModels": false,
+      "clientName": "L NAME 12295345",
+      "limitItemsMap": {
+        "CAT1": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 269000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 269000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 269000000,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT2": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT1_CAT2": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 269000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 269000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 269000000,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT3": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT5": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CONTROL": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 300000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 300000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 300000000,
+            "approvedDate": null,
+            "new": false
+          }
+        ]
+      },
+      "cat1Cat2SumValue": 807000000
+    },
+    {
+      "tridentId": "a3ea6245-2df1-4906-86eb-ed7f72beb915",
+      "entityXRefId": "80e03e75-06fb-463d-9fb2-c1da537c5aca",
+      "generateModels": false,
+      "clientName": "L NAME 11888754",
+      "limitItemsMap": {
+        "CAT1": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 80000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 80000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 80000000,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT2": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 50000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 86000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 86000000,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT1_CAT2": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 130000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 166000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 166000000,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT3": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT5": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CONTROL": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ]
+      },
+      "cat1Cat2SumValue": 462000000
+    },
+    {
+      "tridentId": "a3ea6245-2df1-4906-86eb-ed7f72beb915",
+      "entityXRefId": "56d93640-d502-4d9d-8f68-ae3f46027be1",
+      "generateModels": false,
+      "clientName": "L NAME 13289155",
+      "limitItemsMap": {
+        "CAT1": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 100000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 100000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 100000000,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT2": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 5000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 5000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 5000000,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT1_CAT2": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 105000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 105000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 105000000,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT3": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT5": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CONTROL": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ]
+      },
+      "cat1Cat2SumValue": 315000000
+    },
+    {
+      "tridentId": "a3ea6245-2df1-4906-86eb-ed7f72beb915",
+      "entityXRefId": "8227030a-8e54-409a-a415-cf63d0a02c44",
+      "generateModels": false,
+      "clientName": "L NAME 12384466",
+      "limitItemsMap": {
+        "CAT1": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 99500000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 105000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 105000000,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT2": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT1_CAT2": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 99500000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 105000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 105000000,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT3": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT5": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CONTROL": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ]
+      },
+      "cat1Cat2SumValue": 309500000
+    },
+    {
+      "tridentId": "a3ea6245-2df1-4906-86eb-ed7f72beb915",
+      "entityXRefId": "fdb629e9-dee7-41da-9f1d-d2c687224fa6",
+      "generateModels": false,
+      "clientName": "L NAME 13481501",
+      "limitItemsMap": {
+        "CAT1": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 40000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 40000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 40000000,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT2": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 15000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 15000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 15000000,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT1_CAT2": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 55000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 55000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 55000000,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT3": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT5": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CONTROL": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ]
+      },
+      "cat1Cat2SumValue": 165000000
+    },
+    {
+      "tridentId": "a3ea6245-2df1-4906-86eb-ed7f72beb915",
+      "entityXRefId": "5de9709d-9b93-4676-84a9-078418493164",
+      "generateModels": false,
+      "clientName": "L NAME 13442958",
+      "limitItemsMap": {
+        "CAT1": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 50000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 50000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 50000000,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT2": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT1_CAT2": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 50000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 50000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 50000000,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT3": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT5": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CONTROL": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ]
+      },
+      "cat1Cat2SumValue": 150000000
+    },
+    {
+      "tridentId": "a3ea6245-2df1-4906-86eb-ed7f72beb915",
+      "entityXRefId": "d722e7c9-38b8-4718-b1ab-f6eae11298d1",
+      "generateModels": false,
+      "clientName": "L NAME 11217872",
+      "limitItemsMap": {
+        "CAT1": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 15000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 15000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 15000000,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT2": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT1_CAT2": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 15000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 15000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 15000000,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT3": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT5": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CONTROL": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ]
+      },
+      "cat1Cat2SumValue": 45000000
+    },
+    {
+      "tridentId": "a3ea6245-2df1-4906-86eb-ed7f72beb915",
+      "entityXRefId": "a028007f-a0f0-4183-b83f-fa69d54928be",
+      "generateModels": false,
+      "clientName": "PT COSL INDO",
+      "limitItemsMap": {
+        "CAT1": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 40000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT2": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT1_CAT2": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 40000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT3": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT5": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CONTROL": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ]
+      },
+      "cat1Cat2SumValue": 40000000
+    },
+    {
+      "tridentId": "a3ea6245-2df1-4906-86eb-ed7f72beb915",
+      "entityXRefId": "cd431212-7cee-4dbb-a719-590a193becaa",
+      "generateModels": false,
+      "clientName": "CUST NAME OF 25429141",
+      "limitItemsMap": {
+        "CAT1": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 10000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT2": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT1_CAT2": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 10000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT3": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT5": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CONTROL": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ]
+      },
+      "cat1Cat2SumValue": 10000000
+    },
+    {
+      "entityXRefId": "-1",
+      "generateModels": false,
+      "clientName": "Others",
+      "limitItemsMap": {
+        "CAT1": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 14000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 4000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 4000000,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT2": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT1_CAT2": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 14000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 4000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 4000000,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT3": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CAT5": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ],
+        "CONTROL": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          }
+        ]
+      },
+      "cat1Cat2SumValue": 0
+    }
+  ],
+  "limitDetails": [],
+  "clients": []
+}

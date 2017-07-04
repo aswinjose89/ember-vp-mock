@@ -1,0 +1,3035 @@
+{
+  "meta": {
+    "totalCount": 150
+  },
+  "rps": [
+    {
+      "rpID": 10000000389244,
+      "rpCategory": {
+        "code": 0,
+        "description": "ENTITY"
+      },
+      "rpName": null,
+      "adverseMediaFlag": null,
+      "rpStatus": null,
+      "directorConcentrationFlag": null,
+      "firstName": null,
+      "middleName": null,
+      "lastName": null,
+      "fullName": null,
+      "previousName": null,
+      "alias": null,
+      "gender": null,
+      "dob": null,
+      "countryOfBirth": null,
+      "companyName": "ALPHALINK ACCOUNTING SERVICES  LIMITED",
+      "parentCompanyName": null,
+      "previousCompanyName": null,
+      "incorporationNumber": null,
+      "doi": "22-Mar-2010",
+      "incorporationCountry": null,
+      "mergeFlag": false,
+      "score": 0,
+      "candidates": null,
+      "nationalities": null,
+      "sourceSystems": [
+        {
+          "sourceID": 0,
+          "rpID": 0,
+          "rpSourceID": null,
+          "sourceRPCreatedDt": null,
+          "sourceSystem": {
+            "code": 0,
+            "description": "eCDD+"
+          },
+          "clusterID": null
+        }
+      ],
+      "identities": null,
+      "addresses": [
+        {
+          "addressID": 0,
+          "rpID": 0,
+          "addressType": null,
+          "fullAddress": null,
+          "add1": null,
+          "add2": null,
+          "add3": null,
+          "city": null,
+          "state": null,
+          "postalCode": null,
+          "country": {
+            "code": "",
+            "description": "DEFAULT_VAL",
+            "vat": "",
+            "region": "",
+            "type": ""
+          },
+          "deletedFlag": null
+        }
+      ],
+      "contacts": null,
+      "linkages": [
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11029315",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "13256194",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11030110",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11198513",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        }
+      ],
+      "wfHist": null,
+      "fatcaflag": null,
+      "pepflag": null
+    },
+    {
+      "rpID": 10000000145117,
+      "rpCategory": {
+        "code": 0,
+        "description": "ENTITY"
+      },
+      "rpName": null,
+      "adverseMediaFlag": null,
+      "rpStatus": null,
+      "directorConcentrationFlag": null,
+      "firstName": null,
+      "middleName": null,
+      "lastName": null,
+      "fullName": null,
+      "previousName": null,
+      "alias": null,
+      "gender": null,
+      "dob": null,
+      "countryOfBirth": null,
+      "companyName": "AVENTINE  LIMITED",
+      "parentCompanyName": null,
+      "previousCompanyName": null,
+      "incorporationNumber": null,
+      "doi": "18-Sep-1987",
+      "incorporationCountry": null,
+      "mergeFlag": false,
+      "score": 0,
+      "candidates": null,
+      "nationalities": null,
+      "sourceSystems": [
+        {
+          "sourceID": 0,
+          "rpID": 0,
+          "rpSourceID": null,
+          "sourceRPCreatedDt": null,
+          "sourceSystem": {
+            "code": 0,
+            "description": "eCDD+"
+          },
+          "clusterID": null
+        }
+      ],
+      "identities": null,
+      "addresses": [
+        {
+          "addressID": 0,
+          "rpID": 0,
+          "addressType": null,
+          "fullAddress": null,
+          "add1": null,
+          "add2": null,
+          "add3": null,
+          "city": null,
+          "state": null,
+          "postalCode": null,
+          "country": {
+            "code": "",
+            "description": "DEFAULT_VAL",
+            "vat": "",
+            "region": "",
+            "type": ""
+          },
+          "deletedFlag": null
+        }
+      ],
+      "contacts": null,
+      "linkages": [
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11096375",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11028606",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        }
+      ],
+      "wfHist": null,
+      "fatcaflag": null,
+      "pepflag": null
+    },
+    {
+      "rpID": 10000000389422,
+      "rpCategory": {
+        "code": 0,
+        "description": "ENTITY"
+      },
+      "rpName": null,
+      "adverseMediaFlag": null,
+      "rpStatus": null,
+      "directorConcentrationFlag": null,
+      "firstName": null,
+      "middleName": null,
+      "lastName": null,
+      "fullName": null,
+      "previousName": null,
+      "alias": null,
+      "gender": null,
+      "dob": null,
+      "countryOfBirth": null,
+      "companyName": "LASCOMBE  LIMITED",
+      "parentCompanyName": null,
+      "previousCompanyName": null,
+      "incorporationNumber": null,
+      "doi": "25-Sep-2007",
+      "incorporationCountry": null,
+      "mergeFlag": false,
+      "score": 0,
+      "candidates": null,
+      "nationalities": null,
+      "sourceSystems": [
+        {
+          "sourceID": 0,
+          "rpID": 0,
+          "rpSourceID": null,
+          "sourceRPCreatedDt": null,
+          "sourceSystem": {
+            "code": 0,
+            "description": "eCDD+"
+          },
+          "clusterID": null
+        }
+      ],
+      "identities": null,
+      "addresses": [
+        {
+          "addressID": 0,
+          "rpID": 0,
+          "addressType": null,
+          "fullAddress": null,
+          "add1": null,
+          "add2": null,
+          "add3": null,
+          "city": "BAY",
+          "state": null,
+          "postalCode": null,
+          "country": {
+            "code": "",
+            "description": "DEFAULT_VAL",
+            "vat": "",
+            "region": "",
+            "type": ""
+          },
+          "deletedFlag": null
+        }
+      ],
+      "contacts": null,
+      "linkages": [
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11029617",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11189650",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11029996",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11021617",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11224437",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        }
+      ],
+      "wfHist": null,
+      "fatcaflag": null,
+      "pepflag": null
+    },
+    {
+      "rpID": 10000000367627,
+      "rpCategory": {
+        "code": 0,
+        "description": "ENTITY"
+      },
+      "rpName": null,
+      "adverseMediaFlag": null,
+      "rpStatus": null,
+      "directorConcentrationFlag": null,
+      "firstName": null,
+      "middleName": null,
+      "lastName": null,
+      "fullName": null,
+      "previousName": null,
+      "alias": null,
+      "gender": null,
+      "dob": null,
+      "countryOfBirth": null,
+      "companyName": "ABAGTHA  LIMITED",
+      "parentCompanyName": null,
+      "previousCompanyName": null,
+      "incorporationNumber": null,
+      "doi": "01-Feb-1980",
+      "incorporationCountry": null,
+      "mergeFlag": false,
+      "score": 0,
+      "candidates": null,
+      "nationalities": null,
+      "sourceSystems": [
+        {
+          "sourceID": 0,
+          "rpID": 0,
+          "rpSourceID": null,
+          "sourceRPCreatedDt": null,
+          "sourceSystem": {
+            "code": 0,
+            "description": "eCDD+"
+          },
+          "clusterID": null
+        }
+      ],
+      "identities": null,
+      "addresses": [
+        {
+          "addressID": 0,
+          "rpID": 0,
+          "addressType": null,
+          "fullAddress": null,
+          "add1": null,
+          "add2": null,
+          "add3": null,
+          "city": "BAY",
+          "state": null,
+          "postalCode": null,
+          "country": {
+            "code": "",
+            "description": "DEFAULT_VAL",
+            "vat": "",
+            "region": "",
+            "type": ""
+          },
+          "deletedFlag": null
+        }
+      ],
+      "contacts": null,
+      "linkages": [
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11030145",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11337948",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11185174",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        }
+      ],
+      "wfHist": null,
+      "fatcaflag": null,
+      "pepflag": null
+    },
+    {
+      "rpID": 10000000172790,
+      "rpCategory": {
+        "code": 0,
+        "description": "ENTITY"
+      },
+      "rpName": null,
+      "adverseMediaFlag": null,
+      "rpStatus": null,
+      "directorConcentrationFlag": null,
+      "firstName": null,
+      "middleName": null,
+      "lastName": null,
+      "fullName": null,
+      "previousName": null,
+      "alias": null,
+      "gender": null,
+      "dob": null,
+      "countryOfBirth": null,
+      "companyName": "LONGREACH MANAGEMENT CORPORATION  CAYMAN",
+      "parentCompanyName": null,
+      "previousCompanyName": null,
+      "incorporationNumber": null,
+      "doi": "08-Oct-2003",
+      "incorporationCountry": null,
+      "mergeFlag": false,
+      "score": 0,
+      "candidates": null,
+      "nationalities": null,
+      "sourceSystems": [
+        {
+          "sourceID": 0,
+          "rpID": 0,
+          "rpSourceID": null,
+          "sourceRPCreatedDt": null,
+          "sourceSystem": {
+            "code": 0,
+            "description": "eCDD+"
+          },
+          "clusterID": null
+        }
+      ],
+      "identities": null,
+      "addresses": [
+        {
+          "addressID": 0,
+          "rpID": 0,
+          "addressType": null,
+          "fullAddress": null,
+          "add1": null,
+          "add2": null,
+          "add3": null,
+          "city": "CAYMAN",
+          "state": null,
+          "postalCode": "KY 1 - 1104",
+          "country": {
+            "code": "",
+            "description": "CAYMAN ISLANDS",
+            "vat": "",
+            "region": "",
+            "type": ""
+          },
+          "deletedFlag": null
+        }
+      ],
+      "contacts": null,
+      "linkages": [
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11208114",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11208119",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        }
+      ],
+      "wfHist": null,
+      "fatcaflag": null,
+      "pepflag": null
+    },
+    {
+      "rpID": 10000000190345,
+      "rpCategory": {
+        "code": 0,
+        "description": "ENTITY"
+      },
+      "rpName": null,
+      "adverseMediaFlag": null,
+      "rpStatus": null,
+      "directorConcentrationFlag": null,
+      "firstName": null,
+      "middleName": null,
+      "lastName": null,
+      "fullName": null,
+      "previousName": null,
+      "alias": null,
+      "gender": null,
+      "dob": null,
+      "countryOfBirth": null,
+      "companyName": "EUROPE SERVICES  LIMITED",
+      "parentCompanyName": null,
+      "previousCompanyName": null,
+      "incorporationNumber": null,
+      "doi": "03-Jun-1980",
+      "incorporationCountry": null,
+      "mergeFlag": false,
+      "score": 0,
+      "candidates": null,
+      "nationalities": null,
+      "sourceSystems": [
+        {
+          "sourceID": 0,
+          "rpID": 0,
+          "rpSourceID": null,
+          "sourceRPCreatedDt": null,
+          "sourceSystem": {
+            "code": 0,
+            "description": "eCDD+"
+          },
+          "clusterID": null
+        }
+      ],
+      "identities": null,
+      "addresses": [
+        {
+          "addressID": 0,
+          "rpID": 0,
+          "addressType": null,
+          "fullAddress": null,
+          "add1": null,
+          "add2": null,
+          "add3": null,
+          "city": "HK",
+          "state": null,
+          "postalCode": null,
+          "country": {
+            "code": "",
+            "description": "DEFAULT_VAL",
+            "vat": "",
+            "region": "",
+            "type": ""
+          },
+          "deletedFlag": null
+        }
+      ],
+      "contacts": null,
+      "linkages": [
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11026412",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11284897",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        }
+      ],
+      "wfHist": null,
+      "fatcaflag": null,
+      "pepflag": null
+    },
+    {
+      "rpID": 10000000580756,
+      "rpCategory": {
+        "code": 0,
+        "description": "ENTITY"
+      },
+      "rpName": null,
+      "adverseMediaFlag": null,
+      "rpStatus": null,
+      "directorConcentrationFlag": null,
+      "firstName": null,
+      "middleName": null,
+      "lastName": null,
+      "fullName": null,
+      "previousName": null,
+      "alias": null,
+      "gender": null,
+      "dob": null,
+      "countryOfBirth": null,
+      "companyName": "BASMINE BELL  LIMITED",
+      "parentCompanyName": null,
+      "previousCompanyName": null,
+      "incorporationNumber": null,
+      "doi": "17-Jan-2008",
+      "incorporationCountry": null,
+      "mergeFlag": false,
+      "score": 0,
+      "candidates": null,
+      "nationalities": null,
+      "sourceSystems": [
+        {
+          "sourceID": 0,
+          "rpID": 0,
+          "rpSourceID": null,
+          "sourceRPCreatedDt": null,
+          "sourceSystem": {
+            "code": 0,
+            "description": "eCDD+"
+          },
+          "clusterID": null
+        }
+      ],
+      "identities": null,
+      "addresses": [
+        {
+          "addressID": 0,
+          "rpID": 0,
+          "addressType": null,
+          "fullAddress": null,
+          "add1": null,
+          "add2": null,
+          "add3": null,
+          "city": "WANCHAI",
+          "state": null,
+          "postalCode": null,
+          "country": {
+            "code": "",
+            "description": "DEFAULT_VAL",
+            "vat": "",
+            "region": "",
+            "type": ""
+          },
+          "deletedFlag": null
+        }
+      ],
+      "contacts": null,
+      "linkages": [
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11297999",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11229781",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        }
+      ],
+      "wfHist": null,
+      "fatcaflag": null,
+      "pepflag": null
+    },
+    {
+      "rpID": 10000000355586,
+      "rpCategory": {
+        "code": 0,
+        "description": "ENTITY"
+      },
+      "rpName": null,
+      "adverseMediaFlag": null,
+      "rpStatus": null,
+      "directorConcentrationFlag": null,
+      "firstName": null,
+      "middleName": null,
+      "lastName": null,
+      "fullName": null,
+      "previousName": null,
+      "alias": null,
+      "gender": null,
+      "dob": null,
+      "countryOfBirth": null,
+      "companyName": "INTERTRUST FUND SERVICES (HONG KONG)  LIMITED",
+      "parentCompanyName": null,
+      "previousCompanyName": null,
+      "incorporationNumber": null,
+      "doi": "01-Feb-2008",
+      "incorporationCountry": null,
+      "mergeFlag": false,
+      "score": 0,
+      "candidates": null,
+      "nationalities": null,
+      "sourceSystems": [
+        {
+          "sourceID": 0,
+          "rpID": 0,
+          "rpSourceID": null,
+          "sourceRPCreatedDt": null,
+          "sourceSystem": {
+            "code": 0,
+            "description": "eCDD+"
+          },
+          "clusterID": null
+        }
+      ],
+      "identities": null,
+      "addresses": [
+        {
+          "addressID": 0,
+          "rpID": 0,
+          "addressType": null,
+          "fullAddress": null,
+          "add1": null,
+          "add2": null,
+          "add3": null,
+          "city": "WANCHAI",
+          "state": null,
+          "postalCode": null,
+          "country": {
+            "code": "",
+            "description": "DEFAULT_VAL",
+            "vat": "",
+            "region": "",
+            "type": ""
+          },
+          "deletedFlag": null
+        }
+      ],
+      "contacts": null,
+      "linkages": [
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11309358",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11277161",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11548888",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        }
+      ],
+      "wfHist": null,
+      "fatcaflag": null,
+      "pepflag": null
+    },
+    {
+      "rpID": 10000000377242,
+      "rpCategory": {
+        "code": 0,
+        "description": "ENTITY"
+      },
+      "rpName": null,
+      "adverseMediaFlag": null,
+      "rpStatus": null,
+      "directorConcentrationFlag": null,
+      "firstName": null,
+      "middleName": null,
+      "lastName": null,
+      "fullName": null,
+      "previousName": null,
+      "alias": null,
+      "gender": null,
+      "dob": null,
+      "countryOfBirth": null,
+      "companyName": "EASTERN SKY  LIMITED",
+      "parentCompanyName": null,
+      "previousCompanyName": null,
+      "incorporationNumber": null,
+      "doi": "11-Jun-2008",
+      "incorporationCountry": null,
+      "mergeFlag": false,
+      "score": 0,
+      "candidates": null,
+      "nationalities": null,
+      "sourceSystems": [
+        {
+          "sourceID": 0,
+          "rpID": 0,
+          "rpSourceID": null,
+          "sourceRPCreatedDt": null,
+          "sourceSystem": {
+            "code": 0,
+            "description": "eCDD+"
+          },
+          "clusterID": null
+        }
+      ],
+      "identities": null,
+      "addresses": [
+        {
+          "addressID": 0,
+          "rpID": 0,
+          "addressType": null,
+          "fullAddress": null,
+          "add1": null,
+          "add2": null,
+          "add3": null,
+          "city": null,
+          "state": null,
+          "postalCode": null,
+          "country": {
+            "code": "",
+            "description": "SEYCHELLES",
+            "vat": "",
+            "region": "",
+            "type": ""
+          },
+          "deletedFlag": null
+        }
+      ],
+      "contacts": null,
+      "linkages": [
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11158885",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11623402",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        }
+      ],
+      "wfHist": null,
+      "fatcaflag": null,
+      "pepflag": null
+    },
+    {
+      "rpID": 10000000422172,
+      "rpCategory": {
+        "code": 0,
+        "description": "ENTITY"
+      },
+      "rpName": null,
+      "adverseMediaFlag": null,
+      "rpStatus": null,
+      "directorConcentrationFlag": null,
+      "firstName": null,
+      "middleName": null,
+      "lastName": null,
+      "fullName": null,
+      "previousName": null,
+      "alias": null,
+      "gender": null,
+      "dob": null,
+      "countryOfBirth": null,
+      "companyName": "ZET NOMINEES  LIMITED",
+      "parentCompanyName": null,
+      "previousCompanyName": null,
+      "incorporationNumber": null,
+      "doi": "17-Apr-2003",
+      "incorporationCountry": null,
+      "mergeFlag": false,
+      "score": 0,
+      "candidates": null,
+      "nationalities": null,
+      "sourceSystems": [
+        {
+          "sourceID": 0,
+          "rpID": 0,
+          "rpSourceID": null,
+          "sourceRPCreatedDt": null,
+          "sourceSystem": {
+            "code": 0,
+            "description": "eCDD+"
+          },
+          "clusterID": null
+        }
+      ],
+      "identities": null,
+      "addresses": [
+        {
+          "addressID": 0,
+          "rpID": 0,
+          "addressType": null,
+          "fullAddress": null,
+          "add1": null,
+          "add2": null,
+          "add3": null,
+          "city": "CITY",
+          "state": null,
+          "postalCode": null,
+          "country": {
+            "code": "",
+            "description": "DEFAULT_VAL",
+            "vat": "",
+            "region": "",
+            "type": ""
+          },
+          "deletedFlag": null
+        }
+      ],
+      "contacts": null,
+      "linkages": [
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11449639",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11194922",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        }
+      ],
+      "wfHist": null,
+      "fatcaflag": null,
+      "pepflag": null
+    },
+    {
+      "rpID": 10000000300947,
+      "rpCategory": {
+        "code": 0,
+        "description": "ENTITY"
+      },
+      "rpName": null,
+      "adverseMediaFlag": null,
+      "rpStatus": null,
+      "directorConcentrationFlag": null,
+      "firstName": null,
+      "middleName": null,
+      "lastName": null,
+      "fullName": null,
+      "previousName": null,
+      "alias": null,
+      "gender": null,
+      "dob": null,
+      "countryOfBirth": null,
+      "companyName": "VERITATEM &  CO.",
+      "parentCompanyName": null,
+      "previousCompanyName": null,
+      "incorporationNumber": null,
+      "doi": "05-May-1966",
+      "incorporationCountry": null,
+      "mergeFlag": false,
+      "score": 0,
+      "candidates": null,
+      "nationalities": null,
+      "sourceSystems": [
+        {
+          "sourceID": 0,
+          "rpID": 0,
+          "rpSourceID": null,
+          "sourceRPCreatedDt": null,
+          "sourceSystem": {
+            "code": 0,
+            "description": "eCDD+"
+          },
+          "clusterID": null
+        }
+      ],
+      "identities": null,
+      "addresses": [
+        {
+          "addressID": 0,
+          "rpID": 0,
+          "addressType": null,
+          "fullAddress": null,
+          "add1": null,
+          "add2": null,
+          "add3": null,
+          "city": "HK",
+          "state": null,
+          "postalCode": null,
+          "country": {
+            "code": "",
+            "description": "DEFAULT_VAL",
+            "vat": "",
+            "region": "",
+            "type": ""
+          },
+          "deletedFlag": null
+        }
+      ],
+      "contacts": null,
+      "linkages": [
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11020519",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11162185",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11029996",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11224437",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        }
+      ],
+      "wfHist": null,
+      "fatcaflag": null,
+      "pepflag": null
+    },
+    {
+      "rpID": 10000000120682,
+      "rpCategory": {
+        "code": 0,
+        "description": "ENTITY"
+      },
+      "rpName": null,
+      "adverseMediaFlag": null,
+      "rpStatus": null,
+      "directorConcentrationFlag": null,
+      "firstName": null,
+      "middleName": null,
+      "lastName": null,
+      "fullName": null,
+      "previousName": null,
+      "alias": null,
+      "gender": null,
+      "dob": null,
+      "countryOfBirth": null,
+      "companyName": "GANDEK  LIMITED",
+      "parentCompanyName": null,
+      "previousCompanyName": null,
+      "incorporationNumber": null,
+      "doi": "25-Apr-1989",
+      "incorporationCountry": null,
+      "mergeFlag": false,
+      "score": 0,
+      "candidates": null,
+      "nationalities": null,
+      "sourceSystems": [
+        {
+          "sourceID": 0,
+          "rpID": 0,
+          "rpSourceID": null,
+          "sourceRPCreatedDt": null,
+          "sourceSystem": {
+            "code": 0,
+            "description": "eCDD+"
+          },
+          "clusterID": null
+        }
+      ],
+      "identities": null,
+      "addresses": [
+        {
+          "addressID": 0,
+          "rpID": 0,
+          "addressType": null,
+          "fullAddress": null,
+          "add1": null,
+          "add2": null,
+          "add3": null,
+          "city": null,
+          "state": null,
+          "postalCode": null,
+          "country": {
+            "code": "",
+            "description": "DEFAULT_VAL",
+            "vat": "",
+            "region": "",
+            "type": ""
+          },
+          "deletedFlag": null
+        }
+      ],
+      "contacts": null,
+      "linkages": [
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11206588",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "13005670",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11236976",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        }
+      ],
+      "wfHist": null,
+      "fatcaflag": null,
+      "pepflag": null
+    },
+    {
+      "rpID": 10000000510790,
+      "rpCategory": {
+        "code": 0,
+        "description": "ENTITY"
+      },
+      "rpName": null,
+      "adverseMediaFlag": null,
+      "rpStatus": null,
+      "directorConcentrationFlag": null,
+      "firstName": null,
+      "middleName": null,
+      "lastName": null,
+      "fullName": null,
+      "previousName": null,
+      "alias": null,
+      "gender": null,
+      "dob": null,
+      "countryOfBirth": null,
+      "companyName": "DECTRA (SAMOA)  LIMITED",
+      "parentCompanyName": null,
+      "previousCompanyName": null,
+      "incorporationNumber": null,
+      "doi": "11-Jul-1997",
+      "incorporationCountry": null,
+      "mergeFlag": false,
+      "score": 0,
+      "candidates": null,
+      "nationalities": null,
+      "sourceSystems": [
+        {
+          "sourceID": 0,
+          "rpID": 0,
+          "rpSourceID": null,
+          "sourceRPCreatedDt": null,
+          "sourceSystem": {
+            "code": 0,
+            "description": "eCDD+"
+          },
+          "clusterID": null
+        }
+      ],
+      "identities": null,
+      "addresses": [
+        {
+          "addressID": 0,
+          "rpID": 0,
+          "addressType": null,
+          "fullAddress": null,
+          "add1": null,
+          "add2": null,
+          "add3": null,
+          "city": "APIA",
+          "state": null,
+          "postalCode": null,
+          "country": {
+            "code": "",
+            "description": "SAMOA",
+            "vat": "",
+            "region": "",
+            "type": ""
+          },
+          "deletedFlag": null
+        }
+      ],
+      "contacts": null,
+      "linkages": [
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11224809",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11196182",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        }
+      ],
+      "wfHist": null,
+      "fatcaflag": null,
+      "pepflag": null
+    },
+    {
+      "rpID": 10000000072162,
+      "rpCategory": {
+        "code": 0,
+        "description": "ENTITY"
+      },
+      "rpName": null,
+      "adverseMediaFlag": null,
+      "rpStatus": null,
+      "directorConcentrationFlag": null,
+      "firstName": null,
+      "middleName": null,
+      "lastName": null,
+      "fullName": null,
+      "previousName": null,
+      "alias": null,
+      "gender": null,
+      "dob": null,
+      "countryOfBirth": null,
+      "companyName": "TENGIS INTERNATIONAL  LIMITED",
+      "parentCompanyName": null,
+      "previousCompanyName": null,
+      "incorporationNumber": null,
+      "doi": "20-May-1996",
+      "incorporationCountry": null,
+      "mergeFlag": false,
+      "score": 0,
+      "candidates": null,
+      "nationalities": null,
+      "sourceSystems": [
+        {
+          "sourceID": 0,
+          "rpID": 0,
+          "rpSourceID": null,
+          "sourceRPCreatedDt": null,
+          "sourceSystem": {
+            "code": 0,
+            "description": "eCDD+"
+          },
+          "clusterID": null
+        }
+      ],
+      "identities": null,
+      "addresses": [
+        {
+          "addressID": 0,
+          "rpID": 0,
+          "addressType": null,
+          "fullAddress": null,
+          "add1": null,
+          "add2": null,
+          "add3": null,
+          "city": "TORTOLA",
+          "state": null,
+          "postalCode": null,
+          "country": {
+            "code": "",
+            "description": "DEFAULT_VAL",
+            "vat": "",
+            "region": "",
+            "type": ""
+          },
+          "deletedFlag": null
+        }
+      ],
+      "contacts": null,
+      "linkages": [
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11067256",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11429324",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11127094",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11020194",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11029020",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11282040",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        }
+      ],
+      "wfHist": null,
+      "fatcaflag": null,
+      "pepflag": null
+    },
+    {
+      "rpID": 10000000570147,
+      "rpCategory": {
+        "code": 0,
+        "description": "ENTITY"
+      },
+      "rpName": null,
+      "adverseMediaFlag": null,
+      "rpStatus": null,
+      "directorConcentrationFlag": null,
+      "firstName": null,
+      "middleName": null,
+      "lastName": null,
+      "fullName": null,
+      "previousName": null,
+      "alias": null,
+      "gender": null,
+      "dob": null,
+      "countryOfBirth": null,
+      "companyName": "TRICOR INVESTOR SERVICES  LIMITED",
+      "parentCompanyName": null,
+      "previousCompanyName": null,
+      "incorporationNumber": null,
+      "doi": "12-Feb-2003",
+      "incorporationCountry": null,
+      "mergeFlag": false,
+      "score": 0,
+      "candidates": null,
+      "nationalities": null,
+      "sourceSystems": [
+        {
+          "sourceID": 0,
+          "rpID": 0,
+          "rpSourceID": null,
+          "sourceRPCreatedDt": null,
+          "sourceSystem": {
+            "code": 0,
+            "description": "eCDD+"
+          },
+          "clusterID": null
+        }
+      ],
+      "identities": null,
+      "addresses": [
+        {
+          "addressID": 0,
+          "rpID": 0,
+          "addressType": null,
+          "fullAddress": null,
+          "add1": null,
+          "add2": null,
+          "add3": null,
+          "city": null,
+          "state": null,
+          "postalCode": null,
+          "country": {
+            "code": "",
+            "description": "DEFAULT_VAL",
+            "vat": "",
+            "region": "",
+            "type": ""
+          },
+          "deletedFlag": null
+        }
+      ],
+      "contacts": null,
+      "linkages": null,
+      "wfHist": null,
+      "fatcaflag": null,
+      "pepflag": null
+    },
+    {
+      "rpID": 10000000559520,
+      "rpCategory": {
+        "code": 0,
+        "description": "ENTITY"
+      },
+      "rpName": null,
+      "adverseMediaFlag": null,
+      "rpStatus": null,
+      "directorConcentrationFlag": null,
+      "firstName": null,
+      "middleName": null,
+      "lastName": null,
+      "fullName": null,
+      "previousName": null,
+      "alias": null,
+      "gender": null,
+      "dob": null,
+      "countryOfBirth": null,
+      "companyName": "COMPUTERSHARE HONG KONG  INVESTOR SERVICES LIMITED",
+      "parentCompanyName": null,
+      "previousCompanyName": null,
+      "incorporationNumber": null,
+      "doi": "07-Mar-1972",
+      "incorporationCountry": null,
+      "mergeFlag": false,
+      "score": 0,
+      "candidates": null,
+      "nationalities": null,
+      "sourceSystems": [
+        {
+          "sourceID": 0,
+          "rpID": 0,
+          "rpSourceID": null,
+          "sourceRPCreatedDt": null,
+          "sourceSystem": {
+            "code": 0,
+            "description": "eCDD+"
+          },
+          "clusterID": null
+        }
+      ],
+      "identities": null,
+      "addresses": [
+        {
+          "addressID": 0,
+          "rpID": 0,
+          "addressType": null,
+          "fullAddress": null,
+          "add1": null,
+          "add2": null,
+          "add3": null,
+          "city": null,
+          "state": null,
+          "postalCode": null,
+          "country": {
+            "code": "",
+            "description": "DEFAULT_VAL",
+            "vat": "",
+            "region": "",
+            "type": ""
+          },
+          "deletedFlag": null
+        }
+      ],
+      "contacts": null,
+      "linkages": [
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "12734597",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        }
+      ],
+      "wfHist": null,
+      "fatcaflag": null,
+      "pepflag": null
+    },
+    {
+      "rpID": 10000000482492,
+      "rpCategory": {
+        "code": 0,
+        "description": "ENTITY"
+      },
+      "rpName": null,
+      "adverseMediaFlag": null,
+      "rpStatus": null,
+      "directorConcentrationFlag": null,
+      "firstName": null,
+      "middleName": null,
+      "lastName": null,
+      "fullName": null,
+      "previousName": null,
+      "alias": null,
+      "gender": null,
+      "dob": null,
+      "countryOfBirth": null,
+      "companyName": "YOUNG'S ENGINEERING COMPANY  LIMITED",
+      "parentCompanyName": null,
+      "previousCompanyName": null,
+      "incorporationNumber": null,
+      "doi": "30-May-1972",
+      "incorporationCountry": null,
+      "mergeFlag": false,
+      "score": 0,
+      "candidates": null,
+      "nationalities": null,
+      "sourceSystems": [
+        {
+          "sourceID": 0,
+          "rpID": 0,
+          "rpSourceID": null,
+          "sourceRPCreatedDt": null,
+          "sourceSystem": {
+            "code": 0,
+            "description": "eCDD+"
+          },
+          "clusterID": null
+        }
+      ],
+      "identities": null,
+      "addresses": [
+        {
+          "addressID": 0,
+          "rpID": 0,
+          "addressType": null,
+          "fullAddress": null,
+          "add1": null,
+          "add2": null,
+          "add3": null,
+          "city": null,
+          "state": null,
+          "postalCode": null,
+          "country": {
+            "code": "",
+            "description": "DEFAULT_VAL",
+            "vat": "",
+            "region": "",
+            "type": ""
+          },
+          "deletedFlag": null
+        }
+      ],
+      "contacts": null,
+      "linkages": [
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11456973",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11236375",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        }
+      ],
+      "wfHist": null,
+      "fatcaflag": null,
+      "pepflag": null
+    },
+    {
+      "rpID": 10000000367486,
+      "rpCategory": {
+        "code": 0,
+        "description": "ENTITY"
+      },
+      "rpName": null,
+      "adverseMediaFlag": null,
+      "rpStatus": null,
+      "directorConcentrationFlag": null,
+      "firstName": null,
+      "middleName": null,
+      "lastName": null,
+      "fullName": null,
+      "previousName": null,
+      "alias": null,
+      "gender": null,
+      "dob": null,
+      "countryOfBirth": null,
+      "companyName": "CHURCHILL MANAGERS  LTD.",
+      "parentCompanyName": null,
+      "previousCompanyName": null,
+      "incorporationNumber": null,
+      "doi": "15-Dec-2010",
+      "incorporationCountry": null,
+      "mergeFlag": false,
+      "score": 0,
+      "candidates": null,
+      "nationalities": null,
+      "sourceSystems": [
+        {
+          "sourceID": 0,
+          "rpID": 0,
+          "rpSourceID": null,
+          "sourceRPCreatedDt": null,
+          "sourceSystem": {
+            "code": 0,
+            "description": "CUPID"
+          },
+          "clusterID": null
+        }
+      ],
+      "identities": [
+        {
+          "docID": 0,
+          "rpID": 0,
+          "identityDocumentType": {
+            "code": 0,
+            "description": "ID CARD ISSUED BY ELECTORAL OFFICE"
+          },
+          "identificationNumber": "E6773331",
+          "validFrom": null,
+          "validTo": null,
+          "issuingAuthorityCountry": null,
+          "deletedFlag": null
+        }
+      ],
+      "addresses": [
+        {
+          "addressID": 0,
+          "rpID": 0,
+          "addressType": null,
+          "fullAddress": null,
+          "add1": null,
+          "add2": null,
+          "add3": null,
+          "city": "TORTOLA",
+          "state": null,
+          "postalCode": null,
+          "country": {
+            "code": "",
+            "description": "DEFAULT_VAL",
+            "vat": "",
+            "region": "",
+            "type": ""
+          },
+          "deletedFlag": null
+        }
+      ],
+      "contacts": null,
+      "linkages": [
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11241432",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11234249",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        }
+      ],
+      "wfHist": null,
+      "fatcaflag": null,
+      "pepflag": null
+    },
+    {
+      "rpID": 10000000027456,
+      "rpCategory": {
+        "code": 0,
+        "description": "ENTITY"
+      },
+      "rpName": null,
+      "adverseMediaFlag": null,
+      "rpStatus": null,
+      "directorConcentrationFlag": null,
+      "firstName": null,
+      "middleName": null,
+      "lastName": null,
+      "fullName": null,
+      "previousName": null,
+      "alias": null,
+      "gender": null,
+      "dob": null,
+      "countryOfBirth": null,
+      "companyName": "THORNPOOL  LIMITED",
+      "parentCompanyName": null,
+      "previousCompanyName": null,
+      "incorporationNumber": null,
+      "doi": "24-Jul-1991",
+      "incorporationCountry": null,
+      "mergeFlag": false,
+      "score": 0,
+      "candidates": null,
+      "nationalities": null,
+      "sourceSystems": [
+        {
+          "sourceID": 0,
+          "rpID": 0,
+          "rpSourceID": null,
+          "sourceRPCreatedDt": null,
+          "sourceSystem": {
+            "code": 0,
+            "description": "eCDD+"
+          },
+          "clusterID": null
+        }
+      ],
+      "identities": null,
+      "addresses": [
+        {
+          "addressID": 0,
+          "rpID": 0,
+          "addressType": null,
+          "fullAddress": null,
+          "add1": null,
+          "add2": null,
+          "add3": null,
+          "city": "TORTOLA",
+          "state": null,
+          "postalCode": null,
+          "country": {
+            "code": "",
+            "description": "DEFAULT_VAL",
+            "vat": "",
+            "region": "",
+            "type": ""
+          },
+          "deletedFlag": null
+        }
+      ],
+      "contacts": null,
+      "linkages": [
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11165423",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11165421",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11242552",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        }
+      ],
+      "wfHist": null,
+      "fatcaflag": null,
+      "pepflag": null
+    },
+    {
+      "rpID": 10000000245206,
+      "rpCategory": {
+        "code": 0,
+        "description": "ENTITY"
+      },
+      "rpName": null,
+      "adverseMediaFlag": null,
+      "rpStatus": null,
+      "directorConcentrationFlag": null,
+      "firstName": null,
+      "middleName": null,
+      "lastName": null,
+      "fullName": null,
+      "previousName": null,
+      "alias": null,
+      "gender": null,
+      "dob": null,
+      "countryOfBirth": null,
+      "companyName": "JARWELL  LIMITED",
+      "parentCompanyName": null,
+      "previousCompanyName": null,
+      "incorporationNumber": null,
+      "doi": "27-Aug-1980",
+      "incorporationCountry": null,
+      "mergeFlag": false,
+      "score": 0,
+      "candidates": null,
+      "nationalities": null,
+      "sourceSystems": [
+        {
+          "sourceID": 0,
+          "rpID": 0,
+          "rpSourceID": null,
+          "sourceRPCreatedDt": null,
+          "sourceSystem": {
+            "code": 0,
+            "description": "eCDD+"
+          },
+          "clusterID": null
+        }
+      ],
+      "identities": null,
+      "addresses": [
+        {
+          "addressID": 0,
+          "rpID": 0,
+          "addressType": null,
+          "fullAddress": null,
+          "add1": null,
+          "add2": null,
+          "add3": null,
+          "city": "WANCHAI",
+          "state": null,
+          "postalCode": null,
+          "country": {
+            "code": "",
+            "description": "DEFAULT_VAL",
+            "vat": "",
+            "region": "",
+            "type": ""
+          },
+          "deletedFlag": null
+        }
+      ],
+      "contacts": null,
+      "linkages": [
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11269373",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "13048688",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11307866",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "12850389",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "13323046",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11367702",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11177928",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11124569",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11367727",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11186363",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11469232",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11180629",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        },
+        {
+          "linkId": 0,
+          "rpMaster": null,
+          "client": {
+            "clientId": 0,
+            "srcClientId": "11361656",
+            "sourceSystem": {
+              "code": 0,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "custType": null,
+            "riskRating": null,
+            "cddCaseNumber": null,
+            "cddCaseVersion": 0,
+            "cddCountry": null,
+            "cddCaseStatus": null,
+            "cddCaseType": null
+          },
+          "rpSourceId": null,
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": null,
+          "linkType": null
+        }
+      ],
+      "wfHist": null,
+      "fatcaflag": null,
+      "pepflag": null
+    }
+  ]
+}

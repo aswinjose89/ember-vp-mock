@@ -1,0 +1,16 @@
+{
+   "teamDetails":{
+      "id":"201612231001297028",
+      "name": "Vickor",
+      "jobTitle": "Admin",
+      "department": "CAO",
+      "country": "America",
+      "access": "0001",
+      "teamRole": "0002",
+      "psId": "1401049",
+      "prospectId": "201612231001297028",
+      "active": true,
+      "owner": true,
+      "gam": true
+   }
+}

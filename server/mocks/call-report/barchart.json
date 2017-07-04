@@ -1,0 +1,53 @@
+{
+    "callReportBarcharts": [
+    {
+        "totalCalls": 214,
+        "id": 1,
+        "monthId": "201601"
+    }, {
+        "totalCalls": 84,
+        "id": 2,
+        "monthId": "201602"
+    }, {
+        "totalCalls": 78,
+        "id": 3,
+        "monthId": "201603"
+    }, {
+        "totalCalls": 67,
+        "id": 4,
+        "monthId": "201604"
+    }, {
+        "totalCalls": 45,
+        "id": 5,
+        "monthId": "201605"
+    }, {
+        "totalCalls": 88,
+        "id": 6,
+        "monthId": "201606"
+    },{
+        "totalCalls": 87,
+        "id": 7,
+        "monthId": "201607"
+    }, {
+        "totalCalls": 88,
+        "id": 8,
+        "monthId": "201608"
+    }, {
+        "totalCalls": 86,
+        "id": 9,
+        "monthId": "201609"
+    }, {
+        "totalCalls": 98,
+        "id": 10,
+        "monthId": "201610"
+    }, {
+        "totalCalls": 65,
+        "id": 11,
+        "monthId": "201611"
+    }, {
+        "totalCalls": 80,
+        "id": 12,
+        "monthId": "201612"
+    }
+    ]
+}

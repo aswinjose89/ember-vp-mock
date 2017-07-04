@@ -1,0 +1,2714 @@
+{
+	"metaDataPayload": {
+		"dealIdRef": 8,
+		"checklistSections": [{
+			"sectionCode": "CHKL001",
+			"sectionCodeVal": "001",
+			"sectionDescription": "Deal Origination",
+			"sectionId": 1,
+			"checklistItems": [{
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "001",
+				"lineItemDescription": "Deal Pipeline created in Deal Center",
+				"sequenceId": 1,
+				"guidance": "Create a deal in Workbench at a Group, Prospect or Client level based on information available.",
+				"externalAppLink": null,
+				"optionType": null,
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": true
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "002",
+				"lineItemDescription": "Tamesek / Related Party checks completed",
+				"sequenceId": 2,
+				"guidance": "By virtue of its greater than 10% shareholding in SCPLC, Tamesek Holdings (Private) Limited (“Tamesek”), together with its associates, are related parties and connected persons of the Group. Tamesek Procedures must be complied with for any proposed transactions with Tamesek and Tamesek Associates.  Ensure that Tamesek RM is informed. Consult Compliance if necessary.",
+				"externalAppLink": {
+					"url": "http://teamsitesuk.zone1.scb.net/sites/wb/occ/coo/Revised%20Temasek%20Procedures/Forms/AllItems.aspx",
+					"displayTip": "Tamesek Procedures"
+				},
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "003",
+				"lineItemDescription": "Conflicts Clearance Request submitted and approved on Deal Center",
+				"sequenceId": 3,
+				"guidance": "Note: Conflcits clearance is not required for aviation / shipping or STFFS, unless there is price sensitive information for these deals. Conflicts Request must be submitted immediately after creating a deal pipeline entry (if relevant to the deal), without delay.  CCR is submitted to the Control Room prior to (a) Deal / transaction specific pitch / proposal shared with client; (b) Execution of Non-Disclosure/ Confidentiality Agreement; (c) Execution of Engagement Letter / Mandate Letter (verbally or in writing); (d) PSR submission. Workbench Conflicts Clearance Request to include names of: (a) borrowing entity; (b) all sponsors / shareholders (i.e. irrespective of level of ownership); (c) immediate parent of the sponsor(s) / shareholder(s); (d) ultimate parent / holding company of the sponsor(s) / shareholder(s); (e) all people who are actively involved in the transaction as deal team members; (f) others that are aware of the deal (with awareness being defined as having knowledge of the actual transaction being undertaken by the client). Any individual on the Public Side with knowledge of the transaction have been added as a Wall Crosser. Pre-approved wall crossers should be used when possible.  CCR raised for any changes to deal - e.g., deal status, deal team members, etc. ",
+				"externalAppLink": {
+					"url": "http://teamsiteshk.zone1.scb.net/sites/Business/corporateinstitutional/coo/COE/WorkBenchTraining/Lists/WorkBench%20Training/Deal%20Centre.aspx",
+					"displayTip": "User Guide – Conflicts Clearance Process"
+				},
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "004",
+				"lineItemDescription": "Conditions imposed by Control Room have been implemented / followed up",
+				"sequenceId": 4,
+				"guidance": "Where deals are not implemented immediately, confirm that date of approval of Conflicts Clearance is not > 6 months from BCA approval date.  If more than 6 months - do a refresher to Control Room for their approval. ",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}]
+		}, {
+			"sectionCode": "CHKL001",
+			"sectionCodeVal": "002",
+			"sectionDescription": "Deal Screening",
+			"sectionId": 2,
+			"checklistItems": [{
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "005",
+				"lineItemDescription": "Transactions falling outside the coverage of PPG or Country Addendum approved",
+				"sequenceId": 1,
+				"guidance": "Consult CF COO for initiating Product and jurisdictional approvals where applicable.",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "006",
+				"lineItemDescription": "SF Only - Sanctions check completed",
+				"sequenceId": 2,
+				"guidance": "Sanctions checks should be performed against the OFAC lists of sanctioned vessels / aircraft (Detica AOC avaliable from Q3 2015). Screen grab of search should be attached to the PSR",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "007",
+				"lineItemDescription": "Assess CDD/ GIC status of the client legal entity which is engaging / mandating us",
+				"sequenceId": 3,
+				"guidance": "a. For Advisory deals - Engagement Letter cannot be signed until CDD / GIC is completed (unless a specific CDD deferral has been obtained) b. For Financing deals - Execution documents cannot be signed until CDD / GIC is completed c. For European clients - and deals worked by any member from UK/EU please ensure Client Categorization (i.e. MiFID) has been completed. Notes: a) If country or SCB entity being mandated on the CF deal is different from the country or SCB group entity which has completed CDD, then a Group Introduction Certificate is required to be completed by the RM b) A Conflicts Clearance Request (CCR) can be submitted before CDD/GIC is complete but status should be known and stated at the time of submitting CCR c) Where CDD has been deferred, ensure RM has documented the circumstances of deferral in eCDD. In addition, per RM Business CDD Guidelines , CDD / GIC must be completed before Standard Chartered’s role is being publicly associated with a transaction; or  filing a listing application or other regulatory exchange filing. Consideration has been made to the involvement of other parties in the transaction (e.g sellers, co-investors, guarantors, advisors etc) have been considered and any risks in dealing with them (adverse news, legal charges, politically exposed persons, sanctions etc). ",
+				"externalAppLink": {
+					"url": "http://teamsitesuk.zone1.scb.net/sites/Risk/WBRisk/Shared%20Documents/Policy%20Revamp/BCA%20PR.ppt",
+					"displayTip": "FSA Conduct of Business"
+				},
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "008",
+				"lineItemDescription": "Approval for use of Intermediaries completed",
+				"sequenceId": 4,
+				"guidance": "Use of Intermediaries must be reviewed and approved in accordance with the Intermediaries Procedures. Agreement must be approved by Legal.",
+				"externalAppLink": {
+					"url": "http://riskpod.zone1.scb.net/Lists/Procedures/DispForm.aspx?ID=378",
+					"displayTip": "Intermediaries procedures"
+				},
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "009",
+				"lineItemDescription": "Execution of Non-Disclosure/ Confidentiality Agreement",
+				"sequenceId": 5,
+				"guidance": "If the Non-Disclosure/ Confidentiality Agreement has any non-standard clauses, Legal sign-off obtained before execution (to be signed at Director level or above).  This may apply to either direction the confidentiality obligation is imposed.",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "010",
+				"lineItemDescription": "Any Exclusivity Agreement must be signed and approved by the relevant delegated authority ",
+				"sequenceId": 6,
+				"guidance": "The client may impose onerous confidentiality or exclusivity obligations on the business and the rest of SCB.   Assess if such obligations may be accepted. Depending on the scope of the exclusivity, Business to seek approval from delegated authority in accordance with the Group Transactional Conflicts and Information Walls Procedures. Report to Control Room to address any potential conflict issues and for them to monitor the exclusivity against future transactions.  Consult Legal and compliance where necessary.",
+				"externalAppLink": {
+					"url": "http://iconnect.zone1.scb.net/CandA/wb/Documents/Manuals%20and%20Handbooks/BestPracticeNote_CF-TransactionsExclusivityClauses.pdf",
+					"displayTip": "Best practice note"
+				},
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "011",
+				"lineItemDescription": "PSR Approved on Deal Center (including Volcker Checks)",
+				"sequenceId": 7,
+				"guidance": "PSR must be approved for all deals, as this is an early stage pre-screening by the CF Product head and CF Regional head, to make the initial go/no-go decision on a deal based on key factors around client relationship, strategy, overall economics, etc.. Notes: a) Americas transactions only - FCC Americas team (James Schwartz, Dennis Ansbro and Gary Ocheltree) be copied on WorkBench PSR for parallel review but approval from FCC team is not required. b) If any material changes to PSR post-approval, has ratification been sought. c) For Leasing transactions, add the following to the FYI receipients list - CCRO, Hong Kong, Chief Credit Officer, HK & Taiwan, SF Middle Office (where structure includes embedded interest rate or currency optionality for either the client or for the Bank) ",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "001",
+					"optionTypeDescription": "Yes",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "012",
+				"lineItemDescription": "Public Market Deal Approval obtained on Deal Center",
+				"sequenceId": 8,
+				"guidance": "This is the approval required for transactions where we do not have a 2 year broad-based relationship with the client. This requires approval from two levels: - Preliminary Approvers (product and regional heads) and - Final Approvers (Head of CF and CIC)",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "013",
+				"lineItemDescription": "Deal Approval from Group Head Corporate Finance ",
+				"sequenceId": 9,
+				"guidance": "A specific approval from the Group Head of Corporate Finance is required for deals with > 1 year tenor, with hold levels of: • Between $50m and $100m ($50m ≤ Hold Levels ≤ $100m), with RoRWA of less than 3%; OR • Greater than (>) $100m",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "014",
+				"lineItemDescription": "Syndications - Indicative pricing and sell down requirements agreed ",
+				"sequenceId": 10,
+				"guidance": "Input guidance items like - Time imposed by Credit for a sell-down, secondary sale team progress, reason for delay and if yes, has credit approval been sought for an extension",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "015",
+				"lineItemDescription": "Operating lease with extension and/or options - interest rate risks is hedged ",
+				"sequenceId": 11,
+				"guidance": "Hedging done as advised by Structured Solutions and Market Risk. Any guidance here?",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "016",
+				"lineItemDescription": "Credit Pre-Approval",
+				"sequenceId": 12,
+				"guidance": "Workshopping note or email request, along with RoRWA calculator and RWA sheet submitted for support",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "017",
+				"lineItemDescription": "Policy exceptions approved by Credit",
+				"sequenceId": 13,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}]
+		}, {
+			"sectionCode": "CHKL001",
+			"sectionCodeVal": "003",
+			"sectionDescription": "Deal Engagement",
+			"sectionId": 3,
+			"checklistItems": [{
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "018",
+				"lineItemDescription": "Country Risk Approval ",
+				"sequenceId": 1,
+				"guidance": "Applicable where country is ‘refer’ status or Open status with limits > $250m. Need more specific guidance here and link to process",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "019",
+				"lineItemDescription": "Non Presence Country Policy / Restricted Jurisdications related approvals obtained",
+				"sequenceId": 2,
+				"guidance": "If client is located in a Non-Presence Country, necessary approvals under NPC Policy obtained. Approval from Legal & Compliance obtained for country without an existing Country Addendum before any business communication is commenced. ",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "020",
+				"lineItemDescription": "Licensing and Marketing Guidelines (LMG) requirements for the deal been met",
+				"sequenceId": 3,
+				"guidance": "Licensing or regulatory considerations have been addressed in reference to the LMG.  Any conditions or follow-up actions imposed by  Compliance have been followed-up / implemented. Seek clarity from Compliance for the LMG where required and keep relevant emails from compliance on file. ",
+				"externalAppLink": {
+					"url": "\\\\UKFIL103\\CORPFINADV$\\Internal\\12. Compliance Materials\\Licensing\\cf_licensing-marketing-gn_advisory services[1].pdf",
+					"displayTip": "Licensing and Marketing Guidance"
+				},
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "021",
+				"lineItemDescription": "Onshore/Offshore Screening confirmation from Compliance on Deal Center",
+				"sequenceId": 4,
+				"guidance": "Onshore / Offshore Bespoke Screening must be initiated in relation to any deal, (with the exception of advisory-only engagements) which have any linkages to China, India, Indonesia, Korea or Taiwan. For any ambiguity in regards to \"connection\" please consult Private Side Compliance via email. ",
+				"externalAppLink": {
+					"url": "http://teamsiteshk.zone1.scb.net/sites/Business/corporateinstitutional/coo/COE/WorkBenchTraining/Lists/WorkBench%20Training/Deal%20Centre.aspx",
+					"displayTip": "User Guide - Onshore/Offshore Screening (for Front Office)"
+				},
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "022",
+				"lineItemDescription": "Engage International Balance Sheet Management (IBSM) / GOBPM for Booking Location finalisation",
+				"sequenceId": 5,
+				"guidance": "The following CAT 1 assets (including CIC lending, corporate finance and trade) must be directed by IBSM: • greater than or equal to USD20m (irrespective of tenor), which cannot be booked onshore for regulatory reasons •greater than or equal to USD50m and have a tenor of more than 1 year, at a facility level (these assets may be directed either offshore into OBL/IBD locations or onshore) The following assets must be directed by the Global Offshore Booking Process Manager (GOBPM) team: ◦Greater than or equal to USD250k but less than USD20m, (irrespective of tenor) which cannot be booked onshore for regulatory reasons ",
+				"externalAppLink": {
+					"url": "http://riskpod.zone1.scb.net/lists/policies/dispform.aspx?id=591&source=http%3a%2f%2ficonnect%2ezone1%2escb%2enet%2fgcpd%2flists%2fpolicies%2fallitems%2easpx%3fview%3d%7be80b392e%2d3169%2d4418%2da3cc%2dfb511df85e2a%7d%26filterfield1%3drisk%255fx0020",
+					"displayTip": "IBSM Policy"
+				},
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "023",
+				"lineItemDescription": "Seek approval for SCB parental support /guarantee (where applicable) ",
+				"sequenceId": 6,
+				"guidance": "Business Sponsored parental support: a. <=200M - Global Product Head & Group Treasurer b. >200M  - Global Product Head, Deputy Group CEO & SCB Court Group Sponsored parental support: a. <=200M - Country CFO &  Group Treasurer b. >200M  - Global Product Head, Country CFO Deputy Group CEO & SCB Court",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "024",
+				"lineItemDescription": "Restricted list updated and public transaction requirements followed",
+				"sequenceId": 7,
+				"guidance": "Prior to announcement of Public Takeover Transaction or Equity Advisory Transaction, notify Control Room to update the Restricted List to ensure that Trading Restrictions are in place.  Ensure that any Disclosure requirements (e.g. during offer period, in offering document) are addressed.  Consult CF Compliance when required.",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "025",
+				"lineItemDescription": "Obtain confirmation of locked-in Liquidity Premium from ALM and/or funding details from Structured Solutions (where applicable)",
+				"sequenceId": 8,
+				"guidance": "Liquidity Premium Lock In Period for Assets apply to deals above USD 25m and for deals with a minimum tenor of 6 months. LP should be locked–in (i.e. agreed between the business unit and ALM) at the point where the Bank has agreed contractual terms in a transaction. In normal market conditions, the default position is that an LP which is quoted & ‘locked in’ for a specific transaction will be held available for a period of up to 60 calendar days.  For long lead-time transactions in corporate finance only ALM should provide a LP lock-in on a 6 month forward starting basis. ",
+				"externalAppLink": {
+					"url": "http://riskpod.zone1.scb.net/Lists/Procedures/DispForm.aspx?ID=600",
+					"displayTip": "Fund Transfer Pricing Practise Guide"
+				},
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "026",
+				"lineItemDescription": "Engagement Letter Issued",
+				"sequenceId": 9,
+				"guidance": "a) EL should be sent at the earliest opportunity after PDR approval and a decision has been made to work on the mandate b) Any deviations from standard template for the engagement letter must be reviewed by Legal. ",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "027",
+				"lineItemDescription": "Engagement Letter Signed",
+				"sequenceId": 10,
+				"guidance": "If EL has not been signed 8 weeks after work has started or draft EL was signed, then an exemption to continue work on the mandate is required - Approval from Head of M&A - Depending on criteria (see Practice Note) may need approval from Head of CF Legal ",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "028",
+				"lineItemDescription": "Wall-crossing of external parties performed",
+				"sequenceId": 11,
+				"guidance": "For market sounding involving external parties, ensure that the relevant party has been wall-crossed where inside information is disclosed during hard market sounding; and the relevant market sounding scripts have been followed. ",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "029",
+				"lineItemDescription": "Mandate Letter/ Commitment letter / Term sheet signed by Client",
+				"sequenceId": 12,
+				"guidance": "Pre check that relevant disclaimer(s) are included, If not, sign-off has to be received from SCB Legal before mandate letter is sent to the client. ",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "001",
+					"optionTypeDescription": "Yes",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}]
+		}, {
+			"sectionCode": "CHKL001",
+			"sectionCodeVal": "004",
+			"sectionDescription": "Internal Approvals",
+			"sectionId": 4,
+			"checklistItems": [{
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "030",
+				"lineItemDescription": "Credit Approval - BCA approved ",
+				"sequenceId": 1,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "001",
+					"optionTypeDescription": "Yes",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "031",
+				"lineItemDescription": "Time bound covenants and rist triggers are captured in CaRT Module and tagged to coorect CF Transactors",
+				"sequenceId": 2,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "032",
+				"lineItemDescription": "UWS Checklist completed and included in BCA pack",
+				"sequenceId": 3,
+				"guidance": "Note: Approval from Global Head, and Specialised Finance should be obtained for any breach of the Minimum Acceptance Criteria in Underwriting Standards.",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "033",
+				"lineItemDescription": "Client Level ESRAT Completed  by RM",
+				"sequenceId": 4,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "034",
+				"lineItemDescription": "Transaction Level ESRAT Completed ",
+				"sequenceId": 5,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "035",
+				"lineItemDescription": "FATCA analysis completed and relevant clauses included in facility agreement",
+				"sequenceId": 6,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "036",
+				"lineItemDescription": "Deal Due Diligence Completed",
+				"sequenceId": 7,
+				"guidance": "Any issues arising from deal due diligence have been escalated and resolved.  Ensure all relevant documents supporting the due diligence findings are kept on deal file.",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "037",
+				"lineItemDescription": "Product/Business committee approval(s) obtained",
+				"sequenceId": 8,
+				"guidance": "Consult business BPM if transaction needs to be escalated to the relevant Product/Business/Country committee in accordance with terms of reference of the relevant product/business committee e.g. PEF's Deal Committee, M&A's Transaction Review Forum, Deal Management Group (DMG), Islamic Finance team (for deals with where Islamic facilities or structures) etc .  Note: All Equity Advisory transactions require Transaction Review Committee approval.",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "038",
+				"lineItemDescription": "Country committee approval(s) obtained",
+				"sequenceId": 9,
+				"guidance": "Consult local RM's if transaction needs to be escalated to the relevant Country committees in accordance with terms of reference of the relevant country committee e.g. a) Africa Pricing Committee (APC) - if GAM is in Africa or the asset is being booked in Africa b) Transaction Review Group (TRG) - For India specific deals ",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "039",
+				"lineItemDescription": "BRRRC approval",
+				"sequenceId": 10,
+				"guidance": "BRRRC approval obtained where there is any reputational risk from the transaction; including ESRA issues, hostile bids, conflicts of interest.",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "040",
+				"lineItemDescription": "Fairness Opinion approved",
+				"sequenceId": 11,
+				"guidance": "If a Fairness Opinion is being issued, ensure this has been approved by Opinion Review Committee, and the opinion follows the approved template.",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "041",
+				"lineItemDescription": "Public Transaction Cash Confirmation",
+				"sequenceId": 12,
+				"guidance": "Confirmation that Legal has approved the external counsel to act for SCB on the transaction & all relevant docs",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "042",
+				"lineItemDescription": "FI has prepared BCA for Standard Chartered lease Group Limited and allocated lines to SCB SPV.",
+				"sequenceId": 13,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}]
+		}, {
+			"sectionCode": "CHKL001",
+			"sectionCodeVal": "005",
+			"sectionDescription": "Lease Specific Additional Requirements",
+			"sectionId": 5,
+			"checklistItems": [{
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "043",
+				"lineItemDescription": "Prepare Investment Memorandum (IM) ",
+				"sequenceId": 1,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "044",
+				"lineItemDescription": "Organize call with sufficient quorum,  and circulate for approval from:",
+				"sequenceId": 2,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "045",
+				"lineItemDescription": "Obtain approval from a. Board of Standard Chartered Lease Group Limited; and b. Board of Marina Leasing Limited.",
+				"sequenceId": 3,
+				"guidance": "i) Up to US$50m net investment: •Global Head, Structured Finance •Global Head of Risk, Specialised Finance and Traded Products or Head of Risk, Leveraged and Transportation Finance ii) > US$50m and up to US$500m net investment •Credit Approval Committee** iii) > US$500m net investment (approval from ii) above plus: •Deputy Group Chief Executive Officer ** CAC Members for investment proposal approval (Quorum - Chairperson, one Risk Voting Member and one Business Voting Member) (1) Risk Voting Member (one of the following, provided Chairperson is not also the Risk Voting Member) * Group Chief Credit Officer (“GCCO”) * Deputy Group Chief Risk Officer (“DGCRO”) * Chief Risk Officer, Corporate, Institutional, Commercial and Private Banking * Global Head, Market and Traded Credit Risk (alternate: Head of Market Risk - Commodities, Equities and FX) * Head of Credit Risk, Specialised Finance & Traded Products (alternate: Head of Risk, Leveraged and Transportation Finance) (2) Business Voting Member (one of the following members) * Group Head, Corporate Finance * Global Head, Structured Finance (alternate: Structured Finance Managing Directors) * Global Head, Principal Finance * Global Head, Mezzanine and Alternative Solutions (alternate: Mezzanine and Alternative Solutions Managing Directors)",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "046",
+				"lineItemDescription": "Submit Changes to Group Corporate Structure Approval Form for approval (and Project Approval Request \"PAR” where a large capital injection is going into a subsidiary or SPV)",
+				"sequenceId": 4,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "047",
+				"lineItemDescription": "Obtain credit approval on any sub-bareboat lease provisions that are granted to lessees.",
+				"sequenceId": 5,
+				"guidance": "Obtain the necessary approvals required by Corporate Secretariat. Refer to: Group Changes to Corporate Structure Policy (Note: whoever is the permanent SCB Legal lawyer on the transaction will review and approve the CGCS form (and add their name in the Legal section 5.4). Secondees are not included and will need to run it past one of the permanent lawyers for their approval and sign off.)",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "048",
+				"lineItemDescription": "Obtain market risk approvals ",
+				"sequenceId": 6,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "049",
+				"lineItemDescription": "Obtain technical accounting approval on accounting treatment  (copy Stan Barnes in emails with technical accountants)",
+				"sequenceId": 7,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}]
+		}, {
+			"sectionCode": "CHKL001",
+			"sectionCodeVal": "006",
+			"sectionDescription": "Facility Documentation",
+			"sectionId": 6,
+			"checklistItems": [{
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "050",
+				"lineItemDescription": "Legal counsel appointment approval obtained on Deal Center",
+				"sequenceId": 1,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "051",
+				"lineItemDescription": "Legal Sign-off to facility documentation (Nutcracker Transaction checklist) and legal opinions",
+				"sequenceId": 2,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "052",
+				"lineItemDescription": "SF Only - Communicate any insurance requirements to client",
+				"sequenceId": 3,
+				"guidance": "Note: Keep copies of all such communication on file",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "053",
+				"lineItemDescription": "Agency's sign off obtained on the finance and security documents where SCB is acting as a Faciltiy Agent and/or Security Agent",
+				"sequenceId": 4,
+				"guidance": "Note: For bilateral deals with agency clauses - Agency team need not be involved. ",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "054",
+				"lineItemDescription": "Lending Documentation Unit (LDU) has reviewed and confirmed that execution version is in order for execution by SCB signatory",
+				"sequenceId": 5,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "055",
+				"lineItemDescription": "Obtain MII/MAP/Innocent Owners Insurance (as applicable)",
+				"sequenceId": 6,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "056",
+				"lineItemDescription": "Obtain draft Insurance opinion (if applicable). For operating lease deals, ensure insurance premiums are approved by legal",
+				"sequenceId": 7,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "057",
+				"lineItemDescription": "Jurisdiction questionnaire completed / updated ",
+				"sequenceId": 8,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "058",
+				"lineItemDescription": "Search for Aircraft/ Vessel Sanctions (Note: Positive ID of aircraft/ vessel to be escalated to FCC Sanctions):                                                                                                                                                                                                                                           ",
+				"sequenceId": 9,
+				"guidance": "Note: Checks should be completed within 72 hours prior to signing of the Facility Agreement",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "059",
+				"lineItemDescription": "Facility agreements executed",
+				"sequenceId": 10,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}]
+		}, {
+			"sectionCode": "CHKL001",
+			"sectionCodeVal": "007",
+			"sectionDescription": "Drawdown",
+			"sectionId": 7,
+			"checklistItems": [{
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "060",
+				"lineItemDescription": "Confirmation from RM/ GAM that relevants accounts are open",
+				"sequenceId": 1,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "061",
+				"lineItemDescription": "CP Satisfaction Letter reviewed by CDU / confirmation that CPs are met",
+				"sequenceId": 2,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "062",
+				"lineItemDescription": "ALM funding loan structures of SPVs  are sufficient for dividend payments at the end of each year. ",
+				"sequenceId": 3,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "063",
+				"lineItemDescription": "Final draft of documentation sent to Pembroke ",
+				"sequenceId": 4,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "064",
+				"lineItemDescription": "Security Compliance Certificate (SCC) / PSCC/ DDN issued",
+				"sequenceId": 5,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}]
+		}, {
+			"sectionCode": "CHKL001",
+			"sectionCodeVal": "008",
+			"sectionDescription": "Deal Closure",
+			"sectionId": 8,
+			"checklistItems": [{
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "065",
+				"lineItemDescription": "Fee Booking Form approved by Product Control (PC) / Tax",
+				"sequenceId": 1,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "066",
+				"lineItemDescription": "BCA Part 1 updated to include time bound covenants within the earlier of - 30 days of facility execution, 14 days of SCC issuance (or vessel delivery for SF)",
+				"sequenceId": 2,
+				"guidance": "All dispensation request submissions to be approved by Credit if applicable. Condition Subsequents need to be captured in CreditMate.",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "067",
+				"lineItemDescription": "PAM Handover Complete",
+				"sequenceId": 3,
+				"guidance": "a. Handover to PAM should be done within 30 days of financial close (facility signing). Delays should be approved by the Business Head and informed to the Head of PAM.  b. PAM team member is added to Credit Mate as person responsible for tracking of covenants/ risk triggers c. PAM team member/s added to the agent’s distribution list ",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "068",
+				"lineItemDescription": "Deal status marked as complete",
+				"sequenceId": 4,
+				"guidance": "Update deal status to Control Room",
+				"externalAppLink": {
+					"url": "http://riskpod.zone1.scb.net/lists/policies/dispform.aspx?id=366",
+					"displayTip": "Group Information and Retention Policy"
+				},
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "001",
+					"optionTypeDescription": "Yes",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "069",
+				"lineItemDescription": "Close Conflicts Clearance on Deal Centre",
+				"sequenceId": 5,
+				"guidance": "On completion or if deal is aborted, close the conflicts clearance request.",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "070",
+				"lineItemDescription": "Client consent has been obtained for use of client name/logo in deal tombstone advertisements, awards pitches etc",
+				"sequenceId": 6,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "071",
+				"lineItemDescription": "Lease Handover to Pembroke complete",
+				"sequenceId": 7,
+				"guidance": "a. Lease management handover checklist with Pembroke complete b. Handover of transaction and briefing of transaction details to lease management. C. Pembroke has input transaction in ICMS",
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "072",
+				"lineItemDescription": "Ensure SPV details updated on Blueprint",
+				"sequenceId": 8,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL002",
+				"lineItemCodeVal": "073",
+				"lineItemDescription": "Signed agreements and legal documents to be sent to relevant operations teams (LDU, CDU, Loans&Agency or Security Trustee, etc as applicable). ",
+				"sequenceId": 9,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL003",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL003",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}]
+		}],
+		"attachmentCategories": [{
+			"categoryType": "AD",
+			"description": "Approval Documents"
+		}, {
+			"categoryType": "AWS",
+			"description": "Announcements & Write-ups"
+		}, {
+			"categoryType": "PP",
+			"description": "Pitches/Presentations"
+		}, {
+			"categoryType": "TD",
+			"description": "Transaction Documents "
+		}, {
+			"categoryType": "WF",
+			"description": "Working Files"
+		}]
+	}
+}

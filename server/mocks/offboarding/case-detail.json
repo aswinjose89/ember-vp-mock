@@ -1,0 +1,24 @@
+{
+	"offboarding/caseDetail" :{
+    "id": 1,
+    "caseType": "GA",
+    "bookingLocation": "IN/SCBL",
+    "caseStatus": "Approved",
+    "locationId": "INSCBL",
+    "countryCode": "IN",
+    "approvedDate": "18 Nov 2014",
+    "version": 2,
+    "nextReviewDate": "18 Nov 2017",
+    "riskRating": "L",
+    "country": "INDIA",
+    "subStatusDesc": "Approved",
+    "statusCode": "S02",
+    "cddType": "CO",
+    "caseId": 106630,
+    "closureStatus": "Active",
+    "subStatusCode": "SS08",
+    "statusDesc": "Approved",
+    "accountDetails": [],
+    "selected": false
+  }
+}

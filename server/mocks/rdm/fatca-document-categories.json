@@ -1,0 +1,100 @@
+{
+  "fatcaDocumentCategories": [
+    {
+      "code": "W-8BEN",
+      "description": "W-8BEN",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "IFDDC",
+      "description": "Individual FATCA Due Diligence Checklist",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "MD3W8BEN",
+      "description": "MD3 W-8BEN screen-print",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "MD3W8ECI",
+      "description": "MD3 W-8ECI screen-print",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "MD3W8EXP",
+      "description": "MD3 W-8EXP screen-print",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "MD3W8IMY",
+      "description": "MD3 W-8IMY screen-print",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "MD3W9",
+      "description": "MD3 W-9 screen-print",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "MD3WBENE",
+      "description": "MD3 W-8BEN-E screen-print",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "W-8ECI",
+      "description": "W-8ECI",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "W-8BEN-E",
+      "description": "W-8BEN-E",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "W-8IMY",
+      "description": "W-8IMY",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "W-8EXP",
+      "description": "W-8EXP",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "W-9",
+      "description": "W-9",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "OTHER",
+      "description": "Other FATCA Documentation",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "TAXDFORM",
+      "description": "Entity Tax Declaration Form",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "TAXVFORM",
+      "description": "Entity Tax Declaration Form Validation",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    }
+  ]
+}

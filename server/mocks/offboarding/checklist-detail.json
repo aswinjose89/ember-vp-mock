@@ -1,0 +1,45 @@
+{
+    "offboarding/checklistDetail": {
+        "id": 1,
+        "exitType": "Group Exit",
+        "groupExit": true,
+        "exitingOrRiskMarker": true,
+        "exitingOrRiskMarkerNotRequired": true,
+        "closureDecisionBy": "777",
+        "targetCompletionDate": 1487779200000,
+        "committeeName": "OTHERS",
+        "otherCommitteeName": "other name",
+        "projectName": "1231231",
+        "reasonForClosure": "22222",
+        "checklistComments": {
+            "commentId": null,
+            "comment": "12321312"
+        },
+        "stakeholders": [{
+            "stakeholderId": "123333",
+            "stakeholderName": "ABC"
+        }],
+        "checklistDocuments": [{
+			"documentId": "{9C1BCB9F-1087-4AC2-9B7A-427837D07EDC}",
+			"fileName": "test.xls",
+			"documentCategory": "OTHERS",
+			"documentDescription": "Others",
+			"deleted": false,
+			"uploadedDate": 1490854804000,
+			"id": 5535
+		}, {
+			"documentId": "{526B7AF7-8908-4FA2-8FE3-6636DB362754}",
+			"fileName": "test.pdf",
+			"documentCategory": "COAN",
+			"documentDescription": "Client Off Boarding - Approval Notifications",
+			"deleted": false,
+			"uploadedDate": 1490854804000,
+			"id": 5536
+		}],
+        "submit": false,
+        "checklistId": "",
+        "lcaApproved": false,
+        "accountZeroisedAndOutStandingSettled": true,
+        "liabilitiesAndRepaymentSettled": true
+    }
+}

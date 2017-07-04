@@ -1,0 +1,16 @@
+{
+  "accountTypes": [
+    {
+      "accountType": "Borrowing Account",
+      "accountTypeCode": "01",
+      "customerTypeGroup": "CO",
+      "customerTypeGroupCode": "CO"
+    },
+    {
+      "accountType": "Non-Borrowing Account",
+      "accountTypeCode": "02",
+      "customerTypeGroup": "CO",
+      "customerTypeGroupCode": "CO"
+    }
+  ]
+}

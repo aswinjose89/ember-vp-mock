@@ -1,0 +1,261 @@
+{
+  "clientStrategy": {
+    "id": "20170131004423333000039",
+    "uuid": null,
+    "operation": null,
+    "currentStateRelationship": {
+      "val": null,
+      "name": null,
+      "id": null,
+      "idCode": null,
+      "code": null,
+      "shortDescription": null,
+      "longDescription": null,
+      "status": null,
+      "appGroup": null,
+      "displayOrder": null,
+      "operation": null,
+      "sequence": null,
+      "categoryType": null,
+      "description": null
+    },
+    "desiredState": {
+      "val": null,
+      "name": null,
+      "id": null,
+      "idCode": null,
+      "code": null,
+      "shortDescription": null,
+      "longDescription": null,
+      "status": null,
+      "appGroup": null,
+      "displayOrder": null,
+      "operation": null,
+      "sequence": null,
+      "categoryType": null,
+      "description": null
+    },
+    "strategicObjective": {
+      "val": null,
+      "name": null,
+      "id": null,
+      "idCode": null,
+      "code": null,
+      "shortDescription": null,
+      "longDescription": null,
+      "status": null,
+      "appGroup": null,
+      "displayOrder": null,
+      "operation": null,
+      "sequence": null,
+      "categoryType": null,
+      "description": null
+    },
+    "leadBanks": null,
+    "coreBanks": null,
+    "relationshipBanks": null,
+    "clientStrategyOverview": {
+      "id": "201701312102155299673",
+      "notes": "",
+      "type": null,
+      "operation": null
+    },
+    "relationshipSensitivities": {
+      "id": "201701312102155297348",
+      "notes": "",
+      "type": null,
+      "operation": null
+    },
+    "opportunities": null,
+    "opportunitiesComment": {
+      "id": "201701312102155294832",
+      "notes": "",
+      "type": null,
+      "operation": null
+    },
+    "opportunitiesCommentSCB": {
+      "id": "2019091312102155294832",
+      "notes": "",
+      "type": null,
+      "operation": null
+    },
+    "strengths": null,
+    "clientNeeds": [
+      {
+        "sections": null,
+        "parameter": null,
+        "id": "20170131192404230000002",
+        "operation": "NO_CHANGE",
+        "sequence": 11728742569486436,
+        "label": "Client Need 1-Desc",
+        "uuid": null,
+        "clientNeedDesc": null,
+        "description": "test",
+        "objectives": "test",
+        "buyingCentreLocations": {
+          "val": "AX",
+          "name": "ALAND ISLANDS",
+          "id": "ACPL0061_AX",
+          "idCode": null,
+          "code": null,
+          "shortDescription": null,
+          "longDescription": null,
+          "status": null,
+          "appGroup": null,
+          "displayOrder": null,
+          "operation": null,
+          "sequence": null,
+          "categoryType": null,
+          "description": null
+        },
+        "productOffering": [
+          {
+            "id": "ACPL0062_9",
+            "sequence": 0,
+            "operation": null,
+            "isChecked": null,
+            "val": "9",
+            "name": "TB - Trade",
+            "ext1": "TB",
+            "ext2": "21",
+            "ext3": null,
+            "ext4": null,
+            "ext5": null,
+            "ext6": null,
+            "ext7": null
+          },
+          {
+            "id": "ACPL0062_11",
+            "sequence": 0,
+            "operation": null,
+            "isChecked": null,
+            "val": "11",
+            "name": "TB - Cash",
+            "ext1": "TB",
+            "ext2": "19",
+            "ext3": null,
+            "ext4": null,
+            "ext5": null,
+            "ext6": null,
+            "ext7": null
+          }
+        ],
+        "otherProducts": "test",
+        "currentFye": {
+          "val": "2018",
+          "name": "2018",
+          "id": "201701312102155545023",
+          "idCode": null,
+          "code": null,
+          "shortDescription": null,
+          "longDescription": null,
+          "status": null,
+          "appGroup": null,
+          "displayOrder": null,
+          "operation": null,
+          "sequence": null,
+          "categoryType": null,
+          "description": null
+        },
+        "currentAmount": "2000",
+        "nextFye": {
+          "val": "2017",
+          "name": "2017",
+          "id": "201701312102155553505",
+          "idCode": null,
+          "code": null,
+          "shortDescription": null,
+          "longDescription": null,
+          "status": null,
+          "appGroup": null,
+          "displayOrder": null,
+          "operation": null,
+          "sequence": null,
+          "categoryType": null,
+          "description": null
+        },
+        "nextAmount": "2000",
+        "businessObjective": "test",
+        "clientNeeds": null,
+        "overview": false,
+        "private": false
+      }
+    ],
+    "actionPlans":[
+        {
+            "id": 123234,
+            "operation": "NO_CHANGE",
+            "actionRequired": "Create a centralized view of all your responsibilities across multiple projects with this to-do list. Share with your team to create transparency, track task progress with Harvey ball symbols, and flag high-priority items.",
+            "assignedTo": {
+              "x_alias": "1412182",
+              "x_first_name": "Laxana",
+              "x_last_name":"Nezreena",
+              "psId": "1183018",
+              "firstName": "Tan",
+              "lastName": "Boon Hwa",
+              "email": "Tan.Boon-Hwa@sc.com",
+              "operation": null,
+              "displayName": "1183018 - Tan,Boon Hwa"
+            },
+            "linkedTo": [
+               {
+                 "name": "Fi CLient Needs1",
+                 "val": "Fi CLient Needs1"
+               },
+               {
+                 "name": "Fi CLient Needs2",
+                 "val": "Fi CLient Needs2"
+               }
+            ],
+            "status":{
+                "name":"002",
+                "val":"002",
+                "id":"9090"
+            },
+            "dueDate": 1483209000000,
+            "priority": {
+              "name": "High",
+              "val": "High"
+            },
+            "private": false
+        },
+        {
+            "id": 123234485736,
+            "operation": "NO_CHANGE",
+            "actionRequired": "Create a centralized view of all your responsibilities across multiple projects with this to-do list. Share with your team to create transparency, track task progress with Harvey ball symbols, and flag high-priority items.",
+            "assignedTo": {
+              "x_alias": "141218212",
+              "x_first_name": "Laxana",
+              "x_last_name":"Nezreena",
+              "psId": "1183131",
+              "firstName": "Wong",
+              "lastName": "Kenny Soon Kwan",
+              "email": "Kenny-Soon-Kwan.Wong@sc.com",
+              "operation": null,
+              "displayName": "1183131 - Wong, Kenny Soon Kwan"
+            },
+            "linkedTo": [
+               {
+                 "name": "Fi CLient Needs1",
+                 "val": "Fi CLient Needs1"
+               }
+            ],
+            "dueDate": 1480444200000,
+            "priority": {
+              "name": "Low",
+              "val": "Low"
+            },
+            "private": true
+        }
+    ],
+    "buyingCentreOverview": null,
+    "responseStatus": null,
+    "mandateStatus": null,
+    "reviewComments": {
+      "id": "20170131210215565771",
+      "notes": null,
+      "type": null,
+      "operation": "NO_CHANGE"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "uniqueFilter": {
+"id": 1,
+    "regions": [
+      {
+        "id": "RAAFRICA REGION OTHERS (ARO)",
+        "code": "RA",
+        "description": "AFRICA REGION OTHERS (ARO)",
+        "param1": "AFRICA",
+        "content": null
+      },
+      {
+        "id": "AOANGOLA",
+        "code": "AO",
+        "description": "ANGOLA",
+        "param1": "AFRICA",
+        "content": null
+      }
+    ],
+    "domicileCountries": [
+      {
+        "id": "AFAFGHANISTAN",
+        "code": "AF",
+        "description": "AFGHANISTAN",
+        "param1": "MENAP",
+        "content": null
+      },
+      {
+        "id": "RAAFRICA REGION OTHERS (ARO)",
+        "code": "RA",
+        "description": "AFRICA REGION OTHERS (ARO)",
+        "param1": "AFRICA",
+        "content": null
+      }
+    ],
+"segments": [
+			{
+				"id": "ECOMMODITY TRADERS & AGRICULTURE",
+				"code": "E",
+				"description": "COMMODITY TRADERS & AGRICULTURE",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "50CONSUMER BANK",
+				"code": "50",
+				"description": "CONSUMER BANK",
+				"param1": null,
+				"content": null
+			}],
+"subSegments": [
+			{
+				"id": "G1Agriculture",
+				"code": "G1",
+				"description": "Agriculture",
+				"param1": "E",
+				"content": null
+			},
+			{
+				"id": "P4Broker Dealers",
+				"code": "P4",
+				"description": "Broker Dealers",
+				"param1": "N",
+				"content": null
+			}]
+  }
+}
+

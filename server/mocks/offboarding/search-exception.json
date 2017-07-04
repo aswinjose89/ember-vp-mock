@@ -1,0 +1,57 @@
+{
+	"offboarding/searchExceptions": {
+		"id": 1,
+		"inflightEntities": [{
+			"entityName": "entityName-inflight1",
+			"entityId": "111",
+			"activityId": 111,
+			"id": 111,
+			"initiatedOn": "2017-03-08 10:54:35.0",
+			"initiatedBy": "VP-111",
+			"action": "Group Exit",
+			"status": "In Progress",
+			"exception": "INFLIGHT_CLIENT"
+		},{
+			"entityName": "entityName-inflight2",
+			"entityId": "22",
+			"activityId": 22,
+			"id": 22,
+			"initiatedOn": "2017-03-08 10:54:35.0",
+			"initiatedBy": "VP-22",
+			"action": "Group Exit",
+			"status": "In Progress",
+			"exception": "INFLIGHT_CLIENT"
+		}],
+		"nonInflightEntities": [{
+			"entityName": "entityName-nonInflight1",
+			"entityId": "333",
+			"region": "Africa",
+			"domicileCountry": "Zambia",
+			"id": 333,
+			"segment": "Global Corporate",
+			"segmentCode": "K",
+			"subSegment": "",
+			"action": "Group Exit",
+			"subSegmentCode": "6",
+			"exception": "CLOSED_CLIENT"
+
+		},{
+			"entityName": "nonInflight2",
+			"entityId": "444",
+			"region": "Africa",
+			"domicileCountry": "Zambia",
+			"id": 444,
+			"segment": "Global Corporate",
+			"segmentCode": "K",
+			"subSegment": "qq",
+			"action": "Group Exit",
+			"subSegmentCode": "6",
+			"exception": "BORROWING_CLIENTS_GROUP"
+
+		}],
+		"meta": {
+			"inflightTotalCount": 1,
+			"nonInflightTotalCount": 1
+		}
+	}
+}

@@ -1,0 +1,40 @@
+{
+   "offboarding/taskDetails":[
+      {
+         "id":56,
+         "groupName":"Group",
+         "groupId":"91118799",
+         "region":"Asia",
+         "domicileCountry":"India",
+         "segment":"Global Corporate",
+         "subSegment":"Metal Traders",
+         "checklist":"View",
+         "action":"approve",
+         "clientCount":16,
+         "isChecked":false,
+         "isClientsChecked":true
+      }
+   ],
+   "meta":{
+      "taskId":"7009854",
+         "activityId":"500000799",
+         "initiatedByDate": "1001049-Mike Rees",
+      "count":{
+         "total":24,
+         "groups":12,
+         "clients":12
+      },
+      "totalRecords":50,
+	  "cases":[
+      {
+         "case":"inflight cases",
+         "count":"2"
+      },
+      {
+         "case":"exposure",
+         "count":"1"
+      }
+     ]
+   }
+
+}

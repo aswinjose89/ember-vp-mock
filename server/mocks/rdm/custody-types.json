@@ -1,0 +1,20 @@
+{
+  "custodyTypes": [
+    {
+      "code": "1",
+      "description": "Investment Funds Administered by Security Services"
+    },
+    {
+      "code": "2",
+      "description": "Trustee of Investment Funds Administered by Security Services"
+    },
+    {
+      "code": "3",
+      "description": "Fund Manager of Investment Funds Administered by Security Services"
+    },
+    {
+      "code": "4",
+      "description": "Others"
+    }
+  ]
+}

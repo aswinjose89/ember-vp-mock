@@ -1,0 +1,16 @@
+{
+	"search-competitor": [{
+		"entityId": "1006",
+		"entityName" : "BBVA",
+    "type" : "COMPETITOR"
+	}, {
+		"entityId": "1018",
+    "entityName" : "Bank Danamon",
+    "type" : "COMPETITOR"
+	}, {
+		"entityId": "1003",
+    "entityName" : "Axis Bank",
+    "type" : "COMPETITOR"
+	}]
+
+}

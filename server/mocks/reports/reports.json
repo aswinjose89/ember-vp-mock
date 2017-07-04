@@ -1,0 +1,1199 @@
+{
+    "reportsHomes": [{
+        "id": "1001049",
+        "reports": [
+            "21",
+            "22",
+            "32",
+            "322",
+            "323",
+            "324",
+            "325",
+            "51",
+            "44",
+            "43",
+            "39",
+            "42",
+            "41",
+            "49",
+            "37",
+            "40",
+            "46",
+            "47",
+            "38",
+            "52",
+            "48",
+            "2",
+            "13",
+            "3",
+            "5",
+            "6",
+            "4",
+            "64",
+            "66",
+            "45",
+            "DC_1",
+            "DC_111"
+        ],
+        "reportRecents": [
+            "1-1464866470035",
+            "2-1464866470036",
+            "3-1464866470036"
+        ]
+    }],
+    "reports": [
+        {
+            "title": "12 Months Pipeline Trend",
+            "projectSource": "DP_MSTR",
+            "id": "21",
+            "desc": "12 Months Pipeline Trend",
+            "level": "P,C,G,F",
+            "active": "Y",
+            "wb1Url": "?evt=2048001&src=mstrWeb.2048001&hiddenSections=header,path&documentID=5CFC113F4F83F2B7B31A5C99D7FA2A46&valuePromptAnswers={1}^{2}^{3}&usrSmgr=",
+            "url": "?evt=2048001&src=mstrWeb.2048001&hiddenSections=header,path&documentID=5CFC113F4F83F2B7B31A5C99D7FA2A46&currentViewMedia=8&valuePromptAnswers={:@peopleSoftId}^{:@isOwnPortfolio}^{:@isPortfolio}&_dc={:@_dc}",
+            "action": "mstrReportController.generateReportURL",
+            "reportConfig": "{hasLightBox:false}",
+            "sequence": "5CFC113F4F83F2B7B31A5C99D7FA2A46",
+            "rmwbPage": "CLNT",
+            "dcProduct": "OCC",
+            "mstrProjName": "Deal-Analysis",
+            "category": "DEAL-VIEWER",
+            "group": "DEALS",
+            "reportIcon": "deal",
+            "favourite": false
+        },
+        {
+            "title": "6 Months Pipeline Trend",
+            "projectSource": "DP_MSTR",
+            "id": "22",
+            "desc": "6 Months Pipeline Trend",
+            "level": "P,C,G,F",
+            "active": "Y",
+            "wb1Url": "?evt=2048001&src=mstrWeb.2048001&hiddenSections=header,path&documentID=131D24554A9A0E505531D8A5130222AC&valuePromptAnswers={1}^{2}^{3}&usrSmgr=",
+            "url": "?evt=2048001&src=mstrWeb.2048001&hiddenSections=header,path&documentID=131D24554A9A0E505531D8A5130222AC&currentViewMedia=8&valuePromptAnswers={:@peopleSoftId}^{:@isOwnPortfolio}^{:@isPortfolio}&_dc={:@_dc}",
+            "action": "mstrReportController.generateReportURL",
+            "reportConfig": "{hasLightBox:false}",
+            "sequence": "131D24554A9A0E505531D8A5130222AC",
+            "rmwbPage": "CLNT",
+            "dcProduct": "OCC",
+            "mstrProjName": "Deal-Analysis",
+            "category": "DEAL-VIEWER",
+            "group": "DEALS",
+            "reportIcon": "deal",
+            "favourite": false
+        },
+        {
+            "title": "OBIEE Ad hoc",
+            "projectSource": "OBIEE_Adhoc_report",
+            "id": "322",
+            "desc": "OBIEE Adhoc Report",
+            "level": "P",
+            "active": "Y",
+            "wb1Url": "/analytics/saw.dll?catalog",
+            "url": "/analytics/saw.dll?catalog",
+            "action": "",
+            "reportConfig": "{hasLightBox:false}",
+            "sequence": "",
+            "rmwbPage": "",
+            "dcProduct": "",
+            "mstrProjName": "OBIEE Adhoc Report",
+            "category": "DEAL-VIEWER",
+            "group": "ADHOC-REPORTING",
+            "reportIcon": null,
+            "favourite": false
+        },
+        {
+            "title": "OBIEE Iframe",
+            "projectSource": "OBIEE_Adhoc_report",
+            "id": "323",
+            "desc": "OBIEE Adhoc Report",
+            "level": "P",
+            "active": "Y",
+            "wb1Url": "/analytics/saw.dll?catalog",
+            "url": "/analytics/saw.dll?catalog",
+            "action": "",
+            "reportConfig": "{hasLightBox:false}",
+            "sequence": "",
+            "rmwbPage": "",
+            "dcProduct": "",
+            "mstrProjName": "OBIEE",
+            "category": "ACCOUNT-PLAN",
+            "group": "CLIENT",
+            "reportIcon": null,
+            "favourite": false
+        },
+        {
+            "title": "OBIEE Client Dashboard",
+            "projectSource": "OBIEE_Client_dashboard",
+            "id": "324",
+            "desc": "OBIEE Client Dashboard",
+            "level": "C,G",
+            "active": "Y",
+            "wb1Url": "/analytics/saw.dll?catalog",
+            "url": "/analytics/saw.dll?PortalPages&PortalPath=%2Fshared%2FClient%20Intel%2F_portal%2FClient%20Dashboard&Page=Client&Action=Navigate&P0=6&P1=eq&P2=%22User%22.%22User%20PSID%22&P3={:@psID}&P4=eq&P5=%22Managed%20Revenue%20Attributes%22.%22Own%20Portfolio%20Flag%22&P6={:@ownOrPortfolio}&P7=eq&P8=%22Managed%20Revenue%20Attributes%22.%22Revenue%20Access%20Flag%22&P9={:@obligor}&P10=eq&P11=%22Managed%20Revenue%20Attributes%22.%22Period%20Type%22&P12={:@currentMonthEnd}&P13=eq&P14=%22User%22.%22Pseudo%20User%20PSID%22&P15={:@peopleSoftId}&P16=eq&P17=%22Client%22.%22Client%20All%20ID%22&P18={:@id}",
+            "action": "renderReport.getClientDashboardURL",
+            "reportConfig": "{hasLightBox:false}",
+            "sequence": "",
+            "rmwbPage": "",
+            "dcProduct": "",
+            "mstrProjName": "OBIEE Report",
+            "category": "ACCOUNT-PLAN",
+            "group": "CLIENT",
+            "reportIcon": null,
+            "favourite": false
+        },
+        {
+            "title": "OBIEE Portfolio and Balance Sheet Dashboards",
+            "projectSource": "OBIEE_portfolio_dashboard_report",
+            "id": "325",
+            "desc": "OBIEE Portfolio and Balance Sheet Dashboards",
+            "level": "P,C,G",
+            "active": "Y",
+            "wb1Url": "/analytics/saw.dll?catalog",
+            "url": "/analytics/saw.dll?PortalPages&PortalPath=%2Fshared%2FClient%20Intel%2F_portal%2FClient%20Intelligence%20Dashboard&Page=Portfolio&Action=Navigate&P0=5&P1=eq&P2=%22User%22.%22User%20PSID%22&P3={:@psID}&P4=eq&P5=%22Managed%20Revenue%20Attributes%22.%22Own%20Portfolio%20Flag%22&P6={:@ownOrPortfolio}&P7=eq&P8=%22Managed%20Revenue%20Attributes%22.%22Revenue%20Access%20Flag%22&P9={:@obligor}&P10=eq&P11=%22Managed%20Revenue%20Attributes%22.%22Period%20Type%22&P12={:@currentMonthEnd}&P13=eq&P14=%22User%22.%22Pseudo%20User%20PSID%22&P15={:@peopleSoftId}",
+            "action": "renderReport.getPortfolioAndMovementsReportURL",
+            "reportConfig": "{hasLightBox:false}",
+            "sequence": "",
+            "rmwbPage": "",
+            "dcProduct": "",
+            "mstrProjName": "OBIEE Report",
+            "category": "ACCOUNT-PLAN",
+            "group": "CLIENT",
+            "reportIcon": null,
+            "favourite": false
+        },
+        {
+            "title": "Ad Hoc Reporting",
+            "projectSource": "DP_MSTR",
+            "id": "32",
+            "desc": "OCC Adhoc Report",
+            "level": "P,C,G,F",
+            "active": "Y",
+            "wb1Url": "?evt=2001&src=mstrWeb.shared.fbb.fb.2001&folderID=1DF3313344ECC2E5E90320AB7BA6D214&usrSmgr=",
+            "url": "?evt=2001&src=mstrWeb.shared.fbb.fb.2001&folderID=1DF3313344ECC2E5E90320AB7BA6D214&currentViewMedia=8",
+            "action": "mstrReportController.generateReportURL",
+            "reportConfig": "{hasLightBox:false}",
+            "sequence": "1DF3313344ECC2E5E90320AB7BA6D214",
+            "rmwbPage": "CLNT",
+            "dcProduct": "OCC",
+            "mstrProjName": "Deal-Analysis_adhoc_report",
+            "category": "DEAL-VIEWER",
+            "group": "ADHOC-REPORTING",
+            "reportIcon": null,
+            "favourite": false
+        },
+        {
+            "title": "Ad-Hoc",
+            "projectSource": "AP_MSTR",
+            "id": "51",
+            "desc": "ACC_Adhoc_Report",
+            "level": "P,C,G,F",
+            "active": "Y",
+            "wb1Url": "?evt=2001&SRC=mstrWeb.shared.fbb.fb.2001&FOLDERID=3ACECF8A41942EB9BC3D758A24DCDBDB&USRSMGR=",
+            "url": "?evt=2001&SRC=mstrWeb.shared.fbb.fb.2001&FOLDERID=3ACECF8A41942EB9BC3D758A24DCDBDB&CURRENTVIEWMEDIA=8",
+            "action": "renderReport.renderAccountPlanSubReports",
+            "reportConfig": "{hasLightBox:false}",
+            "sequence": "3ACECF8A41942EB9BC3D758A24DCDBDB",
+            "rmwbPage": "CLNT",
+            "dcProduct": "OCC,CC,ADMIN",
+            "mstrProjName": "Account_Plan_adhoc_report",
+            "category": "ACCOUNT-PLAN",
+            "group": "ADHOC-REPORTING",
+            "reportIcon": null,
+            "favourite": false
+        },
+        {
+            "title": "AP Completion Tracking Report - By Region and Segment",
+            "projectSource": "AP_MSTR",
+            "id": "44",
+            "desc": "ACC_Sub_Report",
+            "level": "P,C,G,F",
+            "active": "Y",
+            "wb1Url": "?evt=2048001&SRC=mstrWeb.2048001&HIDDENSECTIONS=header,path&DOCUMENTID=48AF844611E4B439000000802FB7004C",
+            "url": "?evt=2048001&SRC=mstrWeb.2048001&HIDDENSECTIONS=header,path&DOCUMENTID=48AF844611E4B439000000802FB7004C&CURRENTVIEWMEDIA=8&valuePromptAnswers={:@isUserPseudo}",
+            "action": "renderReport.renderAccountPlanSubReports",
+            "reportConfig": "{hasLightBox:false}",
+            "sequence": "48AF844611E4B439000000802FB7004C",
+            "rmwbPage": "CLNT",
+            "dcProduct": "OCC,CC,ADMIN",
+            "mstrProjName": "Account_Plan",
+            "category": "ACCOUNT-PLAN",
+            "group": "CLIENT",
+            "reportIcon": "client",
+            "favourite": false
+        },
+        {
+            "title": "APF Completion Report",
+            "projectSource": "AP_MSTR",
+            "id": "43",
+            "desc": "ACC_Sub_Report",
+            "level": "P,C,G,F",
+            "active": "Y",
+            "wb1Url": "?evt=2048001&SRC=mstrWeb.2048001&HIDDENSECTIONS=header,path&DOCUMENTID=EFC4091641477D93C9C01C8FB2F7F0BB",
+            "url": "?evt=2048001&SRC=mstrWeb.2048001&HIDDENSECTIONS=header,path&DOCUMENTID=EFC4091641477D93C9C01C8FB2F7F0BB&CURRENTVIEWMEDIA=8&valuePromptAnswers={:@isUserPseudo}",
+            "action": "renderReport.renderAccountPlanSubReports",
+            "reportConfig": "{hasLightBox:false}",
+            "sequence": "EFC4091641477D93C9C01C8FB2F7F0BB",
+            "rmwbPage": "CLNT",
+            "dcProduct": "OCC,CC,ADMIN",
+            "mstrProjName": "Account_Plan",
+            "category": "ACCOUNT-PLAN",
+            "group": "CLIENT",
+            "reportIcon": "client",
+            "favourite": false
+        },
+        {
+            "title": "Call Participants Report",
+            "projectSource": "RCR_MSTR",
+            "id": "39",
+            "desc": "Call Participants Report",
+            "level": "P,C,G,F",
+            "active": "Y",
+            "wb1Url": "?evt=4001&src=mstrWeb.4001&hiddenSections=header,path&reportID=C268E5D74F686537D8420BB94AB64B2A&valuePromptAnswers={1}^{2}^{3}^{4}&usrSmgr=",
+            "url": "?evt=4001&src=mstrWeb.4001&hiddenSections=header,path&reportID=C268E5D74F686537D8420BB94AB64B2A&currentViewMedia=8&valuePromptAnswers={:@peopleSoftId}^{:@psID}^{:@isPortfolio}^{:@isOwnPortfolio}&_dc={:@_dc}",
+            "action": "mstrReportController.generateReportURL",
+            "reportConfig": "{hasLightBox:false,param:true}",
+            "sequence": "C268E5D74F686537D8420BB94AB64B2A",
+            "rmwbPage": "CLNT",
+            "dcProduct": "OCC",
+            "mstrProjName": "RCR-Reporting",
+            "category": "CALL-REPORT",
+            "group": "CLIENT",
+            "reportIcon": "client",
+            "favourite": false
+        },
+        {
+            "title": "Call Report - Ad-Hoc",
+            "projectSource": "RCR_MSTR",
+            "id": "42",
+            "desc": "RCR Ad Hoc",
+            "level": "P,C,G,F",
+            "active": "Y",
+            "wb1Url": "?evt=2001&src=mstrWeb.shared.fbb.fb.2001&folderID=085650D64C8DAC67AD3607B7C34DD9FA&usrSmgr=",
+            "url": "?evt=2001&src=mstrWeb.shared.fbb.fb.2001&folderID=085650D64C8DAC67AD3607B7C34DD9FA&currentViewMedia=8",
+            "action": "mstrReportController.generateReportURL",
+            "reportConfig": "{hasLightBox:false}",
+            "sequence": "085650D64C8DAC67AD3607B7C34DD9FA",
+            "rmwbPage": "CLNT",
+            "dcProduct": "OCC",
+            "mstrProjName": "RCR-Reporting_adhoc_report",
+            "category": "CALL-REPORT",
+            "group": "ADHOC-REPORTING",
+            "reportIcon": null,
+            "favourite": false
+        },
+        {
+            "title": "Call Report - Dashboard",
+            "projectSource": "RCR_MSTR",
+            "id": "41",
+            "desc": "RCR Dashboard",
+            "level": "P,C,G,F",
+            "active": "Y",
+            "wb1Url": "?evt=2048001&src=mstrWeb.2048001&hiddenSections=header,path&documentID=0E39C5434F1BB029DE2FF0BF1DA86246&valuePromptAnswers={1}^{2}^{3}^{4}&usrSmgr=",
+            "url": "?evt=2048001&src=mstrWeb.2048001&hiddenSections=header,path&documentID=0E39C5434F1BB029DE2FF0BF1DA86246&currentViewMedia=8&valuePromptAnswers={:@peopleSoftId}^{:@psID}^{:@isPortfolio}^{:@isOwnPortfolio}&_dc={:@_dc}",
+            "action": "mstrReportController.generateReportURL",
+            "reportConfig": "{hasLightBox:false,param:true}",
+            "sequence": "0E39C5434F1BB029DE2FF0BF1DA86246",
+            "rmwbPage": "CLNT",
+            "dcProduct": "OCC",
+            "mstrProjName": "RCR-Reporting",
+            "category": "CALL-REPORT",
+            "group": "CLIENT",
+            "reportIcon": "client",
+            "favourite": false
+        },
+        {
+            "title": "Client Strategy Reporting",
+            "projectSource": "AP_MSTR",
+            "id": "49",
+            "desc": "ACC_Sub_Report",
+            "level": "P,C,G,F",
+            "active": "Y",
+            "wb1Url": "?evt=4001&src=mstrWeb.4001&hiddensections=header,path&reportid=077E6A1240E418D13E31648F8431876C",
+            "url": "?evt=4001&src=mstrWeb.4001&hiddensections=header,path&reportid=077E6A1240E418D13E31648F8431876C&currentviewmedia=8&valuePromptAnswers={:@isUserPseudo}",
+            "action": "renderReport.renderClientStrategyReport",
+            "reportConfig": "{hasLightBox:false}",
+            "sequence": "077E6A1240E418D13E31648F8431876C",
+            "rmwbPage": "CLNT",
+            "dcProduct": "OCC,CC,ADMIN",
+            "mstrProjName": "Account_Plan",
+            "category": "ACCOUNT-PLAN",
+            "group": "CLIENT",
+            "reportIcon": "client",
+            "favourite": false
+        },
+        {
+            "title": "WorkBench User List",
+            "projectSource": "DC",
+            "id": "DC_1",
+            "desc": "oneWB User List",
+            "level": "DC",
+            "active": "Y",
+            "url": null,
+            "action": "DC_REPORT_ATW_ACCESS",
+            "reportConfig": "{hasLightBox:true,isFlyoutReport: true}",
+            "sequence": "16",
+            "rmwbPage": "DC",
+            "dcProduct": "CF,CM",
+            "mstrProjName": null,
+            "category": "DEAL-CENTRE",
+            "group": "DEALS",
+            "favourite": false,
+            "reportIcon" : "deal"
+        },
+        {
+            "title": "Horizon report usage statistics",
+            "projectSource": "HORIZON",
+            "id": "DC_111",
+            "desc": "oneWB User List",
+            "level": "DC",
+            "active": "Y",
+            "url": null,
+            "action": "renderReport.loadUsageStatistics",
+            "reportConfig": "{hasLightBox:true,isFlyoutReport: true}",
+            "sequence": "16",
+            "rmwbPage": "DC",
+            "dcProduct": "CF,CM",
+            "mstrProjName": "Horizon",
+            "category": "DEAL-CENTRE",
+            "group": "DEALS",
+            "favourite": false,
+            "reportIcon" : "deal"
+        },
+        {
+            "title": "Deal Activity Status Report",
+            "projectSource": "DC",
+            "id": "37",
+            "desc": "Deal Activity Status Report",
+            "level": "DC",
+            "active": "Y",
+            "wb1Url": null,
+            "url": null,
+            "action": "DC_REPORT_ONOFF",
+            "reportConfig": "{hasLightBox:true,isFlyoutReport:true}",
+            "sequence": "DC_4",
+            "rmwbPage": "DC",
+            "dcProduct": "CF,CM",
+            "mstrProjName": null,
+            "category": "DEAL-CENTRE",
+            "group": "DEALS",
+            "reportIcon": "deal",
+            "favourite": false
+        },
+        {
+            "title": "Discussion Details Report",
+            "projectSource": "RCR_MSTR",
+            "id": "40",
+            "desc": "Discussion Details Report",
+            "level": "P,C,G,F",
+            "active": "Y",
+            "wb1Url": "?evt=4001&src=mstrWeb.4001&hiddenSections=header,path&reportID=7F650EDF4AED9493362C42A64464BD22&valuePromptAnswers={1}^{2}^{3}^{4}&usrSmgr=",
+            "url": "?evt=4001&src=mstrWeb.4001&hiddenSections=header,path&reportID=7F650EDF4AED9493362C42A64464BD22&currentViewMedia=8&valuePromptAnswers={:@peopleSoftId}^{:@psID}^{:@isPortfolio}^{:@isOwnPortfolio}&_dc={:@_dc}",
+            "action": "mstrReportController.generateReportURL",
+            "reportConfig": "{hasLightBox:false,param:true}",
+            "sequence": "7F650EDF4AED9493362C42A64464BD22",
+            "rmwbPage": "CLNT",
+            "dcProduct": "OCC",
+            "mstrProjName": "RCR-Reporting",
+            "category": "CALL-REPORT",
+            "group": "CLIENT",
+            "reportIcon": "client",
+            "favourite": false
+        },
+        {
+            "title": "Gap to Forecast Report",
+            "projectSource": "AP_MSTR",
+            "id": "46",
+            "desc": "ACC_Sub_Report",
+            "level": "P,C,G,F",
+            "active": "Y",
+            "wb1Url": "?evt=2048001&src=mstrWeb.2048001&hiddensections=header,path&documentid=E28641AF488E82297D89BBB82DF05DF3",
+            "url": "?evt=2048001&src=mstrWeb.2048001&hiddensections=header,path&documentid=E28641AF488E82297D89BBB82DF05DF3&currentviewmedia=8&valuePromptAnswers={:@isUserPseudo}",
+            "action": "renderReport.renderAccountPlanSubReports",
+            "reportConfig": "{hasLightBox:false}",
+            "sequence": "E28641AF488E82297D89BBB82DF05DF3",
+            "rmwbPage": "CLNT",
+            "dcProduct": "OCC,CC,ADMIN",
+            "mstrProjName": "Account_Plan",
+            "category": "ACCOUNT-PLAN",
+            "group": "CLIENT",
+            "reportIcon": "client",
+            "favourite": false
+        },
+        {
+            "title": "Gap to Forecast Report - Top Groups by Gap",
+            "projectSource": "AP_MSTR",
+            "id": "47",
+            "desc": "ACC_Sub_Report",
+            "level": "P,C,G,F",
+            "active": "Y",
+            "wb1Url": "?evt=2048001&src=mstrWeb.2048001&hiddensections=header,path&documentid=FCC23CD3430A86630C28CC99559C5372",
+            "url": "?evt=2048001&src=mstrWeb.2048001&hiddensections=header,path&documentid=FCC23CD3430A86630C28CC99559C5372&currentviewmedia=8&valuePromptAnswers={:@isUserPseudo}",
+            "action": "renderReport.renderAccountPlanSubReports",
+            "reportConfig": "{hasLightBox:false}",
+            "sequence": "FCC23CD3430A86630C28CC99559C5372",
+            "rmwbPage": "CLNT",
+            "dcProduct": "OCC,CC,ADMIN",
+            "mstrProjName": "Account_Plan",
+            "category": "ACCOUNT-PLAN",
+            "group": "CLIENT",
+            "reportIcon": "client",
+            "favourite": false
+        },
+        {
+            "title": "General Call Report",
+            "projectSource": "RCR_MSTR",
+            "id": "38",
+            "desc": "General Call Report",
+            "level": "P,C,G,F",
+            "active": "Y",
+            "wb1Url": "?evt=4001&src=mstrWeb.4001&hiddenSections=header,path&reportID=08BFA07F4F1EA8D21F6C338B2C1E28B6&valuePromptAnswers={1}^{2}^{3}^{4}&usrSmgr=",
+            "url": "?evt=4001&src=mstrWeb.4001&hiddenSections=header,path&reportID=08BFA07F4F1EA8D21F6C338B2C1E28B6&currentViewMedia=8&valuePromptAnswers={:@peopleSoftId}^{:@psID}^{:@isPortfolio}^{:@isOwnPortfolio}&_dc={:@_dc}",
+            "action": "mstrReportController.generateReportURL",
+            "reportConfig": "{hasLightBox:false,param:true}",
+            "sequence": "08BFA07F4F1EA8D21F6C338B2C1E28B6",
+            "rmwbPage": "CLNT",
+            "dcProduct": "OCC",
+            "mstrProjName": "RCR-Reporting",
+            "category": "CALL-REPORT",
+            "group": "CLIENT",
+            "reportIcon": "client",
+            "favourite": false
+        },
+        {
+            "title": "Handover to PAM Activity Status Report",
+            "projectSource": "DC",
+            "id": "52",
+            "desc": "Handover to PAM Activity Status Report",
+            "level": "DC",
+            "active": "Y",
+            "wb1Url": null,
+            "url": null,
+            "action": "PAM_REPORT_ONOFF",
+            "reportConfig": "{hasLightBox:true,isFlyoutReport:true}",
+            "sequence": "DC_15",
+            "rmwbPage": "DC",
+            "dcProduct": "CF,CM",
+            "mstrProjName": null,
+            "category": "DEAL-CENTRE",
+            "group": "DEALS",
+            "reportIcon": "deal",
+            "favourite": false
+        },
+        {
+            "title": "Liabilities Report",
+            "projectSource": "AP_MSTR",
+            "id": "48",
+            "desc": "ACC_Sub_Report",
+            "level": "P,C,G,F",
+            "active": "Y",
+            "wb1Url": "?evt=2048001&SRC=mstrWeb.2048001&HIDDENSECTIONS=header,path&DOCUMENTID=F102F93D4FEDCC46257469A686F12BE0",
+            "url": "?evt=2048001&SRC=mstrWeb.2048001&HIDDENSECTIONS=header,path&DOCUMENTID=F102F93D4FEDCC46257469A686F12BE0&CURRENTVIEWMEDIA=8&valuePromptAnswers={:@isUserPseudo}",
+            "action": "renderReport.renderAccountPlanSubReports",
+            "reportConfig": "{hasLightBox:false}",
+            "sequence": "F102F93D4FEDCC46257469A686F12BE0",
+            "rmwbPage": "CLNT",
+            "dcProduct": "OCC,CC,ADMIN",
+            "mstrProjName": "Account_Plan",
+            "category": "ACCOUNT-PLAN",
+            "group": "CLIENT",
+            "reportIcon": "client",
+            "favourite": false
+        },
+        {
+            "title": "My Client Access Report",
+            "projectSource": "CCT_MSTR",
+            "id": "2",
+            "desc": "My Client Access Report",
+            "level": "P,C,G",
+            "active": "Y",
+            "wb1Url": null,
+            "url": null,
+            "action": "myClientAccessReport",
+            "reportConfig": "{hasCurrentOrMonthEnd:false,hasLightBox:true,hasObligor:false,isFlyoutReport:true}",
+            "sequence": "3",
+            "rmwbPage": null,
+            "dcProduct": null,
+            "mstrProjName": "OCCOneSource",
+            "category": null,
+            "group": "ACCESS",
+            "reportIcon": "access",
+            "favourite": false
+        },
+        {
+            "title": "Pipeline Report",
+            "projectSource": "DP_MSTR",
+            "id": "13",
+            "desc": "BPM Report",
+            "level": "P",
+            "active": "Y",
+            "wb1Url": null,
+            "url": "?evt=2048001&src=mstrWeb.2048001&hiddenSections=header,path&documentID=23DDD16C4A7A318A1658C9984B420B67&valuePromptAnswers={:@peopleSoftId}^{:@psID}^{:@name}^{:@isPortfolio}^{:@isOwnPortfolio}&currentViewMedia=8",
+            "action": "renderReport.renderPipelineReport",
+            "reportConfig": "{hasLightBox:false}",
+            "sequence": "23DDD16C4A7A318A1658C9984B420B67",
+            "rmwbPage": "CLNT",
+            "dcProduct": null,
+            "mstrProjName": "Deal-Analysis",
+            "category": "DEAL-VIEWER",
+            "group": "DEALS",
+            "reportIcon": "deal",
+            "favourite": false
+        },
+        {
+            "title": "Revenue Dashboard",
+            "projectSource": "PMI_MSTR",
+            "id": "3",
+            "desc": "Revenue dashboard graphically shows key performance metrics sourced from PMI e.g. Revenue broken down by product segments, RORWA and other portfolio related metrics for clients",
+            "level": "P,C,G,F",
+            "active": "Y",
+            "wb1Url": "?evt=2048001&src=mstrWeb.2048001&hiddenSections=header,path&documentID=B1A190F0461512E23196FBA967400DAE&valuePromptAnswers={1}^{2}^{3}^{4}^CPYMCFY^{5}",
+            "url": "?evt=2048001&src=mstrWeb.2048001&hiddenSections=header,path&documentID=B1A190F0461512E23196FBA967400DAE&currentViewMedia=8&valuePromptAnswers={:@id}^{:@ownOrPortfolio}^{:@currentMonthEnd}^{:@obligor}^CPYMCFY^{:@type}",
+            "action": "renderReport.getPMIURL",
+            "reportConfig": "{hasCurrentOrMonthEnd:true,hasLightBox:false,hasObligor:true,isTopMetrics:true}",
+            "sequence": "B1A190F0461512E23196FBA967400DAE",
+            "rmwbPage": null,
+            "dcProduct": null,
+            "mstrProjName": "OCCOneSource",
+            "category": null,
+            "group": "REVENUE",
+            "reportIcon": "revenue",
+            "favourite": false
+        },
+        {
+            "title": "Revenue Details",
+            "projectSource": "PMI_MSTR",
+            "id": "5",
+            "desc": "Report is used for exporting PMI Metrics Portfolio list",
+            "level": "P,C,G,F",
+            "active": "Y",
+            "wb1Url": "?evt=4001&src=mstrWeb.4001&hiddenSections=header,path&reportID=B2B7966642784CA4BD3CD58F55341C43&valuePromptAnswers={1}^{2}^{3}^{4}^CPYMCFY^{5}^N&helpFlag=1",
+            "url": "?evt=4001&src=mstrWeb.4001&hiddenSections=header,path&reportID=B2B7966642784CA4BD3CD58F55341C43&valuePromptAnswers={:@id}^{:@ownOrPortfolio}^{:@currentMonthEnd}^{:@obligor}^CPYMCFY^{:@type}^N&helpFlag=1",
+            "action": "showRevenueDetails",
+            "reportConfig": "{hasCurrentOrMonthEnd:true,hasLightBox:true,hasObligor:true}",
+            "sequence": "B2B7966642784CA4BD3CD58F55341C43",
+            "rmwbPage": null,
+            "dcProduct": null,
+            "mstrProjName": "OCCOneSource",
+            "category": null,
+            "group": "REVENUE",
+            "reportIcon": "revenue",
+            "favourite": false
+        },
+        {
+            "title": "Revenue Details - All Clients",
+            "projectSource": "PMI_MSTR",
+            "id": "6",
+            "desc": "Report is used for exporting PMI Metrics Portfolio list",
+            "level": "P",
+            "active": "Y",
+            "wb1Url": "?evt=4001&src=mstrWeb.4001&hiddenSections=header,path&reportID=B2B7966642784CA4BD3CD58F55341C43&valuePromptAnswers={1}^{2}^{3}^{4}^CPYMCFY^{5}^Y&helpFlag=1",
+            "url": "?evt=4001&src=mstrWeb.4001&hiddenSections=header,path&reportID=B2B7966642784CA4BD3CD58F55341C43&valuePromptAnswers={:@id}^{:@ownOrPortfolio}^{:@currentMonthEnd}^{:@obligor}^CPYMCFY^{:@type}^Y&helpFlag=1",
+            "action": "showRevenueDetails",
+            "reportConfig": "{hasCurrentOrMonthEnd:true,hasLightBox:true,hasObligor:true}",
+            "sequence": "B2B7966642784CA4BD3CD58F55341C43",
+            "rmwbPage": null,
+            "dcProduct": null,
+            "mstrProjName": "OCCOneSource",
+            "category": null,
+            "group": "REVENUE",
+            "reportIcon": "revenue",
+            "favourite": false
+        },
+        {
+            "title": "Revenue Trend",
+            "projectSource": "PMI_MSTR",
+            "id": "4",
+            "desc": "Revenue dashboard graphically shows key performance metrics sourced from PMI e.g. Revenue broken down by product segments, RORWA and other portfolio related metrics for clients",
+            "level": "P,C,G,F",
+            "active": "Y",
+            "wb1Url": "?evt=2048001&src=mstrWeb.2048001&hiddenSections=header,path&documentID=F4995E3948962E31C622DFA4BD7F4355&valuePromptAnswers={1}^{2}^{3}^{4}^TREND^{5}",
+            "url": "?evt=2048001&src=mstrWeb.2048001&hiddenSections=header,path&documentID=F4995E3948962E31C622DFA4BD7F4355&currentViewMedia=8&valuePromptAnswers={:@id}^{:@ownOrPortfolio}^{:@currentMonthEnd}^{:@obligor}^TREND^{:@type}",
+            "action": "renderReport.getPMIURL",
+            "reportConfig": "{hasCurrentOrMonthEnd:true,hasLightBox:false,hasObligor:true,isTopMetrics:true}",
+            "sequence": "F4995E3948962E31C622DFA4BD7F4355",
+            "rmwbPage": null,
+            "dcProduct": null,
+            "mstrProjName": "OCCOneSource",
+            "category": null,
+            "group": "REVENUE",
+            "reportIcon": "revenue",
+            "favourite": false
+        },
+        {
+            "title": "Risk View Report",
+            "projectSource": "CCT_MSTR",
+            "id": "64",
+            "desc": "Risk View Report",
+            "level": "P,C,G",
+            "active": "Y",
+            "wb1Url": null,
+            "url": null,
+            "action": "myRiskViewReport",
+            "reportConfig": "{hasCurrentOrMonthEnd:false,hasLightBox:true,hasObligor:false,isFlyoutReport:true}",
+            "sequence": "5",
+            "rmwbPage": null,
+            "dcProduct": null,
+            "mstrProjName": null,
+            "category": "CREDIT",
+            "group": "CLIENT",
+            "reportIcon": "client",
+            "favourite": false
+        },
+        {
+            "title": "Volcker Report",
+            "projectSource": "DC",
+            "id": "66",
+            "desc": "Volcker Report",
+            "level": "DC",
+            "active": "Y",
+            "wb1Url": null,
+            "url": null,
+            "action": "VOLCKER_REPORT_ONOFF",
+            "reportConfig": "{hasLightBox:true,isFlyoutReport:true}",
+            "sequence": "DC_17",
+            "rmwbPage": "DC",
+            "dcProduct": "CF,CM",
+            "mstrProjName": null,
+            "category": "DEAL-CENTRE",
+            "group": "DEALS",
+            "reportIcon": "deal",
+            "favourite": false
+        },
+        {
+            "title": "Workflow Status Tracking Report",
+            "projectSource": "AP_MSTR",
+            "id": "45",
+            "desc": "ACC_Sub_Report",
+            "level": "P,C,G,F",
+            "active": "Y",
+            "wb1Url": "?evt=2048001&src=mstrWeb.2048001&hiddensections=header,path&documentid=B53DDA3B43090355D391B7922E7CB7F7",
+            "url": "?evt=2048001&src=mstrWeb.2048001&hiddensections=header,path&documentid=B53DDA3B43090355D391B7922E7CB7F7&currentviewmedia=8&valuePromptAnswers={:@isUserPseudo}",
+            "action": "renderReport.renderAccountPlanSubReports",
+            "reportConfig": "{hasLightBox:false}",
+            "sequence": "B53DDA3B43090355D391B7922E7CB7F7",
+            "rmwbPage": "CLNT",
+            "dcProduct": "OCC,CC,ADMIN",
+            "mstrProjName": "Account_Plan",
+            "category": "ACCOUNT-PLAN",
+            "group": "CLIENT",
+            "reportIcon": "client",
+            "favourite": false
+        }
+    ],
+    "reportRecents": [
+        {
+            "title": "Revenue Dashboard",
+            "projectSource": null,
+            "id": "B1A190F0461512E23196FBA967400DAE",
+            "desc": "Not Available",
+            "level": null,
+            "active": null,
+            "wb1Url": null,
+            "url": "mstrWeb?evt=2048001&src=mstrWeb.2048001&visMode=0&documentID=B1A190F0461512E23196FBA967400DAE&messageID=AE61758211E6286AE00600802FE72000&mstrWeb=-DG1018.OCCOneSource.0_&inboxBean=0.0.7.1.*0&currentViewMedia=8",
+            "action": null,
+            "reportConfig": null,
+            "sequence": null,
+            "rmwbPage": null,
+            "dcProduct": null,
+            "mstrProjName": "OCCOneSource",
+            "category": null,
+            "group": null,
+            "reportIcon": null,
+            "favourite": false,
+            "creationTime": "02-Jun-16 02:35 GMT",
+            "modifiedTime": "02-Jun-16 02:46 GMT",
+            "reportType": "8",
+            "dept": null,
+            "primaryKey": "1-1464866470035"
+        },
+        {
+            "title": "Revenue Trend (MOM) - Portfolio",
+            "projectSource": null,
+            "id": "F4995E3948962E31C622DFA4BD7F4355",
+            "desc": "Not Available",
+            "level": null,
+            "active": null,
+            "wb1Url": null,
+            "url": "mstrWeb?evt=2048001&src=mstrWeb.2048001&visMode=0&documentID=F4995E3948962E31C622DFA4BD7F4355&messageID=8906520811E6286AE00600802FC7DEFC&mstrWeb=-DG1018.OCCOneSource.0_&inboxBean=0.0.7.1.*0&currentViewMedia=8",
+            "action": null,
+            "reportConfig": null,
+            "sequence": null,
+            "rmwbPage": null,
+            "dcProduct": null,
+            "mstrProjName": "OCCOneSource",
+            "category": null,
+            "group": null,
+            "reportIcon": null,
+            "favourite": false,
+            "creationTime": "02-Jun-16 02:34 GMT",
+            "modifiedTime": "02-Jun-16 02:34 GMT",
+            "reportType": "8",
+            "dept": null,
+            "primaryKey": "2-1464866470036"
+        },
+        {
+            "title": "Revenue Trend (MOM) - Portfolio",
+            "projectSource": null,
+            "id": "F4995E3948962E31C622DFA4BD7F4355",
+            "desc": "Not Available",
+            "level": null,
+            "active": null,
+            "wb1Url": null,
+            "url": "mstrWeb?evt=2048001&src=mstrWeb.2048001&visMode=0&documentID=F4995E3948962E31C622DFA4BD7F4355&messageID=E370D64411E62808E00600802FA79F00&mstrWeb=-DG1018.OCCOneSource.0_&inboxBean=0.0.7.1.*0&currentViewMedia=8",
+            "action": null,
+            "reportConfig": null,
+            "sequence": null,
+            "rmwbPage": null,
+            "dcProduct": null,
+            "mstrProjName": "OCCOneSource",
+            "category": null,
+            "group": null,
+            "reportIcon": null,
+            "favourite": false,
+            "creationTime": "01-Jun-16 14:55 GMT",
+            "modifiedTime": "01-Jun-16 14:56 GMT",
+            "reportType": "8",
+            "dept": null,
+            "primaryKey": "3-1464866470036"
+        }
+    ],
+    "users": [
+        {
+            "firstName": "Alun",
+            "lastName": "Rees",
+            "emailId": "Mike.Rees@sc.com",
+            "department": null,
+            "userCountry": "GB",
+            "roleHead": "Y",
+            "jobTitle": "Mr",
+            "shortDescription": null,
+            "roleHeadType": "0",
+            "atwUserType": "1",
+            "atwUser": "N",
+            "roles": null,
+            "ldapRoles": [
+                "ROLE_ECDD_1_READONLY",
+                "ROLE_GM",
+                "ROLE_RM"
+            ],
+            "cobamRoles": null,
+            "userRoles": [
+                "GM",
+                "RM",
+                "ECDD_1_READONLY"
+            ],
+            "pseudoId": null,
+            "fapData": {
+                "WB_SALES_HOME": {
+                    "ALL_DEALS_TAB": {
+                        "ACTION": "VIEW"
+                    },
+                    "DEAL_PIPELINE_ACCESS": {
+                        "ACTION": "VIEW"
+                    },
+                    "CALL_REPORTS_TAB": {
+                        "ACTION": "VIEW"
+                    },
+                    "CCT_MAINTENANCE": {
+                        "ACTION": "VIEW"
+                    },
+                    "ADD_NEW_PROSPECT": {
+                        "ACTION": "VIEW"
+                    },
+                    "EDIT_PROSPECT": {
+                        "ACTION": "VIEW"
+                    },
+                    "FAVOURITES_REPORTS": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACTION": "VIEW",
+                    "LAST_50_CALLS_TAB": {
+                        "ACTION": "HIDDEN"
+                    }
+                },
+                "WB": {
+                    "CALENDAR_HOME": {
+                        "ACTION": "DISABLE"
+                    },
+                    "SALES_HOME": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACTION": "VIEW",
+                    "CREDIT_HOME": {
+                        "ACTION": "DISABLE"
+                    }
+                },
+                "WB_REPORT_HOME_PORTFOLIO_REPORTS": {
+                    "CALL_PARTICIPANTS_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "FM_DELTA_SUMMARY_DASHBOARD": {
+                        "ACTION": "DISABLE"
+                    },
+                    "TB_DEAL_PIPELINE": {
+                        "ACTION": "DISABLE"
+                    },
+                    "REVENUE_DET_ALL": {
+                        "ACTION": "VIEW"
+                    },
+                    "FM_DEAL_PIPELINE_2": {
+                        "ACTION": "DISABLE"
+                    },
+                    "TWELVE_MONTHS_PIPELINE_TREND": {
+                        "ACTION": "VIEW"
+                    },
+                    "RCR_DASHBOARD": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB8": {
+                        "ACTION": "VIEW"
+                    },
+                    "HOGS": {
+                        "ACTION": "VIEW"
+                    },
+                    "ADHOC_REPORTING": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB4": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB5": {
+                        "ACTION": "VIEW"
+                    },
+                    "GENERAL_CALL_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "SIX_MONTHS_PIPELINE_TREND": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB6": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB7": {
+                        "ACTION": "VIEW"
+                    },
+                    "MY_CLIENT_ACCESS": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB1": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB2": {
+                        "ACTION": "VIEW"
+                    },
+                    "FM_DEAL_PIPELINE_1": {
+                        "ACTION": "DISABLE"
+                    },
+                    "ACCOUNT_PLAN_SUB3": {
+                        "ACTION": "VIEW"
+                    },
+                    "DISCUSSION_DETAILS_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACTION": "VIEW",
+                    "RISK_VIEW": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_MAIN": {
+                        "ACTION": "VIEW"
+                    },
+                    "REVENUE_DASHBOARD": {
+                        "ACTION": "VIEW"
+                    },
+                    "REVENUE_TREND": {
+                        "ACTION": "VIEW"
+                    },
+                    "TB_DEAL_LIST": {
+                        "ACTION": "DISABLE"
+                    },
+                    "DEAL_VIEWER": {
+                        "ACTION": "VIEW"
+                    },
+                    "ONEWB_USER_LIST": {
+                        "ACTION": "DISABLE"
+                    },
+                    "TIER_1_CUST_DASHBOARD": {
+                        "ACTION": "VIEW"
+                    },
+                    "CLIENT_CNT_ACT_ENQUIRY_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "REVENUE_DET": {
+                        "ACTION": "VIEW"
+                    },
+                    "RCR_AD_HOC": {
+                        "ACTION": "VIEW"
+                    }
+                },
+                "WB_REPORT_HOME_CLIENT_REPORTS": {
+                    "CALL_PARTICIPANTS_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "RCR_DASHBOARD": {
+                        "ACTION": "VIEW"
+                    },
+                    "CLIENT_LEND_PORTFOLIO": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB8": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB4": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB5": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB6": {
+                        "ACTION": "VIEW"
+                    },
+                    "GENERAL_CALL_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB7": {
+                        "ACTION": "VIEW"
+                    },
+                    "MY_CLIENT_ACCESS": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB1": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB2": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB3": {
+                        "ACTION": "VIEW"
+                    },
+                    "DISCUSSION_DETAILS_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACTION": "VIEW",
+                    "RISK_VIEW": {
+                        "ACTION": "VIEW"
+                    },
+                    "FM_LIMIT_UTIL_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_MAIN": {
+                        "ACTION": "VIEW"
+                    },
+                    "REVENUE_TREND": {
+                        "ACTION": "VIEW"
+                    },
+                    "REVENUE_DASHBOARD": {
+                        "ACTION": "VIEW"
+                    },
+                    "DEAL_VIEWER": {
+                        "ACTION": "VIEW"
+                    },
+                    "TIER_1_CUST_DASHBOARD": {
+                        "ACTION": "VIEW"
+                    },
+                    "REVENUE_DET": {
+                        "ACTION": "VIEW"
+                    },
+                    "RCR_AD_HOC": {
+                        "ACTION": "VIEW"
+                    },
+                    "CLIENT_CNT_ACT_REPORT": {
+                        "ACTION": "VIEW"
+                    }
+                },
+                "WB_REPORT_HOME_GROUP_REPORTS": {
+                    "CALL_PARTICIPANTS_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_MAIN": {
+                        "ACTION": "VIEW"
+                    },
+                    "REVENUE_TREND": {
+                        "ACTION": "VIEW"
+                    },
+                    "REVENUE_DASHBOARD": {
+                        "ACTION": "VIEW"
+                    },
+                    "RCR_DASHBOARD": {
+                        "ACTION": "VIEW"
+                    },
+                    "DEAL_VIEWER": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB8": {
+                        "ACTION": "VIEW"
+                    },
+                    "TIER_1_CUST_DASHBOARD": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB4": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB5": {
+                        "ACTION": "VIEW"
+                    },
+                    "GENERAL_CALL_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB6": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB7": {
+                        "ACTION": "VIEW"
+                    },
+                    "REVENUE_DET": {
+                        "ACTION": "VIEW"
+                    },
+                    "MY_CLIENT_ACCESS": {
+                        "ACTION": "VIEW"
+                    },
+                    "RCR_AD_HOC": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB1": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB2": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACCOUNT_PLAN_SUB3": {
+                        "ACTION": "VIEW"
+                    },
+                    "DISCUSSION_DETAILS_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACTION": "VIEW",
+                    "RISK_VIEW": {
+                        "ACTION": "VIEW"
+                    },
+                    "CLIENT_CNT_ACT_REPORT": {
+                        "ACTION": "VIEW"
+                    }
+                },
+                "WB_REPORT_HOME_DEAL_REPORTS": {
+                    "ONEWB_USER_LIST": {
+                        "ACTION": "DISABLE"
+                    },
+                    "DEAL_ACTIVITY_STATUS_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "REGIONAL_PIPELINE": {
+                        "ACTION": "DISABLE"
+                    },
+                    "INDUSTRY_PIPELINE": {
+                        "ACTION": "DISABLE"
+                    },
+                    "CM_REVENUE_FORECAST": {
+                        "ACTION": "DISABLE"
+                    },
+                    "PRODUCT_PIPELINE": {
+                        "ACTION": "DISABLE"
+                    },
+                    "LOANS_PIPELINE_MEETING": {
+                        "ACTION": "DISABLE"
+                    },
+                    "CM_DEAL_PIPELINE": {
+                        "ACTION": "DISABLE"
+                    },
+                    "VOLCKER_REPORT": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACTION": "VIEW",
+                    "GLOBAL_PIPELINE": {
+                        "ACTION": "DISABLE"
+                    },
+                    "PAM_ACTIVITY_STATUS_REPORT": {
+                        "ACTION": "VIEW"
+                    }
+                },
+                "WB_ACTIVITIES": {
+                    "ACCOUNT_PLAN": {
+                        "ACTION": "VIEW"
+                    },
+                    "PROSPECTS": {
+                        "ACTION": "VIEW"
+                    },
+                    "WB_LOANS": {
+                        "ACTION": "HIDDEN"
+                    },
+                    "SDM": {
+                        "ACTION": "VIEW"
+                    },
+                    "LIMIT_ALLOCATION": {
+                        "ACTION": "VIEW"
+                    },
+                    "REPORTS": {
+                        "ACTION": "VIEW"
+                    },
+                    "DEAL_APPROVAL": {
+                        "ACTION": "VIEW"
+                    },
+                    "BULK_FATCA": {
+                        "ACTION": "HIDDEN"
+                    },
+                    "CREDIT": {
+                        "ACTION": "VIEW"
+                    },
+                    "DEAL_PIPELINE": {
+                        "ACTION": "VIEW"
+                    },
+                    "FATCA": {
+                        "ACTION": "VIEW"
+                    },
+                    "EPDM": {
+                        "ACTION": "VIEW"
+                    },
+                    "ACTION": "VIEW",
+                    "TB_CLIENT_MAP": {
+                        "ACTION": "VIEW"
+                    },
+                    "OBL": {
+                        "ACTION": "VIEW"
+                    },
+                    "DEAL_REFERRAL": {
+                        "ACTION": "VIEW"
+                    },
+                    "CDD_ADMINISTRATION": {
+                        "ACTION": "VIEW"
+                    },
+                    "CLIENT_OFF_BOARDING": {
+                        "ACTION": "VIEW"
+                    },
+                    "RAPTOR": {
+                        "ACTION": "VIEW"
+                    },
+                    "CLIENT_MANAGEMENT": {
+                        "ACTION": "VIEW"
+                    },
+                    "RCR": {
+                        "ACTION": "VIEW"
+                    },
+                    "DEAL_CENTRE_ACT_ACCESS": {
+                        "ACTION": "VIEW"
+                    },
+                    "CONTACT-360": {
+                        "ACTION": "VIEW"
+                    },
+                    "CP_CR": {
+                        "ACTION": "HIDDEN"
+                    },
+                    "TRIDENT": {
+                        "ACTION": "VIEW"
+                    },
+                    "CLIENT_ON_BOARDING": {
+                        "ACTION": "VIEW"
+                    },
+                    "CREDIT_CALENDAR": {
+                        "ACTION": "VIEW"
+                    }
+                }
+            },
+            "psId": "1001049"
+        }
+    ],
+    "meta": {
+        "mstrBaseUrl": "http://10.20.166.101:8884/MicroStrategy/servlet/mstrWeb",
+        "obieeAppUrl":"http://10.20.175.178:9502",
+        "obieeAdhocReportUrl":"http://10.20.175.178:9505"
+    }
+}

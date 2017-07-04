@@ -1,0 +1,24 @@
+{
+  "chapterFourFatcaStatuses": [
+    {
+      "code": 1,
+      "fatcaStatus": "CDD Investment Funds Administered by Security Services",
+      "caseType": "CDD"
+    },
+    {
+      "code": 2,
+      "fatcaStatus": "BBA Trustee of Investment Funds Administered by Security Services",
+      "caseType": "BBA"
+    },
+    {
+      "code": 3,
+      "fatcaStatus": "GIC Fund Manager of Investment Funds Administered by Security Services",
+      "caseType": "GIC"
+    },
+    {
+      "code": 4,
+      "fatcaStatus": "GIC/BBA/CDD Others",
+      "caseType": "GIC/BBA/CDD"
+    }
+  ]
+}

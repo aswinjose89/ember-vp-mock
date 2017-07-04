@@ -1,0 +1,43 @@
+{
+  "download": {
+    "id": "doc121",
+    "leads": [
+      {
+        "leadId": "1231343234",
+        "typeFlag": "D1",
+        "groupID": "sampleId1",
+        "leid": "1232342",
+        "crmId": "12323",
+        "assignToPSID": "12423424",
+        "assignToRole": "CCT1",
+        "country": "India1",
+        "subject": "Test Subject1",
+        "type": "D1",
+        "description": "description1",
+        "recommendedAction": "action1",
+        "priority": "101",
+        "documentLink": "https://sdfgsdfg.com",
+        "dynamicHeader": "DH|Counterparty Name|LEID|Country|Region|Segment|RM Name|Role in CIB Client Ecosystem|Lead Type|CIB Client Group|CIB Client Entity|LEID|Booking Location|Product Category|Opportunity Flow (USD)",
+        "dynamicValues": "DV|Counterparty Name|LEID|Country|Region|Segment|RM Name|Role in CIB Client Ecosystem|Lead Type|CIB Client Group|CIB Client Entity|LEID|Booking Location|Product Category|Opportunity Flow (USD)|$$DV|Counterparty Name|LEID|Country|Region|Segment|RM Name|Role in CIB Client Ecosystem|Lead Type|CIB Client Group|CIB Client Entity|LEID|Booking Location|Product Category|Opportunity Flow (USD)|$$DV|Counterparty Name|LEID|Country|Region|Segment|RM Name|Role in CIB Client Ecosystem|Lead Type|CIB Client Group|CIB Client Entity|LEID|Booking Location|Product Category|Opportunity Flow (USD)|$$DV|Counterparty Name|LEID|Country|Region|Segment|RM Name|Role in CIB Client Ecosystem|Lead Type|CIB Client Group|CIB Client Entity|LEID|Booking Location|Product Category|Opportunity Flow (USD)"
+      },
+      {
+        "leadId": "null",
+        "typeFlag": "D2",
+        "groupID": "sampleId2",
+        "leid": "1232342",
+        "crmId": "12323",
+        "assignToPSID": "12423424",
+        "assignToRole": "CCT2",
+        "country": "India2",
+        "subject": "Test Subject2",
+        "type": "D2",
+        "description": "description2",
+        "recommendedAction": "action2",
+        "priority": "102",
+        "documentLink": "http://sdfgsdfg.com",
+        "dynamicHeader": "DH|Counterparty Name|LEID|Country|Region|Segment|RM Name|Role in CIB Client Ecosystem|Lead Type|CIB Client Group|CIB Client Entity|LEID|Booking Location|Product Category|Opportunity Flow (USD)",
+        "dynamicValues": "DV|Counterparty Name|LEID|Country|Region|Segment|RM Name|Role in CIB Client Ecosystem|Lead Type|CIB Client Group|CIB Client Entity|LEID|Booking Location|Product Category|Opportunity Flow (USD)|$$DV|Counterparty Name|LEID|Country|Region|Segment|RM Name|Role in CIB Client Ecosystem|Lead Type|CIB Client Group|CIB Client Entity|LEID|Booking Location|Product Category|Opportunity Flow (USD)|$$DV|Counterparty Name|LEID|Country|Region|Segment|RM Name|Role in CIB Client Ecosystem|Lead Type|CIB Client Group|CIB Client Entity|LEID|Booking Location|Product Category|Opportunity Flow (USD)"
+      }
+    ]
+  }
+}

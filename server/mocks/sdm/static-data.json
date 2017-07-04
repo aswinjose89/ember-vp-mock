@@ -1,0 +1,7039 @@
+{
+	"sdmPicklists": {
+		"id": 1,
+		"rmRoles": [
+			{
+				"id": "RAMRAM",
+				"code": "RAM",
+				"description": "RAM",
+				"param1": null,
+				"content": null
+			}
+		],
+		"segments": [
+			{
+				"id": "ECOMMODITY TRADERS & AGRICULTURE",
+				"code": "E",
+				"description": "COMMODITY TRADERS & AGRICULTURE",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "50CONSUMER BANK",
+				"code": "50",
+				"description": "CONSUMER BANK",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "NFINANCIAL INSTITUTIONS",
+				"code": "N",
+				"description": "FINANCIAL INSTITUTIONS",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "KGLOBAL CORPORATES",
+				"code": "K",
+				"description": "GLOBAL CORPORATES",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "HVHIGH VALUE SMALL BUSINESS",
+				"code": "HV",
+				"description": "HIGH VALUE SMALL BUSINESS",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "ALOCAL CORPORATES",
+				"code": "A",
+				"description": "LOCAL CORPORATES",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "MEMEDIUM ENTERPRISE",
+				"code": "ME",
+				"description": "MEDIUM ENTERPRISE",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "MMMIDDLE MARKETS",
+				"code": "MM",
+				"description": "MIDDLE MARKETS",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "SOWN ACCOUNT",
+				"code": "S",
+				"description": "OWN ACCOUNT",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "30SMALL AND MEDIUM ENTERPRISES",
+				"code": "30",
+				"description": "SMALL AND MEDIUM ENTERPRISES",
+				"param1": null,
+				"content": null
+			}
+		],
+		"bookingLocations": [
+			{
+				"id": "AE/SCBLAE/SCBL",
+				"code": "AE/SCBL",
+				"description": "AE/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "AE/SCDFAE/SCDF",
+				"code": "AE/SCDF",
+				"description": "AE/SCDF",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "AF/SCBLAF/SCBL",
+				"code": "AF/SCBL",
+				"description": "AF/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "AO/SCAOAO/SCAO",
+				"code": "AO/SCAO",
+				"description": "AO/SCAO",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "AR/SCBLAR/SCBL",
+				"code": "AR/SCBL",
+				"description": "AR/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "AU/SCBLAU/SCBL",
+				"code": "AU/SCBL",
+				"description": "AU/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "BD/SCBLBD/SCBL",
+				"code": "BD/SCBL",
+				"description": "BD/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "BH/SCBLBH/SCBL",
+				"code": "BH/SCBL",
+				"description": "BH/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "BN/SCBLBN/SCBL",
+				"code": "BN/SCBL",
+				"description": "BN/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "BN/SCBNBN/SCBN",
+				"code": "BN/SCBN",
+				"description": "BN/SCBN",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "BN/SCCSBN/SCCS",
+				"code": "BN/SCCS",
+				"description": "BN/SCCS",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "BR/SCBLBR/SCBL",
+				"code": "BR/SCBL",
+				"description": "BR/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "BR/SCBRBR/SCBR",
+				"code": "BR/SCBR",
+				"description": "BR/SCBR",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "BS/SCBSBS/SCBS",
+				"code": "BS/SCBS",
+				"description": "BS/SCBS",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "BW/SCBWBW/SCBW",
+				"code": "BW/SCBW",
+				"description": "BW/SCBW",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CH/SCBLCH/SCBL",
+				"code": "CH/SCBL",
+				"description": "CH/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CI/SCCICI/SCCI",
+				"code": "CI/SCCI",
+				"description": "CI/SCCI",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CL/SCBLCL/SCBL",
+				"code": "CL/SCBL",
+				"description": "CL/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CM/SCCMCM/SCCM",
+				"code": "CM/SCCM",
+				"description": "CM/SCCM",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CN/SCCNCN/SCCN",
+				"code": "CN/SCCN",
+				"description": "CN/SCCN",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CN/SCTSCN/SCTS",
+				"code": "CN/SCTS",
+				"description": "CN/SCTS",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CO/SCBACO/SCBA",
+				"code": "CO/SCBA",
+				"description": "CO/SCBA",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CO/SCBCCO/SCBC",
+				"code": "CO/SCBC",
+				"description": "CO/SCBC",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "DE/SCBLDE/SCBL",
+				"code": "DE/SCBL",
+				"description": "DE/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "FK/SCBLFK/SCBL",
+				"code": "FK/SCBL",
+				"description": "FK/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "GB/FINVGB/FINV",
+				"code": "GB/FINV",
+				"description": "GB/FINV",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "GB/PEMBGB/PEMB",
+				"code": "GB/PEMB",
+				"description": "GB/PEMB",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "GB/SCBLGB/SCBL",
+				"code": "GB/SCBL",
+				"description": "GB/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "GB/SCIHGB/SCIH",
+				"code": "GB/SCIH",
+				"description": "GB/SCIH",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "GB/SCPLCGB/SCPLC",
+				"code": "GB/SCPLC",
+				"description": "GB/SCPLC",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "GH/SCGHGH/SCGH",
+				"code": "GH/SCGH",
+				"description": "GH/SCGH",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "GM/SCGMGM/SCGM",
+				"code": "GM/SCGM",
+				"description": "GM/SCGM",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "GR/SCBLGR/SCBL",
+				"code": "GR/SCBL",
+				"description": "GR/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "HK/PEMBHK/PEMB",
+				"code": "HK/PEMB",
+				"description": "HK/PEMB",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "HK/SCHKHK/SCHK",
+				"code": "HK/SCHK",
+				"description": "HK/SCHK",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "HK/SCSSHK/SCSS",
+				"code": "HK/SCSS",
+				"description": "HK/SCSS",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "HK/SCTSLHK/SCTSL",
+				"code": "HK/SCTSL",
+				"description": "HK/SCTSL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "ID/SCBLID/SCBL",
+				"code": "ID/SCBL",
+				"description": "ID/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "IL/SCBLIL/SCBL",
+				"code": "IL/SCBL",
+				"description": "IL/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "IN/SCBLIN/SCBL",
+				"code": "IN/SCBL",
+				"description": "IN/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "IN/SCILLIN/SCILL",
+				"code": "IN/SCILL",
+				"description": "IN/SCILL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "IQ/SCIQIQ/SCIQ",
+				"code": "IQ/SCIQ",
+				"description": "IQ/SCIQ",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "IR/SCBLIR/SCBL",
+				"code": "IR/SCBL",
+				"description": "IR/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "JO/SCBLJO/SCBL",
+				"code": "JO/SCBL",
+				"description": "JO/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "JP/SCBLJP/SCBL",
+				"code": "JP/SCBL",
+				"description": "JP/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "JP/SCSJJP/SCSJ",
+				"code": "JP/SCSJ",
+				"description": "JP/SCSJ",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "KE/SCKEKE/SCKE",
+				"code": "KE/SCKE",
+				"description": "KE/SCKE",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "KH/SCBLKH/SCBL",
+				"code": "KH/SCBL",
+				"description": "KH/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "KR/SCFBKR/SCFB",
+				"code": "KR/SCFB",
+				"description": "KR/SCFB",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "KR/SCSKKR/SCSK",
+				"code": "KR/SCSK",
+				"description": "KR/SCSK",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "KY/SCNBKY/SCNB",
+				"code": "KY/SCNB",
+				"description": "KY/SCNB",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "LA/SCBLLA/SCBL",
+				"code": "LA/SCBL",
+				"description": "LA/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "LB/SCLBLB/SCLB",
+				"code": "LB/SCLB",
+				"description": "LB/SCLB",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "LK/SCBLLK/SCBL",
+				"code": "LK/SCBL",
+				"description": "LK/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "MM/SCBLMM/SCBL",
+				"code": "MM/SCBL",
+				"description": "MM/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "MO/SCBLMO/SCBL",
+				"code": "MO/SCBL",
+				"description": "MO/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "MU/SCMUMU/SCMU",
+				"code": "MU/SCMU",
+				"description": "MU/SCMU",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "MX/SCBLMX/SCBL",
+				"code": "MX/SCBL",
+				"description": "MX/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "MY/SCMYMY/SCMY",
+				"code": "MY/SCMY",
+				"description": "MY/SCMY",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "MY/SCOLMY/SCOL",
+				"code": "MY/SCOL",
+				"description": "MY/SCOL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "MY/SCSBMY/SCSB",
+				"code": "MY/SCSB",
+				"description": "MY/SCSB",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "MZ/SCBLMZ/SCBL",
+				"code": "MZ/SCBL",
+				"description": "MZ/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "NG/SCNGNG/SCNG",
+				"code": "NG/SCNG",
+				"description": "NG/SCNG",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "NP/SCNLNP/SCNL",
+				"code": "NP/SCNL",
+				"description": "NP/SCNL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "OM/SCBLOM/SCBL",
+				"code": "OM/SCBL",
+				"description": "OM/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "PE/SCBAPE/SCBA",
+				"code": "PE/SCBA",
+				"description": "PE/SCBA",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "PE/SCBLPE/SCBL",
+				"code": "PE/SCBL",
+				"description": "PE/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "PH/SCBLPH/SCBL",
+				"code": "PH/SCBL",
+				"description": "PH/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "PK/SCPKPK/SCPK",
+				"code": "PK/SCPK",
+				"description": "PK/SCPK",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "QA/SCBLQA/SCBL",
+				"code": "QA/SCBL",
+				"description": "QA/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "SA/SCSASA/SCSA",
+				"code": "SA/SCSA",
+				"description": "SA/SCSA",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "SE/SCBLSE/SCBL",
+				"code": "SE/SCBL",
+				"description": "SE/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "SG/SCBLSG/SCBL",
+				"code": "SG/SCBL",
+				"description": "SG/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "SG/SCSPSG/SCSP",
+				"code": "SG/SCSP",
+				"description": "SG/SCSP",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "SG/SCSSSG/SCSS",
+				"code": "SG/SCSS",
+				"description": "SG/SCSS",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "SL/SCSLSL/SCSL",
+				"code": "SL/SCSL",
+				"description": "SL/SCSL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "TH/SCBLTH/SCBL",
+				"code": "TH/SCBL",
+				"description": "TH/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "TH/SCBTTH/SCBT",
+				"code": "TH/SCBT",
+				"description": "TH/SCBT",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "TH/SCNBTH/SCNB",
+				"code": "TH/SCNB",
+				"description": "TH/SCNB",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "TH/SCTAMTH/SCTAM",
+				"code": "TH/SCTAM",
+				"description": "TH/SCTAM",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "TH/SCTHTH/SCTH",
+				"code": "TH/SCTH",
+				"description": "TH/SCTH",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "TR/SCTRTR/SCTR",
+				"code": "TR/SCTR",
+				"description": "TR/SCTR",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "TW/SCBLTW/SCBL",
+				"code": "TW/SCBL",
+				"description": "TW/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "TW/SCTWTW/SCTW",
+				"code": "TW/SCTW",
+				"description": "TW/SCTW",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "TZ/SCTZTZ/SCTZ",
+				"code": "TZ/SCTZ",
+				"description": "TZ/SCTZ",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "UG/SCUGUG/SCUG",
+				"code": "UG/SCUG",
+				"description": "UG/SCUG",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "US/SCBLUS/SCBL",
+				"code": "US/SCBL",
+				"description": "US/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "US/SCTSCUS/SCTSC",
+				"code": "US/SCTSC",
+				"description": "US/SCTSC",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "VE/SCBAVE/SCBA",
+				"code": "VE/SCBA",
+				"description": "VE/SCBA",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "VN/SCBLVN/SCBL",
+				"code": "VN/SCBL",
+				"description": "VN/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "VN/SCVNVN/SCVN",
+				"code": "VN/SCVN",
+				"description": "VN/SCVN",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "ZA/SCBLZA/SCBL",
+				"code": "ZA/SCBL",
+				"description": "ZA/SCBL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "ZM/SCZMZM/SCZM",
+				"code": "ZM/SCZM",
+				"description": "ZM/SCZM",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "ZW/SCZWZW/SCZW",
+				"code": "ZW/SCZW",
+				"description": "ZW/SCZW",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "ZZ/ZZZZZZ/ZZZZ",
+				"code": "ZZ/ZZZZ",
+				"description": "ZZ/ZZZZ",
+				"param1": null,
+				"content": null
+			}
+		],
+		"regions": [
+			{
+				"id": "AFRICAAFRICA",
+				"code": "AFRICA",
+				"description": "AFRICA",
+				"param1": null,
+				"content": [
+					{
+						"id": "RAAFRICA REGION OTHERS (ARO)",
+						"code": "RA",
+						"description": "AFRICA REGION OTHERS (ARO)",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "AOANGOLA",
+						"code": "AO",
+						"description": "ANGOLA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "BJBENIN",
+						"code": "BJ",
+						"description": "BENIN",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "BWBOTSWANA",
+						"code": "BW",
+						"description": "BOTSWANA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "BFBURKINA FASO",
+						"code": "BF",
+						"description": "BURKINA FASO",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "BIBURUNDI",
+						"code": "BI",
+						"description": "BURUNDI",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "CMCAMEROON",
+						"code": "CM",
+						"description": "CAMEROON",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "CVCAPE VERDE",
+						"code": "CV",
+						"description": "CAPE VERDE",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "CFCENTRAL AFRICAN REPUBLIC",
+						"code": "CF",
+						"description": "CENTRAL AFRICAN REPUBLIC",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "TDCHAD",
+						"code": "TD",
+						"description": "CHAD",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "KMCOMOROS",
+						"code": "KM",
+						"description": "COMOROS",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "CGCONGO",
+						"code": "CG",
+						"description": "CONGO",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "CDCONGO, THE DEMOCRATIC REPUBLIC OF THE",
+						"code": "CD",
+						"description": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "CICOTE D'IVOIRE",
+						"code": "CI",
+						"description": "COTE D'IVOIRE",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "ZRDEMOCRATIC REPUBLIC OF ZAIRE",
+						"code": "ZR",
+						"description": "DEMOCRATIC REPUBLIC OF ZAIRE",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "DJDJIBOUTI",
+						"code": "DJ",
+						"description": "DJIBOUTI",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "GQEQUATORIAL GUINEA",
+						"code": "GQ",
+						"description": "EQUATORIAL GUINEA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "ERERITREA",
+						"code": "ER",
+						"description": "ERITREA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "ETETHIOPIA",
+						"code": "ET",
+						"description": "ETHIOPIA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "GAGABON",
+						"code": "GA",
+						"description": "GABON",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "GMGAMBIA",
+						"code": "GM",
+						"description": "GAMBIA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "GHGHANA",
+						"code": "GH",
+						"description": "GHANA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "GNGUINEA",
+						"code": "GN",
+						"description": "GUINEA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "GWGUINEA-BISSAU",
+						"code": "GW",
+						"description": "GUINEA-BISSAU",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "KEKENYA",
+						"code": "KE",
+						"description": "KENYA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "LSLESOTHO",
+						"code": "LS",
+						"description": "LESOTHO",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "LRLIBERIA",
+						"code": "LR",
+						"description": "LIBERIA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "MGMADAGASCAR",
+						"code": "MG",
+						"description": "MADAGASCAR",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "MWMALAWI",
+						"code": "MW",
+						"description": "MALAWI",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "MLMALI",
+						"code": "ML",
+						"description": "MALI",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "MRMAURITANIA",
+						"code": "MR",
+						"description": "MAURITANIA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "MUMAURITIUS",
+						"code": "MU",
+						"description": "MAURITIUS",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "MZMOZAMBIQUE",
+						"code": "MZ",
+						"description": "MOZAMBIQUE",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "NANAMIBIA",
+						"code": "NA",
+						"description": "NAMIBIA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "NENIGER",
+						"code": "NE",
+						"description": "NIGER",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "NGNIGERIA",
+						"code": "NG",
+						"description": "NIGERIA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "RWRWANDA",
+						"code": "RW",
+						"description": "RWANDA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "STSAO TOME AND PRINCIPE",
+						"code": "ST",
+						"description": "SAO TOME AND PRINCIPE",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "SNSENEGAL",
+						"code": "SN",
+						"description": "SENEGAL",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "SCSEYCHELLES",
+						"code": "SC",
+						"description": "SEYCHELLES",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "SLSIERRA LEONE",
+						"code": "SL",
+						"description": "SIERRA LEONE",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "SOSOMALIA",
+						"code": "SO",
+						"description": "SOMALIA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "ZASOUTH AFRICA",
+						"code": "ZA",
+						"description": "SOUTH AFRICA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "SSSOUTH SUDAN",
+						"code": "SS",
+						"description": "SOUTH SUDAN",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "SDSUDAN",
+						"code": "SD",
+						"description": "SUDAN",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "SZSWAZILAND",
+						"code": "SZ",
+						"description": "SWAZILAND",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "TZTANZANIA UNITED REPUBLIC OF",
+						"code": "TZ",
+						"description": "TANZANIA UNITED REPUBLIC OF",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "TGTOGO",
+						"code": "TG",
+						"description": "TOGO",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "UGUGANDA",
+						"code": "UG",
+						"description": "UGANDA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "ZMZAMBIA",
+						"code": "ZM",
+						"description": "ZAMBIA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "ZWZIMBABWE",
+						"code": "ZW",
+						"description": "ZIMBABWE",
+						"param1": "AFRICA",
+						"content": null
+					}
+				]
+			},
+			{
+				"id": "AMERICASAMERICAS",
+				"code": "AMERICAS",
+				"description": "AMERICAS",
+				"param1": null,
+				"content": [
+					{
+						"id": "ASAMERICAN SAMOA",
+						"code": "AS",
+						"description": "AMERICAN SAMOA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "AIANGUILLA",
+						"code": "AI",
+						"description": "ANGUILLA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "AGANTIGUA AND BARBUDA",
+						"code": "AG",
+						"description": "ANTIGUA AND BARBUDA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "ARARGENTINA",
+						"code": "AR",
+						"description": "ARGENTINA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "AWARUBA",
+						"code": "AW",
+						"description": "ARUBA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "BSBAHAMAS",
+						"code": "BS",
+						"description": "BAHAMAS",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "BBBARBADOS",
+						"code": "BB",
+						"description": "BARBADOS",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "BZBELIZE",
+						"code": "BZ",
+						"description": "BELIZE",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "BMBERMUDA",
+						"code": "BM",
+						"description": "BERMUDA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "BOBOLIVIA, PLURINATIONAL STATE OF",
+						"code": "BO",
+						"description": "BOLIVIA, PLURINATIONAL STATE OF",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "BRBRAZIL",
+						"code": "BR",
+						"description": "BRAZIL",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "VGBRITISH VIRGIN ISLANDS",
+						"code": "VG",
+						"description": "BRITISH VIRGIN ISLANDS",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "CACANADA",
+						"code": "CA",
+						"description": "CANADA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "KYCAYMAN ISLANDS",
+						"code": "KY",
+						"description": "CAYMAN ISLANDS",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "CLCHILE",
+						"code": "CL",
+						"description": "CHILE",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "COCOLOMBIA",
+						"code": "CO",
+						"description": "COLOMBIA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "CRCOSTA RICA",
+						"code": "CR",
+						"description": "COSTA RICA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "CUCUBA",
+						"code": "CU",
+						"description": "CUBA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "DMDOMINICA",
+						"code": "DM",
+						"description": "DOMINICA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "DODOMINICAN REPUBLIC",
+						"code": "DO",
+						"description": "DOMINICAN REPUBLIC",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "ECECUADOR",
+						"code": "EC",
+						"description": "ECUADOR",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "SVEL SALVADOR",
+						"code": "SV",
+						"description": "EL SALVADOR",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "GDGRENADA",
+						"code": "GD",
+						"description": "GRENADA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "GUGUAM",
+						"code": "GU",
+						"description": "GUAM",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "GTGUATEMALA",
+						"code": "GT",
+						"description": "GUATEMALA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "GYGUYANA",
+						"code": "GY",
+						"description": "GUYANA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "HTHAITI",
+						"code": "HT",
+						"description": "HAITI",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "HNHONDURAS",
+						"code": "HN",
+						"description": "HONDURAS",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "JMJAMAICA",
+						"code": "JM",
+						"description": "JAMAICA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "MXMEXICO",
+						"code": "MX",
+						"description": "MEXICO",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "MSMONTSERRAT",
+						"code": "MS",
+						"description": "MONTSERRAT",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "NINICARAGUA",
+						"code": "NI",
+						"description": "NICARAGUA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "MPNORTHERN MARIANA ISLANDS",
+						"code": "MP",
+						"description": "NORTHERN MARIANA ISLANDS",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "PAPANAMA",
+						"code": "PA",
+						"description": "PANAMA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "PYPARAGUAY",
+						"code": "PY",
+						"description": "PARAGUAY",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "PEPERU",
+						"code": "PE",
+						"description": "PERU",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "PRPUERTO RICO",
+						"code": "PR",
+						"description": "PUERTO RICO",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "KNSAINT KITTS AND NEVIS",
+						"code": "KN",
+						"description": "SAINT KITTS AND NEVIS",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "LCSAINT LUCIA",
+						"code": "LC",
+						"description": "SAINT LUCIA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "VCSAINT VINCENT AND THE GRENADINES",
+						"code": "VC",
+						"description": "SAINT VINCENT AND THE GRENADINES",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "SXSINT MAARTEN (DUTCH PART)",
+						"code": "SX",
+						"description": "SINT MAARTEN (DUTCH PART)",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "SRSURINAME",
+						"code": "SR",
+						"description": "SURINAME",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "TTTRINIDAD AND TOBAGO",
+						"code": "TT",
+						"description": "TRINIDAD AND TOBAGO",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "TCTURKS AND CAICOS ISLANDS",
+						"code": "TC",
+						"description": "TURKS AND CAICOS ISLANDS",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "USUNITED STATES",
+						"code": "US",
+						"description": "UNITED STATES",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "UMUNITED STATES MINOR OUTLYING ISLANDS",
+						"code": "UM",
+						"description": "UNITED STATES MINOR OUTLYING ISLANDS",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "UYURUGUAY",
+						"code": "UY",
+						"description": "URUGUAY",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "VEVENEZUELA",
+						"code": "VE",
+						"description": "VENEZUELA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "VIVIRGIN ISLANDS, U.S.",
+						"code": "VI",
+						"description": "VIRGIN ISLANDS, U.S.",
+						"param1": "AMERICAS",
+						"content": null
+					}
+				]
+			},
+			{
+				"id": "ASEANASEAN",
+				"code": "ASEAN",
+				"description": "ASEAN",
+				"param1": null,
+				"content": [
+					{
+						"id": "AUAUSTRALIA",
+						"code": "AU",
+						"description": "AUSTRALIA",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "BNBRUNEI DARUSSALAM",
+						"code": "BN",
+						"description": "BRUNEI DARUSSALAM",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "KHCAMBODIA",
+						"code": "KH",
+						"description": "CAMBODIA",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "CXCHRISTMAS ISLAND",
+						"code": "CX",
+						"description": "CHRISTMAS ISLAND",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "CCCOCOS (KEELING) ISLANDS",
+						"code": "CC",
+						"description": "COCOS (KEELING) ISLANDS",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "CKCOOK ISLANDS",
+						"code": "CK",
+						"description": "COOK ISLANDS",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "FJFIJI",
+						"code": "FJ",
+						"description": "FIJI",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "HMHEARD ISLAND AND MCDONALD ISLANDS",
+						"code": "HM",
+						"description": "HEARD ISLAND AND MCDONALD ISLANDS",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "IDINDONESIA",
+						"code": "ID",
+						"description": "INDONESIA",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "KIKIRIBATI",
+						"code": "KI",
+						"description": "KIRIBATI",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "LNLABUAN",
+						"code": "LN",
+						"description": "LABUAN",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "LALAOS",
+						"code": "LA",
+						"description": "LAOS",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "MYMALAYSIA",
+						"code": "MY",
+						"description": "MALAYSIA",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "MHMARSHALL ISLANDS",
+						"code": "MH",
+						"description": "MARSHALL ISLANDS",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "FMMICRONESIA, FEDERATED STATES OF",
+						"code": "FM",
+						"description": "MICRONESIA, FEDERATED STATES OF",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "MMMYANMAR",
+						"code": "MM",
+						"description": "MYANMAR",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "NRNAURU",
+						"code": "NR",
+						"description": "NAURU",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "NZNEW ZEALAND",
+						"code": "NZ",
+						"description": "NEW ZEALAND",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "NUNIUE",
+						"code": "NU",
+						"description": "NIUE",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "NFNORFOLK ISLAND",
+						"code": "NF",
+						"description": "NORFOLK ISLAND",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "PWPALAU",
+						"code": "PW",
+						"description": "PALAU",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "PGPAPUA NEW GUINEA",
+						"code": "PG",
+						"description": "PAPUA NEW GUINEA",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "PHPHILIPPINES",
+						"code": "PH",
+						"description": "PHILIPPINES",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "WSSAMOA",
+						"code": "WS",
+						"description": "SAMOA",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "SGSINGAPORE",
+						"code": "SG",
+						"description": "SINGAPORE",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "SBSOLOMON ISLANDS",
+						"code": "SB",
+						"description": "SOLOMON ISLANDS",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "THTHAILAND",
+						"code": "TH",
+						"description": "THAILAND",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "TLTIMOR-LESTE",
+						"code": "TL",
+						"description": "TIMOR-LESTE",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "TKTOKELAU",
+						"code": "TK",
+						"description": "TOKELAU",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "TOTONGA",
+						"code": "TO",
+						"description": "TONGA",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "TVTUVALU",
+						"code": "TV",
+						"description": "TUVALU",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "VUVANUATU",
+						"code": "VU",
+						"description": "VANUATU",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "VNVIET NAM",
+						"code": "VN",
+						"description": "VIET NAM",
+						"param1": "ASEAN",
+						"content": null
+					}
+				]
+			},
+			{
+				"id": "EUROPEEUROPE",
+				"code": "EUROPE",
+				"description": "EUROPE",
+				"param1": null,
+				"content": [
+					{
+						"id": "AXALAND ISLANDS",
+						"code": "AX",
+						"description": "ALAND ISLANDS",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "ALALBANIA",
+						"code": "AL",
+						"description": "ALBANIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "ADANDORRA",
+						"code": "AD",
+						"description": "ANDORRA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "AMARMENIA",
+						"code": "AM",
+						"description": "ARMENIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "ATAUSTRIA",
+						"code": "AT",
+						"description": "AUSTRIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "AZAZERBAIJAN",
+						"code": "AZ",
+						"description": "AZERBAIJAN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "BYBELARUS",
+						"code": "BY",
+						"description": "BELARUS",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "BEBELGIUM",
+						"code": "BE",
+						"description": "BELGIUM",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "BQBONAIRE, SINT EUSTATIUS AND SABA",
+						"code": "BQ",
+						"description": "BONAIRE, SINT EUSTATIUS AND SABA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "BABOSNIA AND HERZEGOVINA",
+						"code": "BA",
+						"description": "BOSNIA AND HERZEGOVINA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "BVBOUVET ISLAND",
+						"code": "BV",
+						"description": "BOUVET ISLAND",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "IOBRITISH INDIAN OCEAN TERRITORY",
+						"code": "IO",
+						"description": "BRITISH INDIAN OCEAN TERRITORY",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "BGBULGARIA",
+						"code": "BG",
+						"description": "BULGARIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "HRCROATIA",
+						"code": "HR",
+						"description": "CROATIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "CWCURACAO",
+						"code": "CW",
+						"description": "CURACAO",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "CYCYPRUS",
+						"code": "CY",
+						"description": "CYPRUS",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "CZCZECH REPUBLIC",
+						"code": "CZ",
+						"description": "CZECH REPUBLIC",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "DKDENMARK",
+						"code": "DK",
+						"description": "DENMARK",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "EEESTONIA",
+						"code": "EE",
+						"description": "ESTONIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "FKFALKLAND ISLANDS (MALVINAS)",
+						"code": "FK",
+						"description": "FALKLAND ISLANDS (MALVINAS)",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "FOFAROE ISLANDS",
+						"code": "FO",
+						"description": "FAROE ISLANDS",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "FIFINLAND",
+						"code": "FI",
+						"description": "FINLAND",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "FRFRANCE",
+						"code": "FR",
+						"description": "FRANCE",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "GFFRENCH GUIANA",
+						"code": "GF",
+						"description": "FRENCH GUIANA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "PFFRENCH POLYNESIA",
+						"code": "PF",
+						"description": "FRENCH POLYNESIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "TFFRENCH SOUTHERN TERRITORIES",
+						"code": "TF",
+						"description": "FRENCH SOUTHERN TERRITORIES",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "GEGEORGIA",
+						"code": "GE",
+						"description": "GEORGIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "DEGERMANY",
+						"code": "DE",
+						"description": "GERMANY",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "GIGIBRALTAR",
+						"code": "GI",
+						"description": "GIBRALTAR",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "GRGREECE",
+						"code": "GR",
+						"description": "GREECE",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "GLGREENLAND",
+						"code": "GL",
+						"description": "GREENLAND",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "GPGUADELOUPE",
+						"code": "GP",
+						"description": "GUADELOUPE",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "GGGUERNSEY",
+						"code": "GG",
+						"description": "GUERNSEY",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "VAHOLY SEE (VATICAN CITY STATE)",
+						"code": "VA",
+						"description": "HOLY SEE (VATICAN CITY STATE)",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "HUHUNGARY",
+						"code": "HU",
+						"description": "HUNGARY",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "ISICELAND",
+						"code": "IS",
+						"description": "ICELAND",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "IEIRELAND",
+						"code": "IE",
+						"description": "IRELAND",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "IMISLE OF MAN",
+						"code": "IM",
+						"description": "ISLE OF MAN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "ILISRAEL",
+						"code": "IL",
+						"description": "ISRAEL",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "ITITALY",
+						"code": "IT",
+						"description": "ITALY",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "JEJERSEY",
+						"code": "JE",
+						"description": "JERSEY",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "KZKAZAKSTAN",
+						"code": "KZ",
+						"description": "KAZAKSTAN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "KGKYRGYZSTAN",
+						"code": "KG",
+						"description": "KYRGYZSTAN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "LVLATVIA",
+						"code": "LV",
+						"description": "LATVIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "LILIECHTENSTEIN",
+						"code": "LI",
+						"description": "LIECHTENSTEIN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "LTLITHUANIA",
+						"code": "LT",
+						"description": "LITHUANIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "LULUXEMBOURG",
+						"code": "LU",
+						"description": "LUXEMBOURG",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "MKMACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+						"code": "MK",
+						"description": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "MTMALTA",
+						"code": "MT",
+						"description": "MALTA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "MQMARTINIQUE",
+						"code": "MQ",
+						"description": "MARTINIQUE",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "YTMAYOTTE",
+						"code": "YT",
+						"description": "MAYOTTE",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "MDMOLDOVA, REPUBLIC OF",
+						"code": "MD",
+						"description": "MOLDOVA, REPUBLIC OF",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "MCMONACO",
+						"code": "MC",
+						"description": "MONACO",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "MEMONTENEGRO",
+						"code": "ME",
+						"description": "MONTENEGRO",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "NLNETHERLAND",
+						"code": "NL",
+						"description": "NETHERLAND",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "ANNETHERLANDS ANTILLES",
+						"code": "AN",
+						"description": "NETHERLANDS ANTILLES",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "NCNEW CALEDONIA",
+						"code": "NC",
+						"description": "NEW CALEDONIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "NONORWAY",
+						"code": "NO",
+						"description": "NORWAY",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "PNPITCAIRN",
+						"code": "PN",
+						"description": "PITCAIRN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "PLPOLAND",
+						"code": "PL",
+						"description": "POLAND",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "PTPORTUGAL",
+						"code": "PT",
+						"description": "PORTUGAL",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "REREUNION",
+						"code": "RE",
+						"description": "REUNION",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "ROROMANIA",
+						"code": "RO",
+						"description": "ROMANIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "RURUSSIAN FEDERATION",
+						"code": "RU",
+						"description": "RUSSIAN FEDERATION",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "BLSAINT BARTHELEMY",
+						"code": "BL",
+						"description": "SAINT BARTHELEMY",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "SHSAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+						"code": "SH",
+						"description": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "MFSAINT MARTIN",
+						"code": "MF",
+						"description": "SAINT MARTIN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "PMSAINT PIERRE AND MIQUELON",
+						"code": "PM",
+						"description": "SAINT PIERRE AND MIQUELON",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "SMSAN MARINO",
+						"code": "SM",
+						"description": "SAN MARINO",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "RSSERBIA",
+						"code": "RS",
+						"description": "SERBIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "SKSLOVAKIA",
+						"code": "SK",
+						"description": "SLOVAKIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "SISLOVENIA",
+						"code": "SI",
+						"description": "SLOVENIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "GSSOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+						"code": "GS",
+						"description": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "ESSPAIN",
+						"code": "ES",
+						"description": "SPAIN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "SJSVALBARD AND JAN MAYEN",
+						"code": "SJ",
+						"description": "SVALBARD AND JAN MAYEN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "SESWEDEN",
+						"code": "SE",
+						"description": "SWEDEN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "CHSWITZERLAND",
+						"code": "CH",
+						"description": "SWITZERLAND",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "TJTAJIKISTAN",
+						"code": "TJ",
+						"description": "TAJIKISTAN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "TRTURKEY",
+						"code": "TR",
+						"description": "TURKEY",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "TMTURKMENISTAN",
+						"code": "TM",
+						"description": "TURKMENISTAN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "UAUKRAINE",
+						"code": "UA",
+						"description": "UKRAINE",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "GBUNITED KINGDOM",
+						"code": "GB",
+						"description": "UNITED KINGDOM",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "UZUZBEKISTAN",
+						"code": "UZ",
+						"description": "UZBEKISTAN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "WFWALLIS AND FUTUNA",
+						"code": "WF",
+						"description": "WALLIS AND FUTUNA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "YUYUGOSLAVIA ",
+						"code": "YU",
+						"description": "YUGOSLAVIA ",
+						"param1": "EUROPE",
+						"content": null
+					}
+				]
+			},
+			{
+				"id": "GREATER CHINAGREATER CHINA",
+				"code": "GREATER CHINA",
+				"description": "GREATER CHINA",
+				"param1": null,
+				"content": [
+					{
+						"id": "CNCHINA",
+						"code": "CN",
+						"description": "CHINA",
+						"param1": "GREATER CHINA",
+						"content": null
+					},
+					{
+						"id": "HKHONG KONG",
+						"code": "HK",
+						"description": "HONG KONG",
+						"param1": "GREATER CHINA",
+						"content": null
+					},
+					{
+						"id": "MOMACAO",
+						"code": "MO",
+						"description": "MACAO",
+						"param1": "GREATER CHINA",
+						"content": null
+					},
+					{
+						"id": "TWTAIWAN",
+						"code": "TW",
+						"description": "TAIWAN",
+						"param1": "GREATER CHINA",
+						"content": null
+					}
+				]
+			},
+			{
+				"id": "MENAPMENAP",
+				"code": "MENAP",
+				"description": "MENAP",
+				"param1": null,
+				"content": [
+					{
+						"id": "AFAFGHANISTAN",
+						"code": "AF",
+						"description": "AFGHANISTAN",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "DZALGERIA",
+						"code": "DZ",
+						"description": "ALGERIA",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "BHBAHRAIN",
+						"code": "BH",
+						"description": "BAHRAIN",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "EGEGYPT",
+						"code": "EG",
+						"description": "EGYPT",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "IRIRAN",
+						"code": "IR",
+						"description": "IRAN",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "IQIRAQ",
+						"code": "IQ",
+						"description": "IRAQ",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "JOJORDAN",
+						"code": "JO",
+						"description": "JORDAN",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "KWKUWAIT",
+						"code": "KW",
+						"description": "KUWAIT",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "LBLEBANON",
+						"code": "LB",
+						"description": "LEBANON",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "LYLIBYAN ARAB JAMAHIRIYA",
+						"code": "LY",
+						"description": "LIBYAN ARAB JAMAHIRIYA",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "MAMOROCCO",
+						"code": "MA",
+						"description": "MOROCCO",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "OMOMAN",
+						"code": "OM",
+						"description": "OMAN",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "PKPAKISTAN",
+						"code": "PK",
+						"description": "PAKISTAN",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "PSPALESTINIAN TERRITORY, OCCUPIED",
+						"code": "PS",
+						"description": "PALESTINIAN TERRITORY, OCCUPIED",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "QAQATAR",
+						"code": "QA",
+						"description": "QATAR",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "SASAUDI ARABIA",
+						"code": "SA",
+						"description": "SAUDI ARABIA",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "XASCB SAUDI OFFSHORE",
+						"code": "XA",
+						"description": "SCB SAUDI OFFSHORE",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "SPSNPC - MENA OTHERS",
+						"code": "SP",
+						"description": "SNPC - MENA OTHERS",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "SYSYRIAN ARAB REPUBLIC",
+						"code": "SY",
+						"description": "SYRIAN ARAB REPUBLIC",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "TNTUNISIA",
+						"code": "TN",
+						"description": "TUNISIA",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "AEUNITED ARAB EMIRATES",
+						"code": "AE",
+						"description": "UNITED ARAB EMIRATES",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "EHWESTERN SAHARA",
+						"code": "EH",
+						"description": "WESTERN SAHARA",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "YEYEMEN",
+						"code": "YE",
+						"description": "YEMEN",
+						"param1": "MENAP",
+						"content": null
+					}
+				]
+			},
+			{
+				"id": "NE ASIANE ASIA",
+				"code": "NE ASIA",
+				"description": "NE ASIA",
+				"param1": null,
+				"content": [
+					{
+						"id": "JPJAPAN",
+						"code": "JP",
+						"description": "JAPAN",
+						"param1": "NE ASIA",
+						"content": null
+					},
+					{
+						"id": "KPKOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",
+						"code": "KP",
+						"description": "KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",
+						"param1": "NE ASIA",
+						"content": null
+					},
+					{
+						"id": "KRKOREA, REPUBLIC OF",
+						"code": "KR",
+						"description": "KOREA, REPUBLIC OF",
+						"param1": "NE ASIA",
+						"content": null
+					},
+					{
+						"id": "MNMONGOLIA",
+						"code": "MN",
+						"description": "MONGOLIA",
+						"param1": "NE ASIA",
+						"content": null
+					}
+				]
+			},
+			{
+				"id": "SOUTH ASIASOUTH ASIA",
+				"code": "SOUTH ASIA",
+				"description": "SOUTH ASIA",
+				"param1": null,
+				"content": [
+					{
+						"id": "BDBANGLADESH",
+						"code": "BD",
+						"description": "BANGLADESH",
+						"param1": "SOUTH ASIA",
+						"content": null
+					},
+					{
+						"id": "BTBHUTAN",
+						"code": "BT",
+						"description": "BHUTAN",
+						"param1": "SOUTH ASIA",
+						"content": null
+					},
+					{
+						"id": "ININDIA",
+						"code": "IN",
+						"description": "INDIA",
+						"param1": "SOUTH ASIA",
+						"content": null
+					},
+					{
+						"id": "MVMALDIVES",
+						"code": "MV",
+						"description": "MALDIVES",
+						"param1": "SOUTH ASIA",
+						"content": null
+					},
+					{
+						"id": "NPNEPAL",
+						"code": "NP",
+						"description": "NEPAL",
+						"param1": "SOUTH ASIA",
+						"content": null
+					},
+					{
+						"id": "LKSRI LANKA",
+						"code": "LK",
+						"description": "SRI LANKA",
+						"param1": "SOUTH ASIA",
+						"content": null
+					}
+				]
+			}
+		],
+		"countries": [
+			{
+				"id": "AFAFGHANISTAN",
+				"code": "AF",
+				"description": "AFGHANISTAN",
+				"param1": "MENAP",
+				"content": null
+			},
+			{
+				"id": "RAAFRICA REGION OTHERS (ARO)",
+				"code": "RA",
+				"description": "AFRICA REGION OTHERS (ARO)",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "AXALAND ISLANDS",
+				"code": "AX",
+				"description": "ALAND ISLANDS",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "ALALBANIA",
+				"code": "AL",
+				"description": "ALBANIA",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "DZALGERIA",
+				"code": "DZ",
+				"description": "ALGERIA",
+				"param1": "MENAP",
+				"content": null
+			},
+			{
+				"id": "ASAMERICAN SAMOA",
+				"code": "AS",
+				"description": "AMERICAN SAMOA",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "ADANDORRA",
+				"code": "AD",
+				"description": "ANDORRA",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "AOANGOLA",
+				"code": "AO",
+				"description": "ANGOLA",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "AIANGUILLA",
+				"code": "AI",
+				"description": "ANGUILLA",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "AGANTIGUA AND BARBUDA",
+				"code": "AG",
+				"description": "ANTIGUA AND BARBUDA",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "ARARGENTINA",
+				"code": "AR",
+				"description": "ARGENTINA",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "AMARMENIA",
+				"code": "AM",
+				"description": "ARMENIA",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "AWARUBA",
+				"code": "AW",
+				"description": "ARUBA",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "AUAUSTRALIA",
+				"code": "AU",
+				"description": "AUSTRALIA",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "ATAUSTRIA",
+				"code": "AT",
+				"description": "AUSTRIA",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "AZAZERBAIJAN",
+				"code": "AZ",
+				"description": "AZERBAIJAN",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "BSBAHAMAS",
+				"code": "BS",
+				"description": "BAHAMAS",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "BHBAHRAIN",
+				"code": "BH",
+				"description": "BAHRAIN",
+				"param1": "MENAP",
+				"content": null
+			},
+			{
+				"id": "BDBANGLADESH",
+				"code": "BD",
+				"description": "BANGLADESH",
+				"param1": "SOUTH ASIA",
+				"content": null
+			},
+			{
+				"id": "BBBARBADOS",
+				"code": "BB",
+				"description": "BARBADOS",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "BYBELARUS",
+				"code": "BY",
+				"description": "BELARUS",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "BEBELGIUM",
+				"code": "BE",
+				"description": "BELGIUM",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "BZBELIZE",
+				"code": "BZ",
+				"description": "BELIZE",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "BJBENIN",
+				"code": "BJ",
+				"description": "BENIN",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "BMBERMUDA",
+				"code": "BM",
+				"description": "BERMUDA",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "BTBHUTAN",
+				"code": "BT",
+				"description": "BHUTAN",
+				"param1": "SOUTH ASIA",
+				"content": null
+			},
+			{
+				"id": "BOBOLIVIA, PLURINATIONAL STATE OF",
+				"code": "BO",
+				"description": "BOLIVIA, PLURINATIONAL STATE OF",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "BQBONAIRE, SINT EUSTATIUS AND SABA",
+				"code": "BQ",
+				"description": "BONAIRE, SINT EUSTATIUS AND SABA",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "BABOSNIA AND HERZEGOVINA",
+				"code": "BA",
+				"description": "BOSNIA AND HERZEGOVINA",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "BWBOTSWANA",
+				"code": "BW",
+				"description": "BOTSWANA",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "BVBOUVET ISLAND",
+				"code": "BV",
+				"description": "BOUVET ISLAND",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "BRBRAZIL",
+				"code": "BR",
+				"description": "BRAZIL",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "IOBRITISH INDIAN OCEAN TERRITORY",
+				"code": "IO",
+				"description": "BRITISH INDIAN OCEAN TERRITORY",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "VGBRITISH VIRGIN ISLANDS",
+				"code": "VG",
+				"description": "BRITISH VIRGIN ISLANDS",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "BNBRUNEI DARUSSALAM",
+				"code": "BN",
+				"description": "BRUNEI DARUSSALAM",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "BGBULGARIA",
+				"code": "BG",
+				"description": "BULGARIA",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "BFBURKINA FASO",
+				"code": "BF",
+				"description": "BURKINA FASO",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "BIBURUNDI",
+				"code": "BI",
+				"description": "BURUNDI",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "KHCAMBODIA",
+				"code": "KH",
+				"description": "CAMBODIA",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "CMCAMEROON",
+				"code": "CM",
+				"description": "CAMEROON",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "CACANADA",
+				"code": "CA",
+				"description": "CANADA",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "CVCAPE VERDE",
+				"code": "CV",
+				"description": "CAPE VERDE",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "KYCAYMAN ISLANDS",
+				"code": "KY",
+				"description": "CAYMAN ISLANDS",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "CFCENTRAL AFRICAN REPUBLIC",
+				"code": "CF",
+				"description": "CENTRAL AFRICAN REPUBLIC",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "TDCHAD",
+				"code": "TD",
+				"description": "CHAD",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "CLCHILE",
+				"code": "CL",
+				"description": "CHILE",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "CNCHINA",
+				"code": "CN",
+				"description": "CHINA",
+				"param1": "GREATER CHINA",
+				"content": null
+			},
+			{
+				"id": "CXCHRISTMAS ISLAND",
+				"code": "CX",
+				"description": "CHRISTMAS ISLAND",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "CCCOCOS (KEELING) ISLANDS",
+				"code": "CC",
+				"description": "COCOS (KEELING) ISLANDS",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "COCOLOMBIA",
+				"code": "CO",
+				"description": "COLOMBIA",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "KMCOMOROS",
+				"code": "KM",
+				"description": "COMOROS",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "CGCONGO",
+				"code": "CG",
+				"description": "CONGO",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "CDCONGO, THE DEMOCRATIC REPUBLIC OF THE",
+				"code": "CD",
+				"description": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "CKCOOK ISLANDS",
+				"code": "CK",
+				"description": "COOK ISLANDS",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "CRCOSTA RICA",
+				"code": "CR",
+				"description": "COSTA RICA",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "CICOTE D'IVOIRE",
+				"code": "CI",
+				"description": "COTE D'IVOIRE",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "HRCROATIA",
+				"code": "HR",
+				"description": "CROATIA",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "CUCUBA",
+				"code": "CU",
+				"description": "CUBA",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "CWCURACAO",
+				"code": "CW",
+				"description": "CURACAO",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "CYCYPRUS",
+				"code": "CY",
+				"description": "CYPRUS",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "CZCZECH REPUBLIC",
+				"code": "CZ",
+				"description": "CZECH REPUBLIC",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "ZRDEMOCRATIC REPUBLIC OF ZAIRE",
+				"code": "ZR",
+				"description": "DEMOCRATIC REPUBLIC OF ZAIRE",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "DKDENMARK",
+				"code": "DK",
+				"description": "DENMARK",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "DJDJIBOUTI",
+				"code": "DJ",
+				"description": "DJIBOUTI",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "DMDOMINICA",
+				"code": "DM",
+				"description": "DOMINICA",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "DODOMINICAN REPUBLIC",
+				"code": "DO",
+				"description": "DOMINICAN REPUBLIC",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "ECECUADOR",
+				"code": "EC",
+				"description": "ECUADOR",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "EGEGYPT",
+				"code": "EG",
+				"description": "EGYPT",
+				"param1": "MENAP",
+				"content": null
+			},
+			{
+				"id": "SVEL SALVADOR",
+				"code": "SV",
+				"description": "EL SALVADOR",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "GQEQUATORIAL GUINEA",
+				"code": "GQ",
+				"description": "EQUATORIAL GUINEA",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "ERERITREA",
+				"code": "ER",
+				"description": "ERITREA",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "EEESTONIA",
+				"code": "EE",
+				"description": "ESTONIA",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "ETETHIOPIA",
+				"code": "ET",
+				"description": "ETHIOPIA",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "FKFALKLAND ISLANDS (MALVINAS)",
+				"code": "FK",
+				"description": "FALKLAND ISLANDS (MALVINAS)",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "FOFAROE ISLANDS",
+				"code": "FO",
+				"description": "FAROE ISLANDS",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "FJFIJI",
+				"code": "FJ",
+				"description": "FIJI",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "FIFINLAND",
+				"code": "FI",
+				"description": "FINLAND",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "FRFRANCE",
+				"code": "FR",
+				"description": "FRANCE",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "GFFRENCH GUIANA",
+				"code": "GF",
+				"description": "FRENCH GUIANA",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "PFFRENCH POLYNESIA",
+				"code": "PF",
+				"description": "FRENCH POLYNESIA",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "TFFRENCH SOUTHERN TERRITORIES",
+				"code": "TF",
+				"description": "FRENCH SOUTHERN TERRITORIES",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "GAGABON",
+				"code": "GA",
+				"description": "GABON",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "GMGAMBIA",
+				"code": "GM",
+				"description": "GAMBIA",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "GEGEORGIA",
+				"code": "GE",
+				"description": "GEORGIA",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "DEGERMANY",
+				"code": "DE",
+				"description": "GERMANY",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "GHGHANA",
+				"code": "GH",
+				"description": "GHANA",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "GIGIBRALTAR",
+				"code": "GI",
+				"description": "GIBRALTAR",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "GRGREECE",
+				"code": "GR",
+				"description": "GREECE",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "GLGREENLAND",
+				"code": "GL",
+				"description": "GREENLAND",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "GDGRENADA",
+				"code": "GD",
+				"description": "GRENADA",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "GPGUADELOUPE",
+				"code": "GP",
+				"description": "GUADELOUPE",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "GUGUAM",
+				"code": "GU",
+				"description": "GUAM",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "GTGUATEMALA",
+				"code": "GT",
+				"description": "GUATEMALA",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "GGGUERNSEY",
+				"code": "GG",
+				"description": "GUERNSEY",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "GNGUINEA",
+				"code": "GN",
+				"description": "GUINEA",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "GWGUINEA-BISSAU",
+				"code": "GW",
+				"description": "GUINEA-BISSAU",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "GYGUYANA",
+				"code": "GY",
+				"description": "GUYANA",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "HTHAITI",
+				"code": "HT",
+				"description": "HAITI",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "HMHEARD ISLAND AND MCDONALD ISLANDS",
+				"code": "HM",
+				"description": "HEARD ISLAND AND MCDONALD ISLANDS",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "VAHOLY SEE (VATICAN CITY STATE)",
+				"code": "VA",
+				"description": "HOLY SEE (VATICAN CITY STATE)",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "HNHONDURAS",
+				"code": "HN",
+				"description": "HONDURAS",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "HKHONG KONG",
+				"code": "HK",
+				"description": "HONG KONG",
+				"param1": "GREATER CHINA",
+				"content": null
+			},
+			{
+				"id": "HUHUNGARY",
+				"code": "HU",
+				"description": "HUNGARY",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "ISICELAND",
+				"code": "IS",
+				"description": "ICELAND",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "ININDIA",
+				"code": "IN",
+				"description": "INDIA",
+				"param1": "SOUTH ASIA",
+				"content": null
+			},
+			{
+				"id": "IDINDONESIA",
+				"code": "ID",
+				"description": "INDONESIA",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "IRIRAN",
+				"code": "IR",
+				"description": "IRAN",
+				"param1": "MENAP",
+				"content": null
+			},
+			{
+				"id": "IQIRAQ",
+				"code": "IQ",
+				"description": "IRAQ",
+				"param1": "MENAP",
+				"content": null
+			},
+			{
+				"id": "IEIRELAND",
+				"code": "IE",
+				"description": "IRELAND",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "IMISLE OF MAN",
+				"code": "IM",
+				"description": "ISLE OF MAN",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "ILISRAEL",
+				"code": "IL",
+				"description": "ISRAEL",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "ITITALY",
+				"code": "IT",
+				"description": "ITALY",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "JMJAMAICA",
+				"code": "JM",
+				"description": "JAMAICA",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "JPJAPAN",
+				"code": "JP",
+				"description": "JAPAN",
+				"param1": "NE ASIA",
+				"content": null
+			},
+			{
+				"id": "JEJERSEY",
+				"code": "JE",
+				"description": "JERSEY",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "JOJORDAN",
+				"code": "JO",
+				"description": "JORDAN",
+				"param1": "MENAP",
+				"content": null
+			},
+			{
+				"id": "KZKAZAKSTAN",
+				"code": "KZ",
+				"description": "KAZAKSTAN",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "KEKENYA",
+				"code": "KE",
+				"description": "KENYA",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "KIKIRIBATI",
+				"code": "KI",
+				"description": "KIRIBATI",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "KPKOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",
+				"code": "KP",
+				"description": "KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",
+				"param1": "NE ASIA",
+				"content": null
+			},
+			{
+				"id": "KRKOREA, REPUBLIC OF",
+				"code": "KR",
+				"description": "KOREA, REPUBLIC OF",
+				"param1": "NE ASIA",
+				"content": null
+			},
+			{
+				"id": "KWKUWAIT",
+				"code": "KW",
+				"description": "KUWAIT",
+				"param1": "MENAP",
+				"content": null
+			},
+			{
+				"id": "KGKYRGYZSTAN",
+				"code": "KG",
+				"description": "KYRGYZSTAN",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "LNLABUAN",
+				"code": "LN",
+				"description": "LABUAN",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "LALAOS",
+				"code": "LA",
+				"description": "LAOS",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "LVLATVIA",
+				"code": "LV",
+				"description": "LATVIA",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "LBLEBANON",
+				"code": "LB",
+				"description": "LEBANON",
+				"param1": "MENAP",
+				"content": null
+			},
+			{
+				"id": "LSLESOTHO",
+				"code": "LS",
+				"description": "LESOTHO",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "LRLIBERIA",
+				"code": "LR",
+				"description": "LIBERIA",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "LYLIBYAN ARAB JAMAHIRIYA",
+				"code": "LY",
+				"description": "LIBYAN ARAB JAMAHIRIYA",
+				"param1": "MENAP",
+				"content": null
+			},
+			{
+				"id": "LILIECHTENSTEIN",
+				"code": "LI",
+				"description": "LIECHTENSTEIN",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "LTLITHUANIA",
+				"code": "LT",
+				"description": "LITHUANIA",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "LULUXEMBOURG",
+				"code": "LU",
+				"description": "LUXEMBOURG",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "MOMACAO",
+				"code": "MO",
+				"description": "MACAO",
+				"param1": "GREATER CHINA",
+				"content": null
+			},
+			{
+				"id": "MKMACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+				"code": "MK",
+				"description": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "MGMADAGASCAR",
+				"code": "MG",
+				"description": "MADAGASCAR",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "MWMALAWI",
+				"code": "MW",
+				"description": "MALAWI",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "MYMALAYSIA",
+				"code": "MY",
+				"description": "MALAYSIA",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "MVMALDIVES",
+				"code": "MV",
+				"description": "MALDIVES",
+				"param1": "SOUTH ASIA",
+				"content": null
+			},
+			{
+				"id": "MLMALI",
+				"code": "ML",
+				"description": "MALI",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "MTMALTA",
+				"code": "MT",
+				"description": "MALTA",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "MHMARSHALL ISLANDS",
+				"code": "MH",
+				"description": "MARSHALL ISLANDS",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "MQMARTINIQUE",
+				"code": "MQ",
+				"description": "MARTINIQUE",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "MRMAURITANIA",
+				"code": "MR",
+				"description": "MAURITANIA",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "MUMAURITIUS",
+				"code": "MU",
+				"description": "MAURITIUS",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "YTMAYOTTE",
+				"code": "YT",
+				"description": "MAYOTTE",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "MXMEXICO",
+				"code": "MX",
+				"description": "MEXICO",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "FMMICRONESIA, FEDERATED STATES OF",
+				"code": "FM",
+				"description": "MICRONESIA, FEDERATED STATES OF",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "MDMOLDOVA, REPUBLIC OF",
+				"code": "MD",
+				"description": "MOLDOVA, REPUBLIC OF",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "MCMONACO",
+				"code": "MC",
+				"description": "MONACO",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "MNMONGOLIA",
+				"code": "MN",
+				"description": "MONGOLIA",
+				"param1": "NE ASIA",
+				"content": null
+			},
+			{
+				"id": "MEMONTENEGRO",
+				"code": "ME",
+				"description": "MONTENEGRO",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "MSMONTSERRAT",
+				"code": "MS",
+				"description": "MONTSERRAT",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "MAMOROCCO",
+				"code": "MA",
+				"description": "MOROCCO",
+				"param1": "MENAP",
+				"content": null
+			},
+			{
+				"id": "MZMOZAMBIQUE",
+				"code": "MZ",
+				"description": "MOZAMBIQUE",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "MMMYANMAR",
+				"code": "MM",
+				"description": "MYANMAR",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "NANAMIBIA",
+				"code": "NA",
+				"description": "NAMIBIA",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "NRNAURU",
+				"code": "NR",
+				"description": "NAURU",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "NPNEPAL",
+				"code": "NP",
+				"description": "NEPAL",
+				"param1": "SOUTH ASIA",
+				"content": null
+			},
+			{
+				"id": "NLNETHERLAND",
+				"code": "NL",
+				"description": "NETHERLAND",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "ANNETHERLANDS ANTILLES",
+				"code": "AN",
+				"description": "NETHERLANDS ANTILLES",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "NCNEW CALEDONIA",
+				"code": "NC",
+				"description": "NEW CALEDONIA",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "NZNEW ZEALAND",
+				"code": "NZ",
+				"description": "NEW ZEALAND",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "NINICARAGUA",
+				"code": "NI",
+				"description": "NICARAGUA",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "NENIGER",
+				"code": "NE",
+				"description": "NIGER",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "NGNIGERIA",
+				"code": "NG",
+				"description": "NIGERIA",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "NUNIUE",
+				"code": "NU",
+				"description": "NIUE",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "NFNORFOLK ISLAND",
+				"code": "NF",
+				"description": "NORFOLK ISLAND",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "MPNORTHERN MARIANA ISLANDS",
+				"code": "MP",
+				"description": "NORTHERN MARIANA ISLANDS",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "NONORWAY",
+				"code": "NO",
+				"description": "NORWAY",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "OMOMAN",
+				"code": "OM",
+				"description": "OMAN",
+				"param1": "MENAP",
+				"content": null
+			},
+			{
+				"id": "PKPAKISTAN",
+				"code": "PK",
+				"description": "PAKISTAN",
+				"param1": "MENAP",
+				"content": null
+			},
+			{
+				"id": "PWPALAU",
+				"code": "PW",
+				"description": "PALAU",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "PSPALESTINIAN TERRITORY, OCCUPIED",
+				"code": "PS",
+				"description": "PALESTINIAN TERRITORY, OCCUPIED",
+				"param1": "MENAP",
+				"content": null
+			},
+			{
+				"id": "PAPANAMA",
+				"code": "PA",
+				"description": "PANAMA",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "PGPAPUA NEW GUINEA",
+				"code": "PG",
+				"description": "PAPUA NEW GUINEA",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "PYPARAGUAY",
+				"code": "PY",
+				"description": "PARAGUAY",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "PEPERU",
+				"code": "PE",
+				"description": "PERU",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "PHPHILIPPINES",
+				"code": "PH",
+				"description": "PHILIPPINES",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "PNPITCAIRN",
+				"code": "PN",
+				"description": "PITCAIRN",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "PLPOLAND",
+				"code": "PL",
+				"description": "POLAND",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "PTPORTUGAL",
+				"code": "PT",
+				"description": "PORTUGAL",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "PRPUERTO RICO",
+				"code": "PR",
+				"description": "PUERTO RICO",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "QAQATAR",
+				"code": "QA",
+				"description": "QATAR",
+				"param1": "MENAP",
+				"content": null
+			},
+			{
+				"id": "REREUNION",
+				"code": "RE",
+				"description": "REUNION",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "ROROMANIA",
+				"code": "RO",
+				"description": "ROMANIA",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "RURUSSIAN FEDERATION",
+				"code": "RU",
+				"description": "RUSSIAN FEDERATION",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "RWRWANDA",
+				"code": "RW",
+				"description": "RWANDA",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "BLSAINT BARTHELEMY",
+				"code": "BL",
+				"description": "SAINT BARTHELEMY",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "SHSAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+				"code": "SH",
+				"description": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "KNSAINT KITTS AND NEVIS",
+				"code": "KN",
+				"description": "SAINT KITTS AND NEVIS",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "LCSAINT LUCIA",
+				"code": "LC",
+				"description": "SAINT LUCIA",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "MFSAINT MARTIN",
+				"code": "MF",
+				"description": "SAINT MARTIN",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "PMSAINT PIERRE AND MIQUELON",
+				"code": "PM",
+				"description": "SAINT PIERRE AND MIQUELON",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "VCSAINT VINCENT AND THE GRENADINES",
+				"code": "VC",
+				"description": "SAINT VINCENT AND THE GRENADINES",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "WSSAMOA",
+				"code": "WS",
+				"description": "SAMOA",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "SMSAN MARINO",
+				"code": "SM",
+				"description": "SAN MARINO",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "STSAO TOME AND PRINCIPE",
+				"code": "ST",
+				"description": "SAO TOME AND PRINCIPE",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "SASAUDI ARABIA",
+				"code": "SA",
+				"description": "SAUDI ARABIA",
+				"param1": "MENAP",
+				"content": null
+			},
+			{
+				"id": "XASCB SAUDI OFFSHORE",
+				"code": "XA",
+				"description": "SCB SAUDI OFFSHORE",
+				"param1": "MENAP",
+				"content": null
+			},
+			{
+				"id": "SNSENEGAL",
+				"code": "SN",
+				"description": "SENEGAL",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "RSSERBIA",
+				"code": "RS",
+				"description": "SERBIA",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "SCSEYCHELLES",
+				"code": "SC",
+				"description": "SEYCHELLES",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "SLSIERRA LEONE",
+				"code": "SL",
+				"description": "SIERRA LEONE",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "SGSINGAPORE",
+				"code": "SG",
+				"description": "SINGAPORE",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "SXSINT MAARTEN (DUTCH PART)",
+				"code": "SX",
+				"description": "SINT MAARTEN (DUTCH PART)",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "SKSLOVAKIA",
+				"code": "SK",
+				"description": "SLOVAKIA",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "SISLOVENIA",
+				"code": "SI",
+				"description": "SLOVENIA",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "SPSNPC - MENA OTHERS",
+				"code": "SP",
+				"description": "SNPC - MENA OTHERS",
+				"param1": "MENAP",
+				"content": null
+			},
+			{
+				"id": "SBSOLOMON ISLANDS",
+				"code": "SB",
+				"description": "SOLOMON ISLANDS",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "SOSOMALIA",
+				"code": "SO",
+				"description": "SOMALIA",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "ZASOUTH AFRICA",
+				"code": "ZA",
+				"description": "SOUTH AFRICA",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "GSSOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+				"code": "GS",
+				"description": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "SSSOUTH SUDAN",
+				"code": "SS",
+				"description": "SOUTH SUDAN",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "ESSPAIN",
+				"code": "ES",
+				"description": "SPAIN",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "LKSRI LANKA",
+				"code": "LK",
+				"description": "SRI LANKA",
+				"param1": "SOUTH ASIA",
+				"content": null
+			},
+			{
+				"id": "SDSUDAN",
+				"code": "SD",
+				"description": "SUDAN",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "SRSURINAME",
+				"code": "SR",
+				"description": "SURINAME",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "SJSVALBARD AND JAN MAYEN",
+				"code": "SJ",
+				"description": "SVALBARD AND JAN MAYEN",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "SZSWAZILAND",
+				"code": "SZ",
+				"description": "SWAZILAND",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "SESWEDEN",
+				"code": "SE",
+				"description": "SWEDEN",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "CHSWITZERLAND",
+				"code": "CH",
+				"description": "SWITZERLAND",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "SYSYRIAN ARAB REPUBLIC",
+				"code": "SY",
+				"description": "SYRIAN ARAB REPUBLIC",
+				"param1": "MENAP",
+				"content": null
+			},
+			{
+				"id": "TWTAIWAN",
+				"code": "TW",
+				"description": "TAIWAN",
+				"param1": "GREATER CHINA",
+				"content": null
+			},
+			{
+				"id": "TJTAJIKISTAN",
+				"code": "TJ",
+				"description": "TAJIKISTAN",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "TZTANZANIA UNITED REPUBLIC OF",
+				"code": "TZ",
+				"description": "TANZANIA UNITED REPUBLIC OF",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "THTHAILAND",
+				"code": "TH",
+				"description": "THAILAND",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "TLTIMOR-LESTE",
+				"code": "TL",
+				"description": "TIMOR-LESTE",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "TGTOGO",
+				"code": "TG",
+				"description": "TOGO",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "TKTOKELAU",
+				"code": "TK",
+				"description": "TOKELAU",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "TOTONGA",
+				"code": "TO",
+				"description": "TONGA",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "TTTRINIDAD AND TOBAGO",
+				"code": "TT",
+				"description": "TRINIDAD AND TOBAGO",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "TNTUNISIA",
+				"code": "TN",
+				"description": "TUNISIA",
+				"param1": "MENAP",
+				"content": null
+			},
+			{
+				"id": "TRTURKEY",
+				"code": "TR",
+				"description": "TURKEY",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "TMTURKMENISTAN",
+				"code": "TM",
+				"description": "TURKMENISTAN",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "TCTURKS AND CAICOS ISLANDS",
+				"code": "TC",
+				"description": "TURKS AND CAICOS ISLANDS",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "TVTUVALU",
+				"code": "TV",
+				"description": "TUVALU",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "UGUGANDA",
+				"code": "UG",
+				"description": "UGANDA",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "UAUKRAINE",
+				"code": "UA",
+				"description": "UKRAINE",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "AEUNITED ARAB EMIRATES",
+				"code": "AE",
+				"description": "UNITED ARAB EMIRATES",
+				"param1": "MENAP",
+				"content": null
+			},
+			{
+				"id": "GBUNITED KINGDOM",
+				"code": "GB",
+				"description": "UNITED KINGDOM",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "USUNITED STATES",
+				"code": "US",
+				"description": "UNITED STATES",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "UMUNITED STATES MINOR OUTLYING ISLANDS",
+				"code": "UM",
+				"description": "UNITED STATES MINOR OUTLYING ISLANDS",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "UYURUGUAY",
+				"code": "UY",
+				"description": "URUGUAY",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "UZUZBEKISTAN",
+				"code": "UZ",
+				"description": "UZBEKISTAN",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "VUVANUATU",
+				"code": "VU",
+				"description": "VANUATU",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "VEVENEZUELA",
+				"code": "VE",
+				"description": "VENEZUELA",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "VNVIET NAM",
+				"code": "VN",
+				"description": "VIET NAM",
+				"param1": "ASEAN",
+				"content": null
+			},
+			{
+				"id": "VIVIRGIN ISLANDS, U.S.",
+				"code": "VI",
+				"description": "VIRGIN ISLANDS, U.S.",
+				"param1": "AMERICAS",
+				"content": null
+			},
+			{
+				"id": "WFWALLIS AND FUTUNA",
+				"code": "WF",
+				"description": "WALLIS AND FUTUNA",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "EHWESTERN SAHARA",
+				"code": "EH",
+				"description": "WESTERN SAHARA",
+				"param1": "MENAP",
+				"content": null
+			},
+			{
+				"id": "YEYEMEN",
+				"code": "YE",
+				"description": "YEMEN",
+				"param1": "MENAP",
+				"content": null
+			},
+			{
+				"id": "YUYUGOSLAVIA ",
+				"code": "YU",
+				"description": "YUGOSLAVIA ",
+				"param1": "EUROPE",
+				"content": null
+			},
+			{
+				"id": "ZMZAMBIA",
+				"code": "ZM",
+				"description": "ZAMBIA",
+				"param1": "AFRICA",
+				"content": null
+			},
+			{
+				"id": "ZWZIMBABWE",
+				"code": "ZW",
+				"description": "ZIMBABWE",
+				"param1": "AFRICA",
+				"content": null
+			}
+		],
+		"tbSegments": [
+			{
+				"id": "FranchiseFranchise",
+				"code": "Franchise",
+				"description": "Franchise",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "NetworkNetwork",
+				"code": "Network",
+				"description": "Network",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "Other ICOther IC",
+				"code": "Other IC",
+				"description": "Other IC",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "BanksBanks",
+				"code": "Banks",
+				"description": "Banks",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "I&II&I",
+				"code": "I&I",
+				"description": "I&I",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "Commercial BankingCommercial Banking",
+				"code": "Commercial Banking",
+				"description": "Commercial Banking",
+				"param1": null,
+				"content": null
+			}
+		],
+		"subSegments": [
+			{
+				"id": "G1Agriculture",
+				"code": "G1",
+				"description": "Agriculture",
+				"param1": "E",
+				"content": null
+			},
+			{
+				"id": "P4Broker Dealers",
+				"code": "P4",
+				"description": "Broker Dealers",
+				"param1": "N",
+				"content": null
+			},
+			{
+				"id": "S2Broker Dealers-Internal",
+				"code": "S2",
+				"description": "Broker Dealers-Internal",
+				"param1": "S",
+				"content": null
+			},
+			{
+				"id": "S8CTA (Commodity Traders & Agriculture)-Internal",
+				"code": "S8",
+				"description": "CTA (Commodity Traders & Agriculture)-Internal",
+				"param1": "S",
+				"content": null
+			},
+			{
+				"id": "N2Central Banks",
+				"code": "N2",
+				"description": "Central Banks",
+				"param1": "N",
+				"content": null
+			},
+			{
+				"id": "O1Development Organisations",
+				"code": "O1",
+				"description": "Development Organisations",
+				"param1": "N",
+				"content": null
+			},
+			{
+				"id": "H1Energy Traders",
+				"code": "H1",
+				"description": "Energy Traders",
+				"param1": "E",
+				"content": null
+			},
+			{
+				"id": "P9Finance Companies",
+				"code": "P9",
+				"description": "Finance Companies",
+				"param1": "N",
+				"content": null
+			},
+			{
+				"id": "S4Finance Companies-Internal",
+				"code": "S4",
+				"description": "Finance Companies-Internal",
+				"param1": "S",
+				"content": null
+			},
+			{
+				"id": "P7Financial Sponsors",
+				"code": "P7",
+				"description": "Financial Sponsors",
+				"param1": "N",
+				"content": null
+			},
+			{
+				"id": "S3Financial Sponsors-Internal",
+				"code": "S3",
+				"description": "Financial Sponsors-Internal",
+				"param1": "S",
+				"content": null
+			},
+			{
+				"id": "K1Global Corporates",
+				"code": "K1",
+				"description": "Global Corporates",
+				"param1": "K",
+				"content": null
+			},
+			{
+				"id": "P5Hedge Funds",
+				"code": "P5",
+				"description": "Hedge Funds",
+				"param1": "N",
+				"content": null
+			},
+			{
+				"id": "P3Insurance Companies",
+				"code": "P3",
+				"description": "Insurance Companies",
+				"param1": "N",
+				"content": null
+			},
+			{
+				"id": "A2International Corporates",
+				"code": "A2",
+				"description": "International Corporates",
+				"param1": "A",
+				"content": null
+			},
+			{
+				"id": "N4Investment Banks",
+				"code": "N4",
+				"description": "Investment Banks",
+				"param1": "N",
+				"content": null
+			},
+			{
+				"id": "P8Investment Companies",
+				"code": "P8",
+				"description": "Investment Companies",
+				"param1": "N",
+				"content": null
+			},
+			{
+				"id": "N5Local Bank Franchise",
+				"code": "N5",
+				"description": "Local Bank Franchise",
+				"param1": "N",
+				"content": null
+			},
+			{
+				"id": "N6Local Bank Non-Franchise",
+				"code": "N6",
+				"description": "Local Bank Non-Franchise",
+				"param1": "N",
+				"content": null
+			},
+			{
+				"id": "S7Local Corporate-Internal",
+				"code": "S7",
+				"description": "Local Corporate-Internal",
+				"param1": "S",
+				"content": null
+			},
+			{
+				"id": "B1Local Corporates",
+				"code": "B1",
+				"description": "Local Corporates",
+				"param1": "A",
+				"content": null
+			},
+			{
+				"id": "M3Local Governments",
+				"code": "M3",
+				"description": "Local Governments",
+				"param1": "N",
+				"content": null
+			},
+			{
+				"id": "03Medium Enterprise",
+				"code": "03",
+				"description": "Medium Enterprise",
+				"param1": "ME",
+				"content": null
+			},
+			{
+				"id": "24Medium Enterprise Supply Chain",
+				"code": "24",
+				"description": "Medium Enterprise Supply Chain",
+				"param1": "30",
+				"content": null
+			},
+			{
+				"id": "H4Metal Traders",
+				"code": "H4",
+				"description": "Metal Traders",
+				"param1": "E",
+				"content": null
+			},
+			{
+				"id": "A1Middle Markets",
+				"code": "A1",
+				"description": "Middle Markets",
+				"param1": "MM",
+				"content": null
+			},
+			{
+				"id": "M1Ministry of Finance ",
+				"code": "M1",
+				"description": "Ministry of Finance ",
+				"param1": "N",
+				"content": null
+			},
+			{
+				"id": "M2Multilaterals",
+				"code": "M2",
+				"description": "Multilaterals",
+				"param1": "N",
+				"content": null
+			},
+			{
+				"id": "K3Network Clients",
+				"code": "K3",
+				"description": "Network Clients",
+				"param1": "K",
+				"content": null
+			},
+			{
+				"id": "S5Other Financial Institutions-Internal",
+				"code": "S5",
+				"description": "Other Financial Institutions-Internal",
+				"param1": "S",
+				"content": null
+			},
+			{
+				"id": "M4Other Government Entities",
+				"code": "M4",
+				"description": "Other Government Entities",
+				"param1": "N",
+				"content": null
+			},
+			{
+				"id": "P10Others",
+				"code": "P10",
+				"description": "Others",
+				"param1": "N",
+				"content": null
+			},
+			{
+				"id": "S1Own Account",
+				"code": "S1",
+				"description": "Own Account",
+				"param1": "S",
+				"content": null
+			},
+			{
+				"id": "1Private Banking",
+				"code": "1",
+				"description": "Private Banking",
+				"param1": "50",
+				"content": null
+			},
+			{
+				"id": "N3Private Banks",
+				"code": "N3",
+				"description": "Private Banks",
+				"param1": "N",
+				"content": null
+			},
+			{
+				"id": "P11Public Pension Funds",
+				"code": "P11",
+				"description": "Public Pension Funds",
+				"param1": "N",
+				"content": null
+			},
+			{
+				"id": "P6Real Money Funds",
+				"code": "P6",
+				"description": "Real Money Funds",
+				"param1": "N",
+				"content": null
+			},
+			{
+				"id": "K2SCCG (Strategic Client Coverage Group)",
+				"code": "K2",
+				"description": "SCCG (Strategic Client Coverage Group)",
+				"param1": "K",
+				"content": null
+			},
+			{
+				"id": "95SME - GSAM NPL",
+				"code": "95",
+				"description": "SME - GSAM NPL",
+				"param1": "30",
+				"content": null
+			},
+			{
+				"id": "20SME Express Trade",
+				"code": "20",
+				"description": "SME Express Trade",
+				"param1": "30",
+				"content": null
+			},
+			{
+				"id": "19Small Business - Self Employed & Professionals",
+				"code": "19",
+				"description": "Small Business - Self Employed & Professionals",
+				"param1": "HV",
+				"content": null
+			},
+			{
+				"id": "23Small Business Supply Chain",
+				"code": "23",
+				"description": "Small Business Supply Chain",
+				"param1": "30",
+				"content": null
+			},
+			{
+				"id": "09Small Businesses\t\t",
+				"code": "09",
+				"description": "Small Businesses\t\t",
+				"param1": "30",
+				"content": null
+			},
+			{
+				"id": "17Small Businesses Offshore",
+				"code": "17",
+				"description": "Small Businesses Offshore",
+				"param1": "30",
+				"content": null
+			},
+			{
+				"id": "P2Sovereign Wealth Funds",
+				"code": "P2",
+				"description": "Sovereign Wealth Funds",
+				"param1": "N",
+				"content": null
+			},
+			{
+				"id": "N7Universal Banks",
+				"code": "N7",
+				"description": "Universal Banks",
+				"param1": "N",
+				"content": null
+			}
+		],
+		"countryRegion": [
+			{
+				"id": "AFRICAAFRICA",
+				"code": "AFRICA",
+				"description": "AFRICA",
+				"param1": null,
+				"content": [
+					{
+						"id": "RAAFRICA REGION OTHERS (ARO)",
+						"code": "RA",
+						"description": "AFRICA REGION OTHERS (ARO)",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "AOANGOLA",
+						"code": "AO",
+						"description": "ANGOLA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "BJBENIN",
+						"code": "BJ",
+						"description": "BENIN",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "BWBOTSWANA",
+						"code": "BW",
+						"description": "BOTSWANA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "BFBURKINA FASO",
+						"code": "BF",
+						"description": "BURKINA FASO",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "BIBURUNDI",
+						"code": "BI",
+						"description": "BURUNDI",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "CMCAMEROON",
+						"code": "CM",
+						"description": "CAMEROON",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "CVCAPE VERDE",
+						"code": "CV",
+						"description": "CAPE VERDE",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "CFCENTRAL AFRICAN REPUBLIC",
+						"code": "CF",
+						"description": "CENTRAL AFRICAN REPUBLIC",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "TDCHAD",
+						"code": "TD",
+						"description": "CHAD",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "KMCOMOROS",
+						"code": "KM",
+						"description": "COMOROS",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "CGCONGO",
+						"code": "CG",
+						"description": "CONGO",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "CDCONGO, THE DEMOCRATIC REPUBLIC OF THE",
+						"code": "CD",
+						"description": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "CICOTE D'IVOIRE",
+						"code": "CI",
+						"description": "COTE D'IVOIRE",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "ZRDEMOCRATIC REPUBLIC OF ZAIRE",
+						"code": "ZR",
+						"description": "DEMOCRATIC REPUBLIC OF ZAIRE",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "DJDJIBOUTI",
+						"code": "DJ",
+						"description": "DJIBOUTI",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "GQEQUATORIAL GUINEA",
+						"code": "GQ",
+						"description": "EQUATORIAL GUINEA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "ERERITREA",
+						"code": "ER",
+						"description": "ERITREA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "ETETHIOPIA",
+						"code": "ET",
+						"description": "ETHIOPIA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "GAGABON",
+						"code": "GA",
+						"description": "GABON",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "GMGAMBIA",
+						"code": "GM",
+						"description": "GAMBIA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "GHGHANA",
+						"code": "GH",
+						"description": "GHANA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "GNGUINEA",
+						"code": "GN",
+						"description": "GUINEA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "GWGUINEA-BISSAU",
+						"code": "GW",
+						"description": "GUINEA-BISSAU",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "KEKENYA",
+						"code": "KE",
+						"description": "KENYA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "LSLESOTHO",
+						"code": "LS",
+						"description": "LESOTHO",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "LRLIBERIA",
+						"code": "LR",
+						"description": "LIBERIA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "MGMADAGASCAR",
+						"code": "MG",
+						"description": "MADAGASCAR",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "MWMALAWI",
+						"code": "MW",
+						"description": "MALAWI",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "MLMALI",
+						"code": "ML",
+						"description": "MALI",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "MRMAURITANIA",
+						"code": "MR",
+						"description": "MAURITANIA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "MUMAURITIUS",
+						"code": "MU",
+						"description": "MAURITIUS",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "MZMOZAMBIQUE",
+						"code": "MZ",
+						"description": "MOZAMBIQUE",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "NANAMIBIA",
+						"code": "NA",
+						"description": "NAMIBIA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "NENIGER",
+						"code": "NE",
+						"description": "NIGER",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "NGNIGERIA",
+						"code": "NG",
+						"description": "NIGERIA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "RWRWANDA",
+						"code": "RW",
+						"description": "RWANDA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "STSAO TOME AND PRINCIPE",
+						"code": "ST",
+						"description": "SAO TOME AND PRINCIPE",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "SNSENEGAL",
+						"code": "SN",
+						"description": "SENEGAL",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "SCSEYCHELLES",
+						"code": "SC",
+						"description": "SEYCHELLES",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "SLSIERRA LEONE",
+						"code": "SL",
+						"description": "SIERRA LEONE",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "SOSOMALIA",
+						"code": "SO",
+						"description": "SOMALIA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "ZASOUTH AFRICA",
+						"code": "ZA",
+						"description": "SOUTH AFRICA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "SSSOUTH SUDAN",
+						"code": "SS",
+						"description": "SOUTH SUDAN",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "SDSUDAN",
+						"code": "SD",
+						"description": "SUDAN",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "SZSWAZILAND",
+						"code": "SZ",
+						"description": "SWAZILAND",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "TZTANZANIA UNITED REPUBLIC OF",
+						"code": "TZ",
+						"description": "TANZANIA UNITED REPUBLIC OF",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "TGTOGO",
+						"code": "TG",
+						"description": "TOGO",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "UGUGANDA",
+						"code": "UG",
+						"description": "UGANDA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "ZMZAMBIA",
+						"code": "ZM",
+						"description": "ZAMBIA",
+						"param1": "AFRICA",
+						"content": null
+					},
+					{
+						"id": "ZWZIMBABWE",
+						"code": "ZW",
+						"description": "ZIMBABWE",
+						"param1": "AFRICA",
+						"content": null
+					}
+				]
+			},
+			{
+				"id": "AMERICASAMERICAS",
+				"code": "AMERICAS",
+				"description": "AMERICAS",
+				"param1": null,
+				"content": [
+					{
+						"id": "ASAMERICAN SAMOA",
+						"code": "AS",
+						"description": "AMERICAN SAMOA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "AIANGUILLA",
+						"code": "AI",
+						"description": "ANGUILLA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "AGANTIGUA AND BARBUDA",
+						"code": "AG",
+						"description": "ANTIGUA AND BARBUDA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "ARARGENTINA",
+						"code": "AR",
+						"description": "ARGENTINA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "AWARUBA",
+						"code": "AW",
+						"description": "ARUBA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "BSBAHAMAS",
+						"code": "BS",
+						"description": "BAHAMAS",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "BBBARBADOS",
+						"code": "BB",
+						"description": "BARBADOS",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "BZBELIZE",
+						"code": "BZ",
+						"description": "BELIZE",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "BMBERMUDA",
+						"code": "BM",
+						"description": "BERMUDA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "BOBOLIVIA, PLURINATIONAL STATE OF",
+						"code": "BO",
+						"description": "BOLIVIA, PLURINATIONAL STATE OF",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "BRBRAZIL",
+						"code": "BR",
+						"description": "BRAZIL",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "VGBRITISH VIRGIN ISLANDS",
+						"code": "VG",
+						"description": "BRITISH VIRGIN ISLANDS",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "CACANADA",
+						"code": "CA",
+						"description": "CANADA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "KYCAYMAN ISLANDS",
+						"code": "KY",
+						"description": "CAYMAN ISLANDS",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "CLCHILE",
+						"code": "CL",
+						"description": "CHILE",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "COCOLOMBIA",
+						"code": "CO",
+						"description": "COLOMBIA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "CRCOSTA RICA",
+						"code": "CR",
+						"description": "COSTA RICA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "CUCUBA",
+						"code": "CU",
+						"description": "CUBA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "DMDOMINICA",
+						"code": "DM",
+						"description": "DOMINICA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "DODOMINICAN REPUBLIC",
+						"code": "DO",
+						"description": "DOMINICAN REPUBLIC",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "ECECUADOR",
+						"code": "EC",
+						"description": "ECUADOR",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "SVEL SALVADOR",
+						"code": "SV",
+						"description": "EL SALVADOR",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "GDGRENADA",
+						"code": "GD",
+						"description": "GRENADA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "GUGUAM",
+						"code": "GU",
+						"description": "GUAM",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "GTGUATEMALA",
+						"code": "GT",
+						"description": "GUATEMALA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "GYGUYANA",
+						"code": "GY",
+						"description": "GUYANA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "HTHAITI",
+						"code": "HT",
+						"description": "HAITI",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "HNHONDURAS",
+						"code": "HN",
+						"description": "HONDURAS",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "JMJAMAICA",
+						"code": "JM",
+						"description": "JAMAICA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "MXMEXICO",
+						"code": "MX",
+						"description": "MEXICO",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "MSMONTSERRAT",
+						"code": "MS",
+						"description": "MONTSERRAT",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "NINICARAGUA",
+						"code": "NI",
+						"description": "NICARAGUA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "MPNORTHERN MARIANA ISLANDS",
+						"code": "MP",
+						"description": "NORTHERN MARIANA ISLANDS",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "PAPANAMA",
+						"code": "PA",
+						"description": "PANAMA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "PYPARAGUAY",
+						"code": "PY",
+						"description": "PARAGUAY",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "PEPERU",
+						"code": "PE",
+						"description": "PERU",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "PRPUERTO RICO",
+						"code": "PR",
+						"description": "PUERTO RICO",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "KNSAINT KITTS AND NEVIS",
+						"code": "KN",
+						"description": "SAINT KITTS AND NEVIS",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "LCSAINT LUCIA",
+						"code": "LC",
+						"description": "SAINT LUCIA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "VCSAINT VINCENT AND THE GRENADINES",
+						"code": "VC",
+						"description": "SAINT VINCENT AND THE GRENADINES",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "SXSINT MAARTEN (DUTCH PART)",
+						"code": "SX",
+						"description": "SINT MAARTEN (DUTCH PART)",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "SRSURINAME",
+						"code": "SR",
+						"description": "SURINAME",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "TTTRINIDAD AND TOBAGO",
+						"code": "TT",
+						"description": "TRINIDAD AND TOBAGO",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "TCTURKS AND CAICOS ISLANDS",
+						"code": "TC",
+						"description": "TURKS AND CAICOS ISLANDS",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "USUNITED STATES",
+						"code": "US",
+						"description": "UNITED STATES",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "UMUNITED STATES MINOR OUTLYING ISLANDS",
+						"code": "UM",
+						"description": "UNITED STATES MINOR OUTLYING ISLANDS",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "UYURUGUAY",
+						"code": "UY",
+						"description": "URUGUAY",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "VEVENEZUELA",
+						"code": "VE",
+						"description": "VENEZUELA",
+						"param1": "AMERICAS",
+						"content": null
+					},
+					{
+						"id": "VIVIRGIN ISLANDS, U.S.",
+						"code": "VI",
+						"description": "VIRGIN ISLANDS, U.S.",
+						"param1": "AMERICAS",
+						"content": null
+					}
+				]
+			},
+			{
+				"id": "ASEANASEAN",
+				"code": "ASEAN",
+				"description": "ASEAN",
+				"param1": null,
+				"content": [
+					{
+						"id": "AUAUSTRALIA",
+						"code": "AU",
+						"description": "AUSTRALIA",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "BNBRUNEI DARUSSALAM",
+						"code": "BN",
+						"description": "BRUNEI DARUSSALAM",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "KHCAMBODIA",
+						"code": "KH",
+						"description": "CAMBODIA",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "CXCHRISTMAS ISLAND",
+						"code": "CX",
+						"description": "CHRISTMAS ISLAND",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "CCCOCOS (KEELING) ISLANDS",
+						"code": "CC",
+						"description": "COCOS (KEELING) ISLANDS",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "CKCOOK ISLANDS",
+						"code": "CK",
+						"description": "COOK ISLANDS",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "FJFIJI",
+						"code": "FJ",
+						"description": "FIJI",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "HMHEARD ISLAND AND MCDONALD ISLANDS",
+						"code": "HM",
+						"description": "HEARD ISLAND AND MCDONALD ISLANDS",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "IDINDONESIA",
+						"code": "ID",
+						"description": "INDONESIA",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "KIKIRIBATI",
+						"code": "KI",
+						"description": "KIRIBATI",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "LNLABUAN",
+						"code": "LN",
+						"description": "LABUAN",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "LALAOS",
+						"code": "LA",
+						"description": "LAOS",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "MYMALAYSIA",
+						"code": "MY",
+						"description": "MALAYSIA",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "MHMARSHALL ISLANDS",
+						"code": "MH",
+						"description": "MARSHALL ISLANDS",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "FMMICRONESIA, FEDERATED STATES OF",
+						"code": "FM",
+						"description": "MICRONESIA, FEDERATED STATES OF",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "MMMYANMAR",
+						"code": "MM",
+						"description": "MYANMAR",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "NRNAURU",
+						"code": "NR",
+						"description": "NAURU",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "NZNEW ZEALAND",
+						"code": "NZ",
+						"description": "NEW ZEALAND",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "NUNIUE",
+						"code": "NU",
+						"description": "NIUE",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "NFNORFOLK ISLAND",
+						"code": "NF",
+						"description": "NORFOLK ISLAND",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "PWPALAU",
+						"code": "PW",
+						"description": "PALAU",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "PGPAPUA NEW GUINEA",
+						"code": "PG",
+						"description": "PAPUA NEW GUINEA",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "PHPHILIPPINES",
+						"code": "PH",
+						"description": "PHILIPPINES",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "WSSAMOA",
+						"code": "WS",
+						"description": "SAMOA",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "SGSINGAPORE",
+						"code": "SG",
+						"description": "SINGAPORE",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "SBSOLOMON ISLANDS",
+						"code": "SB",
+						"description": "SOLOMON ISLANDS",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "THTHAILAND",
+						"code": "TH",
+						"description": "THAILAND",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "TLTIMOR-LESTE",
+						"code": "TL",
+						"description": "TIMOR-LESTE",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "TKTOKELAU",
+						"code": "TK",
+						"description": "TOKELAU",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "TOTONGA",
+						"code": "TO",
+						"description": "TONGA",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "TVTUVALU",
+						"code": "TV",
+						"description": "TUVALU",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "VUVANUATU",
+						"code": "VU",
+						"description": "VANUATU",
+						"param1": "ASEAN",
+						"content": null
+					},
+					{
+						"id": "VNVIET NAM",
+						"code": "VN",
+						"description": "VIET NAM",
+						"param1": "ASEAN",
+						"content": null
+					}
+				]
+			},
+			{
+				"id": "EUROPEEUROPE",
+				"code": "EUROPE",
+				"description": "EUROPE",
+				"param1": null,
+				"content": [
+					{
+						"id": "AXALAND ISLANDS",
+						"code": "AX",
+						"description": "ALAND ISLANDS",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "ALALBANIA",
+						"code": "AL",
+						"description": "ALBANIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "ADANDORRA",
+						"code": "AD",
+						"description": "ANDORRA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "AMARMENIA",
+						"code": "AM",
+						"description": "ARMENIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "ATAUSTRIA",
+						"code": "AT",
+						"description": "AUSTRIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "AZAZERBAIJAN",
+						"code": "AZ",
+						"description": "AZERBAIJAN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "BYBELARUS",
+						"code": "BY",
+						"description": "BELARUS",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "BEBELGIUM",
+						"code": "BE",
+						"description": "BELGIUM",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "BQBONAIRE, SINT EUSTATIUS AND SABA",
+						"code": "BQ",
+						"description": "BONAIRE, SINT EUSTATIUS AND SABA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "BABOSNIA AND HERZEGOVINA",
+						"code": "BA",
+						"description": "BOSNIA AND HERZEGOVINA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "BVBOUVET ISLAND",
+						"code": "BV",
+						"description": "BOUVET ISLAND",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "IOBRITISH INDIAN OCEAN TERRITORY",
+						"code": "IO",
+						"description": "BRITISH INDIAN OCEAN TERRITORY",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "BGBULGARIA",
+						"code": "BG",
+						"description": "BULGARIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "HRCROATIA",
+						"code": "HR",
+						"description": "CROATIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "CWCURACAO",
+						"code": "CW",
+						"description": "CURACAO",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "CYCYPRUS",
+						"code": "CY",
+						"description": "CYPRUS",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "CZCZECH REPUBLIC",
+						"code": "CZ",
+						"description": "CZECH REPUBLIC",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "DKDENMARK",
+						"code": "DK",
+						"description": "DENMARK",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "EEESTONIA",
+						"code": "EE",
+						"description": "ESTONIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "FKFALKLAND ISLANDS (MALVINAS)",
+						"code": "FK",
+						"description": "FALKLAND ISLANDS (MALVINAS)",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "FOFAROE ISLANDS",
+						"code": "FO",
+						"description": "FAROE ISLANDS",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "FIFINLAND",
+						"code": "FI",
+						"description": "FINLAND",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "FRFRANCE",
+						"code": "FR",
+						"description": "FRANCE",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "GFFRENCH GUIANA",
+						"code": "GF",
+						"description": "FRENCH GUIANA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "PFFRENCH POLYNESIA",
+						"code": "PF",
+						"description": "FRENCH POLYNESIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "TFFRENCH SOUTHERN TERRITORIES",
+						"code": "TF",
+						"description": "FRENCH SOUTHERN TERRITORIES",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "GEGEORGIA",
+						"code": "GE",
+						"description": "GEORGIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "DEGERMANY",
+						"code": "DE",
+						"description": "GERMANY",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "GIGIBRALTAR",
+						"code": "GI",
+						"description": "GIBRALTAR",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "GRGREECE",
+						"code": "GR",
+						"description": "GREECE",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "GLGREENLAND",
+						"code": "GL",
+						"description": "GREENLAND",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "GPGUADELOUPE",
+						"code": "GP",
+						"description": "GUADELOUPE",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "GGGUERNSEY",
+						"code": "GG",
+						"description": "GUERNSEY",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "VAHOLY SEE (VATICAN CITY STATE)",
+						"code": "VA",
+						"description": "HOLY SEE (VATICAN CITY STATE)",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "HUHUNGARY",
+						"code": "HU",
+						"description": "HUNGARY",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "ISICELAND",
+						"code": "IS",
+						"description": "ICELAND",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "IEIRELAND",
+						"code": "IE",
+						"description": "IRELAND",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "IMISLE OF MAN",
+						"code": "IM",
+						"description": "ISLE OF MAN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "ILISRAEL",
+						"code": "IL",
+						"description": "ISRAEL",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "ITITALY",
+						"code": "IT",
+						"description": "ITALY",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "JEJERSEY",
+						"code": "JE",
+						"description": "JERSEY",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "KZKAZAKSTAN",
+						"code": "KZ",
+						"description": "KAZAKSTAN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "KGKYRGYZSTAN",
+						"code": "KG",
+						"description": "KYRGYZSTAN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "LVLATVIA",
+						"code": "LV",
+						"description": "LATVIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "LILIECHTENSTEIN",
+						"code": "LI",
+						"description": "LIECHTENSTEIN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "LTLITHUANIA",
+						"code": "LT",
+						"description": "LITHUANIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "LULUXEMBOURG",
+						"code": "LU",
+						"description": "LUXEMBOURG",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "MKMACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+						"code": "MK",
+						"description": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "MTMALTA",
+						"code": "MT",
+						"description": "MALTA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "MQMARTINIQUE",
+						"code": "MQ",
+						"description": "MARTINIQUE",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "YTMAYOTTE",
+						"code": "YT",
+						"description": "MAYOTTE",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "MDMOLDOVA, REPUBLIC OF",
+						"code": "MD",
+						"description": "MOLDOVA, REPUBLIC OF",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "MCMONACO",
+						"code": "MC",
+						"description": "MONACO",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "MEMONTENEGRO",
+						"code": "ME",
+						"description": "MONTENEGRO",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "NLNETHERLAND",
+						"code": "NL",
+						"description": "NETHERLAND",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "ANNETHERLANDS ANTILLES",
+						"code": "AN",
+						"description": "NETHERLANDS ANTILLES",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "NCNEW CALEDONIA",
+						"code": "NC",
+						"description": "NEW CALEDONIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "NONORWAY",
+						"code": "NO",
+						"description": "NORWAY",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "PNPITCAIRN",
+						"code": "PN",
+						"description": "PITCAIRN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "PLPOLAND",
+						"code": "PL",
+						"description": "POLAND",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "PTPORTUGAL",
+						"code": "PT",
+						"description": "PORTUGAL",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "REREUNION",
+						"code": "RE",
+						"description": "REUNION",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "ROROMANIA",
+						"code": "RO",
+						"description": "ROMANIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "RURUSSIAN FEDERATION",
+						"code": "RU",
+						"description": "RUSSIAN FEDERATION",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "BLSAINT BARTHELEMY",
+						"code": "BL",
+						"description": "SAINT BARTHELEMY",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "SHSAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+						"code": "SH",
+						"description": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "MFSAINT MARTIN",
+						"code": "MF",
+						"description": "SAINT MARTIN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "PMSAINT PIERRE AND MIQUELON",
+						"code": "PM",
+						"description": "SAINT PIERRE AND MIQUELON",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "SMSAN MARINO",
+						"code": "SM",
+						"description": "SAN MARINO",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "RSSERBIA",
+						"code": "RS",
+						"description": "SERBIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "SKSLOVAKIA",
+						"code": "SK",
+						"description": "SLOVAKIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "SISLOVENIA",
+						"code": "SI",
+						"description": "SLOVENIA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "GSSOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+						"code": "GS",
+						"description": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "ESSPAIN",
+						"code": "ES",
+						"description": "SPAIN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "SJSVALBARD AND JAN MAYEN",
+						"code": "SJ",
+						"description": "SVALBARD AND JAN MAYEN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "SESWEDEN",
+						"code": "SE",
+						"description": "SWEDEN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "CHSWITZERLAND",
+						"code": "CH",
+						"description": "SWITZERLAND",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "TJTAJIKISTAN",
+						"code": "TJ",
+						"description": "TAJIKISTAN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "TRTURKEY",
+						"code": "TR",
+						"description": "TURKEY",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "TMTURKMENISTAN",
+						"code": "TM",
+						"description": "TURKMENISTAN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "UAUKRAINE",
+						"code": "UA",
+						"description": "UKRAINE",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "GBUNITED KINGDOM",
+						"code": "GB",
+						"description": "UNITED KINGDOM",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "UZUZBEKISTAN",
+						"code": "UZ",
+						"description": "UZBEKISTAN",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "WFWALLIS AND FUTUNA",
+						"code": "WF",
+						"description": "WALLIS AND FUTUNA",
+						"param1": "EUROPE",
+						"content": null
+					},
+					{
+						"id": "YUYUGOSLAVIA ",
+						"code": "YU",
+						"description": "YUGOSLAVIA ",
+						"param1": "EUROPE",
+						"content": null
+					}
+				]
+			},
+			{
+				"id": "GREATER CHINAGREATER CHINA",
+				"code": "GREATER CHINA",
+				"description": "GREATER CHINA",
+				"param1": null,
+				"content": [
+					{
+						"id": "CNCHINA",
+						"code": "CN",
+						"description": "CHINA",
+						"param1": "GREATER CHINA",
+						"content": null
+					},
+					{
+						"id": "HKHONG KONG",
+						"code": "HK",
+						"description": "HONG KONG",
+						"param1": "GREATER CHINA",
+						"content": null
+					},
+					{
+						"id": "MOMACAO",
+						"code": "MO",
+						"description": "MACAO",
+						"param1": "GREATER CHINA",
+						"content": null
+					},
+					{
+						"id": "TWTAIWAN",
+						"code": "TW",
+						"description": "TAIWAN",
+						"param1": "GREATER CHINA",
+						"content": null
+					}
+				]
+			},
+			{
+				"id": "MENAPMENAP",
+				"code": "MENAP",
+				"description": "MENAP",
+				"param1": null,
+				"content": [
+					{
+						"id": "AFAFGHANISTAN",
+						"code": "AF",
+						"description": "AFGHANISTAN",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "DZALGERIA",
+						"code": "DZ",
+						"description": "ALGERIA",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "BHBAHRAIN",
+						"code": "BH",
+						"description": "BAHRAIN",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "EGEGYPT",
+						"code": "EG",
+						"description": "EGYPT",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "IRIRAN",
+						"code": "IR",
+						"description": "IRAN",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "IQIRAQ",
+						"code": "IQ",
+						"description": "IRAQ",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "JOJORDAN",
+						"code": "JO",
+						"description": "JORDAN",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "KWKUWAIT",
+						"code": "KW",
+						"description": "KUWAIT",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "LBLEBANON",
+						"code": "LB",
+						"description": "LEBANON",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "LYLIBYAN ARAB JAMAHIRIYA",
+						"code": "LY",
+						"description": "LIBYAN ARAB JAMAHIRIYA",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "MAMOROCCO",
+						"code": "MA",
+						"description": "MOROCCO",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "OMOMAN",
+						"code": "OM",
+						"description": "OMAN",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "PKPAKISTAN",
+						"code": "PK",
+						"description": "PAKISTAN",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "PSPALESTINIAN TERRITORY, OCCUPIED",
+						"code": "PS",
+						"description": "PALESTINIAN TERRITORY, OCCUPIED",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "QAQATAR",
+						"code": "QA",
+						"description": "QATAR",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "SASAUDI ARABIA",
+						"code": "SA",
+						"description": "SAUDI ARABIA",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "XASCB SAUDI OFFSHORE",
+						"code": "XA",
+						"description": "SCB SAUDI OFFSHORE",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "SPSNPC - MENA OTHERS",
+						"code": "SP",
+						"description": "SNPC - MENA OTHERS",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "SYSYRIAN ARAB REPUBLIC",
+						"code": "SY",
+						"description": "SYRIAN ARAB REPUBLIC",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "TNTUNISIA",
+						"code": "TN",
+						"description": "TUNISIA",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "AEUNITED ARAB EMIRATES",
+						"code": "AE",
+						"description": "UNITED ARAB EMIRATES",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "EHWESTERN SAHARA",
+						"code": "EH",
+						"description": "WESTERN SAHARA",
+						"param1": "MENAP",
+						"content": null
+					},
+					{
+						"id": "YEYEMEN",
+						"code": "YE",
+						"description": "YEMEN",
+						"param1": "MENAP",
+						"content": null
+					}
+				]
+			},
+			{
+				"id": "NE ASIANE ASIA",
+				"code": "NE ASIA",
+				"description": "NE ASIA",
+				"param1": null,
+				"content": [
+					{
+						"id": "JPJAPAN",
+						"code": "JP",
+						"description": "JAPAN",
+						"param1": "NE ASIA",
+						"content": null
+					},
+					{
+						"id": "KPKOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",
+						"code": "KP",
+						"description": "KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",
+						"param1": "NE ASIA",
+						"content": null
+					},
+					{
+						"id": "KRKOREA, REPUBLIC OF",
+						"code": "KR",
+						"description": "KOREA, REPUBLIC OF",
+						"param1": "NE ASIA",
+						"content": null
+					},
+					{
+						"id": "MNMONGOLIA",
+						"code": "MN",
+						"description": "MONGOLIA",
+						"param1": "NE ASIA",
+						"content": null
+					}
+				]
+			},
+			{
+				"id": "SOUTH ASIASOUTH ASIA",
+				"code": "SOUTH ASIA",
+				"description": "SOUTH ASIA",
+				"param1": null,
+				"content": [
+					{
+						"id": "BDBANGLADESH",
+						"code": "BD",
+						"description": "BANGLADESH",
+						"param1": "SOUTH ASIA",
+						"content": null
+					},
+					{
+						"id": "BTBHUTAN",
+						"code": "BT",
+						"description": "BHUTAN",
+						"param1": "SOUTH ASIA",
+						"content": null
+					},
+					{
+						"id": "ININDIA",
+						"code": "IN",
+						"description": "INDIA",
+						"param1": "SOUTH ASIA",
+						"content": null
+					},
+					{
+						"id": "MVMALDIVES",
+						"code": "MV",
+						"description": "MALDIVES",
+						"param1": "SOUTH ASIA",
+						"content": null
+					},
+					{
+						"id": "NPNEPAL",
+						"code": "NP",
+						"description": "NEPAL",
+						"param1": "SOUTH ASIA",
+						"content": null
+					},
+					{
+						"id": "LKSRI LANKA",
+						"code": "LK",
+						"description": "SRI LANKA",
+						"param1": "SOUTH ASIA",
+						"content": null
+					}
+				]
+			}
+		],
+		"hubs": [
+			{
+				"id": "CSDU AECSDU AE",
+				"code": "CSDU AE",
+				"description": "CSDU AE",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU ARCSDU AR",
+				"code": "CSDU AR",
+				"description": "CSDU AR",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU ATCSDU AT",
+				"code": "CSDU AT",
+				"description": "CSDU AT",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU AUCSDU AU",
+				"code": "CSDU AU",
+				"description": "CSDU AU",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU BDCSDU BD",
+				"code": "CSDU BD",
+				"description": "CSDU BD",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU BHCSDU BH",
+				"code": "CSDU BH",
+				"description": "CSDU BH",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU BRCSDU BR",
+				"code": "CSDU BR",
+				"description": "CSDU BR",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU BWCSDU BW",
+				"code": "CSDU BW",
+				"description": "CSDU BW",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU CHCSDU CH",
+				"code": "CSDU CH",
+				"description": "CSDU CH",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU CICSDU CI",
+				"code": "CSDU CI",
+				"description": "CSDU CI",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU CLCSDU CL",
+				"code": "CSDU CL",
+				"description": "CSDU CL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU CMCSDU CM",
+				"code": "CSDU CM",
+				"description": "CSDU CM",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU CNCSDU CN",
+				"code": "CSDU CN",
+				"description": "CSDU CN",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU COCSDU CO",
+				"code": "CSDU CO",
+				"description": "CSDU CO",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU DECSDU DE",
+				"code": "CSDU DE",
+				"description": "CSDU DE",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU FRCSDU FR",
+				"code": "CSDU FR",
+				"description": "CSDU FR",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU GBCSDU GB",
+				"code": "CSDU GB",
+				"description": "CSDU GB",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU GHCSDU GH",
+				"code": "CSDU GH",
+				"description": "CSDU GH",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU GMCSDU GM",
+				"code": "CSDU GM",
+				"description": "CSDU GM",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU HKCSDU HK",
+				"code": "CSDU HK",
+				"description": "CSDU HK",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU IDCSDU ID",
+				"code": "CSDU ID",
+				"description": "CSDU ID",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU IECSDU IE",
+				"code": "CSDU IE",
+				"description": "CSDU IE",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU INCSDU IN",
+				"code": "CSDU IN",
+				"description": "CSDU IN",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU ITCSDU IT",
+				"code": "CSDU IT",
+				"description": "CSDU IT",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU JOCSDU JO",
+				"code": "CSDU JO",
+				"description": "CSDU JO",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU JPCSDU JP",
+				"code": "CSDU JP",
+				"description": "CSDU JP",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU KACSDU KA",
+				"code": "CSDU KA",
+				"description": "CSDU KA",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU KECSDU KE",
+				"code": "CSDU KE",
+				"description": "CSDU KE",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU KHCSDU KH",
+				"code": "CSDU KH",
+				"description": "CSDU KH",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU KRCSDU KR",
+				"code": "CSDU KR",
+				"description": "CSDU KR",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU LACSDU LA",
+				"code": "CSDU LA",
+				"description": "CSDU LA",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU LBCSDU LB",
+				"code": "CSDU LB",
+				"description": "CSDU LB",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU LKCSDU LK",
+				"code": "CSDU LK",
+				"description": "CSDU LK",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU MUCSDU MU",
+				"code": "CSDU MU",
+				"description": "CSDU MU",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU MXCSDU MX",
+				"code": "CSDU MX",
+				"description": "CSDU MX",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU MYCSDU MY",
+				"code": "CSDU MY",
+				"description": "CSDU MY",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU NGCSDU NG",
+				"code": "CSDU NG",
+				"description": "CSDU NG",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU NPCSDU NP",
+				"code": "CSDU NP",
+				"description": "CSDU NP",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU OMCSDU OM",
+				"code": "CSDU OM",
+				"description": "CSDU OM",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU PECSDU PE",
+				"code": "CSDU PE",
+				"description": "CSDU PE",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU PHCSDU PH",
+				"code": "CSDU PH",
+				"description": "CSDU PH",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU PKCSDU PK",
+				"code": "CSDU PK",
+				"description": "CSDU PK",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU QACSDU QA",
+				"code": "CSDU QA",
+				"description": "CSDU QA",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU SACSDU SA",
+				"code": "CSDU SA",
+				"description": "CSDU SA",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU SECSDU SE",
+				"code": "CSDU SE",
+				"description": "CSDU SE",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU SGCSDU SG",
+				"code": "CSDU SG",
+				"description": "CSDU SG",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU SLCSDU SL",
+				"code": "CSDU SL",
+				"description": "CSDU SL",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU THCSDU TH",
+				"code": "CSDU TH",
+				"description": "CSDU TH",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU TRCSDU TR",
+				"code": "CSDU TR",
+				"description": "CSDU TR",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU TWCSDU TW",
+				"code": "CSDU TW",
+				"description": "CSDU TW",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU TZCSDU TZ",
+				"code": "CSDU TZ",
+				"description": "CSDU TZ",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU UGCSDU UG",
+				"code": "CSDU UG",
+				"description": "CSDU UG",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU USCSDU US",
+				"code": "CSDU US",
+				"description": "CSDU US",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU VECSDU VE",
+				"code": "CSDU VE",
+				"description": "CSDU VE",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU VNCSDU VN",
+				"code": "CSDU VN",
+				"description": "CSDU VN",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU ZACSDU ZA",
+				"code": "CSDU ZA",
+				"description": "CSDU ZA",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU ZWCSDU ZW",
+				"code": "CSDU ZW",
+				"description": "CSDU ZW",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "CSDU ZimbabweCSDU Zimbabwe",
+				"code": "CSDU Zimbabwe",
+				"description": "CSDU Zimbabwe",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "GSSC AfricaGSSC Africa",
+				"code": "GSSC Africa",
+				"description": "GSSC Africa",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "GSSC ChennaiGSSC Chennai",
+				"code": "GSSC Chennai",
+				"description": "GSSC Chennai",
+				"param1": null,
+				"content": null
+			},
+			{
+				"id": "GSSC Kuala LumpurGSSC Kuala Lumpur",
+				"code": "GSSC Kuala Lumpur",
+				"description": "GSSC Kuala Lumpur",
+				"param1": null,
+				"content": null
+			}
+		]
+	}
+}

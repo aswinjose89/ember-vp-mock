@@ -1,0 +1,17 @@
+{
+    "kpis":[        
+        {
+            "id": 1,
+            "lastCCMIRefreshMonth": "201411",
+            "lastPMIRefreshMonth": "201501",
+            "totalMOMRG": "0.974",
+            "totalPipeline": "123432.123",
+            "totalRORWA": "38.125",
+            "totalYOYG": "184.183",
+            "totalYTD": "123432",
+            "totalMOMPG": "0.29",
+            "rorwaColor": "#D66233",
+            "yoyColor" : "#EA9448"
+        }
+    ]
+}

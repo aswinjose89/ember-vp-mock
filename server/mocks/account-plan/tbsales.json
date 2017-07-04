@@ -1,0 +1,189 @@
+{
+  "tbsales": {
+    "id": "201612345678901",
+    "sequence": "21393604030522840",
+    "transactionId": "20160701200701594002463",
+    "showCreateFlag":true,
+    "enableRevComment":true,
+    "userPreference": "TB",
+    "isRecallEnabled":false,
+    "isSelfApproveEnabled":false,
+    "entitlements":{
+        "id":"121234",
+        "coverage":{
+          "id":"20161234567890",
+          "edit":false,
+          "initiate":true,
+          "view":true
+        },
+        "tbsales":{
+          "id":"201612345678901",
+          "edit":true,
+          "initiate":true,
+          "view":true
+        }
+    },
+    "coverageSections":[
+        {
+          "id": "1",
+          "name":"Client Contact Management",
+          "route":"coverage.client-contact",
+          "status":"",
+          "mandatory": true,
+          "isChecked": true
+        },
+        {
+          "id": "2",
+          "name":"Liabilities",
+          "route":"coverage.liabilities",
+          "status":"",
+          "mandatory": true,
+          "isChecked": true
+        },
+        {
+          "id": "3",
+          "name":"Client Strategy",
+          "route":"coverage.client-strategy",
+          "status":"",
+          "mandatory": false,
+          "isChecked": false
+        },
+        {
+          "id": "10923",
+          "name":"Client Strategy Lite",
+          "route":"coverage.client-strategy-lite",
+          "status":"",
+          "mandatory": false,
+          "isChecked": false
+        },
+        {
+          "id": "4",
+          "name":"Client Strategy Investor",
+          "route":"coverage.client-strategy-investor",
+          "status":"",
+          "mandatory": false
+        },
+        {
+          "id": "5",
+          "name":"Deal Pipeline & History",
+          "route":"coverage.dealpipeline-history",
+          "status":"",
+          "mandatory": true,
+          "isChecked": true
+        },
+        {
+          "id": "9",
+          "name":"Sign Off",
+          "route":"coverage.signoff",
+          "status":"",
+          "mandatory": false,
+          "isChecked": false
+        },
+      {
+        "id": "6",
+        "name":"Attachments",
+        "route":"coverage.attachments",
+        "status":"",
+          "mandatory": false
+      }
+    ],
+    "tbsalesSections":[
+        {
+          "id": "10",
+          "name":"Client Contact Management",
+          "route":"tbsales.client-contact",
+          "status":"",
+          "mandatory": true,
+          "isChecked": true
+        },
+        {
+          "id": "11",
+          "name":"Client Penetration",
+          "route":"tbsales.client-penetration",
+          "status":"",
+          "mandatory": true,
+          "isChecked": true
+        },
+        {
+          "id": "12",
+          "name":"Financials",
+          "route":"tbsales.financial",
+          "status":"",
+          "mandatory": true,
+          "isChecked": true
+        },
+        {
+          "id": "13",
+          "name":"Action Plan",
+          "route":"tbsales.actionplan",
+          "status":"",
+          "mandatory": true,
+          "isChecked": true
+        },
+        {
+          "id": "14",
+          "name":"Buying Behaviour",
+          "route":"tbsales.buyingbehaviour",
+          "status":"",
+          "mandatory": false,
+          "isChecked": false
+        },
+        {
+          "id": "15",
+          "name":"Sign Off",
+          "route":"tbsales.signoff",
+          "status":"",
+          "mandatory": true,
+          "isChecked": true
+        }
+    ],
+    "staticInformation": {
+        "id": "G",
+        "entityName":"CONAIR GROUP",
+        "group": {
+          "id": "990002021",
+          "name": "CONAIR GROUP",
+          "stripe": "Striped",
+          "productTag": [],
+          "topNext": "Top Next 100",
+          "segment": "GLOBAL CORPORATES",
+          "subSegment": null,
+          "gamName": "Vahid Sazegara",
+          "gamLocation": "United States",
+          "pfamName": "Vahid Sazegara",
+          "pfamLocation": "United States",
+          "sciId": null,
+          "onboardingStatus": null,
+          "cddStatus": null,
+          "domicileregion": "India",
+          "incorporationCountry": "United States",
+          "legalConstitution": "Singapore"
+        },
+        "client": {
+          "id": "990007882021",
+          "name": "CONAIR GROUP",
+          "stripe": "Striped",
+          "productTag": [
+            "FM",
+            "TB"
+          ],
+          "segment": "GLOBAL CORPORATES",
+          "subSegment": null,
+          "pfamName": "Vahid Sazegara",
+          "pfamLocation": "United States"
+        },
+        "prospect": {
+          "id": "9900026021",
+          "name": "CONAIR GROUP",
+          "segment": "GLOBAL CORPORATES",
+          "subSegment": null,
+          "prospectOwner": "Vahid Sazegara",
+          "prospectOwnerLoc": "United States"
+        }
+
+    },
+    "retag": false,
+    "createdDate": 1467374821657,
+    "createdBy": "Jha,Jeevesh Chandra"
+  }
+}

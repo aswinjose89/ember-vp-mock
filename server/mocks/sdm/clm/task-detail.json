@@ -1,0 +1,28 @@
+{
+    "taskDetails": [{
+        "id": "13",
+        "initiatedFor": "bulk static data maintenance",
+        "activityId": "14004",
+        "taskId": "43723",
+        "name": "multiple clients",
+        "segment": "multiple",
+        "subSegment": "multiple",
+        "instructionOriginatedFrom": "SG",
+        "department": "CIB",
+        "assignedTo": "GSSC Chennai",
+        "acceptedBy": "abhick",
+        "createdOn": "28/11/2016 05:32 PM",
+        "lastModifiedOn": "28/10/2016 05:32 PM",
+        "rmName": "1254234-Gill,John",
+        "isChecked": false,
+        "taskAssignedToUser": true,
+        "entity": {
+            "id": 1,
+            "name": "Singapore Airline",
+            "type": "Group"
+        }
+    }],
+    "meta": {
+        "totalRecords": 1000
+    }
+}

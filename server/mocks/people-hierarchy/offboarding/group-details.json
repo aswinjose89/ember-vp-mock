@@ -1,0 +1,27 @@
+{
+	
+	"groupDetails": [{
+		"id": 1,
+		"clientCount": 12,
+		"groupId": 121222,
+		"groupName": "test group name",
+		"region": "ASIA",
+		"domicileCountry": "UAE",
+		"segment": "N",
+		"subSegment": "sssss",
+		"gamName": "",
+		"gamCountry": "",
+		"incorporationCountry": "",
+		"groupStatus": "",
+		"isChecked": false
+	}],
+	"meta": {
+		"count": {
+			"total": 2,
+			"groups": 1,
+			"clients": 1
+		},
+		"totalRecords": 100
+	}
+
+}

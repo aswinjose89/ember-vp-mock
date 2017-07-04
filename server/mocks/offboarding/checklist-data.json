@@ -1,0 +1,95 @@
+{
+    "id": "1",
+    "offboarding/checklistDetail": {
+        "id": "1",
+        "checklistDetail": {
+            "id": "3648",
+            "activityId": "2535",
+            "checklistId": "3648",
+            "commentId": "3648",
+            "changeKey": "1818",
+            "exitingOrRiskMarker": true,
+            "exitingOrRiskMarkerNotRequired": true,
+            "closureDecisionBy": "22",
+            "targetCompletionDate": 1489593600000,
+            "projectName": "qwerty",
+            "reasonForClosure": "22",
+            "createdBy": "1007525",
+            "createdDate": 1490273193000,
+            "checklistComments": {
+                "id": "3648",
+                "commentId": "3648",
+                "comment": "ASDF",
+                "uploadedByPsId": "1218155",
+                "uploadedByName": "Prathapo",
+                "updatedBy": "1218155",
+                "createdBy": "1007525",
+                "createdDate": 1490273193000,
+                "documents": [{
+                    "id": "3552",
+                    "documentId": "3552",
+                    "commentId": "3648",
+                    "documentCategory": "AD",
+                    "fileName": "Approval Documents",
+                    "deleted": false,
+                    "createdBy": "1007525",
+                    "createdDate": 1490273193000
+                }]
+            },
+            "stakeholders": [{
+                "id": "1011120",
+                "stakeholderId": "1011120",
+                "stakeholderName": "Kedar"
+            }, {
+                "id": "1011122",
+                "stakeholderId": "1011122",
+                "stakeholderName": "Abdul"
+            }, {
+                "id": "1011125",
+                "stakeholderId": "1011125",
+                "stakeholderName": "Prathap"
+            }]
+        },
+        "workflowHistoryDetails": [{
+            "id": "f1b250bb-016a-40d6-88e0-a67064529899-2017-03-23 20:46:35.331",
+            "action": "Queued",
+            "actionByPsId": "1382006",
+            "updatedOn": 1490273195000,
+            "comment": "Task assigned for HOSA Approval",
+            "actionDate": 1490273195000,
+            "auditTimeStamp": 1490273195000,
+            "createdBy": "SYSTEM",
+            "createdDate": 1490273195000
+        }],
+        "comments": [{
+            "id": "3648",
+            "commentId": "3648",
+            "comment": "ASDF",
+            "uploadedByPsId": "1218155",
+            "uploadedByName": "Prathapo",
+            "updatedBy": "1218155",
+            "createdBy": "1007525",
+            "createdDate": 1490273193000,
+            "documents": [{
+                "id": "3552",
+                "documentId": "3552",
+                "commentId": "3648",
+                "documentCategory": "AD",
+                "fileName": "Approval Documents",
+                "deleted": false,
+                "createdBy": "1007525",
+                "createdDate": 1490273193000
+            }]
+        }],
+        "verificationChecklistDetail": {
+            "id": "34787745-fa80-44b3-8fb9-27e1f36130061",
+            "verificationChecklistId": "34787745-fa80-44b3-8fb9-27e1f36130061",
+            "recievedExitDecisionMail": true,
+            "notificationSentToClient": false,
+            "noticePeriodMet": false,
+            "clientConsentLetterRecieved": true,
+            "authorisedSignatureVerfied": true,
+            "clientNotifiedOnRestrictions": true
+        }
+    }
+}

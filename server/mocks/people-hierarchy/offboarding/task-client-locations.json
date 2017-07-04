@@ -1,0 +1,45 @@
+{
+  "taskClientLocations":  [{
+         "id":11,
+         "location": "IN / SCBL",
+         "pfamCountry": "Singapore",
+         "pfamName": "Willium Hughes",
+         "gamName": "Franklin Douglas"
+    },{
+         "id":12,
+         "location": "SG / SCBL",
+         "pfamCountry": "Hongkong",
+         "pfamName": "Frank Palmer",
+         "gamName": "Franklin Douglas"
+    },{
+         "id":13,
+         "location": "My / SCBL",
+         "pfamCountry": "India",
+         "pfamName": "Willium Hughes",
+         "gamName": "Franklin Douglas"
+    },{
+         "id":14,
+         "location": "UK / SCBL",
+         "pfamCountry": "India",
+         "pfamName": "Willium Hughes",
+         "gamName": "Franklin Douglas"
+    },{
+         "id":15,
+         "location": "US / SCBL",
+         "pfamCountry": "India",
+         "pfamName": "Willium Hughes",
+         "gamName": "Franklin Douglas"
+    },{
+         "id":16,
+         "location": "PH / SCBL",
+         "pfamCountry": "India",
+         "pfamName": "Willium Hughes",
+         "gamName": "Franklin Douglas"
+    }],
+  "meta": {
+    "count": {
+      "total": 6
+    },
+    "totalRecords": 50
+  }
+}

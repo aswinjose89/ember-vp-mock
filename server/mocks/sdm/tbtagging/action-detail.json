@@ -1,0 +1,26 @@
+{
+	"actionDetails": [{
+	  "entity": {
+      "id": 1,
+      "name": "Macsteel",
+      "type":"client"
+    },
+      "id": "13",
+      "previousValue": "432 1553 Isabel",
+      "newValue": "432 1553 Mitchell",
+      "actions": {
+        "add":1,
+        "replace":2,
+        "delete": 5
+      },
+      "isChecked": false
+    }],
+    "meta": {
+          "count": {
+            "actioned": 4,
+            "groups": 2,
+            "clients": 2
+          },
+    "totalRecords": 100
+  }
+}

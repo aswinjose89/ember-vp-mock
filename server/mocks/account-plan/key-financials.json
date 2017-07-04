@@ -1,0 +1,209 @@
+{
+  "keyFinancials": {
+    "id": "201702281832190223878",
+    "segmentType": {
+      "id": "ACPL0192_FIB",
+      "val": "FIB",
+      "name": "FI Banks"
+    },
+    "fyeYear": 2014,
+    "fyeYtd": "FYE",
+    "fyeYtdYear": 2014,
+    "fyeYtdMonth": "9",
+    "keyFinancialDetailNext": [
+      {
+        "id": "20170209203839065006388",
+        "details": "TA",
+        "displayName": "Total Assests",
+        "fye": "12121",
+        "ytd": "212121",
+        "precisionLength": "0",
+        "maxLength": "10",
+				"maxValue":"99999999",
+        "displayOrder": 0
+      },
+      {
+        "id": "20170209203839067006389",
+        "details": "T1CR",
+        "displayName": "Tier 1 Capital Ratio",
+        "fye": null,
+        "ytd": null,
+        "precisionLength": "2",
+        "maxLength": "13",
+				"maxValue":"99999999.99",
+        "displayOrder": 1
+      },
+      {
+        "id": "20170209203839068006390",
+        "details": "ROA",
+        "displayName": "ROA - %",
+        "fye": "321.0",
+        "ytd": null,
+        "precisionLength": "1",
+        "maxLength": "5",
+				"maxValue":"999.9",
+        "displayOrder": 10
+      },
+      {
+        "id": "20170209203839070006391",
+        "details": "NIM",
+        "displayName": "Net Interest margin - %",
+        "fye": null,
+        "ytd": null,
+        "precisionLength": "1",
+        "maxLength": "5",
+				"maxValue":"999.9",
+        "displayOrder": 11
+      },
+      {
+        "id": "20170209203839072006392",
+        "details": "CIR",
+        "displayName": "Cost Income Ratio (Operating expense / Operating Income) - %",
+        "fye": null,
+        "ytd": null,
+        "precisionLength": "1",
+        "maxLength": "5",
+				"maxValue":"999.9",
+        "displayOrder": 12
+      },
+      {
+        "id": "20170209203839073006393",
+        "details": "NPL",
+        "displayName": "NPLs / Total Loans - %",
+        "fye": null,
+        "ytd": null,
+        "precisionLength": "1",
+        "maxLength": "5",
+				"maxValue":"999.9",
+        "displayOrder": 13
+      },
+      {
+        "id": "20170209203839075006394",
+        "details": "LLR",
+        "displayName": "Loan Loss Revenue (LLP) / NPLs - %",
+        "fye": null,
+        "ytd": null,
+        "precisionLength": "1",
+        "maxLength": "5",
+				"maxValue":"999.9",
+        "displayOrder": 14
+      },
+      {
+        "id": "20170209203839077006395",
+        "details": "IBB",
+        "displayName": "Inter-bank borrowing / Total deposits - %",
+        "fye": null,
+        "ytd": null,
+        "precisionLength": "1",
+        "maxLength": "5",
+				"maxValue":"999.9",
+        "displayOrder": 15
+      },
+      {
+        "id": "20170209203839078006396",
+        "details": "TLCR",
+        "displayName": "Total Capital Ratio",
+        "fye": null,
+        "ytd": null,
+        "precisionLength": "1",
+        "maxLength": "5",
+				"maxValue":"999.9",
+        "displayOrder": 2
+      },
+      {
+        "id": "20170209203839080006397",
+        "details": "NIR",
+        "displayName": "Net Interest Revenue (Income)",
+        "fye": null,
+        "ytd": null,
+        "precisionLength": "0",
+        "maxLength": "10",
+				"maxValue":"99999999",
+        "displayOrder": 3
+      },
+      {
+        "id": "20170209203839082006398",
+        "details": "TNIR",
+        "displayName": "Trading and Non-interest Revenue (Income)",
+        "fye": null,
+        "ytd": null,
+        "precisionLength": "0",
+        "maxLength": "10",
+				"maxValue":"99999999",
+        "displayOrder": 4
+      },
+      {
+        "id": "20170209203839084006399",
+        "details": "TNR",
+        "displayName": "Total Net Revenue (Income)",
+        "fye": null,
+        "ytd": null,
+        "precisionLength": "1",
+        "maxLength": "5",
+				"maxValue":"999.9",
+        "displayOrder": 5
+      },
+      {
+        "id": "20170209203839086006400",
+        "details": "PR",
+        "displayName": "Provisions",
+        "fye": null,
+        "ytd": null,
+        "precisionLength": "0",
+        "maxLength": "10",
+				"maxValue":"99999999",
+        "displayOrder": 6
+      },
+      {
+        "id": "20170209203839095006401",
+        "details": "PTP1",
+        "displayName": "Pre-tax profit",
+        "fye": null,
+        "ytd": null,
+        "precisionLength": "0",
+        "maxLength": "10",
+				"maxValue":"99999999",
+        "displayOrder": 7
+      },
+      {
+        "id": "20170209203839097006402",
+        "details": "PTP2",
+        "displayName": "Post-tax profit",
+        "fye": null,
+        "ytd": null,
+        "precisionLength": "0",
+        "maxLength": "10",
+				"maxValue":"99999999",
+        "displayOrder": 8
+      },
+      {
+        "id": "20170209203839099006403",
+        "details": "ROE",
+        "displayName": "ROE - %",
+        "fye": null,
+        "ytd": null,
+        "precisionLength": "1",
+        "maxLength": "5",
+				"maxValue":"999.9",
+        "displayOrder": 9
+      }
+    ],
+    "keyFinancialsComments": {
+      "sections": null,
+      "parameter": null,
+      "id": "20170209183530659005359",
+      "operation": null,
+      "sequence": 1042650839008872,
+      "notes": null,
+      "type": null
+    },
+    "responseStatus": null,
+    "mandateStatus": null,
+    "reviewComments": {
+      "id": "201702281832192873738",
+      "notes": null,
+      "type": null,
+      "operation": "NO_CHANGE"
+    }
+  }
+}

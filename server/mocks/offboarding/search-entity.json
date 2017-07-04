@@ -1,0 +1,19 @@
+{
+	"offboarding/searchEntity": {
+		"id": 1,
+		"exceptionFlag": true,
+		"message": "You have searched for 6 groups. 2 group have inflight cases & 3 group have exposure.",
+		"uiServiceTokenID": "78isuksguyhuhS-HUYHI7-869786JGHSKDGHAKS",
+		"validEntityCount": 2,
+		"meta": {
+			"inflightGroupCount": 0,
+			"borrowingGroupCount": 5,
+			"closedGroupCount": 1,
+			"inflightClientCount": 0,
+			"closedClientCount": 0,
+			"totalEntityCount": 0,
+			"inflightTotalCount": 0,
+			"nonInflightTotalCount": 0
+		}
+	}
+}

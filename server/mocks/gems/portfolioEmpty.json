@@ -1,0 +1,15 @@
+{
+  "serviceRequest": {
+    "id": "asdf-23sd-sde7-wei0",
+    "xAxis": [
+    ],
+    "series": [],
+    "metadata": {
+        "open":0,
+        "completed": 0,
+        "all": 0,
+        "totalRecords": 0
+    },
+    "cases": []
+  }
+}

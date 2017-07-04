@@ -1,0 +1,19 @@
+{
+    "meta": {
+      "totalReferrals": 30
+   },
+  "dcDealReferrals": [
+        {
+        "id": "DR-TB-2016-02-388329",
+        "dealReferralId": "DR-TB-2016-02-388329",
+        "dealReferralName": "test for referral",
+        "groupId": "1",
+        "groupName": "GTM ALUMINIUM GRP",
+        "assignedBy": "1001049 - Rees,Alun Michael Guest",
+        "assignedTo": "1350399 - Lim,Benny Mingming",
+        "productGroup": "Transaction Banking",
+        "productType": "FX",
+        "status": "New"
+        }
+    ]
+}

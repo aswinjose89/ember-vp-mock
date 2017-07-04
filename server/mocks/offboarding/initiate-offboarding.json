@@ -1,0 +1,28 @@
+{
+  "clientIdsNotFound": [
+  ],
+  "duplicateIdsFound": [
+    "11193368"
+  ],
+  "clientSummaryViewList": [
+    {
+      "id": 1,
+      "clientId": "11193368",
+      "clientName": "L NAME 11193368",
+      "customerType": "CN",
+      "domicileCountry": "HONG KONG"
+    },
+    {
+      "id": 2,
+      "clientId": "11005348",
+      "clientName": "L NAME 11005348",
+      "customerType": "CB",
+      "domicileCountry": "UNITED STATES"
+    }
+  ],
+  "containsMoreThenHandredRecords": false,
+  "fileNotFoundException": false,
+  "meta": {
+    "totalRecords": 100
+  }
+}

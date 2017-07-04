@@ -1,0 +1,3628 @@
+{
+  "isicCodes": [
+    {
+      "code": "9572",
+      "description": "Repair Of Watches, Clocks & Jewellery",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9520",
+      "description": "Laundry Services, Cleaning & Dyeing Services",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9540",
+      "description": "Hairdressing & Beauty Shops",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9594",
+      "description": "Undertaking, Cremating & Cemetery Services",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9592",
+      "description": "Health Centres, Turkish Baths & Massage Parlours",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "0010",
+      "description": "Bridging Finance For Home Purchase - Owner Occupied",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "0011",
+      "description": "Bridging Finance Fro Home Purchase - Non Owner Occupied",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "0012",
+      "description": "Loans To Purchase Residential Property - Owner Occupied",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "0013",
+      "description": "Loans To Purhcase Residential Property - Non Owner Occupied",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6122",
+      "description": "Wholesale Trade In Tropical Produce",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "6111",
+      "description": "Wholesale Trade-In Food, Drink & Tobacco",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6113",
+      "description": "Wholesale Trade In Textiles & Wearing Apparel",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6121",
+      "description": "Wholesale Trade In Medicinal & Pharmaceutical Products",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6115",
+      "description": "Wholesale Trade In Furniture, Home Furnishing & Other Household Equip.",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "6114",
+      "description": "Wholesale Trade In Personal Effects",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6118",
+      "description": "Wholesale Trade In Souvenirs, Fancy Goods & Gifts",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "6117",
+      "description": "Wholesale Trade In Athletic, Sports & Recreational Goods",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8203",
+      "description": "Captive Insurance",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "6129",
+      "description": "Sale of motor vehicle parts and accessories",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6216",
+      "description": "Retail sale of beverages in specialized stores",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6252",
+      "description": "Hawkers & Stall-Holders Dealing In Other Commodities",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8133",
+      "description": "Other Offshore Banking Units",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8181",
+      "description": "Holding Companies",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8152",
+      "description": "Financial Leasing Companies",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8164",
+      "description": "Mutual Benefit Organisations",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8161",
+      "description": "Factoring Companies",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8411",
+      "description": "Real Estate Development - Agricultural",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8434",
+      "description": "Real Estate Investment - Residential",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8330",
+      "description": "Accounting, Auditing & Book-Keeping Services",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "6217",
+      "description": "Dealing In Transportation Equip. (Including Petrol Service Station)",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6126",
+      "description": "Industrial & Agricultural Mach & Equip Except Tpt & Office Mach & Equip",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9417",
+      "description": "Other publishing activities",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8347",
+      "description": "Computer consultancy and computer facilities management activities",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8364",
+      "description": "Head/Regional Offices Of Enterprises Operating Abroad",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8376",
+      "description": "Landscape care and maintenance service activities",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9313",
+      "description": "Higher Education Services",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9334",
+      "description": "Child Care Services",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9452",
+      "description": "Museums",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9342",
+      "description": "Professional Associations",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1140",
+      "description": "Agriculture Services",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1301",
+      "description": "Ocean & Coastal Fishing",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "2404",
+      "description": "Bauxite",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "2902",
+      "description": "Chemical & Fertiliser Mineral Mining",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "3119",
+      "description": "Mfr Of Cocoa, Chocolate & Sugar Confectionery",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3220",
+      "description": "Mfr Of Wearing Apparel Except Footwear",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3421",
+      "description": "Service activities related to printing",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3522",
+      "description": "Mfg Of Medicinal & Pharmaceutical Products",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3712",
+      "description": "Casting of non-ferrous metals",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3872",
+      "description": "Manufacture of bearings, gears, gearing and driving elements",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3903",
+      "description": "Mfg Of Sporting & Athletic Goods",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "4030",
+      "description": "Water Supply & Distribution",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "0020",
+      "description": "Loans For Credit Card Advances",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "0031",
+      "description": "Loans To Purchase Shares - Margin Lending",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "0032",
+      "description": "Loans To Purchase Shares",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "0090",
+      "description": "Other Personal Loans Nec",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9470",
+      "description": "Training & Care Services For Pets & Animals",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9591",
+      "description": "Marriage Services",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9593",
+      "description": "Astrology, Palmistry & Other Fortune Telling Services",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9510",
+      "description": "Domestic Services",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9599",
+      "description": "Personal & Household Services N.E.C.",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9531",
+      "description": "Undifferentiated goods-producing activities of private households for own use",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9530",
+      "description": "Maintenance Of Estates & Premises",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9620",
+      "description": "International Organisations",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "9630",
+      "description": "Foreign Armed Force Bases",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "9690",
+      "description": "International & Other Extra-Territorial Organisations N.E.C.",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9999",
+      "description": "INDUSTRY SECTOR CODE NOT ENTERED",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "1111",
+      "description": "Grain",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1117",
+      "description": "Rice",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1118",
+      "description": "Vegetables & Horticulture",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1116",
+      "description": "Sugar",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1124",
+      "description": "Tobacco",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1121",
+      "description": "Cotton",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1122",
+      "description": "Jute",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1130",
+      "description": "Growing of other non-perennial crops",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1125",
+      "description": "Growing of grapes",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1126",
+      "description": "Growing of tropical and subtropical fruits",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1127",
+      "description": "Growing of citrus fruits",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1128",
+      "description": "Growing of pome fruits and stone fruits",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1129",
+      "description": "Growing of other tree and bush fruits and nuts",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1112",
+      "description": "Oils",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1113",
+      "description": "Cocoa",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1114",
+      "description": "Coffee",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1115",
+      "description": "Tea",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1119",
+      "description": "Growing of spices, aromatic, drug and pharmaceutical crops",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1144",
+      "description": "Growing of other perennial crops",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1123",
+      "description": "Rubber",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1138",
+      "description": "Plant propagation",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1132",
+      "description": "Cattle",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1133",
+      "description": "Raising of horses and other equines",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1134",
+      "description": "Raising of camels and camelids",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1131",
+      "description": "Sheep",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1135",
+      "description": "Raising of swine/pigs",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1136",
+      "description": "Raising of poultry",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1139",
+      "description": "Other Livestock",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1137",
+      "description": "Mixed farming",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1400",
+      "description": "Collection Of Agriculture By-Products",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1143",
+      "description": "Support activities for animal production",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1141",
+      "description": "Post-harvest crop activities",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1142",
+      "description": "Seed processing for propagation",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1150",
+      "description": "Hunting, Trapping & Game Propagation",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1201",
+      "description": "Forestry",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "1202",
+      "description": "Logging",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "1203",
+      "description": "Gathering of non-wood forest products",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1204",
+      "description": "Support services to forestry",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1302",
+      "description": "Fishing N.E.C.",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "1303",
+      "description": "Marine aquaculture",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "1304",
+      "description": "Freshwater aquaculture",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "2100",
+      "description": "Coal Mining",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "2101",
+      "description": "Mining of lignite",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "2200",
+      "description": "Extraction Of Oil",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "2201",
+      "description": "Oil Rig Operators",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "2203",
+      "description": "Extraction of natural gas",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "2300",
+      "description": "Iron Ore Mining",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "2408",
+      "description": "Mining of uranium and thorium ores",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "2401",
+      "description": "Gold & Precious Metals",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "2403",
+      "description": "Copper & Zinc",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "2405",
+      "description": "Tin",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "2901",
+      "description": "STONE QUARRYING, CLAY & SAND PITS",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "2904",
+      "description": "Extraction of peat",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "2903",
+      "description": "Salt Mining",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "2402",
+      "description": "Diamonds",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "2909",
+      "description": "Mining & Quarrying N.E.C.",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "2202",
+      "description": "Support activities for petroleum and natural gas extraction",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "2911",
+      "description": "Support activities for other mining and quarrying",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3111",
+      "description": "Slaughtering , Preparing , Canning & Preserving Of Meat",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3114",
+      "description": "Canning, Processing & Preserving Of Fish & Other Seafood",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3113",
+      "description": "Canning And Preserving Of Fruits & Vegetables",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3115",
+      "description": "Mfr Of Veg. & Animal Oils & Fats Except Land & Other Edible Animal Fats",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3112",
+      "description": "Manufacture Of Dairy Products",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3116",
+      "description": "Mfr Of Grain Mill Products(Including Provision Of Milling Services)",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3123",
+      "description": "Manufacture of starches and starch products",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3117",
+      "description": "Mfr Of Bakery & Milled Grain Products",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3118",
+      "description": "Sugar Factories & Refineries",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3124",
+      "description": "Manufacture of macaroni, noodles, couscous and similar farinaceous products",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3125",
+      "description": "Manufacture of prepared meals and dishes",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3121",
+      "description": "Mfr Of Food Products N.E.C.",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3122",
+      "description": "Mfr Of Prepared Animal Food",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3131",
+      "description": "Distilling, Rectifying & Blending Of Spirits (Incl. Samsu & Chinese Liquors)",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3132",
+      "description": "Wine Industries",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3133",
+      "description": "Malt Liquor & Malt",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3134",
+      "description": "Soft Drinks & Carbonated Water Industries",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3140",
+      "description": "Mfr Of Tobacco Products",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3216",
+      "description": "Preparation and spinning of textile fibres",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3211",
+      "description": "Weaving of textiles",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3217",
+      "description": "Finishing of textiles",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3213",
+      "description": "Textile-Knitting Mills",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3212",
+      "description": "Mfr Of Made-Up Textile Goods",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3214",
+      "description": "Mfr Of Carpets & Rugs",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3907",
+      "description": "Mfr Of Jewellery & Related Articles(Except Costume Jewellery) - production of precious and semi-precious stones other than diamonds",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "3906",
+      "description": "Mfr Of Jewellery & Related Articles(Except Costume Jewellery)  - working of diamonds",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "3901",
+      "description": "Mfr Of Jewellery & Related Articles(Except Costume Jewellery)",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3905",
+      "description": "Manufacture of imitation jewellery and related articles",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3902",
+      "description": "Mfg Of Musical Instruments",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3904",
+      "description": "Mfr Of Toys",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3880",
+      "description": "Manufacture of medical and dental instruments and supplies",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3909",
+      "description": "Mfr Industries N.E.C.",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3867",
+      "description": "Repair of fabricated metal products",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3868",
+      "description": "Repair of machinery",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3869",
+      "description": "Repair of electronic and optical equipment",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3881",
+      "description": "Repair of electrical equipment",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3882",
+      "description": "Repair of transport equipment, except motor vehicles",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3883",
+      "description": "Repair of other equipment",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3884",
+      "description": "Installation of industrial machinery and equipment",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "4010",
+      "description": "Electricity Generation & Distribution",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "4020",
+      "description": "Gas Mfr & Distribution",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "4040",
+      "description": "Steam and air conditioning supply",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "4031",
+      "description": "Sewerage",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "4032",
+      "description": "Collection of non-hazardous waste",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "4033",
+      "description": "Collection of hazardous waste",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "4034",
+      "description": "Treatment and disposal of non-hazardous waste",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "4035",
+      "description": "Treatment and disposal of hazardous waste",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "4036",
+      "description": "Materials recovery",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "4037",
+      "description": "Remediation activities and other waste management services",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "5019",
+      "description": "Other Building Contracting Work - Not Elsewhere Classified",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "5002",
+      "description": "General Contractors - Commercial",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "5003",
+      "description": "General Contractors - Industrial",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "5004",
+      "description": "General Contractors - Residential",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "5005",
+      "description": "General Contractors - Retail",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "5012",
+      "description": "Renovation Contractors - Commercial",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "5013",
+      "description": "Renovation Contractors - Industrial",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "5014",
+      "description": "Renovation Contractors - Residential",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "5015",
+      "description": "Renovation Contractors - Retail",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "5045",
+      "description": "Scaffolding Works",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "5053",
+      "description": "Brick-Laying, Stone-Setting & Cement Works",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "5057",
+      "description": "Roofing Works",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "5021",
+      "description": "Roads, Streets Construction",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "5024",
+      "description": "Communication & Power Lines Construction",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "5022",
+      "description": "Water, Sewers, Gas, Pipeline Construction",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "5025",
+      "description": "Bridge, Tunnel, Viaduct, Elevated Highway Construction",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "5023",
+      "description": "Dams & Drainage Works",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "5026",
+      "description": "Marine Construction(E.G. Harbour, Pier, Dock, Wharves)",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "5044",
+      "description": "Wrecking & Demolition Works",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "5041",
+      "description": "Excavation And Earth Moving Works",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "5001",
+      "description": "General Contractors - Agricultural",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "5011",
+      "description": "Renovation Contractors - Agricultural",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "5042",
+      "description": "Foundation Works",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "5043",
+      "description": "Land Reclamation Works",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "5052",
+      "description": "Electrical Works",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "5051",
+      "description": "Plumbing, Heating(Non-Electric) & Air-Conditioning",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "5047",
+      "description": "Installation & Erection Of Bldg Equip.",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "5055",
+      "description": "Carpentry, Joinery & Other Woodworks",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "5054",
+      "description": "Tile Setting",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "5056",
+      "description": "Painting & Decorating",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "5058",
+      "description": "Glass & Glazing Works",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "5029",
+      "description": "Other Non-Building Construction N.E.C.",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "5046",
+      "description": "Sand Blasting Works",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "5059",
+      "description": "Installation Of Fire Protection & Security Alarm System",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "6128",
+      "description": "Transport Equipment",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "9561",
+      "description": "Repair & Servicing Of Vehicles",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9562",
+      "description": "Vehicle Inspection Services",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "6238",
+      "description": "Sale, maintenance and repair of motorcycles and related parts and accessories",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6151",
+      "description": "Activities of wholesale auctioneering houses",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6150",
+      "description": "Commission Agencies",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "3215",
+      "description": "Cordage, Rope & Twine Industries",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3219",
+      "description": "Mfr Of Textiles N.E.C.",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3232",
+      "description": "Mfr Of Fur Products Except Wearing Apparel",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3221",
+      "description": "Manufacture of knitted and crocheted apparel",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3231",
+      "description": "Tanneries & Leather Finishing",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3233",
+      "description": "Mfr Of Prod. Of Leather & Leather Substitutes Exc. Footwear & Wearing App.",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3240",
+      "description": "Manufacture Of Footwear",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3311",
+      "description": "Sawmills, Planing & Other Wood Mills",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3322",
+      "description": "Manufacture of veneer sheets and wood-based panels",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3323",
+      "description": "Manufacture of builders's carpentry and joinery",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3312",
+      "description": "Manufacture Of Wooden Containers",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3313",
+      "description": "Rattan Processing & Mfg Of Rattan Products Except Furniture",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3319",
+      "description": "Mfr Of Wood & Cork Products N.E.C.",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3411",
+      "description": "Mfr Of Pulp, Paper & Paperboard",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3412",
+      "description": "Mfr Of Containers & Boxes Of Paper & Paperboard",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3419",
+      "description": "Mfr Of Articles Of Paper & Paperboard N.E.C.",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3420",
+      "description": "Printing, Publishing & Allied Industries",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3866",
+      "description": "Reproduction of recorded media",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3531",
+      "description": "Manufacture of coke oven products",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3540",
+      "description": "Mfg Of Misc. Products Of Petroleum & Coal",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3530",
+      "description": "Petroleum Refineries",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3511",
+      "description": "Mfr Of Basic Industrial Chemicals Except Fertilisers",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3512",
+      "description": "Manufacture of fertilizers and nitrogen compounds",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3513",
+      "description": "Manufacture of plastics and synthetic rubber in primary forms",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3514",
+      "description": "Manufacture of pesticides and other agrochemical products",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3521",
+      "description": "Mfr Of Paints, Varnishes & Lacquers(Incl. Enamels & Allied Products",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3523",
+      "description": "Mfr Of Soap & Cleaning Preparations, Perfumes, Cosmetics & Toiletries",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3529",
+      "description": "Mfr Of Chemical Products N.E.C.",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3524",
+      "description": "Mfg Of Matches",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3525",
+      "description": "Mfg Of Incense & Joss Sticks",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3515",
+      "description": "Manufacture of man-made fibres",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3561",
+      "description": "Mfr & Retreading Of Tyres & Tubes",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3569",
+      "description": "Mfr Of Other Rubber Products Except Rubber Footwear & Toys",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3550",
+      "description": "Processing Of Natural Rubber & Gums",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3570",
+      "description": "Mfr Of Plastic Products N.E.C.",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3620",
+      "description": "Mfr Of Glass And Glass Products",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3693",
+      "description": "Manufacture of refractory products",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3630",
+      "description": "Mfr Of Structural Clay Products",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3610",
+      "description": "Mfg Of Pottery, China & Earthenware",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3640",
+      "description": "Mfr Of Cement, Lime & Plaster",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3650",
+      "description": "Mfr Of Structural Cement & Concrete Products",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3691",
+      "description": "Mfg Of Cut Stone & Stone Products (Incl. Tomb-Stones)",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3699",
+      "description": "Mfr. Of Non-Metallic Mineral Products N.E.C.",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3692",
+      "description": "Mfr Of Insulation Products",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3710",
+      "description": "Iron & Steel Basis Industries",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3729",
+      "description": "Non-Ferrous Metal Basis Industries",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3721",
+      "description": "Aluminium",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3711",
+      "description": "Casting of iron and steel",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3813",
+      "description": "Mfr Of Structural Metal Products",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3820",
+      "description": "Manufacture of tanks, reservoirs and containers of metal",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3809",
+      "description": "Manufacture of steam generators, except central heating hot water boilers",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3808",
+      "description": "Manufacture of weapons and ammunition",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "3817",
+      "description": "Metal Forging & Stampings",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3807",
+      "description": "Treatment and coating of metals; machining",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3811",
+      "description": "Mfr Of Cutlery, Hand Tools & General Hardware",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3818",
+      "description": "Metal Products Services",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3815",
+      "description": "Mfr Of Metal Cans, Containers & Related Products",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3816",
+      "description": "Mfr Of Plumbing, Heating & Related Products Except Electric",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3819",
+      "description": "Mfr Of Fabricated Metal Products Except Machinery & Equip N.E.C.",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3849",
+      "description": "Mfr Of Electronic Products & Components N.E.C.",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3844",
+      "description": "Mfr Of Semi-Conductor Devices",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3846",
+      "description": "Mfr Of Other Electronic Components",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3848",
+      "description": "Mfr Of Military Electronic Products",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "3827",
+      "description": "Manufacture of computers and peripheral equipment",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8399",
+      "description": "Business Services N.E.C.",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9111",
+      "description": "Central Government Organisation",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9112",
+      "description": "State Government Organisations",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9113",
+      "description": "Local Government Organisations",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9190",
+      "description": "Public Administration And Development Services N.E.C.",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9191",
+      "description": "Regulation of and contribution to more efficient operation of businesses",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9610",
+      "description": "Foreign Embassies & Trade Representatives",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "9211",
+      "description": "Armed Forces\t",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9219",
+      "description": "Other Defence Services",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "9120",
+      "description": "Judiciary & Related Services",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9220",
+      "description": "Police",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9231",
+      "description": "Prisons",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9239",
+      "description": "Other Places Of Detention & Correction",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9240",
+      "description": "Fire Fighting Services",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9310",
+      "description": "Compulsory social security activities",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9344",
+      "description": "Pre-primary and primary education",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9311",
+      "description": "General Education Services",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9312",
+      "description": "Technical & Commercial Education Services",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9314",
+      "description": "Research & Scientific Teaching Institutes",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9318",
+      "description": "Sports and recreation education",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9320",
+      "description": "Cultural education",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9319",
+      "description": "Education Services Not Elsewhere Classified",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9333",
+      "description": "Job Training & Vocational Abilitation Services",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9326",
+      "description": "Educational support activities",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9321",
+      "description": "Medical & Health Services",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9322",
+      "description": "Dental Services",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9324",
+      "description": "Medical & Dental Laboratories",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9325",
+      "description": "Environmental Health Services",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9329",
+      "description": "Health Services N.E.C.",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9336",
+      "description": "Residential nursing care facilities",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9337",
+      "description": "Residential care activities for mental retardation, mental health and substance abuse",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9335",
+      "description": "Residential Care",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9338",
+      "description": "Social work activities without accommodation for the elderly and disabled",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9345",
+      "description": "Social work activities without accommodation - fund raising or similar activities aimed at social work",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "9339",
+      "description": "Other social work activities without accommodation",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9331",
+      "description": "Social Welfare Services",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9332",
+      "description": "Community Services",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9439",
+      "description": "Theatrical Producers & Entertainment Services N.E.C.",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9341",
+      "description": "Theatrical Procedures Except Motion Picture",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9432",
+      "description": "Stage Shows",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9433",
+      "description": "Orchestras, Dance Banks, Actors, Singlers & Other Entertainers",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9441",
+      "description": "Authors & Novelists",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9442",
+      "description": "Composers & Song Writers",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9443",
+      "description": "Free-Lance Journalists & Reporters",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9449",
+      "description": "Other Independent Artists N.E.C.",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9451",
+      "description": "Libraries",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9453",
+      "description": "Art Galleries",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "9454",
+      "description": "Cultural Village",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9455",
+      "description": "Botanical & Zoological Gardens & Park",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9456",
+      "description": "Gambling and betting activities",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "9444",
+      "description": "Operation of sports facilities",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9445",
+      "description": "Activities of sports clubs",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9446",
+      "description": "Other sports activities",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9460",
+      "description": "Amusement Parks",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9459",
+      "description": "Cultural Services N.E.C.",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9490",
+      "description": "Amusement & Recreational Services N.E.C.",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "0000",
+      "description": "Personal",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9340",
+      "description": "Business & Trade Association",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9343",
+      "description": "Labour Union & Association",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9391",
+      "description": "Religious Organisations",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "9392",
+      "description": "Activities of political organizations",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "9399",
+      "description": "Social & Related Community Services N.E.C.",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "9574",
+      "description": "Repair of computers and peripheral equipment",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9575",
+      "description": "Repair of communication equipment",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9573",
+      "description": "Repair Of Electrical Household Goods",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9579",
+      "description": "Repair Of Other Consumer Goods",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9576",
+      "description": "Repair of household appliances and home and garden equipment",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9571",
+      "description": "Repair Of Footwear & Leather Goods",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9577",
+      "description": "Repair of furniture and home furnishings",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "10000",
+      "description": "Testing ISIC",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "97007",
+      "description": "IS Dev TEAM",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3837",
+      "description": "Mfr Of Radio, Tv & Communication Equip. & Apparatus",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3842",
+      "description": "Mfr Of Audio & Video Consumer Electronic Products",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3843",
+      "description": "Mfg Of Other Consumer Electronic Products Except Watches & Clocks",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3862",
+      "description": "Mfr Of Measuring & Controlling Devices",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3861",
+      "description": "Mfr Of Engineering & Scientific Instruments",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3865",
+      "description": "Mfr Of Watches & Clocks(Including Parts & Accessories)",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3863",
+      "description": "Mfr Of Surgical & Medical Instruments & Supplies",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3864",
+      "description": "Mfr Of Photographic & Optical Goods(Incl. Photocopying Equip)",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3847",
+      "description": "Mfr Of Phonograph Records & Magnetic Tapes",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3832",
+      "description": "Mfr & Repair Of Electrical Distribution Equipment",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3831",
+      "description": "Mfr & Repair Of Elect Ind Mach. & Apparatus Except Elect Instrument",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3834",
+      "description": "Mfr Of Storage & Primarily Batteries",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3838",
+      "description": "Manufacture of fibre optic cables",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3833",
+      "description": "Mfr Of Electrical Cables & Wires",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3814",
+      "description": "Mfr Of Wire & Cable Products Except Insulated Wire & Cable",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3845",
+      "description": "Mfg Of Electron Tubes",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3840",
+      "description": "Manufacture of wiring devices",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3835",
+      "description": "Mfr Of Elect Lighting Equip., Fitting & Parts",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3850",
+      "description": "Manufacture of domestic appliances",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3836",
+      "description": "Mfg Of Electrical Household Appliances",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3841",
+      "description": "Mfr & Repair Of Industrial/Commercial Electronic Products",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3839",
+      "description": "Mfg Of Electrical Machinery, Apparatus, Appliances & Supplies N.E.C.",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3821",
+      "description": "Mfr Of Engines & Turbines",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3870",
+      "description": "Manufacture of fluid power equipment",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3826",
+      "description": "Mfr & Repair Of Refrigerating, Air-Con. & Ven. Mach. & Equip.",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3871",
+      "description": "Manufacture of other pumps, compressors, taps and valves",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3873",
+      "description": "Manufacture of ovens, furnaces and furnace burners",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3874",
+      "description": "Manufacture of lifting and handling equipment",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3806",
+      "description": "Manufacture of office machinery and equipment (except computers and peripheral equipment)",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3876",
+      "description": "Manufacture of power-driven hand tools",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3877",
+      "description": "Manufacture of other general-purpose machinery",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3822",
+      "description": "Mfr Of Agricultural Machinery And Equipment",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3824",
+      "description": "Mfr & Repair Of Metal Working & Woodworking Machinery & Equip",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3810",
+      "description": "Manufacture of machinery for metallurgy",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3825",
+      "description": "Mfr & Repair Of Construction & Related Machinery & Equip",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3823",
+      "description": "Mfr & Repair Of Mining, Oilfield & Gasfield, & Related Mach. & Equip.",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3878",
+      "description": "Manufacture of machinery for food, beverage and tobacco processing",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3879",
+      "description": "Manufacture of machinery for textile, apparel and leather production",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3829",
+      "description": "Mfr & Repair Of Machinery & Equip Exc. Elect. & Electronic N.E.C.",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3828",
+      "description": "Mfr Of Special Industrial Mach & Equipmt Except Metal & Wood Working Mach",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3853",
+      "description": "Manufacture of motor vehicles",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3875",
+      "description": "Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3856",
+      "description": "Manufacture of parts and accessories for motor vehicles",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3851",
+      "description": "Bldg & Repairing Of Ships And Boats",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3860",
+      "description": "Building of pleasure and sporting boats",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "3852",
+      "description": "Mfg & Repairing Railroad Equipment",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3855",
+      "description": "Mfr Of Aircraft",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "3857",
+      "description": "Manufacture of military fighting vehicles",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "3854",
+      "description": "Mfg Of Motorcycles, Scooters & Bicycles",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3858",
+      "description": "Manufacture of bicycles and invalid carriages",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3859",
+      "description": "Mfg Of Transport Equipment N.E.C.",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3320",
+      "description": "Mfr Of Furniture & Fixtures Except Primarily Of Metal, Stone & Plastics",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "3812",
+      "description": "Mfr Of Furniture & Fixtures Primarily Of Metal",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "6116",
+      "description": "Wholesale of computers, computer peripheral equipment and software",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6119",
+      "description": "Wholesale of electronic and telecommunications equipment and parts",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6131",
+      "description": "Machines & Equipment",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6133",
+      "description": "Machinery & Equipment N.E.C.",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6124",
+      "description": "Wholesale Trade In Mineral Fuels, Lubricants & Related Products",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "6123",
+      "description": "Wholesale of metals and metal ores",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6134",
+      "description": "Timber, Paints & Construction Materials",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "6112",
+      "description": "Wholesale Gem Trading",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "6191",
+      "description": "Scrap, Junk And Waste Dealers",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "6199",
+      "description": "Wholesale Trade N.E.C.",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6125",
+      "description": "Chemicals & Chemical Products N.E.C.",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6135",
+      "description": "Wholesale Trade In Plastic Materials",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6136",
+      "description": "Paper, Paper & Cellophane Products & Stationery",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "6139",
+      "description": "Specific Commodities N.E.C.",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6140",
+      "description": "General Importers & Exporters",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "6161",
+      "description": "Ship Chandlers",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "6230",
+      "description": "Supermarkets, Departmental Stores & General Provision Shops",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6211",
+      "description": "Retail Trade - Food, Drink & Tobacco",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "6253",
+      "description": "Other retail sale in non-specialized stores",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6212",
+      "description": "Retail sale of food in specialized stores",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6218",
+      "description": "Retail sale of tobacco products in specialized stores",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "6219",
+      "description": "Retail sale of automotive fuel in specialized stores",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6225",
+      "description": "Dealing In Computer & Office Equipment",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6220",
+      "description": "Retail sale of audio and video equipment in specialized stores",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6213",
+      "description": "Retail Trade Dealing In Textiles & Wearing Apparel",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "6227",
+      "description": "Retail Stores Dealing In Hardware & Builders Materials",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "6229",
+      "description": "Diy Stores",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "6222",
+      "description": "Retail sale of carpets, rugs, wall and floor coverings in specialized stores",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "6215",
+      "description": "Retail Stores Dealing In Furniture, Furnishing & Other Household Equip.",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "6214",
+      "description": "Retail Store Dealing In Personal Effects",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "6224",
+      "description": "Books, Magazines & Paper Products",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6228",
+      "description": "Retail sale of music and video recordings in specialized stores",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6221",
+      "description": "Dealing In Athletic, Sport & Recreational Goods",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6233",
+      "description": "Retail sale of games and toys in specialized stores",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6231",
+      "description": "Retail sale of clothing, footwear and leather articles in specialized stores",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6241",
+      "description": "Pharmacies & Drug Stores (Western)",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6242",
+      "description": "Pharmacies & Drug Stores (Non-Western)",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6210",
+      "description": "Retail sale of watches, clocks and jewellery",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "6254",
+      "description": "Other retail sale of new goods in specialized stores",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6209",
+      "description": "Retail sale of weapons and ammunition",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "6223",
+      "description": "Dealing In Souvenirs, Fancy Goods & Gifts",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6226",
+      "description": "Retail Stores Dealing In Optical & Photographic Goods",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6239",
+      "description": "Retail sale of antiques",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "6240",
+      "description": "Activities of auctioning houses (retail)",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "6232",
+      "description": "Retail sale of second-hand goods",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6314",
+      "description": "Hawkers & Stallholders Selling Cooked Food & Prepared Drinks",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6251",
+      "description": "Hawkers & Stall-Holders Dealing In Foodstuffs (Uncooked)",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6234",
+      "description": "Retail sale via stalls and markets of textiles, clothing and footwear",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "6235",
+      "description": "Retail sale via mail order houses or via Internet - internet auction",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6236",
+      "description": "Retail sale via mail order houses or via Internet",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6237",
+      "description": "Other retail sale not in stores, stalls or markets",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "7111",
+      "description": "Passenger rail transport",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "7115",
+      "description": "Freight rail transport",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "7112",
+      "description": "Passenger Transport By Road",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "7142",
+      "description": "Taxis & Public Light Buses",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "7113",
+      "description": "Freight Transport By Road",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "7116",
+      "description": "Transport via pipeline",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "7124",
+      "description": "Sea and coastal passenger water transport",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "7121",
+      "description": "Sea and coastal freight water transport",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "7125",
+      "description": "Inland passenger water transport",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "7126",
+      "description": "Inland freight water transport",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "7131",
+      "description": "Passenger air transport",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "7133",
+      "description": "Freight air transport",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "7150",
+      "description": "Storage & Warehousing",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8393",
+      "description": "Car Park Management",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "7114",
+      "description": "Supporting Services To Land Transport",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "7122",
+      "description": "Supporting Services To Water Transport",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "7123",
+      "description": "Supporting Services To Water Tpt N.E.C.",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "7132",
+      "description": "Supporting Services To Air Transport",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "6162",
+      "description": "Air Transport Suppliers",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "7134",
+      "description": "Cargo handling",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "7190",
+      "description": "Services Allied To Transport N.E.C.",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "7141",
+      "description": "Services Allied To Transport Of Passengers",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "7143",
+      "description": "Services Allied To Transport Of Goods",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "7210",
+      "description": "Postal Services",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "7211",
+      "description": "Courier activities",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6320",
+      "description": "Hotels, Lodging & Boarding Houses",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6321",
+      "description": "Camping grounds, recreational vehicle parks and trailer parks",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "6322",
+      "description": "Other accommodation",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "6311",
+      "description": "Restaurant & Catering",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "6316",
+      "description": "Event catering",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "6317",
+      "description": "Other food service activities",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6319",
+      "description": "Eating & Drinking Places N.E.C.",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "6313",
+      "description": "Bars",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "6312",
+      "description": "Coffee Shops, Cafes & Creameries",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "9414",
+      "description": "Book publishing",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9415",
+      "description": "Publishing of directories and mailing lists",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9416",
+      "description": "Publishing of newspapers, journals and periodicals",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9418",
+      "description": "Software publishing",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9411",
+      "description": "Motion Picture/Video Production & Allied Services",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9419",
+      "description": "Motion picture, video and television programme post-production activities",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9412",
+      "description": "Motion Picture/Video Distribution And Allied Services",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9413",
+      "description": "Cinema Services",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9421",
+      "description": "Sound recording and music publishing activities",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9420",
+      "description": "Radio & Television Broadcasting",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9422",
+      "description": "Television programming and broadcasting activities",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "7220",
+      "description": "Wired telecommunications activities",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "7223",
+      "description": "Wireless telecommunications activities",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "7224",
+      "description": "Satellite telecommunications activities",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "7225",
+      "description": "Other telecommunications activities",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8342",
+      "description": "I T Professional Services",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8348",
+      "description": "Other information technology and computer service activities",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8341",
+      "description": "Information Processing Services",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8343",
+      "description": "Web portals",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8366",
+      "description": "News Syndicates",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8388",
+      "description": "Other information service activities n.e.c.",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8112",
+      "description": "Central Banks",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8111",
+      "description": "Public Financial Institutions",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8123",
+      "description": "Commercial Banks",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8122",
+      "description": "Merchant Banks - Local",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8124",
+      "description": "Merchant Banks - Foreign",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8131",
+      "description": "Offshore Banking Units Of Commercial Banks",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8150",
+      "description": "Finance Companies",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8151",
+      "description": "General Finance Companies",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8156",
+      "description": "CREDIT UNIONS",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8169",
+      "description": "Money Service Bureaus",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8182",
+      "description": "Investment Companies",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8180",
+      "description": "Holding & Other Investment Companies",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8185",
+      "description": "Unit Trusts",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8186",
+      "description": "Trusts & Foundations",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8187",
+      "description": "MONEY MARKET MUTUAL FUNDS",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8166",
+      "description": "Motor Finance",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8167",
+      "description": "Hire Purchase",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8162",
+      "description": "Thrift & Loan Societies & Credit Associations",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8153",
+      "description": "Building Societies",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8163",
+      "description": "Credit Card Services",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8165",
+      "description": "Money Lending",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8168",
+      "description": "MORTGAGE AND HOUSING CREDIT COMPANIES",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8190",
+      "description": "Financial Institutions & Financial Services N.E.C.",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8140",
+      "description": "Discount Houses",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8142",
+      "description": "BANKERS CLEARING HOUSE",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8183",
+      "description": "Nominee Companies",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8201",
+      "description": "Life insurance",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8205",
+      "description": "Non-life insurance Others",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8204",
+      "description": "Import & Export Insurance",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8202",
+      "description": "Reinsurance Underwriting",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8184",
+      "description": "Pension Funds",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8176",
+      "description": "Administration of financial markets",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8171",
+      "description": "Stock, Share & Bond Brokers",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8170",
+      "description": "Moneybrokers & Gilt-Edged Jobbers",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8172",
+      "description": "Stockbrokers - Margin Lending",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8173",
+      "description": "Foreign Exchange Brokers & Dealers",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8174",
+      "description": "Gold Bullion Dealers",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8175",
+      "description": "Rubber Brokers",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8179",
+      "description": "Other Financial Future Brokers & Dealers",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8160",
+      "description": "Credit Agencies N.E.C.",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8177",
+      "description": "Risk and damage evaluation",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8178",
+      "description": "Activities of insurance agents and brokers",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8209",
+      "description": "Insurance Services N.E.C.",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8191",
+      "description": "FUND MGMT UNCLASSIFIABLE",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8188",
+      "description": "FUND MGMT ON BEHALF OF UK INV & UNIT TRT OTHER THAN UK MMM FUNDS",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8189",
+      "description": "FUND MGMT ON BEHALF OF UK INS CO AND PENSION FUNDS",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8419",
+      "description": "Real Estate Development - Not Elsewhere Classified",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8412",
+      "description": "Real Estate Development - Commercial",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8413",
+      "description": "Real Estate Development - Industrial",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8414",
+      "description": "Real Estate Development - Residential",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8415",
+      "description": "Real Estate Development - Retail",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8431",
+      "description": "Real Estate Investment - Agricultural",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8432",
+      "description": "Real Estate Investment - Commercial",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8433",
+      "description": "Real Estate Investment - Industrial",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8435",
+      "description": "Real Estate Investment - Retail",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8451",
+      "description": "Real Estate Agents & Lessors",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8452",
+      "description": "Real Estate Management",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8321",
+      "description": "Legal Services - sole practioner or small/little known law firms",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8320",
+      "description": "Legal Services",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8331",
+      "description": "Accounting, Auditing & Book-Keeping Services - sole practioner or small/little known accounting or audit firms",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8363",
+      "description": "Management, Consulting & Public Relation Services",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8350",
+      "description": "Engineering, Architectural & Technical Services",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8351",
+      "description": "Technical testing and analysis",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8352",
+      "description": "Research and experimental development on natural sciences and engineering",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8353",
+      "description": "Research and experimental development on social sciences and humanities",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8361",
+      "description": "Advertising",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8369",
+      "description": "Market research and public opinion polling",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8391",
+      "description": "Interior Design & Landscape Planning",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "9550",
+      "description": "Photographic & Video Recording Services",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8395",
+      "description": "Other professional, scientific and technical activities n.e.c.",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "9323",
+      "description": "Veterinary Services",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8371",
+      "description": "Car Rental",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8374",
+      "description": "Renting and leasing of recreational and sports goods",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8372",
+      "description": "Video Rental",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8379",
+      "description": "Equipment Rental, Leasing & Maintenance Service N.E.C.",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8368",
+      "description": "Machinery & Equipment Rental & Leasing",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8375",
+      "description": "Leasing of intellectual property and similar products, except copyrighted works",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8362",
+      "description": "Employment & Labour Contracting Services",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8356",
+      "description": "Temporary employment agency activities",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8357",
+      "description": "Other human resources provision",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8358",
+      "description": "Travel agency activities",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8359",
+      "description": "Tour operator activities",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8349",
+      "description": "Other reservation service and related activities",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8370",
+      "description": "Private security activities",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8373",
+      "description": "Security systems service activities",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8367",
+      "description": "Detective Agencies & Security Services",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8389",
+      "description": "Combined facilities support activities",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8355",
+      "description": "General cleaning of buildings",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8354",
+      "description": "Other building and industrial cleaning activities",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8381",
+      "description": "Combined office administrative service activities",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8365",
+      "description": "Stenographic & Related Services",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8392",
+      "description": "Business Representative Offices",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8382",
+      "description": "Photocopying, document preparation and other specialized office support activities",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8383",
+      "description": "Activities of call centres",
+      "risk": "Medium",
+      "riskCode": "M"
+    },
+    {
+      "code": "8384",
+      "description": "Organization of conventions and trade shows",
+      "risk": "Low",
+      "riskCode": "L"
+    },
+    {
+      "code": "8387",
+      "description": "Activities of collection agencies and credit bureaus",
+      "risk": "High",
+      "riskCode": "H"
+    },
+    {
+      "code": "8385",
+      "description": "Packaging activities",
+      "risk": "Low",
+      "riskCode": "L"
+    }
+  ]
+}

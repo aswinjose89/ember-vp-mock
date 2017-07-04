@@ -1,0 +1,931 @@
+{
+  "exchanges": [
+    {
+      "mic": null,
+      "exchange": "Athens Exchange",
+      "exchangeId": "1",
+      "market": "Securities Market",
+      "exchangeCountry": "Greece",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XASX",
+      "exchange": "Australian Securities Exchange",
+      "exchangeId": "2",
+      "market": null,
+      "exchangeCountry": "Australia",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": null,
+      "exchange": "Bermuda Stock Exchange",
+      "exchangeId": "3",
+      "market": null,
+      "exchangeCountry": "Bermuda",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XBMF",
+      "exchange": "BM&FBOVESPA",
+      "exchangeId": "4",
+      "market": null,
+      "exchangeCountry": "Brazil",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2011"
+    },
+    {
+      "mic": "XSGO",
+      "exchange": "Bolsa Commercio Santiago",
+      "exchangeId": "5",
+      "market": null,
+      "exchangeCountry": "Chile",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2011"
+    },
+    {
+      "mic": "XBAR",
+      "exchange": "Bolsa de Valores de Barcelona",
+      "exchangeId": "6",
+      "market": "First and Second Markets",
+      "exchangeCountry": "Spain",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XBIL",
+      "exchange": "Bolsa de Valores de Bilboa",
+      "exchangeId": "7",
+      "market": "First and Second Markets",
+      "exchangeCountry": "Spain",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XMAD",
+      "exchange": "Bolsa de Valores de Madrid",
+      "exchangeId": "8",
+      "market": "First and Second Markets",
+      "exchangeCountry": "Spain",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XVAL",
+      "exchange": "Bolsa de Valores de Valencia",
+      "exchangeId": "9",
+      "market": "First and Second Markets",
+      "exchangeCountry": "Spain",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": null,
+      "exchange": "Bolsa Electronica de Valores del Uruguay",
+      "exchangeId": "10",
+      "market": null,
+      "exchangeCountry": "Uruguay",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2011"
+    },
+    {
+      "mic": null,
+      "exchange": "Bombay Stock Exchange Limited",
+      "exchangeId": "11",
+      "market": null,
+      "exchangeCountry": "India",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2009"
+    },
+    {
+      "mic": "MTAA",
+      "exchange": "Borsa Italiana",
+      "exchangeId": "12",
+      "market": "MTA - Standard segment",
+      "exchangeCountry": "Italy",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "MTAA",
+      "exchange": "Borsa Italiana",
+      "exchangeId": "12",
+      "market": "MTA - Standard segment",
+      "exchangeCountry": "Italy",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "MTAA",
+      "exchange": "Borsa Italiana",
+      "exchangeId": "12",
+      "market": "MTA - Standard segment",
+      "exchangeCountry": "Italy",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "EQTA",
+      "exchange": "Borse Berlin AG",
+      "exchangeId": "15",
+      "market": "Regulated Market",
+      "exchangeCountry": "Germany",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "DUSA",
+      "exchange": "Borse DÃ¼sseldorf",
+      "exchangeId": "16",
+      "market": "Regulated Market",
+      "exchangeCountry": "Germany",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": null,
+      "exchange": "Borse Hannover",
+      "exchangeId": "17",
+      "market": "Regulated Market",
+      "exchangeCountry": "Germany",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "MUNA",
+      "exchange": "Borse MÃ¼nchen",
+      "exchangeId": "18",
+      "market": "Regulated Market",
+      "exchangeCountry": "Germany",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "STUA",
+      "exchange": "Borse Stuttgart",
+      "exchangeId": "19",
+      "market": "Regulated Market",
+      "exchangeCountry": "Germany",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XBOT",
+      "exchange": "Botswana Stock Exchange",
+      "exchangeId": "20",
+      "market": null,
+      "exchangeCountry": "Botswana",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2011"
+    },
+    {
+      "mic": null,
+      "exchange": "Bratislava Stock Exchange",
+      "exchangeId": "21",
+      "market": "Parallel Listed Market",
+      "exchangeCountry": "Slovakia",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": null,
+      "exchange": "Bratislava Stock Exchange",
+      "exchangeId": "21",
+      "market": "Parallel Listed Market",
+      "exchangeCountry": "Slovakia",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XBSE",
+      "exchange": "Bucharest Stock Exchange S.A.",
+      "exchangeId": "23",
+      "market": "Spot Regulated Market - BVB",
+      "exchangeCountry": "Romania",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XBUD",
+      "exchange": "Budapest Stock Exchange",
+      "exchangeId": "24",
+      "market": null,
+      "exchangeCountry": "Hungary",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XBUL",
+      "exchange": "Bulgarian Stock Exchange",
+      "exchangeId": "25",
+      "market": "Official Market",
+      "exchangeCountry": "Bulgaria",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XBUL",
+      "exchange": "Bulgarian Stock Exchange",
+      "exchangeId": "25",
+      "market": "Official Market",
+      "exchangeCountry": "Bulgaria",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": null,
+      "exchange": "Bursa Malaysia",
+      "exchangeId": "27",
+      "market": "ACE Market",
+      "exchangeCountry": "Malaysia",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2009"
+    },
+    {
+      "mic": null,
+      "exchange": "Bursa Malaysia",
+      "exchangeId": "27",
+      "market": "ACE Market",
+      "exchangeCountry": "Malaysia",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2009"
+    },
+    {
+      "mic": "XBRN",
+      "exchange": "BX Berne eXchange",
+      "exchangeId": "29",
+      "market": null,
+      "exchangeCountry": "Switzerland",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2011"
+    },
+    {
+      "mic": null,
+      "exchange": "Channel Islands Stock Exchange",
+      "exchangeId": "30",
+      "market": null,
+      "exchangeCountry": "Isle of Man",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XCYS",
+      "exchange": "Cyprus Stock Exchange",
+      "exchangeId": "31",
+      "market": "Alternative market",
+      "exchangeCountry": "Cyprus",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XCYS",
+      "exchange": "Cyprus Stock Exchange",
+      "exchangeId": "31",
+      "market": "Alternative market",
+      "exchangeCountry": "Cyprus",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XCYS",
+      "exchange": "Cyprus Stock Exchange",
+      "exchangeId": "31",
+      "market": "Alternative market",
+      "exchangeCountry": "Cyprus",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XRMO",
+      "exchange": "Czech Stock Exchange (RM-System)",
+      "exchangeId": "34",
+      "market": "Official Market",
+      "exchangeCountry": "Czech Republic",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "DAMP",
+      "exchange": "Dansk Autoriseret Markedsplads A/S",
+      "exchangeId": "35",
+      "market": null,
+      "exchangeCountry": "Denmark",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "FRAA",
+      "exchange": "Deutsche Borse AG",
+      "exchangeId": "36",
+      "market": "Regulated Market",
+      "exchangeCountry": "Germany",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XAMS",
+      "exchange": "Euronext Amsterdam",
+      "exchangeId": "37",
+      "market": null,
+      "exchangeCountry": "Netherlands",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XBRU",
+      "exchange": "Euronext Brussels SA/NV",
+      "exchangeId": "38",
+      "market": null,
+      "exchangeCountry": "Belgium",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XLIS",
+      "exchange": "Euronext Lisbon",
+      "exchangeId": "39",
+      "market": "Official Listing Market",
+      "exchangeCountry": "Portugal",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XPAR",
+      "exchange": "Euronext Paris",
+      "exchangeId": "40",
+      "market": null,
+      "exchangeCountry": "France",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": null,
+      "exchange": "Faroeses Securities Market",
+      "exchangeId": "41",
+      "market": null,
+      "exchangeCountry": "Faroe Islands",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2011"
+    },
+    {
+      "mic": "XFKA",
+      "exchange": "Fukuoka Stock Exchange",
+      "exchangeId": "42",
+      "market": "Existing Market",
+      "exchangeCountry": "Japan",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2011"
+    },
+    {
+      "mic": "XFKA",
+      "exchange": "Fukuoka Stock Exchange",
+      "exchangeId": "42",
+      "market": "Existing Market",
+      "exchangeCountry": "Japan",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2011"
+    },
+    {
+      "mic": "XGSE",
+      "exchange": "Georgian Stock Exchange",
+      "exchangeId": "44",
+      "market": null,
+      "exchangeCountry": "Georgia",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2011"
+    },
+    {
+      "mic": "HAMA",
+      "exchange": "Hamburg Borse",
+      "exchangeId": "45",
+      "market": "Regulated Market",
+      "exchangeCountry": "Germany",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XHKG",
+      "exchange": "Hong Kong Exchanges and Clearing limited",
+      "exchangeId": "46",
+      "market": null,
+      "exchangeCountry": "Hong Kong",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XDUB",
+      "exchange": "Irish Stock Exchange",
+      "exchangeId": "47",
+      "market": "Main Market",
+      "exchangeCountry": "Ireland",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XJAS",
+      "exchange": "Jasdaq",
+      "exchangeId": "48",
+      "market": null,
+      "exchangeCountry": "Japan",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2009"
+    },
+    {
+      "mic": "XJSE",
+      "exchange": "Johannesburg Stock Exchange",
+      "exchangeId": "49",
+      "market": null,
+      "exchangeCountry": "South Africa",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": null,
+      "exchange": "Korea Stock Exchange",
+      "exchangeId": "50",
+      "market": null,
+      "exchangeCountry": "South Korea",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": null,
+      "exchange": "Korean Securities Dealers Automated Quotations (KOSDAQ)",
+      "exchangeId": "51",
+      "market": null,
+      "exchangeCountry": "South Korea",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2009"
+    },
+    {
+      "mic": "XLJU",
+      "exchange": "Ljubljana Stock Exchange",
+      "exchangeId": "52",
+      "market": "Prime Market (Official Market)",
+      "exchangeCountry": "Slovenia",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XLJU",
+      "exchange": "Ljubljana Stock Exchange",
+      "exchangeId": "52",
+      "market": "Prime Market (Official Market)",
+      "exchangeCountry": "Slovenia",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XLON",
+      "exchange": "London Stock Exchange",
+      "exchangeId": "54",
+      "market": "Main Market",
+      "exchangeCountry": "United Kingdom",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XMAE",
+      "exchange": "Macedonian Stock Exchange",
+      "exchangeId": "55",
+      "market": "Official Market",
+      "exchangeCountry": "Macedonia",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2011"
+    },
+    {
+      "mic": "XMAL",
+      "exchange": "Malta Stock Exchange",
+      "exchangeId": "56",
+      "market": null,
+      "exchangeCountry": "Malta",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XNGO",
+      "exchange": "Nagoya Stock Exchange",
+      "exchangeId": "57",
+      "market": "First Section",
+      "exchangeCountry": "Japan",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2011"
+    },
+    {
+      "mic": "XNGO",
+      "exchange": "Nagoya Stock Exchange",
+      "exchangeId": "57",
+      "market": "First Section",
+      "exchangeCountry": "Japan",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2011"
+    },
+    {
+      "mic": "XNGO",
+      "exchange": "Nagoya Stock Exchange",
+      "exchangeId": "57",
+      "market": "First Section",
+      "exchangeCountry": "Japan",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2011"
+    },
+    {
+      "mic": "XARM",
+      "exchange": "NASDAQ OMX Armenia",
+      "exchangeId": "60",
+      "market": null,
+      "exchangeCountry": "Armenia",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2011"
+    },
+    {
+      "mic": "XBOS",
+      "exchange": "NASDAQ OMX BX",
+      "exchangeId": "61",
+      "market": null,
+      "exchangeCountry": "United States",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2011"
+    },
+    {
+      "mic": "XCSE",
+      "exchange": "NASDAQ OMX Copenhagen A/S",
+      "exchangeId": "62",
+      "market": null,
+      "exchangeCountry": "Denmark",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": " "
+    },
+    {
+      "mic": "XCSE",
+      "exchange": "NASDAQ OMX Copenhagen A/S",
+      "exchangeId": "62",
+      "market": null,
+      "exchangeCountry": "Denmark",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": " "
+    },
+    {
+      "mic": "NURO",
+      "exchange": "NASDAQ OMX Europe",
+      "exchangeId": "64",
+      "market": null,
+      "exchangeCountry": "United Kingdom",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2011"
+    },
+    {
+      "mic": "XHEL",
+      "exchange": "NASDAQ OMX Helsinki",
+      "exchangeId": "65",
+      "market": "Pre List",
+      "exchangeCountry": "Finland",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XHEL",
+      "exchange": "NASDAQ OMX Helsinki",
+      "exchangeId": "65",
+      "market": "Pre List",
+      "exchangeCountry": "Finland",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XHEL",
+      "exchange": "NASDAQ OMX Helsinki",
+      "exchangeId": "65",
+      "market": "Pre List",
+      "exchangeCountry": "Finland",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XHEL",
+      "exchange": "NASDAQ OMX Helsinki",
+      "exchangeId": "65",
+      "market": "Pre List",
+      "exchangeCountry": "Finland",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": null,
+      "exchange": "NASDAQ OMX Iceland",
+      "exchangeId": "69",
+      "market": "First North",
+      "exchangeCountry": "Iceland",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2011"
+    },
+    {
+      "mic": null,
+      "exchange": "NASDAQ OMX Iceland",
+      "exchangeId": "69",
+      "market": "First North",
+      "exchangeCountry": "Iceland",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2011"
+    },
+    {
+      "mic": "XRIS",
+      "exchange": "NASDAQ OMX Riga",
+      "exchangeId": "71",
+      "market": "Secondary List",
+      "exchangeCountry": "Latvia",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XRIS",
+      "exchange": "NASDAQ OMX Riga",
+      "exchangeId": "71",
+      "market": "Secondary List",
+      "exchangeCountry": "Latvia",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XSTO",
+      "exchange": "NASDAQ OMX Stockholm AB",
+      "exchangeId": "73",
+      "market": "Regulated market",
+      "exchangeCountry": "Sweden",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XSTO",
+      "exchange": "NASDAQ OMX Stockholm AB",
+      "exchangeId": "73",
+      "market": "Regulated market",
+      "exchangeCountry": "Sweden",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XTAL",
+      "exchange": "NASDAQ OMX Tallinn AS",
+      "exchangeId": "75",
+      "market": "Main List",
+      "exchangeCountry": "Estonia",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XTAL",
+      "exchange": "NASDAQ OMX Tallinn AS",
+      "exchangeId": "75",
+      "market": "Main List",
+      "exchangeCountry": "Estonia",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XLIT",
+      "exchange": "NASDAQ OMX Vilnius",
+      "exchangeId": "77",
+      "market": null,
+      "exchangeCountry": "Lithuania",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XNAS",
+      "exchange": "NASDAQ Stock Market",
+      "exchangeId": "78",
+      "market": null,
+      "exchangeCountry": "United States",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": null,
+      "exchange": "National Stock Exchange of India Limited",
+      "exchangeId": "79",
+      "market": null,
+      "exchangeCountry": "India",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2009"
+    },
+    {
+      "mic": "XNYS",
+      "exchange": "New York Stock Exchange",
+      "exchangeId": "80",
+      "market": null,
+      "exchangeCountry": "United States",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XNZE",
+      "exchange": "New Zealand Exchange",
+      "exchangeId": "81",
+      "market": null,
+      "exchangeCountry": "New Zealand",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XASE",
+      "exchange": "NYSE AMEX",
+      "exchangeId": "82",
+      "market": null,
+      "exchangeCountry": "United States",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "ARCX",
+      "exchange": "NYSE ARCA",
+      "exchangeId": "83",
+      "market": null,
+      "exchangeCountry": "United States",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2011"
+    },
+    {
+      "mic": "XOSE",
+      "exchange": "Osaka Securities Exchange",
+      "exchangeId": "84",
+      "market": null,
+      "exchangeCountry": "Japan",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XOSE",
+      "exchange": "Osaka Securities Exchange",
+      "exchangeId": "84",
+      "market": null,
+      "exchangeCountry": "Japan",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XOSL",
+      "exchange": "Oslo Bors",
+      "exchangeId": "86",
+      "market": "Official Listing",
+      "exchangeCountry": "Norway",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": null,
+      "exchange": "Prague Stock Exchange",
+      "exchangeId": "87",
+      "market": "Free Market",
+      "exchangeCountry": "Czech Republic",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": null,
+      "exchange": "Prague Stock Exchange",
+      "exchangeId": "87",
+      "market": "Free Market",
+      "exchangeCountry": "Czech Republic",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XSAP",
+      "exchange": "Sapporo Securities Exchange",
+      "exchangeId": "89",
+      "market": "Stock Market",
+      "exchangeCountry": "Japan",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2011"
+    },
+    {
+      "mic": "XSAP",
+      "exchange": "Sapporo Securities Exchange",
+      "exchangeId": "89",
+      "market": "Stock Market",
+      "exchangeCountry": "Japan",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2011"
+    },
+    {
+      "mic": "XSES",
+      "exchange": "Singapore Stock Exchange",
+      "exchangeId": "91",
+      "market": null,
+      "exchangeCountry": "Singapore",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": null,
+      "exchange": "SIX Swiss Exchange",
+      "exchangeId": "92",
+      "market": null,
+      "exchangeCountry": "Switzerland",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": null,
+      "exchange": "Stock Exchange of Thailand",
+      "exchangeId": "93",
+      "market": null,
+      "exchangeCountry": "Thailand",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2009"
+    },
+    {
+      "mic": "XTAI",
+      "exchange": "Taiwan Stock Exchange",
+      "exchangeId": "94",
+      "market": null,
+      "exchangeCountry": "Taiwan",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2009"
+    },
+    {
+      "mic": "XTAE",
+      "exchange": "Tel Aviv Stock Exchange",
+      "exchangeId": "95",
+      "market": null,
+      "exchangeCountry": "Israel",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2011"
+    },
+    {
+      "mic": null,
+      "exchange": "Tokyo Stock Exchange",
+      "exchangeId": "96",
+      "market": "Mothers",
+      "exchangeCountry": "Japan",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": null,
+      "exchange": "Tokyo Stock Exchange",
+      "exchangeId": "96",
+      "market": "Mothers",
+      "exchangeCountry": "Japan",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": null,
+      "exchange": "Tokyo Stock Exchange",
+      "exchangeId": "96",
+      "market": "Mothers",
+      "exchangeCountry": "Japan",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XTSE",
+      "exchange": "Toronto Stock Exchange",
+      "exchangeId": "99",
+      "market": null,
+      "exchangeCountry": "Canada",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "XTSX",
+      "exchange": "TSX Venture Exchange",
+      "exchangeId": "100",
+      "market": null,
+      "exchangeCountry": "Canada",
+      "mifidOrFSAListed": null,
+      "cicfccIdentified": "2011"
+    },
+    {
+      "mic": "XWAR",
+      "exchange": "Warsaw Stock Exchange",
+      "exchangeId": "101",
+      "market": "Parallel Market",
+      "exchangeCountry": "Poland",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "WBAH",
+      "exchange": "Wiener BÃ¶rse AG (Vienna Stock Exchange)",
+      "exchangeId": "102",
+      "market": "Official market",
+      "exchangeCountry": "Austria",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    },
+    {
+      "mic": "WBAH",
+      "exchange": "Wiener BÃ¶rse AG (Vienna Stock Exchange)",
+      "exchangeId": "102",
+      "market": "Official market",
+      "exchangeCountry": "Austria",
+      "mifidOrFSAListed": "Y",
+      "cicfccIdentified": null
+    }
+  ]
+}

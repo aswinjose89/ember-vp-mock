@@ -1,0 +1,46 @@
+{
+    "signoffDetails": {
+        "id": 1231313123,
+        "requirements": "View of all your responsibilities accross multiple",
+        "dueDate": "20 APR 2016",
+        "type": "credit",
+        "repeat": "Every Year",
+        "status": "pending",
+        "signoffVersion": 1,
+        "followupTasks": [
+            {
+                "id": 32213123,
+                "actionRequired": "create a centralized view of all the",
+                "dueDate": "25 APR 2016",
+                "repeat": "Every Year",
+                "endRepeat": null,
+                "assignee": [
+                    {
+                        "name": "Test",
+                        "psId": 1505443,
+                        "email": "dan.a@gmail.com"
+                    },
+                    {
+                        "name": "Test",
+                        "psId": 1505443,
+                        "email": "dan.a@gmail.com"
+                    }
+                ]
+            },
+            {
+                "id": 234225445,
+                "actionRequired": "follow up the task",
+                "dueDate": "25 MAY 2016",
+                "repeat": "Every Year",
+                "endRepeat": null,
+                "assignee": [
+                    {
+                        "name": "Test",
+                        "psId": 1505443,
+                        "email": "dan.a@gmail.com"
+                    }
+                ]
+            }
+        ]
+    }
+}

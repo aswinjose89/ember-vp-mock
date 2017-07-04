@@ -1,0 +1,18 @@
+{
+  "searchUsers": [{
+    "id": 1,
+    "name": "EMILY CHOI",
+    "emailId": "Emily.Choi@sc.com",
+    "psId": "1197945"
+  }, {
+    "id": 2,
+    "name": "Newman,Peter",
+    "emailId": "Peter.Newman@sc.com",
+    "psId": "1194737"
+  }, {
+    "id": 3,
+    "name": "Usman Javed",
+    "emailId": null,
+    "psId": "1197839"
+  }]
+}

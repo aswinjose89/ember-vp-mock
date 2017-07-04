@@ -1,0 +1,725 @@
+{
+  "walletSizing": {
+    "sections": null,
+    "parameter": null,
+    "id": "201702151520149841018",
+    "operation": "NO_CHANGE",
+    "sequence": 2488553836155651,
+    "pmiDate": 1469980800000,
+    "pmiDateChanged":"2016-Aug",
+    "avgRorwaRwa": [
+      {
+        "id":1,
+        "productGroup": "TB",
+        "avgRorwa": 12,
+        "rwaPeriodEnd": 12
+      },
+      {
+        "id":2,
+        "productGroup": "FM",
+        "avgRorwa": 1201,
+        "rwaPeriodEnd": 1221
+      },
+      {
+        "id":3,
+        "productGroup": "CF",
+        "avgRorwa": 100,
+        "rwaPeriodEnd": 120
+      }
+    ],
+    "productGrouping": [
+      {
+        "longDesc": "TB",
+        "order": "1"
+      }
+    ],
+    "revenueForecastComment": {
+      "sections": null,
+      "parameter": null,
+      "id": "7",
+      "operation": "NO_CHANGE",
+      "sequence": 2488553836228651,
+      "notes": "123sdfsdfsdfsdfdf",
+      "type": "WSREVN001"
+    },
+    "returnsComment": {
+      "sections": null,
+      "parameter": null,
+      "id": "8",
+      "operation": "NO_CHANGE",
+      "sequence": 2488553836242651,
+      "notes": null,
+      "type": "WSRET001"
+    },
+    "limitAnalysisComment": {
+      "sections": null,
+      "parameter": null,
+      "id": "9",
+      "operation": "NO_CHANGE",
+      "sequence": 2488553836252651,
+      "notes": null,
+      "type": "WSLMT001"
+    },
+    "walletSizingComment": {
+      "sections": null,
+      "parameter": null,
+      "id": "6",
+      "operation": "NO_CHANGE",
+      "sequence": 2488553836262651,
+      "notes": null,
+      "type": "WS001"
+    },
+    "productGroupComments": [
+      {
+        "sections": null,
+        "parameter": null,
+        "id": "1",
+        "operation": "NO_CHANGE",
+        "sequence": 2488553836276651,
+        "notes": null,
+        "type": "TB"
+      },
+      {
+        "sections": null,
+        "parameter": null,
+        "id": "2",
+        "operation": "NO_CHANGE",
+        "sequence": 2488553836285651,
+        "notes": null,
+        "type": "FM"
+      },
+      {
+        "sections": null,
+        "parameter": null,
+        "id": "3",
+        "operation": "NO_CHANGE",
+        "sequence": 2488553836294651,
+        "notes": null,
+        "type": "CF"
+      },
+      {
+        "sections": null,
+        "parameter": null,
+        "id": "4",
+        "operation": "NO_CHANGE",
+        "sequence": 2488553836320651,
+        "notes": null,
+        "type": "Lending"
+      },
+      {
+        "sections": null,
+        "parameter": null,
+        "id": "5",
+        "operation": "NO_CHANGE",
+        "sequence": 2488553836331651,
+        "notes": null,
+        "type": "RMB Offering"
+      }
+    ],
+    "fyeActuals": null,
+    "ytdFyeActualsMonth": 6,
+    "ytdFyeActualsYear": 2016,
+    "yearForecast1": 2017,
+    "yearForecast2": 2018,
+    "yearForecast3": 2019,
+    "mandateStatus": null,
+    "reviewComments": null,
+    "walletSizingProducts": [
+      {
+        "id": "12312312312323213",
+        "operation": null,
+        "sequence": 117976952122288328228,
+        "productGroup": null,
+        "product": {
+          "id": "8",
+          "name": "FM - FX Sales"
+        },
+        "totalClient": 1,
+        "scbPerc": null,
+        "fyeActualRevenue": {
+          "id": 116,
+          "original": 15.27,
+          "changed": 15.27
+        },
+        "fyePYVar": 40,
+        "ytdFyeActualRevenue": {
+          "id": 117,
+          "original": 0.33,
+          "changed": 0.33
+        },
+        "ytdFyeAchieved": -98.08493376772452,
+        "fyeForecastSCB1": null,
+        "fyeForecastSCBRevenue1": 12,
+        "fyeYoy1": -21.41500,
+        "fyeForecastSCB2": null,
+        "fyeForecastSCBRevenue2": null,
+        "fyeYoy2": 17.23178,
+        "fyeForecastSCB3": null,
+        "fyeForecastSCBRevenue3": 33,
+        "fyeYoy3": 175.00000,
+        "keyCompetitorValues":[{
+          "id": 117,
+          "val": "scb",
+          "name": "scb"
+        },
+        {
+          "id": 118,
+          "val": "scb123",
+          "name": "scb123"
+        }],
+        "keyCompetitorName1": "gfg",
+        "keyCompetitorEstimated1": null,
+        "keyCompetitorName2": "",
+        "keyCompetitorEstimated2": null,
+        "nfrFlag": null,
+        "avgRorwa": 10,
+        "rwaPeriodEnd": 10,
+        "productOrder": 1
+      },
+      {
+        "id": "121212219876876",
+        "operation": null,
+        "sequence": 11797695288328228,
+        "productGroup": "TB",
+        "product": {
+          "id": "8",
+          "name": "FM - FX Sales"
+        },
+        "totalClient": 1,
+        "scbPerc": null,
+        "fyeActualRevenue": {
+          "id": 114,
+          "original": 15.27,
+          "changed": 15.27
+        },
+        "fyePYVar": 30,
+        "ytdFyeActualRevenue": {
+          "id": 115,
+          "original": 0.33,
+          "changed": 0.33
+        },
+        "ytdFyeAchieved": -98.08493376772452,
+        "fyeForecastSCB1": null,
+        "fyeForecastSCBRevenue1": 12,
+        "fyeYoy1": -21.41500,
+        "fyeForecastSCB2": null,
+        "fyeForecastSCBRevenue2": null,
+        "fyeYoy2": 17.23178,
+        "fyeForecastSCB3": null,
+        "fyeForecastSCBRevenue3": 33,
+        "fyeYoy3": 175.00000,
+        "keyCompetitorValues":[{
+          "id": 115,
+          "val": "scb",
+          "name": "scb"
+        },
+        {
+          "id": 116,
+          "val": "scb123",
+          "name": "scb123"
+        }],
+        "keyCompetitorName1": "gfg",
+        "keyCompetitorEstimated1": null,
+        "keyCompetitorName2": "",
+        "keyCompetitorEstimated2": null,
+        "nfrFlag": null,
+        "avgRorwa": 10,
+        "rwaPeriodEnd": 10,
+        "productOrder": 2
+      }
+    ],
+    "walletSizingCustomProducts": [
+      {
+        "sections": null,
+        "parameter": null,
+        "id": "20170218020029558000222",
+        "operation": "NO_CHANGE",
+        "sequence": 16260614742420832,
+        "product": {
+          "val": "RWAPE",
+          "name": "RWAPE",
+          "id": "ACPL0100_RWAPE",
+          "idCode": "ACPL0100",
+          "code": null,
+          "shortDescription": null,
+          "longDescription": "RWA Period End",
+          "status": "A",
+          "appGroup": null,
+          "displayOrder": null,
+          "operation": null,
+          "sequence": null,
+          "categoryType": null,
+          "description": null
+        },
+        "avgRorWA": null,
+        "rwaPeriodEnd": null,
+        "fyeActualRevenue": 121,
+        "fyePYVar": -1,
+        "ytdFyeActualRevenue": 1212,
+        "fyeForecastSCBRevenue1": 1,
+        "fyeForecastSCBRevenue2": 1,
+        "fyeForecastSCBRevenue3": 1,
+        "customProductOrder": 0,
+        "refresh": false
+      },
+      {
+        "sections": null,
+        "parameter": null,
+        "id": "20170218020029562000223",
+        "operation": "NO_CHANGE",
+        "sequence": 16260614742547493,
+        "product": {
+          "val": "RWAAVG",
+          "name": "RWAAVG",
+          "id": "ACPL0100_RWAAVG",
+          "idCode": "ACPL0100",
+          "code": null,
+          "shortDescription": null,
+          "longDescription": "RWA Avg",
+          "status": "A",
+          "appGroup": null,
+          "displayOrder": null,
+          "operation": null,
+          "sequence": null,
+          "categoryType": null,
+          "description": null
+        },
+        "avgRorWA": null,
+        "rwaPeriodEnd": null,
+        "fyeActualRevenue": 12,
+        "fyePYVar": null,
+        "ytdFyeActualRevenue": 12,
+        "fyeForecastSCBRevenue1": 1,
+        "fyeForecastSCBRevenue2": 1,
+        "fyeForecastSCBRevenue3": 1,
+        "customProductOrder": 0,
+        "refresh": false
+      },
+      {
+        "sections": null,
+        "parameter": null,
+        "id": "20170218020029565000224",
+        "operation": "NO_CHANGE",
+        "sequence": 16260614742581068,
+        "product": {
+          "val": "RORWA",
+          "name": "RORWA",
+          "id": "ACPL0100_RORWA",
+          "idCode": "ACPL0100",
+          "code": null,
+          "shortDescription": null,
+          "longDescription": "Avg RoRWA",
+          "status": "A",
+          "appGroup": null,
+          "displayOrder": null,
+          "operation": null,
+          "sequence": null,
+          "categoryType": null,
+          "description": null
+        },
+        "avgRorWA": null,
+        "rwaPeriodEnd": null,
+        "fyeActualRevenue": 12112222,
+        "fyePYVar": -1,
+        "ytdFyeActualRevenue": 121222,
+        "fyeForecastSCBRevenue1": 1,
+        "fyeForecastSCBRevenue2": 1,
+        "fyeForecastSCBRevenue3": 1,
+        "customProductOrder": 0,
+        "refresh": false
+      },
+      {
+        "sections": null,
+        "parameter": null,
+        "id": "20170218020029569000225",
+        "operation": "NO_CHANGE",
+        "sequence": 16260614742611324,
+        "product": {
+          "val": "NFRRWA",
+          "name": "NFRRWA",
+          "id": "ACPL0100_NFRRWA",
+          "idCode": "ACPL0100",
+          "code": null,
+          "shortDescription": null,
+          "longDescription": "NFR / RWA Avg",
+          "status": "A",
+          "appGroup": null,
+          "displayOrder": null,
+          "operation": null,
+          "sequence": null,
+          "categoryType": null,
+          "description": null
+        },
+        "avgRorWA": null,
+        "rwaPeriodEnd": null,
+        "fyeActualRevenue": 12122222,
+        "fyePYVar": null,
+        "ytdFyeActualRevenue": 1212121212,
+        "fyeForecastSCBRevenue1": 1,
+        "fyeForecastSCBRevenue2": 11,
+        "fyeForecastSCBRevenue3": 1,
+        "customProductOrder": 0,
+        "refresh": false
+      },
+      {
+        "sections": null,
+        "parameter": null,
+        "id": "20170218020029573000226",
+        "operation": "NO_CHANGE",
+        "sequence": 16260614742638842,
+        "product": {
+          "val": "NFRTOT",
+          "name": "NFRTOT",
+          "id": "ACPL0100_NFRTOT",
+          "idCode": "ACPL0100",
+          "code": null,
+          "shortDescription": null,
+          "longDescription": "NFR / Total Revenue",
+          "status": "A",
+          "appGroup": null,
+          "displayOrder": null,
+          "operation": null,
+          "sequence": null,
+          "categoryType": null,
+          "description": null
+        },
+        "avgRorWA": null,
+        "rwaPeriodEnd": null,
+        "fyeActualRevenue": 12222222222,
+        "fyePYVar": null,
+        "ytdFyeActualRevenue": 1212121222,
+        "fyeForecastSCBRevenue1": 1,
+        "fyeForecastSCBRevenue2": 1,
+        "fyeForecastSCBRevenue3": 1,
+        "customProductOrder": 0,
+        "downloadUrl":"/api/account-plan/downladExcel/12121212",
+        "refresh": false
+      }
+    ],
+    "walletSizingLimits": [
+      {
+        "sections": null,
+        "parameter": null,
+        "id": "201",
+        "operation": null,
+        "sequence": 2488553839174651,
+        "limit": {
+          "val": "CAT1",
+          "name": "CAT1",
+          "id": "ACPL0093_CAT1",
+          "idCode": "ACPL0093",
+          "code": null,
+          "shortDescription": null,
+          "longDescription": "CAT1",
+          "status": "A",
+          "appGroup": null,
+          "displayOrder": null,
+          "operation": null,
+          "sequence": null,
+          "categoryType": null,
+          "description": null
+        },
+        "currentApproved": {
+          "id": "201702151520155726196",
+          "original": 70.52,
+          "changed": 70.52
+        },
+        "currentAllocation": {
+          "id": "201702151520155723561",
+          "original": 20.52,
+          "changed": 20.52
+        },
+        "outStanding": {
+          "id": "201702151520155726599",
+          "original": 19.568,
+          "changed": 19.568
+        },
+        "util": null,
+        "apYear": null,
+        "ny1Proposed": null,
+        "ny1ProposedAllocation": null,
+        "cyProposed": null,
+        "cyProposedAllocation": null,
+        "nyProposed": null,
+        "nyProposedAllocation": null
+      },
+      {
+        "sections": null,
+        "parameter": null,
+        "id": "203",
+        "operation": null,
+        "sequence": 2488553839317651,
+        "limit": {
+          "val": "CAT2",
+          "name": "CAT2",
+          "id": "ACPL0093_CAT2",
+          "idCode": "ACPL0093",
+          "code": null,
+          "shortDescription": null,
+          "longDescription": "CAT2",
+          "status": "A",
+          "appGroup": null,
+          "displayOrder": null,
+          "operation": null,
+          "sequence": null,
+          "categoryType": null,
+          "description": null
+        },
+        "currentApproved": {
+          "id": "201702151520155724023",
+          "original": 0,
+          "changed": 0
+        },
+        "currentAllocation": {
+          "id": "201702151520155729210",
+          "original": 0,
+          "changed": 0
+        },
+        "outStanding": {
+          "id": "201702151520155726644",
+          "original": 0,
+          "changed": 0
+        },
+        "util": null,
+        "apYear": null,
+        "ny1Proposed": null,
+        "ny1ProposedAllocation": null,
+        "cyProposed": null,
+        "cyProposedAllocation": null,
+        "nyProposed": null,
+        "nyProposedAllocation": null
+      },
+      {
+        "sections": null,
+        "parameter": null,
+        "id": "204",
+        "operation": null,
+        "sequence": 2488553840011651,
+        "limitFunds":true,
+        "limit": {
+          "val": "GM",
+          "name": "of which for GM trading limits",
+          "id": "ACPL0093_GM",
+          "idCode": "ACPL0093",
+          "code": null,
+          "shortDescription": null,
+          "longDescription": "of which for GM trading limits",
+          "status": "A",
+          "appGroup": null,
+          "displayOrder": null,
+          "operation": null,
+          "sequence": null,
+          "categoryType": null,
+          "description": null
+        },
+        "currentApproved": {
+          "id": "201702151520155729929",
+          "original": 0,
+          "changed": 0
+        },
+        "currentAllocation": {
+          "id": "201702151520155727161",
+          "original": 0,
+          "changed": 0
+        },
+        "outStanding": {
+          "id": "201702151520155727096",
+          "original": 0,
+          "changed": 0
+        },
+        "util": null,
+        "apYear": null,
+        "ny1Proposed": null,
+        "ny1ProposedAllocation": null,
+        "cyProposed": null,
+        "cyProposedAllocation": null,
+        "nyProposed": null,
+        "nyProposedAllocation": null
+      },
+      {
+        "sections": null,
+        "parameter": null,
+        "id": "2023123126",
+        "operation": null,
+        "sequence": 2488553840291651,
+        "limit": {
+          "val": "CAT3",
+          "name": "CAT3",
+          "id": "ACPL0093_CAT3",
+          "idCode": "ACPL0093",
+          "code": null,
+          "shortDescription": null,
+          "longDescription": "CAT3",
+          "status": "A",
+          "appGroup": null,
+          "displayOrder": null,
+          "operation": null,
+          "sequence": null,
+          "categoryType": null,
+          "description": null
+        },
+        "currentApproved": {
+          "id": "201702151520155736705",
+          "original": 0,
+          "changed": 0
+        },
+        "currentAllocation": {
+          "id": "201702151520155736383",
+          "original": 0,
+          "changed": 0
+        },
+        "outStanding": {
+          "id": "201702151520155738973",
+          "original": 0,
+          "changed": 0
+        },
+        "util": null,
+        "apYear": null,
+        "ny1Proposed": null,
+        "ny1ProposedAllocation": null,
+        "cyProposed": null,
+        "cyProposedAllocation": null,
+        "nyProposed": null,
+        "nyProposedAllocation": null
+      },
+      {
+        "sections": null,
+        "parameter": null,
+        "id": "207",
+        "operation": null,
+        "sequence": 2488553840354651,
+        "limit": {
+          "val": "CAT4",
+          "name": "CAT4",
+          "id": "ACPL0093_CAT4",
+          "idCode": "ACPL0093",
+          "code": null,
+          "shortDescription": null,
+          "longDescription": "CAT4",
+          "status": "A",
+          "appGroup": null,
+          "displayOrder": null,
+          "operation": null,
+          "sequence": null,
+          "categoryType": null,
+          "description": null
+        },
+        "currentApproved": {
+          "id": "201702151520155737070",
+          "original": 0,
+          "changed": 0
+        },
+        "currentAllocation": {
+          "id": "201702151520155734532",
+          "original": 0,
+          "changed": 0
+        },
+        "outStanding": {
+          "id": "201702151520155734893",
+          "original": 0,
+          "changed": 0
+        },
+        "util": null,
+        "apYear": null,
+        "ny1Proposed": null,
+        "ny1ProposedAllocation": null,
+        "cyProposed": null,
+        "cyProposedAllocation": null,
+        "nyProposed": null,
+        "nyProposedAllocation": null
+      },
+      {
+        "sections": null,
+        "parameter": null,
+        "id": "208",
+        "operation": null,
+        "sequence": 2488553840414651,
+        "limit": {
+          "val": "CAT5",
+          "name": "CAT5",
+          "id": "ACPL0093_CAT5",
+          "idCode": "ACPL0093",
+          "code": null,
+          "shortDescription": null,
+          "longDescription": "CAT5",
+          "status": "A",
+          "appGroup": null,
+          "displayOrder": null,
+          "operation": null,
+          "sequence": null,
+          "categoryType": null,
+          "description": null
+        },
+        "currentApproved": {
+          "id": "201702151520155735984",
+          "original": 0,
+          "changed": 0
+        },
+        "currentAllocation": {
+          "id": "201702151520155737853",
+          "original": 0,
+          "changed": 0
+        },
+        "outStanding": {
+          "id": "201702151520155739477",
+          "original": 0,
+          "changed": 0
+        },
+        "util": null,
+        "apYear": null,
+        "ny1Proposed": null,
+        "ny1ProposedAllocation": null,
+        "cyProposed": null,
+        "cyProposedAllocation": null,
+        "nyProposed": null,
+        "nyProposedAllocation": null
+      },
+      {
+        "sections": null,
+        "parameter": null,
+        "id": "209",
+        "operation": null,
+        "sequence": 2488553840475651,
+        "limit": {
+          "val": "LGD",
+          "name": "EL",
+          "id": "ACPL0093_LGD",
+          "idCode": "ACPL0093",
+          "code": null,
+          "shortDescription": null,
+          "longDescription": "EL",
+          "status": "A",
+          "appGroup": null,
+          "displayOrder": null,
+          "operation": null,
+          "sequence": null,
+          "categoryType": null,
+          "description": null
+        },
+        "currentApproved": {
+          "id": "201702151520155735642",
+          "original": 0,
+          "changed": 0
+        },
+        "currentAllocation": {
+          "id": "201702151520155734204",
+          "original": 0,
+          "changed": 0
+        },
+        "outStanding": {
+          "id": "201702151520155736420",
+          "original": 0,
+          "changed": 0
+        },
+        "util": null,
+        "apYear": null,
+        "ny1Proposed": null,
+        "ny1ProposedAllocation": null,
+        "cyProposed": null,
+        "cyProposedAllocation": null,
+        "nyProposed": null,
+        "nyProposedAllocation": null
+      }
+    ]
+  }
+}

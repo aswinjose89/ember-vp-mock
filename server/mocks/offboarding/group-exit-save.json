@@ -1,0 +1,10 @@
+{
+	"offboarding/offBoardDetail": {
+		"success": true,
+		"activityId": 2500,
+		"transactionIds": null,
+		"message": "Activity Successfully Submitted",
+		"invalidclients": null,
+		"count": 0
+	}
+}

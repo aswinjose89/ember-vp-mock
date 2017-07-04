@@ -1,0 +1,72 @@
+{
+	"offboarding/clientAccounts": [{
+		"id": 101,
+		"product": "EBBS (Core Banking)",
+		"tpAccountNo": "400479082",
+		"tpAccountName": "SUS LKT AUTOMATIVE ANA...",
+		"processTeam": "Chennai_Hub_FM_Systems",
+		"status": true
+	}, {
+		"id": 102,
+		"product": "IMEX (Trade)",
+		"tpAccountNo": "400479010",
+		"tpAccountName": "SUS LKT AUTOMATIVE ANA...",
+		"processTeam": "Chennai_Hub_FM_Systems",
+		"status": true
+	}, {
+		"id": 103,
+		"product": "RMA",
+		"tpAccountNo": "21121121",
+		"tpAccountName": "SUS LKT AUTOMATIVE ANA...",
+		"processTeam": "Chennai_Hub_FM_Systems",
+		"status": true
+	}, {
+		"id": 104,
+		"product": "EBBS (Trade)",
+		"tpAccountNo": "22200479082",
+		"tpAccountName": "SUS LKT AUTOMATIVE ANA...",
+		"processTeam": "Chennai_Hub_FM_Systems",
+		"status": true
+	}, {
+		"id": 105,
+		"product": "AMEX (Core Banking)",
+		"tpAccountNo": "500479082",
+		"tpAccountName": "SUS LKT AUTOMATIVE ANA...",
+		"processTeam": "Chennai_Hub_FM_Systems",
+		"status": true
+	}, {
+		"id": 106,
+		"product": "EBBS (Core Banking)",
+		"tpAccountNo": "400479082",
+		"tpAccountName": "SUS LKT AUTOMATIVE ANA...",
+		"processTeam": "Chennai_Hub_FM_Systems",
+		"status": true
+	}, {
+		"id": 107,
+		"product": "EBBS (Trade)",
+		"tpAccountNo": "400479082",
+		"tpAccountName": "SUS LKT AUTOMATIVE ANA...",
+		"processTeam": "Chennai_Hub_FM_Systems",
+		"status": true
+	}, {
+		"id": 108,
+		"product": "IMEX (Finance)",
+		"tpAccountNo": "430479082",
+		"tpAccountName": "SUS LKT AUTOMATIVE ANA...",
+		"processTeam": "Chennai_Hub_FM_Systems",
+		"status": true
+	}, {
+		"id": 109,
+		"product": "EBBS (Finance)",
+		"tpAccountNo": "400479082",
+		"tpAccountName": "SUS LKT AUTOMATIVE ANA...",
+		"processTeam": "Chennai_Hub_FM_Systems",
+		"status": true
+	}],
+	"meta": {
+		"count": {
+			"total": 9
+		},
+		"totalRecords": 100
+	}
+}

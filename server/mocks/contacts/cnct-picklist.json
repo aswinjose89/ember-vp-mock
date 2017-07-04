@@ -1,0 +1,3844 @@
+{
+	"cnctPicklist": {
+		"nationalities": [{
+			"description": "Nationality",
+			"id": "AFG",
+			"shortDesc": "AFG",
+			"name": "Afghan"
+		}, {
+			"description": "Nationality",
+			"id": "ALB",
+			"shortDesc": "ALB",
+			"name": "Albanian"
+		}, {
+			"description": "Nationality",
+			"id": "ALG",
+			"shortDesc": "ALG",
+			"name": "Algerian"
+		}, {
+			"description": "Nationality",
+			"id": "AME",
+			"shortDesc": "AME",
+			"name": "American"
+		}, {
+			"description": "Nationality",
+			"id": "AND",
+			"shortDesc": "AND",
+			"name": "Andorran"
+		}, {
+			"description": "Nationality",
+			"id": "ANG",
+			"shortDesc": "ANG",
+			"name": "Angolan"
+		}, {
+			"description": "Nationality",
+			"id": "ARAB",
+			"shortDesc": "ARAB",
+			"name": "Arab"
+		}, {
+			"description": "Nationality",
+			"id": "ARG",
+			"shortDesc": "ARG",
+			"name": "Argentine"
+		}, {
+			"description": "Nationality",
+			"id": "ARM",
+			"shortDesc": "ARM",
+			"name": "Armenian"
+		}, {
+			"description": "Nationality",
+			"id": "AROM",
+			"shortDesc": "ARO",
+			"name": "Aromanian"
+		}, {
+			"description": "Nationality",
+			"id": "ARU",
+			"shortDesc": "ARU",
+			"name": "Aruban"
+		}, {
+			"description": "Nationality",
+			"id": "AUR",
+			"shortDesc": "AUR",
+			"name": "Austrian"
+		}, {
+			"description": "Nationality",
+			"id": "AUS",
+			"shortDesc": "AUS",
+			"name": "Australian"
+		}, {
+			"description": "Nationality",
+			"id": "AZE",
+			"shortDesc": "AZE",
+			"name": "Azeri"
+		}, {
+			"description": "Nationality",
+			"id": "BAH",
+			"shortDesc": "BAH",
+			"name": "Bahamian"
+		}, {
+			"description": "Nationality",
+			"id": "BAL",
+			"shortDesc": "BAL",
+			"name": "Baltic German"
+		}, {
+			"description": "Nationality",
+			"id": "BALTIC",
+			"shortDesc": "BALTIC",
+			"name": "Baltic Russian"
+		}, {
+			"description": "Nationality",
+			"id": "BAN",
+			"shortDesc": "BAN",
+			"name": "Bangladeshi"
+		}, {
+			"description": "Nationality",
+			"id": "BAR",
+			"shortDesc": "BAR",
+			"name": "Bahraini"
+		}, {
+			"description": "Nationality",
+			"id": "BARB",
+			"shortDesc": "BARB",
+			"name": "Barbadian"
+		}, {
+			"description": "Nationality",
+			"id": "BEG",
+			"shortDesc": "BEG",
+			"name": "Belgian"
+		}, {
+			"description": "Nationality",
+			"id": "BEL",
+			"shortDesc": "BEL",
+			"name": "Belarusian"
+		}, {
+			"description": "Nationality",
+			"id": "BEM",
+			"shortDesc": "BEM",
+			"name": "Bermudian"
+		}, {
+			"description": "Nationality",
+			"id": "BEZ",
+			"shortDesc": "BEZ",
+			"name": "Belizean"
+		}, {
+			"description": "Nationality",
+			"id": "BOE",
+			"shortDesc": "BOE",
+			"name": "Boer"
+		}, {
+			"description": "Nationality",
+			"id": "BOS",
+			"shortDesc": "BOS",
+			"name": "Bosniak"
+		}, {
+			"description": "Nationality",
+			"id": "BRAZ",
+			"shortDesc": "BRAZ",
+			"name": "Brazilian"
+		}, {
+			"description": "Nationality",
+			"id": "BRE",
+			"shortDesc": "BRE",
+			"name": "Breton"
+		}, {
+			"description": "Nationality",
+			"id": "BRI",
+			"shortDesc": "BRI",
+			"name": "British"
+		}, {
+			"description": "Nationality",
+			"id": "BUD",
+			"shortDesc": "BUD",
+			"name": "Burundian"
+		}, {
+			"description": "Nationality",
+			"id": "BUL",
+			"shortDesc": "BUL",
+			"name": "Bulgarian"
+		}, {
+			"description": "Nationality",
+			"id": "BUR",
+			"shortDesc": "BUR",
+			"name": "Burmese"
+		}, {
+			"description": "Nationality",
+			"id": "BVI",
+			"shortDesc": "BVI",
+			"name": "British Virgin Islander"
+		}, {
+			"description": "Nationality",
+			"id": "CAMB",
+			"shortDesc": "CAMB",
+			"name": "Cambodian"
+		}, {
+			"description": "Nationality",
+			"id": "CAME",
+			"shortDesc": "CAME",
+			"name": "Cameroonian"
+		}, {
+			"description": "Nationality",
+			"id": "CAN",
+			"shortDesc": "CAN",
+			"name": "Canadian"
+		}, {
+			"description": "Nationality",
+			"id": "CAPE",
+			"shortDesc": "CAPE",
+			"name": "Cape Verdean"
+		}, {
+			"description": "Nationality",
+			"id": "CAT",
+			"shortDesc": "CAT",
+			"name": "Catalan"
+		}, {
+			"description": "Nationality",
+			"id": "CHAD",
+			"shortDesc": "CHAD",
+			"name": "Chadian"
+		}, {
+			"description": "Nationality",
+			"id": "CHIL",
+			"shortDesc": "CHIL",
+			"name": "Chilean"
+		}, {
+			"description": "Nationality",
+			"id": "CHIN",
+			"shortDesc": "CHIN",
+			"name": "Chinese"
+		}, {
+			"description": "Nationality",
+			"id": "COL",
+			"shortDesc": "COL",
+			"name": "Colombian"
+		}, {
+			"description": "Nationality",
+			"id": "COM",
+			"shortDesc": "COM",
+			"name": "Comorian"
+		}, {
+			"description": "Nationality",
+			"id": "CON",
+			"shortDesc": "CON",
+			"name": "Congolese"
+		}, {
+			"description": "Nationality",
+			"id": "CRO",
+			"shortDesc": "CRO",
+			"name": "Croatian"
+		}, {
+			"description": "Nationality",
+			"id": "CUB",
+			"shortDesc": "CUB",
+			"name": "Cuban"
+		}, {
+			"description": "Nationality",
+			"id": "CYP",
+			"shortDesc": "CYP",
+			"name": "Cypriot"
+		}, {
+			"description": "Nationality",
+			"id": "CZE",
+			"shortDesc": "CZE",
+			"name": "Czech"
+		}, {
+			"description": "Nationality",
+			"id": "DAN",
+			"shortDesc": "DAN",
+			"name": "Dane"
+		}, {
+			"description": "Nationality",
+			"id": "DUT",
+			"shortDesc": "DUT",
+			"name": "Dutch"
+		}, {
+			"description": "Nationality",
+			"id": "EAST",
+			"shortDesc": "EAST",
+			"name": "East Timorese"
+		}, {
+			"description": "Nationality",
+			"id": "ECU",
+			"shortDesc": "ECU",
+			"name": "Ecuadorian"
+		}, {
+			"description": "Nationality",
+			"id": "EGY",
+			"shortDesc": "EGY",
+			"name": "Egyptian"
+		}, {
+			"description": "Nationality",
+			"id": "EMI",
+			"shortDesc": "EMI",
+			"name": "Emirati"
+		}, {
+			"description": "Nationality",
+			"id": "ENG",
+			"shortDesc": "ENG",
+			"name": "English"
+		}, {
+			"description": "Nationality",
+			"id": "ERI",
+			"shortDesc": "ERI",
+			"name": "Eritrean"
+		}, {
+			"description": "Nationality",
+			"id": "EST",
+			"shortDesc": "EST",
+			"name": "Estonian"
+		}, {
+			"description": "Nationality",
+			"id": "ETH",
+			"shortDesc": "ETH",
+			"name": "Ethiopian"
+		}, {
+			"description": "Nationality",
+			"id": "FAR",
+			"shortDesc": "FAR",
+			"name": "Faroese"
+		}, {
+			"description": "Nationality",
+			"id": "FIJI",
+			"shortDesc": "FIJI",
+			"name": "Fijian"
+		}, {
+			"description": "Nationality",
+			"id": "FILIP",
+			"shortDesc": "FILIP",
+			"name": "Filipino"
+		}, {
+			"description": "Nationality",
+			"id": "FIN",
+			"shortDesc": "FIN",
+			"name": "Finn"
+		}, {
+			"description": "Nationality",
+			"id": "FINS",
+			"shortDesc": "FINS",
+			"name": "Finnish Swedish"
+		}, {
+			"description": "Nationality",
+			"id": "FRE",
+			"shortDesc": "FRE",
+			"name": "French citizen"
+		}, {
+			"description": "Nationality",
+			"id": "GEO",
+			"shortDesc": "GEO",
+			"name": "Georgian"
+		}, {
+			"description": "Nationality",
+			"id": "GER",
+			"shortDesc": "GER",
+			"name": "German"
+		}, {
+			"description": "Nationality",
+			"id": "GHA",
+			"shortDesc": "GHA",
+			"name": "Ghanaian"
+		}, {
+			"description": "Nationality",
+			"id": "GIB",
+			"shortDesc": "GIB",
+			"name": "Gibraltar"
+		}, {
+			"description": "Nationality",
+			"id": "GRE",
+			"shortDesc": "GRE",
+			"name": "Greek"
+		}, {
+			"description": "Nationality",
+			"id": "GREN",
+			"shortDesc": "GREN",
+			"name": "Grenadian"
+		}, {
+			"description": "Nationality",
+			"id": "GRM",
+			"shortDesc": "GRM",
+			"name": "Greek Macedonian"
+		}, {
+			"description": "Nationality",
+			"id": "GUA",
+			"shortDesc": "GUA",
+			"name": "Guatemalan"
+		}, {
+			"description": "Nationality",
+			"id": "GUB",
+			"shortDesc": "GUB",
+			"name": "Guinea-Bissau national"
+		}, {
+			"description": "Nationality",
+			"id": "GUF",
+			"shortDesc": "GUF",
+			"name": "Guianese (French)"
+		}, {
+			"description": "Nationality",
+			"id": "GUI",
+			"shortDesc": "GUI",
+			"name": "Guinean"
+		}, {
+			"description": "Nationality",
+			"id": "GUY",
+			"shortDesc": "GUY",
+			"name": "Guyanese"
+		}, {
+			"description": "Nationality",
+			"id": "HAI",
+			"shortDesc": "HAI",
+			"name": "Haitian"
+		}, {
+			"description": "Nationality",
+			"id": "HON",
+			"shortDesc": "HON",
+			"name": "Honduran"
+		}, {
+			"description": "Nationality",
+			"id": "HONG",
+			"shortDesc": "HONG",
+			"name": "Hong Kong"
+		}, {
+			"description": "Nationality",
+			"id": "HUNG",
+			"shortDesc": "HUNG",
+			"name": "Hungarian"
+		}, {
+			"description": "Nationality",
+			"id": "ICE",
+			"shortDesc": "ICE",
+			"name": "Icelander"
+		}, {
+			"description": "Nationality",
+			"id": "IND",
+			"shortDesc": "IND",
+			"name": "Indian"
+		}, {
+			"description": "Nationality",
+			"id": "INDO",
+			"shortDesc": "INDO",
+			"name": "Indonesian"
+		}, {
+			"description": "Nationality",
+			"id": "IRA",
+			"shortDesc": "IRA",
+			"name": "Iranian (Persians)"
+		}, {
+			"description": "Nationality",
+			"id": "IRI",
+			"shortDesc": "IRI",
+			"name": "Irish"
+		}, {
+			"description": "Nationality",
+			"id": "ISR",
+			"shortDesc": "ISR",
+			"name": "Israeli"
+		}, {
+			"description": "Nationality",
+			"id": "ITA",
+			"shortDesc": "ITA",
+			"name": "Italian"
+		}, {
+			"description": "Nationality",
+			"id": "IVO",
+			"shortDesc": "IVO",
+			"name": "Ivoirian"
+		}, {
+			"description": "Nationality",
+			"id": "JAMA",
+			"shortDesc": "JAMA",
+			"name": "Jamaican"
+		}, {
+			"description": "Nationality",
+			"id": "JAP",
+			"shortDesc": "JAP",
+			"name": "Japanese"
+		}, {
+			"description": "Nationality",
+			"id": "JOR",
+			"shortDesc": "JOR",
+			"name": "Jordanian"
+		}, {
+			"description": "Nationality",
+			"id": "KAZA",
+			"shortDesc": "KAZA",
+			"name": "Kazakh"
+		}, {
+			"description": "Nationality",
+			"id": "KEN",
+			"shortDesc": "KEN",
+			"name": "Kenyan"
+		}, {
+			"description": "Nationality",
+			"id": "KOR",
+			"shortDesc": "KOR",
+			"name": "Korean"
+		}, {
+			"description": "Nationality",
+			"id": "KOSO",
+			"shortDesc": "KOSO",
+			"name": "Kosovo Albanian"
+		}, {
+			"description": "Nationality",
+			"id": "KURD",
+			"shortDesc": "KURD",
+			"name": "Kurd"
+		}, {
+			"description": "Nationality",
+			"id": "KUW",
+			"shortDesc": "KUW",
+			"name": "Kuwaiti"
+		}, {
+			"description": "Nationality",
+			"id": "LAO",
+			"shortDesc": "LAO",
+			"name": "Lao"
+		}, {
+			"description": "Nationality",
+			"id": "LAT",
+			"shortDesc": "LAT",
+			"name": "Latvian"
+		}, {
+			"description": "Nationality",
+			"id": "LEB",
+			"shortDesc": "LEB",
+			"name": "Lebanese"
+		}, {
+			"description": "Nationality",
+			"id": "LIBE",
+			"shortDesc": "LIBE",
+			"name": "Liberian"
+		}, {
+			"description": "Nationality",
+			"id": "LIBY",
+			"shortDesc": "LIBY",
+			"name": "Libyan"
+		}, {
+			"description": "Nationality",
+			"id": "LIE",
+			"shortDesc": "LIE",
+			"name": "Liechtensteiner"
+		}, {
+			"description": "Nationality",
+			"id": "LITH",
+			"shortDesc": "LITH",
+			"name": "Lithuanian"
+		}, {
+			"description": "Nationality",
+			"id": "LUXE",
+			"shortDesc": "LUXE",
+			"name": "Luxembourger"
+		}, {
+			"description": "Nationality",
+			"id": "MAC",
+			"shortDesc": "MAC",
+			"name": "Macedonian Bulgarian"
+		}, {
+			"description": "Nationality",
+			"id": "MACA",
+			"shortDesc": "MACA",
+			"name": "Macedonian"
+		}, {
+			"description": "Nationality",
+			"id": "MAL",
+			"shortDesc": "MAL",
+			"name": "Malagasy"
+		}, {
+			"description": "Nationality",
+			"id": "MALAW",
+			"shortDesc": "MALAW",
+			"name": "Malawian"
+		}, {
+			"description": "Nationality",
+			"id": "MALAY",
+			"shortDesc": "MALAY",
+			"name": "Malaysian"
+		}, {
+			"description": "Nationality",
+			"id": "MALD",
+			"shortDesc": "MALD",
+			"name": "Maldivian"
+		}, {
+			"description": "Nationality",
+			"id": "MALI",
+			"shortDesc": "MALI",
+			"name": "Malian"
+		}, {
+			"description": "Nationality",
+			"id": "MALT",
+			"shortDesc": "MALT",
+			"name": "Maltese"
+		}, {
+			"description": "Nationality",
+			"id": "MANX",
+			"shortDesc": "MANX",
+			"name": "Manx"
+		}, {
+			"description": "Nationality",
+			"id": "MAUR",
+			"shortDesc": "MAUR",
+			"name": "Mauritian"
+		}, {
+			"description": "Nationality",
+			"id": "MEXI",
+			"shortDesc": "MEXI",
+			"name": "Mexican"
+		}, {
+			"description": "Nationality",
+			"id": "MOLD",
+			"shortDesc": "MOLD",
+			"name": "Moldovan"
+		}, {
+			"description": "Nationality",
+			"id": "MONG",
+			"shortDesc": "MONG",
+			"name": "Mongolian"
+		}, {
+			"description": "Nationality",
+			"id": "MONT",
+			"shortDesc": "MONT",
+			"name": "Montenegrin"
+		}, {
+			"description": "Nationality",
+			"id": "MORO",
+			"shortDesc": "MORO",
+			"name": "Moroccan"
+		}, {
+			"description": "Nationality",
+			"id": "NAM",
+			"shortDesc": "NAM",
+			"name": "Namibian"
+		}, {
+			"description": "Nationality",
+			"id": "NEP",
+			"shortDesc": "NEP",
+			"name": "Nepalese"
+		}, {
+			"description": "Nationality",
+			"id": "NEW",
+			"shortDesc": "NEW",
+			"name": "New Zealander"
+		}, {
+			"description": "Nationality",
+			"id": "NIC",
+			"shortDesc": "NIC",
+			"name": "Nicaraguan"
+		}, {
+			"description": "Nationality",
+			"id": "NIGA",
+			"shortDesc": "NIGA",
+			"name": "Nigerian"
+		}, {
+			"description": "Nationality",
+			"id": "NIGE",
+			"shortDesc": "NIGE",
+			"name": "Nigerien"
+		}, {
+			"description": "Nationality",
+			"id": "NOR",
+			"shortDesc": "NOR",
+			"name": "Norwegian"
+		}, {
+			"description": "Nationality",
+			"id": "PAK",
+			"shortDesc": "PAK",
+			"name": "Pakistani"
+		}, {
+			"description": "Nationality",
+			"id": "PAL",
+			"shortDesc": "PAL",
+			"name": "Palauan"
+		}, {
+			"description": "Nationality",
+			"id": "PALE",
+			"shortDesc": "PALE",
+			"name": "Palestinian"
+		}, {
+			"description": "Nationality",
+			"id": "PAN",
+			"shortDesc": "PAN",
+			"name": "Panamanian"
+		}, {
+			"description": "Nationality",
+			"id": "PAP",
+			"shortDesc": "PAP",
+			"name": "Papua New Guinean"
+		}, {
+			"description": "Nationality",
+			"id": "PAR",
+			"shortDesc": "PAR",
+			"name": "Paraguayan"
+		}, {
+			"description": "Nationality",
+			"id": "PER",
+			"shortDesc": "PER",
+			"name": "Peruvian"
+		}, {
+			"description": "Nationality",
+			"id": "POLE",
+			"shortDesc": "POLE",
+			"name": "Pole"
+		}, {
+			"description": "Nationality",
+			"id": "PORT",
+			"shortDesc": "PORT",
+			"name": "Portuguese"
+		}, {
+			"description": "Nationality",
+			"id": "PUE",
+			"shortDesc": "PUE",
+			"name": "Puerto Rican"
+		}, {
+			"description": "Nationality",
+			"id": "QUE",
+			"shortDesc": "QUE",
+			"name": "Quebecer"
+		}, {
+			"description": "Nationality",
+			"id": "ROM",
+			"shortDesc": "ROM",
+			"name": "Romanian"
+		}, {
+			"description": "Nationality",
+			"id": "RUS",
+			"shortDesc": "RUS",
+			"name": "Russian"
+		}, {
+			"description": "Nationality",
+			"id": "RWA",
+			"shortDesc": "RWA",
+			"name": "Rwandan"
+		}, {
+			"description": "Nationality",
+			"id": "SAL",
+			"shortDesc": "SAL",
+			"name": "Salvadoran"
+		}, {
+			"description": "Nationality",
+			"id": "SAU",
+			"shortDesc": "SAU",
+			"name": "Saudi"
+		}, {
+			"description": "Nationality",
+			"id": "SCO",
+			"shortDesc": "SCO",
+			"name": "Scot"
+		}, {
+			"description": "Nationality",
+			"id": "SEN",
+			"shortDesc": "SEN",
+			"name": "Senegalese"
+		}, {
+			"description": "Nationality",
+			"id": "SER",
+			"shortDesc": "SER",
+			"name": "Serb"
+		}, {
+			"description": "Nationality",
+			"id": "SIE",
+			"shortDesc": "SIE",
+			"name": "Sierra Leonean"
+		}, {
+			"description": "Nationality",
+			"id": "SING",
+			"shortDesc": "SING",
+			"name": "Singaporean"
+		}, {
+			"description": "Nationality",
+			"id": "SLO",
+			"shortDesc": "SLO",
+			"name": "Slovak"
+		}, {
+			"description": "Nationality",
+			"id": "SLOE",
+			"shortDesc": "SLOE",
+			"name": "Slovene"
+		}, {
+			"description": "Nationality",
+			"id": "SOM",
+			"shortDesc": "SOM",
+			"name": "Somali"
+		}, {
+			"description": "Nationality",
+			"id": "SOU",
+			"shortDesc": "SOU",
+			"name": "South African"
+		}, {
+			"description": "Nationality",
+			"id": "SPAN",
+			"shortDesc": "SPAN",
+			"name": "Spaniard"
+		}, {
+			"description": "Nationality",
+			"id": "SRI",
+			"shortDesc": "SRI",
+			"name": "Sri Lankan"
+		}, {
+			"description": "Nationality",
+			"id": "STL",
+			"shortDesc": "STL",
+			"name": "St Lucian"
+		}, {
+			"description": "Nationality",
+			"id": "SUD",
+			"shortDesc": "SUD",
+			"name": "Sudanese"
+		}, {
+			"description": "Nationality",
+			"id": "SUR",
+			"shortDesc": "SUR",
+			"name": "Surinamese"
+		}, {
+			"description": "Nationality",
+			"id": "SWE",
+			"shortDesc": "SWE",
+			"name": "Swede"
+		}, {
+			"description": "Nationality",
+			"id": "SWI",
+			"shortDesc": "SWI",
+			"name": "Swiss"
+		}, {
+			"description": "Nationality",
+			"id": "SYR",
+			"shortDesc": "SYR",
+			"name": "Syrian"
+		}, {
+			"description": "Nationality",
+			"id": "TAI",
+			"shortDesc": "TAI",
+			"name": "Taiwanese"
+		}, {
+			"description": "Nationality",
+			"id": "TANZ",
+			"shortDesc": "TANZ",
+			"name": "Tanzanian"
+		}, {
+			"description": "Nationality",
+			"id": "THAI",
+			"shortDesc": "THAI",
+			"name": "Thai"
+		}, {
+			"description": "Nationality",
+			"id": "TIB",
+			"shortDesc": "TIB",
+			"name": "Tibetan"
+		}, {
+			"description": "Nationality",
+			"id": "TOB",
+			"shortDesc": "TOB",
+			"name": "Tobagonian"
+		}, {
+			"description": "Nationality",
+			"id": "TRIN",
+			"shortDesc": "TRIN",
+			"name": "Trinidadian"
+		}, {
+			"description": "Nationality",
+			"id": "TUN",
+			"shortDesc": "TUN",
+			"name": "Tunisian"
+		}, {
+			"description": "Nationality",
+			"id": "TUR",
+			"shortDesc": "TUR",
+			"name": "Turkish Cypriot"
+		}, {
+			"description": "Nationality",
+			"id": "TURK",
+			"shortDesc": "TURK",
+			"name": "Turk"
+		}, {
+			"description": "Nationality",
+			"id": "TUV",
+			"shortDesc": "TUV",
+			"name": "Tuvaluan"
+		}, {
+			"description": "Nationality",
+			"id": "UGA",
+			"shortDesc": "UGA",
+			"name": "Ugandan"
+		}, {
+			"description": "Nationality",
+			"id": "UKA",
+			"shortDesc": "UKA",
+			"name": "Ukrainian"
+		}, {
+			"description": "Nationality",
+			"id": "URU",
+			"shortDesc": "URU",
+			"name": "Uruguayan"
+		}, {
+			"description": "Nationality",
+			"id": "UZB",
+			"shortDesc": "UZB",
+			"name": "Uzbek"
+		}, {
+			"description": "Nationality",
+			"id": "VAN",
+			"shortDesc": "VAN",
+			"name": "Vanuatuan"
+		}, {
+			"description": "Nationality",
+			"id": "VEN",
+			"shortDesc": "VEN",
+			"name": "Venezuelan"
+		}, {
+			"description": "Nationality",
+			"id": "VIE",
+			"shortDesc": "VIE",
+			"name": "Vietnamese"
+		}, {
+			"description": "Nationality",
+			"id": "WEL",
+			"shortDesc": "WEL",
+			"name": "Welsh"
+		}, {
+			"description": "Nationality",
+			"id": "YEM",
+			"shortDesc": "YEM",
+			"name": "Yemeni"
+		}, {
+			"description": "Nationality",
+			"id": "ZAM",
+			"shortDesc": "ZAM",
+			"name": "Zambian"
+		}, {
+			"description": "Nationality",
+			"id": "ZIM",
+			"shortDesc": "ZIM",
+			"name": "Zimbabwean"
+		}],
+		"dietaryPreferences": [{
+			"description": "Dietery Preferences",
+			"id": "AS VEG",
+			"shortDesc": "AS VEG",
+			"name": "Asian Vegetarian"
+		}, {
+			"description": "Dietery Preferences",
+			"id": "DIAB",
+			"shortDesc": "DIAB",
+			"name": "Diabetic"
+		}, {
+			"description": "Dietery Preferences",
+			"id": "GF",
+			"shortDesc": "GF",
+			"name": "Gluten free"
+		}, {
+			"description": "Dietery Preferences",
+			"id": "HALAL",
+			"shortDesc": "HALAL",
+			"name": "Halal"
+		}, {
+			"description": "Dietery Preferences",
+			"id": "JAIN",
+			"shortDesc": "JAIN",
+			"name": "Jain"
+		}, {
+			"description": "Dietery Preferences",
+			"id": "KOSHER",
+			"shortDesc": "KOSHER",
+			"name": "Kosher"
+		}, {
+			"description": "Dietery Preferences",
+			"id": "LF",
+			"shortDesc": "LF",
+			"name": "Low Fat"
+		}, {
+			"description": "Dietery Preferences",
+			"id": "LS",
+			"shortDesc": "LS",
+			"name": "Low Salt"
+		}, {
+			"description": "Dietery Preferences",
+			"id": "ORG",
+			"shortDesc": "ORG",
+			"name": "Organic"
+		}, {
+			"description": "Dietery Preferences",
+			"id": "OTHR",
+			"shortDesc": "OTHR",
+			"name": "Other"
+		}, {
+			"description": "Dietery Preferences",
+			"id": "VEG LAC",
+			"shortDesc": "VEG LAC",
+			"name": "Vegetarian lactose"
+		}, {
+			"description": "Dietery Preferences",
+			"id": "VEGAN",
+			"shortDesc": "VEGAN",
+			"name": "Vegan"
+		}],
+		"title": [{
+			"description": "Salutation",
+			"id": "A V M",
+			"shortDesc": "A V M",
+			"name": "A V M"
+		}, {
+			"description": "Salutation",
+			"id": "Admiraal",
+			"shortDesc": "Admiraal",
+			"name": "Admiraal"
+		}, {
+			"description": "Salutation",
+			"id": "Admiral",
+			"shortDesc": "Admiral",
+			"name": "Admiral"
+		}, {
+			"description": "Salutation",
+			"id": "Air Cdre",
+			"shortDesc": "Air Cdre",
+			"name": "Air Cdre"
+		}, {
+			"description": "Salutation",
+			"id": "Air Cmdr",
+			"shortDesc": "Air Cmdr",
+			"name": "Air Commodore"
+		}, {
+			"description": "Salutation",
+			"id": "Air Mars",
+			"shortDesc": "Air Mars",
+			"name": "Air Mars"
+		}, {
+			"description": "Salutation",
+			"id": "AirVi Ma",
+			"shortDesc": "AirVi Ma",
+			"name": "AirVi Ma"
+		}, {
+			"description": "Salutation",
+			"id": "Alderman",
+			"shortDesc": "Alderman",
+			"name": "Alderman"
+		}, {
+			"description": "Salutation",
+			"id": "Alhaji",
+			"shortDesc": "Alhaji",
+			"name": "Alhaji"
+		}, {
+			"description": "Salutation",
+			"id": "Ambassdr",
+			"shortDesc": "Ambassdr",
+			"name": "Ambassdr"
+		}, {
+			"description": "Salutation",
+			"id": "Attorney",
+			"shortDesc": "Attorney",
+			"name": "Attorney"
+		}, {
+			"description": "Salutation",
+			"id": "Baron",
+			"shortDesc": "Baron",
+			"name": "Baron"
+		}, {
+			"description": "Salutation",
+			"id": "Barones",
+			"shortDesc": "Barones",
+			"name": "Barones"
+		}, {
+			"description": "Salutation",
+			"id": "Br Genrl",
+			"shortDesc": "Br Genrl",
+			"name": "Brig General"
+		}, {
+			"description": "Salutation",
+			"id": "Brig",
+			"shortDesc": "Brig",
+			"name": "Brig"
+		}, {
+			"description": "Salutation",
+			"id": "Brig Gen",
+			"shortDesc": "Brig Gen",
+			"name": "Brig Gen"
+		}, {
+			"description": "Salutation",
+			"id": "Brigad G",
+			"shortDesc": "Brigad G",
+			"name": "Brigadier General"
+		}, {
+			"description": "Salutation",
+			"id": "Brigadir",
+			"shortDesc": "Brigadir",
+			"name": "Brigadier"
+		}, {
+			"description": "Salutation",
+			"id": "Brother",
+			"shortDesc": "Brother",
+			"name": "Brother"
+		}, {
+			"description": "Salutation",
+			"id": "Canon",
+			"shortDesc": "Canon",
+			"name": "Canon"
+		}, {
+			"description": "Salutation",
+			"id": "Capt",
+			"shortDesc": "Capt",
+			"name": "Capt"
+		}, {
+			"description": "Salutation",
+			"id": "Captain",
+			"shortDesc": "Captain",
+			"name": "Captain"
+		}, {
+			"description": "Salutation",
+			"id": "Cardinal",
+			"shortDesc": "Cardinal",
+			"name": "Cardinal"
+		}, {
+			"description": "Salutation",
+			"id": "Cdr",
+			"shortDesc": "Cdr",
+			"name": "Cdr"
+		}, {
+			"description": "Salutation",
+			"id": "Chief",
+			"shortDesc": "Chief",
+			"name": "Chief"
+		}, {
+			"description": "Salutation",
+			"id": "Cik",
+			"shortDesc": "Cik",
+			"name": "Cik"
+		}, {
+			"description": "Salutation",
+			"id": "Cmdant",
+			"shortDesc": "Cmdant",
+			"name": "Cmdant"
+		}, {
+			"description": "Salutation",
+			"id": "Cmder",
+			"shortDesc": "Cmder",
+			"name": "Cmder"
+		}, {
+			"description": "Salutation",
+			"id": "Cmdr",
+			"shortDesc": "Cmdr",
+			"name": "Cmdr"
+		}, {
+			"description": "Salutation",
+			"id": "Coach",
+			"shortDesc": "Coach",
+			"name": "Coach"
+		}, {
+			"description": "Salutation",
+			"id": "Col",
+			"shortDesc": "Col",
+			"name": "Col"
+		}, {
+			"description": "Salutation",
+			"id": "Col Dr",
+			"shortDesc": "Col Dr",
+			"name": "Col Dr"
+		}, {
+			"description": "Salutation",
+			"id": "Colonel",
+			"shortDesc": "Colonel",
+			"name": "Colonel"
+		}, {
+			"description": "Salutation",
+			"id": "Comm",
+			"shortDesc": "Comm",
+			"name": "Commissioner"
+		}, {
+			"description": "Salutation",
+			"id": "Como",
+			"shortDesc": "Como",
+			"name": "Commodore"
+		}, {
+			"description": "Salutation",
+			"id": "Comt",
+			"shortDesc": "Comt",
+			"name": "Comtessa"
+		}, {
+			"description": "Salutation",
+			"id": "Comte",
+			"shortDesc": "Comte",
+			"name": "Comte"
+		}, {
+			"description": "Salutation",
+			"id": "Cong",
+			"shortDesc": "Cong",
+			"name": "Congressman"
+		}, {
+			"description": "Salutation",
+			"id": "Cons",
+			"shortDesc": "Cons",
+			"name": "Conseiller"
+		}, {
+			"description": "Salutation",
+			"id": "Consul",
+			"shortDesc": "Consul",
+			"name": "Consul"
+		}, {
+			"description": "Salutation",
+			"id": "Cont",
+			"shortDesc": "Cont",
+			"name": "Contessa"
+		}, {
+			"description": "Salutation",
+			"id": "Conte",
+			"shortDesc": "Conte",
+			"name": "Conte"
+		}, {
+			"description": "Salutation",
+			"id": "Counc",
+			"shortDesc": "Counc",
+			"name": "Councillor"
+		}, {
+			"description": "Salutation",
+			"id": "Corp",
+			"shortDesc": "Crop",
+			"name": "Corporal"
+		}, {
+			"description": "Salutation",
+			"id": "Crwn Pr",
+			"shortDesc": "Crwn Pr",
+			"name": "Crown Prince"
+		}, {
+			"description": "Salutation",
+			"id": "Crwn Prs",
+			"shortDesc": "Crwn Prs",
+			"name": "Crown Princess"
+		}, {
+			"description": "Salutation",
+			"id": "Ct",
+			"shortDesc": "Ct",
+			"name": "Count"
+		}, {
+			"description": "Salutation",
+			"id": "Cts",
+			"shortDesc": "Cts",
+			"name": "Countess"
+		}, {
+			"description": "Salutation",
+			"id": "Dame",
+			"shortDesc": "Dame",
+			"name": "Dame"
+		}, {
+			"description": "Salutation",
+			"id": "Datin",
+			"shortDesc": "Datin",
+			"name": "Datin"
+		}, {
+			"description": "Salutation",
+			"id": "Dato",
+			"shortDesc": "Dato",
+			"name": "Dato"
+		}, {
+			"description": "Salutation",
+			"id": "Dean",
+			"shortDesc": "Dean",
+			"name": "Dean"
+		}, {
+			"description": "Salutation",
+			"id": "Dhr",
+			"shortDesc": "Dhr",
+			"name": "Dhr"
+		}, {
+			"description": "Salutation",
+			"id": "Dipl Ing",
+			"shortDesc": "Dipl Ing",
+			"name": "Dipl Ing"
+		}, {
+			"description": "Salutation",
+			"id": "Dk",
+			"shortDesc": "Dk",
+			"name": "Datuk"
+		}, {
+			"description": "Salutation",
+			"id": "Dk Seri",
+			"shortDesc": "Dk Seri",
+			"name": "Datuk Seri"
+		}, {
+			"description": "Salutation",
+			"id": "Dn",
+			"shortDesc": "Dn",
+			"name": "Deacon"
+		}, {
+			"description": "Salutation",
+			"id": "Dns",
+			"shortDesc": "Dns",
+			"name": "Deaconess"
+		}, {
+			"description": "Salutation",
+			"id": "Doctor",
+			"shortDesc": "Doctor",
+			"name": "Doctor"
+		}, {
+			"description": "Salutation",
+			"id": "Dott",
+			"shortDesc": "Dott",
+			"name": "Dott"
+		}, {
+			"description": "Salutation",
+			"id": "Dott sa",
+			"shortDesc": "Dott sa",
+			"name": "Dott sa"
+		}, {
+			"description": "Salutation",
+			"id": "Dr Ing",
+			"shortDesc": "Dr Ing",
+			"name": "Dr Ing"
+		}, {
+			"description": "Salutation",
+			"id": "Dra",
+			"shortDesc": "Dra",
+			"name": "Dra"
+		}, {
+			"description": "Salutation",
+			"id": "Drs",
+			"shortDesc": "Drs",
+			"name": "Drs"
+		}, {
+			"description": "Salutation",
+			"id": "Ema",
+			"shortDesc": "Ema",
+			"name": "Embajadora"
+		}, {
+			"description": "Salutation",
+			"id": "Emr",
+			"shortDesc": "Emr",
+			"name": "Embajador"
+		}, {
+			"description": "Salutation",
+			"id": "En",
+			"shortDesc": "En",
+			"name": "En"
+		}, {
+			"description": "Salutation",
+			"id": "Encik",
+			"shortDesc": "Encik",
+			"name": "Encik"
+		}, {
+			"description": "Salutation",
+			"id": "Eng",
+			"shortDesc": "Eng",
+			"name": "Eng"
+		}, {
+			"description": "Salutation",
+			"id": "Eur Ing",
+			"shortDesc": "Eur Ing",
+			"name": "Eur Ing"
+		}, {
+			"description": "Salutation",
+			"id": "Ex Sr",
+			"shortDesc": "Ex Sr",
+			"name": "Exmo Sr"
+		}, {
+			"description": "Salutation",
+			"id": "F O",
+			"shortDesc": "F O",
+			"name": "F O"
+		}, {
+			"description": "Salutation",
+			"id": "Father",
+			"shortDesc": "Father",
+			"name": "Father"
+		}, {
+			"description": "Salutation",
+			"id": "Flt Lt",
+			"shortDesc": "Flt Lt",
+			"name": "Flt Lieut"
+		}, {
+			"description": "Salutation",
+			"id": "Frau",
+			"shortDesc": "Frau",
+			"name": "Frau"
+		}, {
+			"description": "Salutation",
+			"id": "Frln",
+			"shortDesc": "Frln",
+			"name": "Fraulein"
+		}, {
+			"description": "Salutation",
+			"id": "Fru",
+			"shortDesc": "Fru",
+			"name": "Fru"
+		}, {
+			"description": "Salutation",
+			"id": "Ft Lt",
+			"shortDesc": "Ft Lt",
+			"name": "First Lieutient"
+		}, {
+			"description": "Salutation",
+			"id": "Ft Ofcr",
+			"shortDesc": "Ft Ofcr",
+			"name": "First Officer"
+		}, {
+			"description": "Salutation",
+			"id": "GCapt",
+			"shortDesc": "GCapt",
+			"name": "Group Captain"
+		}, {
+			"description": "Salutation",
+			"id": "Gen",
+			"shortDesc": "Gen",
+			"name": "Gen"
+		}, {
+			"description": "Salutation",
+			"id": "Generaal",
+			"shortDesc": "Generaal",
+			"name": "Generaal"
+		}, {
+			"description": "Salutation",
+			"id": "General",
+			"shortDesc": "General",
+			"name": "General"
+		}, {
+			"description": "Salutation",
+			"id": "Governor",
+			"shortDesc": "Governor",
+			"name": "Governor"
+		}, {
+			"description": "Salutation",
+			"id": "Graaf",
+			"shortDesc": "Graaf",
+			"name": "Graaf"
+		}, {
+			"description": "Salutation",
+			"id": "Gravin",
+			"shortDesc": "Gravin",
+			"name": "Gravin"
+		}, {
+			"description": "Salutation",
+			"id": "GrpCap",
+			"shortDesc": "GrpCap",
+			"name": "Grp Capt"
+		}, {
+			"description": "Salutation",
+			"id": "H E Dr",
+			"shortDesc": "H E Dr",
+			"name": "H E Dr"
+		}, {
+			"description": "Salutation",
+			"id": "H H",
+			"shortDesc": "H H",
+			"name": "H H"
+		}, {
+			"description": "Salutation",
+			"id": "H M",
+			"shortDesc": "H M",
+			"name": "H M"
+		}, {
+			"description": "Salutation",
+			"id": "H R H",
+			"shortDesc": "H R H",
+			"name": "H R H"
+		}, {
+			"description": "Salutation",
+			"id": "Hajah",
+			"shortDesc": "Hajah",
+			"name": "Hajah"
+		}, {
+			"description": "Salutation",
+			"id": "Haji",
+			"shortDesc": "Haji",
+			"name": "Haji"
+		}, {
+			"description": "Salutation",
+			"id": "Hajim",
+			"shortDesc": "Hajim",
+			"name": "Hajim"
+		}, {
+			"description": "Salutation",
+			"id": "HerH",
+			"shortDesc": "HerH",
+			"name": "Her Highness"
+		}, {
+			"description": "Salutation",
+			"id": "HerM",
+			"shortDesc": "HerM",
+			"name": "Her Majesty"
+		}, {
+			"description": "Salutation",
+			"id": "Herr",
+			"shortDesc": "Herr",
+			"name": "Herr"
+		}, {
+			"description": "Salutation",
+			"id": "HighC",
+			"shortDesc": "HighC",
+			"name": "High Chief"
+		}, {
+			"description": "Salutation",
+			"id": "HisH",
+			"shortDesc": "HisH",
+			"name": "His Highness"
+		}, {
+			"description": "Salutation",
+			"id": "HisHo",
+			"shortDesc": "HisHo",
+			"name": "His Holiness"
+		}, {
+			"description": "Salutation",
+			"id": "HisM",
+			"shortDesc": "HisM",
+			"name": "His Majesty"
+		}, {
+			"description": "Salutation",
+			"id": "Hon",
+			"shortDesc": "Hon",
+			"name": "Hon"
+		}, {
+			"description": "Salutation",
+			"id": "Hr",
+			"shortDesc": "Hr",
+			"name": "Hr"
+		}, {
+			"description": "Salutation",
+			"id": "Hra",
+			"shortDesc": "Hra",
+			"name": "Hra"
+		}, {
+			"description": "Salutation",
+			"id": "Ing",
+			"shortDesc": "Ing",
+			"name": "Ing"
+		}, {
+			"description": "Salutation",
+			"id": "Ir",
+			"shortDesc": "Ir",
+			"name": "Ir"
+		}, {
+			"description": "Salutation",
+			"id": "Jonk",
+			"shortDesc": "Jonk",
+			"name": "Jonkheer"
+		}, {
+			"description": "Salutation",
+			"id": "Judge",
+			"shortDesc": "Judge",
+			"name": "Judge"
+		}, {
+			"description": "Salutation",
+			"id": "Justice",
+			"shortDesc": "Justice",
+			"name": "Justice"
+		}, {
+			"description": "Salutation",
+			"id": "KhunY",
+			"shortDesc": "KhunY",
+			"name": "Khun Ying"
+		}, {
+			"description": "Salutation",
+			"id": "Kolonel",
+			"shortDesc": "Kolonel",
+			"name": "Kolonel"
+		}, {
+			"description": "Salutation",
+			"id": "Lady",
+			"shortDesc": "Lady",
+			"name": "Lady"
+		}, {
+			"description": "Salutation",
+			"id": "Lcda",
+			"shortDesc": "Lcda",
+			"name": "Lcda"
+		}, {
+			"description": "Salutation",
+			"id": "Lic",
+			"shortDesc": "Lic",
+			"name": "Lic"
+		}, {
+			"description": "Salutation",
+			"id": "Lieut",
+			"shortDesc": "Lieut",
+			"name": "Lieut"
+		}, {
+			"description": "Salutation",
+			"id": "LieutCd",
+			"shortDesc": "LieutCd",
+			"name": "Lieut Cdr"
+		}, {
+			"description": "Salutation",
+			"id": "LieutCo",
+			"shortDesc": "LieutCo",
+			"name": "Lieut Col"
+		}, {
+			"description": "Salutation",
+			"id": "LieutGen",
+			"shortDesc": "LieutGen",
+			"name": "Lieut Gen"
+		}, {
+			"description": "Salutation",
+			"id": "Lord",
+			"shortDesc": "Lord",
+			"name": "Lord"
+		}, {
+			"description": "Salutation",
+			"id": "EM",
+			"shortDesc": "M",
+			"name": "M"
+		}, {
+			"description": "Salutation",
+			"id": "M L",
+			"shortDesc": "M L",
+			"name": "M L"
+		}, {
+			"description": "Salutation",
+			"id": "Madame",
+			"shortDesc": "Madame",
+			"name": "Madame"
+		}, {
+			"description": "Salutation",
+			"id": "Mademo",
+			"shortDesc": "Mademo",
+			"name": "Mademoiselle"
+		}, {
+			"description": "Salutation",
+			"id": "MajGen",
+			"shortDesc": "MajGen",
+			"name": "Maj Gen"
+		}, {
+			"description": "Salutation",
+			"id": "Major",
+			"shortDesc": "Major",
+			"name": "Major"
+		}, {
+			"description": "Salutation",
+			"id": "Master",
+			"shortDesc": "Master",
+			"name": "Master"
+		}, {
+			"description": "Salutation",
+			"id": "Mevrouw",
+			"shortDesc": "Mevrouw",
+			"name": "Mevrouw"
+		}, {
+			"description": "Salutation",
+			"id": "Miss",
+			"shortDesc": "Miss",
+			"name": "Miss"
+		}, {
+			"description": "Salutation",
+			"id": "Mlle",
+			"shortDesc": "Mlle",
+			"name": "Mlle"
+		}, {
+			"description": "Salutation",
+			"id": "Mme",
+			"shortDesc": "Mme",
+			"name": "Mme"
+		}, {
+			"description": "Salutation",
+			"id": "Mr",
+			"shortDesc": "Mr",
+			"name": "Mr"
+		}, {
+			"description": "Salutation",
+			"id": "Mrs",
+			"shortDesc": "Mrs",
+			"name": "Mrs"
+		}, {
+			"description": "Salutation",
+			"id": "Ms",
+			"shortDesc": "Ms",
+			"name": "Ms"
+		}, {
+			"description": "Salutation",
+			"id": "Officer",
+			"shortDesc": "Officer",
+			"name": "Officer"
+		}, {
+			"description": "Salutation",
+			"id": "Pres",
+			"shortDesc": "Pres",
+			"name": "Pres"
+		}, {
+			"description": "Salutation",
+			"id": "Prof",
+			"shortDesc": "Prof",
+			"name": "Prof"
+		}, {
+			"description": "Salutation",
+			"id": "Reverend",
+			"shortDesc": "Reverend",
+			"name": "Reverend"
+		}, {
+			"description": "Salutation",
+			"id": "TEN",
+			"shortDesc": "TEN",
+			"name": "Tengku"
+		}, {
+			"description": "Salutation",
+			"id": "TEU",
+			"shortDesc": "TEU",
+			"name": "Teuku"
+		}, {
+			"description": "Salutation",
+			"id": "THD",
+			"shortDesc": "THD",
+			"name": "The Hon Dr"
+		}, {
+			"description": "Salutation",
+			"id": "THJ",
+			"shortDesc": "THJ",
+			"name": "The Hon Justice"
+		}, {
+			"description": "Salutation",
+			"id": "THM",
+			"shortDesc": "THM",
+			"name": "The Hon Miss"
+		}, {
+			"description": "Salutation",
+			"id": "THMS",
+			"shortDesc": "THMS",
+			"name": "The Hon Mrs"
+		}, {
+			"description": "Salutation",
+			"id": "THS",
+			"shortDesc": "THS",
+			"name": "The Hon Ms"
+		}, {
+			"description": "Salutation",
+			"id": "THSR",
+			"shortDesc": "THSR",
+			"name": "The Hon Sir"
+		}, {
+			"description": "Salutation",
+			"id": "TP",
+			"shortDesc": "TP",
+			"name": "Than Puying"
+		}, {
+			"description": "Salutation",
+			"id": "TSD",
+			"shortDesc": "TSD",
+			"name": "Tan Sri Dato"
+		}, {
+			"description": "Salutation",
+			"id": "TVR",
+			"shortDesc": "TVR",
+			"name": "The Very Rev"
+		}],
+		"prefLanguages": [{
+			"description": "Languages Preferred",
+			"id": "AKN",
+			"shortDesc": "AKN",
+			"name": "Akan"
+		}, {
+			"description": "Languages Preferred",
+			"id": "AMH",
+			"shortDesc": "AMH",
+			"name": "Amharic"
+		}, {
+			"description": "Languages Preferred",
+			"id": "ARAB",
+			"shortDesc": "ARAB",
+			"name": "Arabic"
+		}, {
+			"description": "Languages Preferred",
+			"id": "ASSMS",
+			"shortDesc": "ASSMS",
+			"name": "Assamese"
+		}, {
+			"description": "Languages Preferred",
+			"id": "AWA",
+			"shortDesc": "AWA",
+			"name": "Awadhi"
+		}, {
+			"description": "Languages Preferred",
+			"id": "AZ",
+			"shortDesc": "AZ",
+			"name": "Azerbaijani"
+		}, {
+			"description": "Languages Preferred",
+			"id": "BAL",
+			"shortDesc": "BAL",
+			"name": "Balochi"
+		}, {
+			"description": "Languages Preferred",
+			"id": "BEL",
+			"shortDesc": "BEL",
+			"name": "Belarusian"
+		}, {
+			"description": "Languages Preferred",
+			"id": "BEN",
+			"shortDesc": "BEN",
+			"name": "Bengali"
+		}, {
+			"description": "Languages Preferred",
+			"id": "BHO",
+			"shortDesc": "BHO",
+			"name": "Bhojpuri"
+		}, {
+			"description": "Languages Preferred",
+			"id": "BIN",
+			"shortDesc": "BIN",
+			"name": "Binisaya"
+		}, {
+			"description": "Languages Preferred",
+			"id": "BUR",
+			"shortDesc": "BUR",
+			"name": "Burmese"
+		}, {
+			"description": "Languages Preferred",
+			"id": "CAN",
+			"shortDesc": "CAN",
+			"name": "Cantonese"
+		}, {
+			"description": "Languages Preferred",
+			"id": "CEB",
+			"shortDesc": "CEB",
+			"name": "Cebuano"
+		}, {
+			"description": "Languages Preferred",
+			"id": "CHH",
+			"shortDesc": "CHH",
+			"name": "Chhattisgarhi"
+		}, {
+			"description": "Languages Preferred",
+			"id": "CHI",
+			"shortDesc": "CHI",
+			"name": "Chittagonian"
+		}, {
+			"description": "Languages Preferred",
+			"id": "CHW",
+			"shortDesc": "CHW",
+			"name": "Chewa"
+		}, {
+			"description": "Languages Preferred",
+			"id": "CZE",
+			"shortDesc": "CZE",
+			"name": "Czech"
+		}, {
+			"description": "Languages Preferred",
+			"id": "DEC",
+			"shortDesc": "DEC",
+			"name": "Deccan"
+		}, {
+			"description": "Languages Preferred",
+			"id": "DHU",
+			"shortDesc": "DHU",
+			"name": "Dhundhari"
+		}, {
+			"description": "Languages Preferred",
+			"id": "DUT",
+			"shortDesc": "DUT",
+			"name": "Dutch"
+		}, {
+			"description": "Languages Preferred",
+			"id": "ENG",
+			"shortDesc": "ENG",
+			"name": "English"
+		}, {
+			"description": "Languages Preferred",
+			"id": "FRE",
+			"shortDesc": "FRE",
+			"name": "French"
+		}, {
+			"description": "Languages Preferred",
+			"id": "FULA",
+			"shortDesc": "FULA",
+			"name": "FULA"
+		}, {
+			"description": "Languages Preferred",
+			"id": "GAN",
+			"shortDesc": "GAN",
+			"name": "GAN"
+		}, {
+			"description": "Languages Preferred",
+			"id": "GER",
+			"shortDesc": "GER",
+			"name": "German"
+		}, {
+			"description": "Languages Preferred",
+			"id": "GRE",
+			"shortDesc": "GRE",
+			"name": "Greek"
+		}, {
+			"description": "Languages Preferred",
+			"id": "GUJ",
+			"shortDesc": "GUJ",
+			"name": "Gujarati"
+		}, {
+			"description": "Languages Preferred",
+			"id": "HAI",
+			"shortDesc": "HAI",
+			"name": "Haitian Creole"
+		}, {
+			"description": "Languages Preferred",
+			"id": "HAK",
+			"shortDesc": "HAK",
+			"name": "Hakka"
+		}, {
+			"description": "Languages Preferred",
+			"id": "HAR",
+			"shortDesc": "HAR",
+			"name": "Haryanvi"
+		}, {
+			"description": "Languages Preferred",
+			"id": "HAU",
+			"shortDesc": "HAU",
+			"name": "Hausa"
+		}, {
+			"description": "Languages Preferred",
+			"id": "HIL",
+			"shortDesc": "HIL",
+			"name": "Hiligaynon"
+		}, {
+			"description": "Languages Preferred",
+			"id": "HIN",
+			"shortDesc": "HIN",
+			"name": "Hindi"
+		}, {
+			"description": "Languages Preferred",
+			"id": "HMO",
+			"shortDesc": "HMO",
+			"name": "Hmong"
+		}, {
+			"description": "Languages Preferred",
+			"id": "HUN",
+			"shortDesc": "HUN",
+			"name": "Hungarian"
+		}, {
+			"description": "Languages Preferred",
+			"id": "IGBO",
+			"shortDesc": "IGBO",
+			"name": "Igbo"
+		}, {
+			"description": "Languages Preferred",
+			"id": "ILO",
+			"shortDesc": "ILO",
+			"name": "Ilokano"
+		}, {
+			"description": "Languages Preferred",
+			"id": "ITA",
+			"shortDesc": "ITA",
+			"name": "Italian"
+		}, {
+			"description": "Languages Preferred",
+			"id": "JAP",
+			"shortDesc": "JAP",
+			"name": "Japanese"
+		}, {
+			"description": "Languages Preferred",
+			"id": "JAV",
+			"shortDesc": "JAV",
+			"name": "Javanese"
+		}, {
+			"description": "Languages Preferred",
+			"id": "JIN",
+			"shortDesc": "JIN",
+			"name": "Jin"
+		}, {
+			"description": "Languages Preferred",
+			"id": "KAN",
+			"shortDesc": "KAN",
+			"name": "Kannada"
+		}, {
+			"description": "Languages Preferred",
+			"id": "KAZ",
+			"shortDesc": "KAZ",
+			"name": "Kazakh"
+		}, {
+			"description": "Languages Preferred",
+			"id": "KHM",
+			"shortDesc": "KHM",
+			"name": "Khmer"
+		}, {
+			"description": "Languages Preferred",
+			"id": "KIN",
+			"shortDesc": "KIN",
+			"name": "Kinyarwanda"
+		}, {
+			"description": "Languages Preferred",
+			"id": "KOR",
+			"shortDesc": "KOR",
+			"name": "Korean"
+		}, {
+			"description": "Languages Preferred",
+			"id": "LAO",
+			"shortDesc": "LAO",
+			"name": "Lao"
+		}, {
+			"description": "Languages Preferred",
+			"id": "MAD",
+			"shortDesc": "MAD",
+			"name": "Madurese"
+		}, {
+			"description": "Languages Preferred",
+			"id": "MAG",
+			"shortDesc": "MAG",
+			"name": "Magahi"
+		}, {
+			"description": "Languages Preferred",
+			"id": "MAI",
+			"shortDesc": "MAI",
+			"name": "Maithili"
+		}, {
+			"description": "Languages Preferred",
+			"id": "MAL",
+			"shortDesc": "MAL",
+			"name": "Malagasy"
+		}, {
+			"description": "Languages Preferred",
+			"id": "MALI",
+			"shortDesc": "MALI",
+			"name": "Malay/Indonesian"
+		}, {
+			"description": "Languages Preferred",
+			"id": "MAN",
+			"shortDesc": "MAN",
+			"name": "Mandarin"
+		}, {
+			"description": "Languages Preferred",
+			"id": "MAR",
+			"shortDesc": "MAR",
+			"name": "Marwari"
+		}, {
+			"description": "Languages Preferred",
+			"id": "MARA",
+			"shortDesc": "MARA",
+			"name": "Marathi"
+		}, {
+			"description": "Languages Preferred",
+			"id": "MAY",
+			"shortDesc": "MAY",
+			"name": "Malayalam"
+		}, {
+			"description": "Languages Preferred",
+			"id": "MIN",
+			"shortDesc": "MIN",
+			"name": "Min Bei"
+		}, {
+			"description": "Languages Preferred",
+			"id": "MIND",
+			"shortDesc": "MIND",
+			"name": "Min Dong"
+		}, {
+			"description": "Languages Preferred",
+			"id": "MINN",
+			"shortDesc": "MINN",
+			"name": "Min Nan"
+		}, {
+			"description": "Languages Preferred",
+			"id": "MOS",
+			"shortDesc": "MOS",
+			"name": "Mossi"
+		}, {
+			"description": "Languages Preferred",
+			"id": "NEP",
+			"shortDesc": "NEP",
+			"name": "Nepali"
+		}, {
+			"description": "Languages Preferred",
+			"id": "ORI",
+			"shortDesc": "ORI",
+			"name": "Oriya"
+		}, {
+			"description": "Languages Preferred",
+			"id": "ORO",
+			"shortDesc": "ORO",
+			"name": "Oromo"
+		}, {
+			"description": "Languages Preferred",
+			"id": "OTH",
+			"shortDesc": "OTH",
+			"name": "Other"
+		}, {
+			"description": "Languages Preferred",
+			"id": "PAS",
+			"shortDesc": "PAS",
+			"name": "Pashto"
+		}, {
+			"description": "Languages Preferred",
+			"id": "PER",
+			"shortDesc": "PER",
+			"name": "Persian"
+		}, {
+			"description": "Languages Preferred",
+			"id": "POL",
+			"shortDesc": "POL",
+			"name": "Polish"
+		}, {
+			"description": "Languages Preferred",
+			"id": "POR",
+			"shortDesc": "POR",
+			"name": "Portuguese"
+		}, {
+			"description": "Languages Preferred",
+			"id": "PUN",
+			"shortDesc": "PUN",
+			"name": "Punjabi"
+		}, {
+			"description": "Languages Preferred",
+			"id": "QUE",
+			"shortDesc": "QUE",
+			"name": "Quechua"
+		}, {
+			"description": "Languages Preferred",
+			"id": "ROM",
+			"shortDesc": "ROM",
+			"name": "Romanian"
+		}, {
+			"description": "Languages Preferred",
+			"id": "RUS",
+			"shortDesc": "RUS",
+			"name": "Russian"
+		}, {
+			"description": "Languages Preferred",
+			"id": "SAR",
+			"shortDesc": "SAR",
+			"name": "Saraiki"
+		}, {
+			"description": "Languages Preferred",
+			"id": "SER",
+			"shortDesc": "SER",
+			"name": "Serbo-Croatian"
+		}, {
+			"description": "Languages Preferred",
+			"id": "SHO",
+			"shortDesc": "SHO",
+			"name": "Shona"
+		}, {
+			"description": "Languages Preferred",
+			"id": "SIN",
+			"shortDesc": "SIN",
+			"name": "Sindhi"
+		}, {
+			"description": "Languages Preferred",
+			"id": "SINH",
+			"shortDesc": "SINH",
+			"name": "Sinhalese"
+		}, {
+			"description": "Languages Preferred",
+			"id": "SOM",
+			"shortDesc": "SOM",
+			"name": "Somali"
+		}, {
+			"description": "Languages Preferred",
+			"id": "SPA",
+			"shortDesc": "SPA",
+			"name": "Spanish"
+		}, {
+			"description": "Languages Preferred",
+			"id": "SUN",
+			"shortDesc": "SUN",
+			"name": "Sundanese"
+		}, {
+			"description": "Languages Preferred",
+			"id": "SWA",
+			"shortDesc": "SWA",
+			"name": "Swahili"
+		}, {
+			"description": "Languages Preferred",
+			"id": "SWE",
+			"shortDesc": "SWE",
+			"name": "Swedish"
+		}, {
+			"description": "Languages Preferred",
+			"id": "SYL",
+			"shortDesc": "SYL",
+			"name": "Sylheti"
+		}, {
+			"description": "Languages Preferred",
+			"id": "TAG",
+			"shortDesc": "TAG",
+			"name": "Tagalog"
+		}, {
+			"description": "Languages Preferred",
+			"id": "TAM",
+			"shortDesc": "TAM",
+			"name": "Tamil"
+		}, {
+			"description": "Languages Preferred",
+			"id": "TEL",
+			"shortDesc": "TEL",
+			"name": "Telugu"
+		}, {
+			"description": "Languages Preferred",
+			"id": "THA",
+			"shortDesc": "THA",
+			"name": "Thai"
+		}, {
+			"description": "Languages Preferred",
+			"id": "TUR",
+			"shortDesc": "TUR",
+			"name": "Turkish"
+		}, {
+			"description": "Languages Preferred",
+			"id": "UKR",
+			"shortDesc": "UKR",
+			"name": "Ukrainian"
+		}, {
+			"description": "Languages Preferred",
+			"id": "URD",
+			"shortDesc": "URD",
+			"name": "Urdu"
+		}, {
+			"description": "Languages Preferred",
+			"id": "UYG",
+			"shortDesc": "UYG",
+			"name": "Uyghur"
+		}, {
+			"description": "Languages Preferred",
+			"id": "UZB",
+			"shortDesc": "UZB",
+			"name": "Uzbek"
+		}, {
+			"description": "Languages Preferred",
+			"id": "VIET",
+			"shortDesc": "VIET",
+			"name": "Vietnamese"
+		}, {
+			"description": "Languages Preferred",
+			"id": "Wu",
+			"shortDesc": "Wu",
+			"name": "Wu"
+		}, {
+			"description": "Languages Preferred",
+			"id": "XHO",
+			"shortDesc": "XHO",
+			"name": "Xhosa"
+		}, {
+			"description": "Languages Preferred",
+			"id": "XIA",
+			"shortDesc": "XIA",
+			"name": "Xiang"
+		}, {
+			"description": "Languages Preferred",
+			"id": "YOR",
+			"shortDesc": "YOR",
+			"name": "Yoruba"
+		}, {
+			"description": "Languages Preferred",
+			"id": "ZHU",
+			"shortDesc": "ZHU",
+			"name": "Zhuang"
+		}, {
+			"description": "Languages Preferred",
+			"id": "ZU",
+			"shortDesc": "ZU",
+			"name": "Zulu"
+		}],
+		"roles": [{
+			"description": "contactsRoleFilters",
+			"id": "ADMIN",
+			"shortDesc": "ADMIN",
+			"name": "Administration"
+		}, {
+			"description": "contactsRoleFilters",
+			"id": "DB",
+			"shortDesc": "DB",
+			"name": "Decision on bank"
+		}, {
+			"description": "contactsRoleFilters",
+			"id": "EXCO",
+			"shortDesc": "EXCO",
+			"name": "Ex-Co"
+		}, {
+			"description": "contactsRoleFilters",
+			"id": "IMP",
+			"shortDesc": "IMP",
+			"name": "Implementation"
+		}, {
+			"description": "contactsRoleFilters",
+			"id": "MB",
+			"shortDesc": "MB",
+			"name": "Mandate for business"
+		}, {
+			"description": "contactsRoleFilters",
+			"id": "STC",
+			"shortDesc": "STC",
+			"name": "Structuring T & C's"
+		}],
+		"gender": [{
+			"description": "Gender",
+			"id": "F",
+			"shortDesc": "F",
+			"name": "Female"
+		}, {
+			"description": "Gender",
+			"id": "M",
+			"shortDesc": "M",
+			"name": "Male"
+		}, {
+			"description": "Gender",
+			"id": "U",
+			"shortDesc": "UD",
+			"name": "Undisclosed"
+		}],
+		"productPartner": [{
+			"description": "CN_Products",
+			"id": "CF",
+			"shortDesc": "CF",
+			"name": "CF"
+		}, {
+			"description": "CN_Products",
+			"id": "CM",
+			"shortDesc": "CM",
+			"name": "CM"
+		}, {
+			"description": "CN_Products",
+			"id": "FM",
+			"shortDesc": "FM",
+			"name": "FM"
+		}, {
+			"description": "CN_Products",
+			"id": "LEND",
+			"shortDesc": "LEND",
+			"name": "Lending"
+		}, {
+			"description": "CN_Products",
+			"id": "TB",
+			"shortDesc": "TB",
+			"name": "TB"
+		}],
+		"addressType": [{
+			"description": "Address type",
+			"id": "OFF",
+			"shortDesc": "Off",
+			"name": "Office"
+		}, {
+			"description": "Address type",
+			"id": "Registrd",
+			"shortDesc": "Registrd",
+			"name": "Registered"
+		}, {
+			"description": "Address type",
+			"id": "Resident",
+			"shortDesc": "Resident",
+			"name": "Residential"
+		}],
+		"country": [{
+			"id": "AF",
+			"shortDesc": "AFGHANISTAN",
+			"name": "AFGHANISTAN"
+		}, {
+			"id": "ARO",
+			"shortDesc": "AFRICA REGION OTHERS",
+			"name": "AFRICA REGION OTHERS"
+		}, {
+			"id": "RA",
+			"shortDesc": "AFRICA REGION OTHERS (ARO)",
+			"name": "AFRICA REGION OTHERS (ARO)"
+		}, {
+			"id": "AX",
+			"shortDesc": "ALAND ISLANDS",
+			"name": "ALAND ISLANDS"
+		}, {
+			"id": "AL",
+			"shortDesc": "ALBANIA",
+			"name": "ALBANIA"
+		}, {
+			"id": "DZ",
+			"shortDesc": "ALGERIA",
+			"name": "ALGERIA"
+		}, {
+			"id": "AS",
+			"shortDesc": "AMERICAN SAMOA",
+			"name": "AMERICAN SAMOA"
+		}, {
+			"id": "AD",
+			"shortDesc": "ANDORRA",
+			"name": "ANDORRA"
+		}, {
+			"id": "AO",
+			"shortDesc": "ANGOLA",
+			"name": "ANGOLA"
+		}, {
+			"id": "AI",
+			"shortDesc": "ANGUILLA",
+			"name": "ANGUILLA"
+		}, {
+			"id": "AQ",
+			"shortDesc": "ANTARCTICA",
+			"name": "ANTARCTICA"
+		}, {
+			"id": "AG",
+			"shortDesc": "ANTIGUA AND BARBUDA",
+			"name": "ANTIGUA AND BARBUDA"
+		}, {
+			"id": "AR",
+			"shortDesc": "ARGENTINA",
+			"name": "ARGENTINA"
+		}, {
+			"id": "AM",
+			"shortDesc": "ARMENIA",
+			"name": "ARMENIA"
+		}, {
+			"id": "AW",
+			"shortDesc": "ARUBA",
+			"name": "ARUBA"
+		}, {
+			"id": "AU",
+			"shortDesc": "AUSTRALIA",
+			"name": "AUSTRALIA"
+		}, {
+			"id": "AT",
+			"shortDesc": "AUSTRIA",
+			"name": "AUSTRIA"
+		}, {
+			"id": "AZ",
+			"shortDesc": "AZERBAIJAN",
+			"name": "AZERBAIJAN"
+		}, {
+			"id": "BS",
+			"shortDesc": "BAHAMAS",
+			"name": "BAHAMAS"
+		}, {
+			"id": "BH",
+			"shortDesc": "BAHRAIN",
+			"name": "BAHRAIN"
+		}, {
+			"id": "BD",
+			"shortDesc": "BANGLADESH",
+			"name": "BANGLADESH"
+		}, {
+			"id": "BB",
+			"shortDesc": "BARBADOS",
+			"name": "BARBADOS"
+		}, {
+			"id": "BY",
+			"shortDesc": "BELARUS",
+			"name": "BELARUS"
+		}, {
+			"id": "BE",
+			"shortDesc": "BELGIUM",
+			"name": "BELGIUM"
+		}, {
+			"id": "BZ",
+			"shortDesc": "BELIZE",
+			"name": "BELIZE"
+		}, {
+			"id": "BJ",
+			"shortDesc": "BENIN",
+			"name": "BENIN"
+		}, {
+			"id": "BM",
+			"shortDesc": "BERMUDA",
+			"name": "BERMUDA"
+		}, {
+			"id": "BT",
+			"shortDesc": "BHUTAN",
+			"name": "BHUTAN"
+		}, {
+			"id": "BO",
+			"shortDesc": "BOLIVIA, PLURINATIONAL STATE OF",
+			"name": "BOLIVIA, PLURINATIONAL STATE OF"
+		}, {
+			"id": "BQ",
+			"shortDesc": "BONAIRE, SINT EUSTATIUS AND SABA",
+			"name": "BONAIRE, SINT EUSTATIUS AND SABA"
+		}, {
+			"id": "BA",
+			"shortDesc": "BOSNIA AND HERZEGOVINA",
+			"name": "BOSNIA AND HERZEGOVINA"
+		}, {
+			"id": "BW",
+			"shortDesc": "BOTSWANA",
+			"name": "BOTSWANA"
+		}, {
+			"id": "BV",
+			"shortDesc": "BOUVET ISLAND",
+			"name": "BOUVET ISLAND"
+		}, {
+			"id": "BR",
+			"shortDesc": "BRAZIL",
+			"name": "BRAZIL"
+		}, {
+			"id": "IO",
+			"shortDesc": "BRITISH INDIAN OCEAN TERRITORY",
+			"name": "BRITISH INDIAN OCEAN TERRITORY"
+		}, {
+			"id": "VG",
+			"shortDesc": "BRITISH VIRGIN ISLANDS",
+			"name": "BRITISH VIRGIN ISLANDS"
+		}, {
+			"id": "BN",
+			"shortDesc": "BRUNEI DARUSSALAM",
+			"name": "BRUNEI DARUSSALAM"
+		}, {
+			"id": "BG",
+			"shortDesc": "BULGARIA",
+			"name": "BULGARIA"
+		}, {
+			"id": "BF",
+			"shortDesc": "BURKINA FASO",
+			"name": "BURKINA FASO"
+		}, {
+			"id": "BI",
+			"shortDesc": "BURUNDI",
+			"name": "BURUNDI"
+		}, {
+			"id": "KH",
+			"shortDesc": "CAMBODIA",
+			"name": "CAMBODIA"
+		}, {
+			"id": "CM",
+			"shortDesc": "CAMEROON",
+			"name": "CAMEROON"
+		}, {
+			"id": "CA",
+			"shortDesc": "CANADA",
+			"name": "CANADA"
+		}, {
+			"id": "CV",
+			"shortDesc": "CAPE VERDE",
+			"name": "CAPE VERDE"
+		}, {
+			"id": "KY",
+			"shortDesc": "CAYMAN ISLANDS",
+			"name": "CAYMAN ISLANDS"
+		}, {
+			"id": "CF",
+			"shortDesc": "CENTRAL AFRICAN REPUBLIC",
+			"name": "CENTRAL AFRICAN REPUBLIC"
+		}, {
+			"id": "TD",
+			"shortDesc": "CHAD",
+			"name": "CHAD"
+		}, {
+			"id": "CL",
+			"shortDesc": "CHILE",
+			"name": "CHILE"
+		}, {
+			"id": "CN",
+			"shortDesc": "CHINA",
+			"name": "CHINA"
+		}, {
+			"id": "CX",
+			"shortDesc": "CHRISTMAS ISLAND",
+			"name": "CHRISTMAS ISLAND"
+		}, {
+			"id": "CC",
+			"shortDesc": "COCOS (KEELING) ISLANDS",
+			"name": "COCOS (KEELING) ISLANDS"
+		}, {
+			"id": "CO",
+			"shortDesc": "COLOMBIA",
+			"name": "COLOMBIA"
+		}, {
+			"id": "KM",
+			"shortDesc": "COMOROS",
+			"name": "COMOROS"
+		}, {
+			"id": "CG",
+			"shortDesc": "CONGO",
+			"name": "CONGO"
+		}, {
+			"id": "CD",
+			"shortDesc": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+			"name": "CONGO, THE DEMOCRATIC REPUBLIC OF THE"
+		}, {
+			"id": "CK",
+			"shortDesc": "COOK ISLANDS",
+			"name": "COOK ISLANDS"
+		}, {
+			"id": "CR",
+			"shortDesc": "COSTA RICA",
+			"name": "COSTA RICA"
+		}, {
+			"id": "CI",
+			"shortDesc": "COTE D'IVOIRE",
+			"name": "COTE D'IVOIRE"
+		}, {
+			"id": "HR",
+			"shortDesc": "CROATIA",
+			"name": "CROATIA"
+		}, {
+			"id": "CU",
+			"shortDesc": "CUBA",
+			"name": "CUBA"
+		}, {
+			"id": "CW",
+			"shortDesc": "CURACAO",
+			"name": "CURACAO"
+		}, {
+			"id": "CY",
+			"shortDesc": "CYPRUS",
+			"name": "CYPRUS"
+		}, {
+			"id": "CZ",
+			"shortDesc": "CZECH REPUBLIC",
+			"name": "CZECH REPUBLIC"
+		}, {
+			"id": "ZR",
+			"shortDesc": "DEMOCRATIC REPUBLIC OF ZAIRE",
+			"name": "DEMOCRATIC REPUBLIC OF ZAIRE"
+		}, {
+			"id": "DK",
+			"shortDesc": "DENMARK",
+			"name": "DENMARK"
+		}, {
+			"id": "DJ",
+			"shortDesc": "DJIBOUTI",
+			"name": "DJIBOUTI"
+		}, {
+			"id": "DM",
+			"shortDesc": "DOMINICA",
+			"name": "DOMINICA"
+		}, {
+			"id": "DO",
+			"shortDesc": "DOMINICAN REPUBLIC",
+			"name": "DOMINICAN REPUBLIC"
+		}, {
+			"id": "EC",
+			"shortDesc": "ECUADOR",
+			"name": "ECUADOR"
+		}, {
+			"id": "EG",
+			"shortDesc": "EGYPT",
+			"name": "EGYPT"
+		}, {
+			"id": "SV",
+			"shortDesc": "EL SALVADOR",
+			"name": "EL SALVADOR"
+		}, {
+			"id": "GQ",
+			"shortDesc": "EQUATORIAL GUINEA",
+			"name": "EQUATORIAL GUINEA"
+		}, {
+			"id": "ER",
+			"shortDesc": "ERITREA",
+			"name": "ERITREA"
+		}, {
+			"id": "EE",
+			"shortDesc": "ESTONIA",
+			"name": "ESTONIA"
+		}, {
+			"id": "ET",
+			"shortDesc": "ETHIOPIA",
+			"name": "ETHIOPIA"
+		}, {
+			"id": "FK",
+			"shortDesc": "FALKLAND ISLANDS (MALVINAS)",
+			"name": "FALKLAND ISLANDS (MALVINAS)"
+		}, {
+			"id": "FO",
+			"shortDesc": "FAROE ISLANDS",
+			"name": "FAROE ISLANDS"
+		}, {
+			"id": "FJ",
+			"shortDesc": "FIJI",
+			"name": "FIJI"
+		}, {
+			"id": "FI",
+			"shortDesc": "FINLAND",
+			"name": "FINLAND"
+		}, {
+			"id": "FR",
+			"shortDesc": "FRANCE",
+			"name": "FRANCE"
+		}, {
+			"id": "GF",
+			"shortDesc": "FRENCH GUIANA",
+			"name": "FRENCH GUIANA"
+		}, {
+			"id": "PF",
+			"shortDesc": "FRENCH POLYNESIA",
+			"name": "FRENCH POLYNESIA"
+		}, {
+			"id": "TF",
+			"shortDesc": "FRENCH SOUTHERN TERRITORIES",
+			"name": "FRENCH SOUTHERN TERRITORIES"
+		}, {
+			"id": "GA",
+			"shortDesc": "GABON",
+			"name": "GABON"
+		}, {
+			"id": "GM",
+			"shortDesc": "GAMBIA",
+			"name": "GAMBIA"
+		}, {
+			"id": "GE",
+			"shortDesc": "GEORGIA",
+			"name": "GEORGIA"
+		}, {
+			"id": "DE",
+			"shortDesc": "GERMANY",
+			"name": "GERMANY"
+		}, {
+			"id": "GH",
+			"shortDesc": "GHANA",
+			"name": "GHANA"
+		}, {
+			"id": "GI",
+			"shortDesc": "GIBRALTAR",
+			"name": "GIBRALTAR"
+		}, {
+			"id": "GPRD",
+			"shortDesc": "GLOBAL PRODUCTS",
+			"name": "GLOBAL PRODUCTS"
+		}, {
+			"id": "GR",
+			"shortDesc": "GREECE",
+			"name": "GREECE"
+		}, {
+			"id": "GL",
+			"shortDesc": "GREENLAND",
+			"name": "GREENLAND"
+		}, {
+			"id": "GD",
+			"shortDesc": "GRENADA",
+			"name": "GRENADA"
+		}, {
+			"id": "GP",
+			"shortDesc": "GUADELOUPE",
+			"name": "GUADELOUPE"
+		}, {
+			"id": "GU",
+			"shortDesc": "GUAM",
+			"name": "GUAM"
+		}, {
+			"id": "GT",
+			"shortDesc": "GUATEMALA",
+			"name": "GUATEMALA"
+		}, {
+			"id": "GG",
+			"shortDesc": "GUERNSEY",
+			"name": "GUERNSEY"
+		}, {
+			"id": "GN",
+			"shortDesc": "GUINEA",
+			"name": "GUINEA"
+		}, {
+			"id": "GW",
+			"shortDesc": "GUINEA-BISSAU",
+			"name": "GUINEA-BISSAU"
+		}, {
+			"id": "GY",
+			"shortDesc": "GUYANA",
+			"name": "GUYANA"
+		}, {
+			"id": "HT",
+			"shortDesc": "HAITI",
+			"name": "HAITI"
+		}, {
+			"id": "HM",
+			"shortDesc": "HEARD ISLAND AND MCDONALD ISLANDS",
+			"name": "HEARD ISLAND AND MCDONALD ISLANDS"
+		}, {
+			"id": "VA",
+			"shortDesc": "HOLY SEE (VATICAN CITY STATE)",
+			"name": "HOLY SEE (VATICAN CITY STATE)"
+		}, {
+			"id": "HN",
+			"shortDesc": "HONDURAS",
+			"name": "HONDURAS"
+		}, {
+			"id": "HK",
+			"shortDesc": "HONG KONG",
+			"name": "HONG KONG"
+		}, {
+			"id": "HU",
+			"shortDesc": "HUNGARY",
+			"name": "HUNGARY"
+		}, {
+			"id": "IS",
+			"shortDesc": "ICELAND",
+			"name": "ICELAND"
+		}, {
+			"id": "IN",
+			"shortDesc": "INDIA",
+			"name": "INDIA"
+		}, {
+			"id": "ID",
+			"shortDesc": "INDONESIA",
+			"name": "INDONESIA"
+		}, {
+			"id": "IR",
+			"shortDesc": "IRAN",
+			"name": "IRAN"
+		}, {
+			"id": "IQ",
+			"shortDesc": "IRAQ",
+			"name": "IRAQ"
+		}, {
+			"id": "IE",
+			"shortDesc": "IRELAND",
+			"name": "IRELAND"
+		}, {
+			"id": "IM",
+			"shortDesc": "ISLE OF MAN",
+			"name": "ISLE OF MAN"
+		}, {
+			"id": "IL",
+			"shortDesc": "ISRAEL",
+			"name": "ISRAEL"
+		}, {
+			"id": "IT",
+			"shortDesc": "ITALY",
+			"name": "ITALY"
+		}, {
+			"id": "JM",
+			"shortDesc": "JAMAICA",
+			"name": "JAMAICA"
+		}, {
+			"id": "JP",
+			"shortDesc": "JAPAN",
+			"name": "JAPAN"
+		}, {
+			"id": "JE",
+			"shortDesc": "JERSEY",
+			"name": "JERSEY"
+		}, {
+			"id": "JO",
+			"shortDesc": "JORDAN",
+			"name": "JORDAN"
+		}, {
+			"id": "KZ",
+			"shortDesc": "KAZAKSTAN",
+			"name": "KAZAKSTAN"
+		}, {
+			"id": "KE",
+			"shortDesc": "KENYA",
+			"name": "KENYA"
+		}, {
+			"id": "KI",
+			"shortDesc": "KIRIBATI",
+			"name": "KIRIBATI"
+		}, {
+			"id": "KP",
+			"shortDesc": "KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",
+			"name": "KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF"
+		}, {
+			"id": "KR",
+			"shortDesc": "KOREA, REPUBLIC OF",
+			"name": "KOREA, REPUBLIC OF"
+		}, {
+			"id": "KW",
+			"shortDesc": "KUWAIT",
+			"name": "KUWAIT"
+		}, {
+			"id": "KG",
+			"shortDesc": "KYRGYZSTAN",
+			"name": "KYRGYZSTAN"
+		}, {
+			"id": "LN",
+			"shortDesc": "LABUAN",
+			"name": "LABUAN"
+		}, {
+			"id": "LA",
+			"shortDesc": "LAOS",
+			"name": "LAOS"
+		}, {
+			"id": "LV",
+			"shortDesc": "LATVIA",
+			"name": "LATVIA"
+		}, {
+			"id": "LB",
+			"shortDesc": "LEBANON",
+			"name": "LEBANON"
+		}, {
+			"id": "LS",
+			"shortDesc": "LESOTHO",
+			"name": "LESOTHO"
+		}, {
+			"id": "LR",
+			"shortDesc": "LIBERIA",
+			"name": "LIBERIA"
+		}, {
+			"id": "LY",
+			"shortDesc": "LIBYAN ARAB JAMAHIRIYA",
+			"name": "LIBYAN ARAB JAMAHIRIYA"
+		}, {
+			"id": "LI",
+			"shortDesc": "LIECHTENSTEIN",
+			"name": "LIECHTENSTEIN"
+		}, {
+			"id": "LT",
+			"shortDesc": "LITHUANIA",
+			"name": "LITHUANIA"
+		}, {
+			"id": "LU",
+			"shortDesc": "LUXEMBOURG",
+			"name": "LUXEMBOURG"
+		}, {
+			"id": "MO",
+			"shortDesc": "MACAO",
+			"name": "MACAO"
+		}, {
+			"id": "MK",
+			"shortDesc": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+			"name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF"
+		}, {
+			"id": "MG",
+			"shortDesc": "MADAGASCAR",
+			"name": "MADAGASCAR"
+		}, {
+			"id": "MW",
+			"shortDesc": "MALAWI",
+			"name": "MALAWI"
+		}, {
+			"id": "MY",
+			"shortDesc": "MALAYSIA",
+			"name": "MALAYSIA"
+		}, {
+			"id": "MV",
+			"shortDesc": "MALDIVES",
+			"name": "MALDIVES"
+		}, {
+			"id": "ML",
+			"shortDesc": "MALI",
+			"name": "MALI"
+		}, {
+			"id": "MT",
+			"shortDesc": "MALTA",
+			"name": "MALTA"
+		}, {
+			"id": "MH",
+			"shortDesc": "MARSHALL ISLANDS",
+			"name": "MARSHALL ISLANDS"
+		}, {
+			"id": "MQ",
+			"shortDesc": "MARTINIQUE",
+			"name": "MARTINIQUE"
+		}, {
+			"id": "MR",
+			"shortDesc": "MAURITANIA",
+			"name": "MAURITANIA"
+		}, {
+			"id": "MU",
+			"shortDesc": "MAURITIUS",
+			"name": "MAURITIUS"
+		}, {
+			"id": "YT",
+			"shortDesc": "MAYOTTE",
+			"name": "MAYOTTE"
+		}, {
+			"id": "MX",
+			"shortDesc": "MEXICO",
+			"name": "MEXICO"
+		}, {
+			"id": "FM",
+			"shortDesc": "MICRONESIA, FEDERATED STATES OF",
+			"name": "MICRONESIA, FEDERATED STATES OF"
+		}, {
+			"id": "MD",
+			"shortDesc": "MOLDOVA, REPUBLIC OF",
+			"name": "MOLDOVA, REPUBLIC OF"
+		}, {
+			"id": "MC",
+			"shortDesc": "MONACO",
+			"name": "MONACO"
+		}, {
+			"id": "MN",
+			"shortDesc": "MONGOLIA",
+			"name": "MONGOLIA"
+		}, {
+			"id": "ME",
+			"shortDesc": "MONTENEGRO",
+			"name": "MONTENEGRO"
+		}, {
+			"id": "MS",
+			"shortDesc": "MONTSERRAT",
+			"name": "MONTSERRAT"
+		}, {
+			"id": "MA",
+			"shortDesc": "MOROCCO",
+			"name": "MOROCCO"
+		}, {
+			"id": "MZ",
+			"shortDesc": "MOZAMBIQUE",
+			"name": "MOZAMBIQUE"
+		}, {
+			"id": "MM",
+			"shortDesc": "MYANMAR",
+			"name": "MYANMAR"
+		}, {
+			"id": "NA",
+			"shortDesc": "NAMIBIA",
+			"name": "NAMIBIA"
+		}, {
+			"id": "NR",
+			"shortDesc": "NAURU",
+			"name": "NAURU"
+		}, {
+			"id": "NP",
+			"shortDesc": "NEPAL",
+			"name": "NEPAL"
+		}, {
+			"id": "NL",
+			"shortDesc": "NETHERLAND",
+			"name": "NETHERLAND"
+		}, {
+			"id": "AN",
+			"shortDesc": "NETHERLANDS ANTILLES",
+			"name": "NETHERLANDS ANTILLES"
+		}, {
+			"id": "NC",
+			"shortDesc": "NEW CALEDONIA",
+			"name": "NEW CALEDONIA"
+		}, {
+			"id": "NZ",
+			"shortDesc": "NEW ZEALAND",
+			"name": "NEW ZEALAND"
+		}, {
+			"id": "NI",
+			"shortDesc": "NICARAGUA",
+			"name": "NICARAGUA"
+		}, {
+			"id": "NE",
+			"shortDesc": "NIGER",
+			"name": "NIGER"
+		}, {
+			"id": "NG",
+			"shortDesc": "NIGERIA",
+			"name": "NIGERIA"
+		}, {
+			"id": "NU",
+			"shortDesc": "NIUE",
+			"name": "NIUE"
+		}, {
+			"id": "NF",
+			"shortDesc": "NORFOLK ISLAND",
+			"name": "NORFOLK ISLAND"
+		}, {
+			"id": "MP",
+			"shortDesc": "NORTHERN MARIANA ISLANDS",
+			"name": "NORTHERN MARIANA ISLANDS"
+		}, {
+			"id": "NO",
+			"shortDesc": "NORWAY",
+			"name": "NORWAY"
+		}, {
+			"id": "ZZ",
+			"shortDesc": "NOT APPLICABLE",
+			"name": "NOT APPLICABLE"
+		}, {
+			"id": "OM",
+			"shortDesc": "OMAN",
+			"name": "OMAN"
+		}, {
+			"id": "PK",
+			"shortDesc": "PAKISTAN",
+			"name": "PAKISTAN"
+		}, {
+			"id": "PW",
+			"shortDesc": "PALAU",
+			"name": "PALAU"
+		}, {
+			"id": "PS",
+			"shortDesc": "PALESTINIAN TERRITORY, OCCUPIED",
+			"name": "PALESTINIAN TERRITORY, OCCUPIED"
+		}, {
+			"id": "PA",
+			"shortDesc": "PANAMA",
+			"name": "PANAMA"
+		}, {
+			"id": "PG",
+			"shortDesc": "PAPUA NEW GUINEA",
+			"name": "PAPUA NEW GUINEA"
+		}, {
+			"id": "PY",
+			"shortDesc": "PARAGUAY",
+			"name": "PARAGUAY"
+		}, {
+			"id": "PE",
+			"shortDesc": "PERU",
+			"name": "PERU"
+		}, {
+			"id": "PH",
+			"shortDesc": "PHILIPPINES",
+			"name": "PHILIPPINES"
+		}, {
+			"id": "PN",
+			"shortDesc": "PITCAIRN",
+			"name": "PITCAIRN"
+		}, {
+			"id": "PL",
+			"shortDesc": "POLAND",
+			"name": "POLAND"
+		}, {
+			"id": "PT",
+			"shortDesc": "PORTUGAL",
+			"name": "PORTUGAL"
+		}, {
+			"id": "PR",
+			"shortDesc": "PUERTO RICO",
+			"name": "PUERTO RICO"
+		}, {
+			"id": "QA",
+			"shortDesc": "QATAR",
+			"name": "QATAR"
+		}, {
+			"id": "RE",
+			"shortDesc": "REUNION",
+			"name": "REUNION"
+		}, {
+			"id": "RO",
+			"shortDesc": "ROMANIA",
+			"name": "ROMANIA"
+		}, {
+			"id": "RU",
+			"shortDesc": "RUSSIAN FEDERATION",
+			"name": "RUSSIAN FEDERATION"
+		}, {
+			"id": "RW",
+			"shortDesc": "RWANDA",
+			"name": "RWANDA"
+		}, {
+			"id": "BL",
+			"shortDesc": "SAINT BARTHELEMY",
+			"name": "SAINT BARTHELEMY"
+		}, {
+			"id": "SH",
+			"shortDesc": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+			"name": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA"
+		}, {
+			"id": "KN",
+			"shortDesc": "SAINT KITTS AND NEVIS",
+			"name": "SAINT KITTS AND NEVIS"
+		}, {
+			"id": "LC",
+			"shortDesc": "SAINT LUCIA",
+			"name": "SAINT LUCIA"
+		}, {
+			"id": "MF",
+			"shortDesc": "SAINT MARTIN",
+			"name": "SAINT MARTIN"
+		}, {
+			"id": "PM",
+			"shortDesc": "SAINT PIERRE AND MIQUELON",
+			"name": "SAINT PIERRE AND MIQUELON"
+		}, {
+			"id": "VC",
+			"shortDesc": "SAINT VINCENT AND THE GRENADINES",
+			"name": "SAINT VINCENT AND THE GRENADINES"
+		}, {
+			"id": "WS",
+			"shortDesc": "SAMOA",
+			"name": "SAMOA"
+		}, {
+			"id": "SM",
+			"shortDesc": "SAN MARINO",
+			"name": "SAN MARINO"
+		}, {
+			"id": "ST",
+			"shortDesc": "SAO TOME AND PRINCIPE",
+			"name": "SAO TOME AND PRINCIPE"
+		}, {
+			"id": "SA",
+			"shortDesc": "SAUDI ARABIA",
+			"name": "SAUDI ARABIA"
+		}, {
+			"id": "XA",
+			"shortDesc": "SCB SAUDI OFFSHORE",
+			"name": "SCB SAUDI OFFSHORE"
+		}, {
+			"id": "SN",
+			"shortDesc": "SENEGAL",
+			"name": "SENEGAL"
+		}, {
+			"id": "RS",
+			"shortDesc": "SERBIA",
+			"name": "SERBIA"
+		}, {
+			"id": "SC",
+			"shortDesc": "SEYCHELLES",
+			"name": "SEYCHELLES"
+		}, {
+			"id": "SL",
+			"shortDesc": "SIERRA LEONE",
+			"name": "SIERRA LEONE"
+		}, {
+			"id": "SG",
+			"shortDesc": "SINGAPORE",
+			"name": "SINGAPORE"
+		}, {
+			"id": "SX",
+			"shortDesc": "SINT MAARTEN (DUTCH PART)",
+			"name": "SINT MAARTEN (DUTCH PART)"
+		}, {
+			"id": "SK",
+			"shortDesc": "SLOVAKIA",
+			"name": "SLOVAKIA"
+		}, {
+			"id": "SI",
+			"shortDesc": "SLOVENIA",
+			"name": "SLOVENIA"
+		}, {
+			"id": "SP",
+			"shortDesc": "SNPC - MENA OTHERS",
+			"name": "SNPC - MENA OTHERS"
+		}, {
+			"id": "SNPC",
+			"shortDesc": "SNPC - MENA Others",
+			"name": "SNPC - MENA Others"
+		}, {
+			"id": "SB",
+			"shortDesc": "SOLOMON ISLANDS",
+			"name": "SOLOMON ISLANDS"
+		}, {
+			"id": "SO",
+			"shortDesc": "SOMALIA",
+			"name": "SOMALIA"
+		}, {
+			"id": "ZA",
+			"shortDesc": "SOUTH AFRICA",
+			"name": "SOUTH AFRICA"
+		}, {
+			"id": "GS",
+			"shortDesc": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+			"name": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS"
+		}, {
+			"id": "SS",
+			"shortDesc": "SOUTH SUDAN",
+			"name": "SOUTH SUDAN"
+		}, {
+			"id": "ES",
+			"shortDesc": "SPAIN",
+			"name": "SPAIN"
+		}, {
+			"id": "LK",
+			"shortDesc": "SRI LANKA",
+			"name": "SRI LANKA"
+		}, {
+			"id": "SD",
+			"shortDesc": "SUDAN",
+			"name": "SUDAN"
+		}, {
+			"id": "SR",
+			"shortDesc": "SURINAME",
+			"name": "SURINAME"
+		}, {
+			"id": "SJ",
+			"shortDesc": "SVALBARD AND JAN MAYEN",
+			"name": "SVALBARD AND JAN MAYEN"
+		}, {
+			"id": "SZ",
+			"shortDesc": "SWAZILAND",
+			"name": "SWAZILAND"
+		}, {
+			"id": "SE",
+			"shortDesc": "SWEDEN",
+			"name": "SWEDEN"
+		}, {
+			"id": "CH",
+			"shortDesc": "SWITZERLAND",
+			"name": "SWITZERLAND"
+		}, {
+			"id": "SY",
+			"shortDesc": "SYRIAN ARAB REPUBLIC",
+			"name": "SYRIAN ARAB REPUBLIC"
+		}, {
+			"id": "TW",
+			"shortDesc": "TAIWAN",
+			"name": "TAIWAN"
+		}, {
+			"id": "TJ",
+			"shortDesc": "TAJIKISTAN",
+			"name": "TAJIKISTAN"
+		}, {
+			"id": "TZ",
+			"shortDesc": "TANZANIA UNITED REPUBLIC OF",
+			"name": "TANZANIA UNITED REPUBLIC OF"
+		}, {
+			"id": "TH",
+			"shortDesc": "THAILAND",
+			"name": "THAILAND"
+		}, {
+			"id": "TL",
+			"shortDesc": "TIMOR-LESTE",
+			"name": "TIMOR-LESTE"
+		}, {
+			"id": "TG",
+			"shortDesc": "TOGO",
+			"name": "TOGO"
+		}, {
+			"id": "TK",
+			"shortDesc": "TOKELAU",
+			"name": "TOKELAU"
+		}, {
+			"id": "TO",
+			"shortDesc": "TONGA",
+			"name": "TONGA"
+		}, {
+			"id": "TT",
+			"shortDesc": "TRINIDAD AND TOBAGO",
+			"name": "TRINIDAD AND TOBAGO"
+		}, {
+			"id": "TN",
+			"shortDesc": "TUNISIA",
+			"name": "TUNISIA"
+		}, {
+			"id": "TR",
+			"shortDesc": "TURKEY",
+			"name": "TURKEY"
+		}, {
+			"id": "TM",
+			"shortDesc": "TURKMENISTAN",
+			"name": "TURKMENISTAN"
+		}, {
+			"id": "TC",
+			"shortDesc": "TURKS AND CAICOS ISLANDS",
+			"name": "TURKS AND CAICOS ISLANDS"
+		}, {
+			"id": "TV",
+			"shortDesc": "TUVALU",
+			"name": "TUVALU"
+		}, {
+			"id": "UG",
+			"shortDesc": "UGANDA",
+			"name": "UGANDA"
+		}, {
+			"id": "UA",
+			"shortDesc": "UKRAINE",
+			"name": "UKRAINE"
+		}, {
+			"id": "AE",
+			"shortDesc": "UNITED ARAB EMIRATES",
+			"name": "UNITED ARAB EMIRATES"
+		}, {
+			"id": "GB",
+			"shortDesc": "UNITED KINGDOM",
+			"name": "UNITED KINGDOM"
+		}, {
+			"id": "US",
+			"shortDesc": "UNITED STATES",
+			"name": "UNITED STATES"
+		}, {
+			"id": "UM",
+			"shortDesc": "UNITED STATES MINOR OUTLYING ISLANDS",
+			"name": "UNITED STATES MINOR OUTLYING ISLANDS"
+		}, {
+			"id": "UY",
+			"shortDesc": "URUGUAY",
+			"name": "URUGUAY"
+		}, {
+			"id": "UZ",
+			"shortDesc": "UZBEKISTAN",
+			"name": "UZBEKISTAN"
+		}, {
+			"id": "VU",
+			"shortDesc": "VANUATU",
+			"name": "VANUATU"
+		}, {
+			"id": "VE",
+			"shortDesc": "VENEZUELA",
+			"name": "VENEZUELA"
+		}, {
+			"id": "VN",
+			"shortDesc": "VIETNAM",
+			"name": "VIETNAM"
+		}, {
+			"id": "VI",
+			"shortDesc": "VIRGIN ISLANDS, U.S.",
+			"name": "VIRGIN ISLANDS, U.S."
+		}, {
+			"id": "WF",
+			"shortDesc": "WALLIS AND FUTUNA",
+			"name": "WALLIS AND FUTUNA"
+		}, {
+			"id": "EH",
+			"shortDesc": "WESTERN SAHARA",
+			"name": "WESTERN SAHARA"
+		}, {
+			"id": "YE",
+			"shortDesc": "YEMEN",
+			"name": "YEMEN"
+		}, {
+			"id": "YU",
+			"shortDesc": "YUGOSLAVIA ",
+			"name": "YUGOSLAVIA "
+		}, {
+			"id": "ZM",
+			"shortDesc": "ZAMBIA",
+			"name": "ZAMBIA"
+		}, {
+			"id": "ZW",
+			"shortDesc": "ZIMBABWE",
+			"name": "ZIMBABWE"
+		}],
+		"langSpoke": [{
+			"description": "Languages Spoken",
+			"id": "AKN",
+			"shortDesc": "AKN",
+			"name": "Akan"
+		}, {
+			"description": "Languages Spoken",
+			"id": "AMH",
+			"shortDesc": "AMH",
+			"name": "Amharic"
+		}, {
+			"description": "Languages Spoken",
+			"id": "ARAB",
+			"shortDesc": "ARAB",
+			"name": "Arabic"
+		}, {
+			"description": "Languages Spoken",
+			"id": "ASSMS",
+			"shortDesc": "ASSMS",
+			"name": "Assamese"
+		}, {
+			"description": "Languages Spoken",
+			"id": "AWA",
+			"shortDesc": "AWA",
+			"name": "Awadhi"
+		}, {
+			"description": "Languages Spoken",
+			"id": "AZ",
+			"shortDesc": "AZ",
+			"name": "Azerbaijani"
+		}, {
+			"description": "Languages Spoken",
+			"id": "BAL",
+			"shortDesc": "BAL",
+			"name": "Balochi"
+		}, {
+			"description": "Languages Spoken",
+			"id": "BEL",
+			"shortDesc": "BEL",
+			"name": "Belarusian"
+		}, {
+			"description": "Languages Spoken",
+			"id": "BEN",
+			"shortDesc": "BEN",
+			"name": "Bengali"
+		}, {
+			"description": "Languages Spoken",
+			"id": "BHO",
+			"shortDesc": "BHO",
+			"name": "Bhojpuri"
+		}, {
+			"description": "Languages Spoken",
+			"id": "BIN",
+			"shortDesc": "BIN",
+			"name": "Binisaya"
+		}, {
+			"description": "Languages Spoken",
+			"id": "BUR",
+			"shortDesc": "BUR",
+			"name": "Burmese"
+		}, {
+			"description": "Languages Spoken",
+			"id": "CAN",
+			"shortDesc": "CAN",
+			"name": "Cantonese"
+		}, {
+			"description": "Languages Spoken",
+			"id": "CEB",
+			"shortDesc": "CEB",
+			"name": "Cebuano"
+		}, {
+			"description": "Languages Spoken",
+			"id": "CHH",
+			"shortDesc": "CHH",
+			"name": "Chhattisgarhi"
+		}, {
+			"description": "Languages Spoken",
+			"id": "CHI",
+			"shortDesc": "CHI",
+			"name": "Chittagonian"
+		}, {
+			"description": "Languages Spoken",
+			"id": "CHW",
+			"shortDesc": "CHW",
+			"name": "Chewa"
+		}, {
+			"description": "Languages Spoken",
+			"id": "CZE",
+			"shortDesc": "CZE",
+			"name": "Czech"
+		}, {
+			"description": "Languages Spoken",
+			"id": "DEC",
+			"shortDesc": "DEC",
+			"name": "Deccan"
+		}, {
+			"description": "Languages Spoken",
+			"id": "DHU",
+			"shortDesc": "DHU",
+			"name": "Dhundhari"
+		}, {
+			"description": "Languages Spoken",
+			"id": "DUT",
+			"shortDesc": "DUT",
+			"name": "Dutch"
+		}, {
+			"description": "Languages Spoken",
+			"id": "ENG",
+			"shortDesc": "ENG",
+			"name": "English"
+		}, {
+			"description": "Languages Spoken",
+			"id": "FRE",
+			"shortDesc": "FRE",
+			"name": "French"
+		}, {
+			"description": "Languages Spoken",
+			"id": "FULA",
+			"shortDesc": "FULA",
+			"name": "FULA"
+		}, {
+			"description": "Languages Spoken",
+			"id": "GAN",
+			"shortDesc": "GAN",
+			"name": "GAN"
+		}, {
+			"description": "Languages Spoken",
+			"id": "GER",
+			"shortDesc": "GER",
+			"name": "German"
+		}, {
+			"description": "Languages Spoken",
+			"id": "GRE",
+			"shortDesc": "GRE",
+			"name": "Greek"
+		}, {
+			"description": "Languages Spoken",
+			"id": "GUJ",
+			"shortDesc": "GUJ",
+			"name": "Gujarati"
+		}, {
+			"description": "Languages Spoken",
+			"id": "HAI",
+			"shortDesc": "HAI",
+			"name": "Haitian Creole"
+		}, {
+			"description": "Languages Spoken",
+			"id": "HAK",
+			"shortDesc": "HAK",
+			"name": "Hakka"
+		}, {
+			"description": "Languages Spoken",
+			"id": "HAR",
+			"shortDesc": "HAR",
+			"name": "Haryanvi"
+		}, {
+			"description": "Languages Spoken",
+			"id": "HAU",
+			"shortDesc": "HAU",
+			"name": "Hausa"
+		}, {
+			"description": "Languages Spoken",
+			"id": "HIL",
+			"shortDesc": "HIL",
+			"name": "Hiligaynon"
+		}, {
+			"description": "Languages Spoken",
+			"id": "HIN",
+			"shortDesc": "HIN",
+			"name": "Hindi"
+		}, {
+			"description": "Languages Spoken",
+			"id": "HMO",
+			"shortDesc": "HMO",
+			"name": "Hmong"
+		}, {
+			"description": "Languages Spoken",
+			"id": "HUN",
+			"shortDesc": "HUN",
+			"name": "Hungarian"
+		}, {
+			"description": "Languages Spoken",
+			"id": "IGBO",
+			"shortDesc": "IGBO",
+			"name": "Igbo"
+		}, {
+			"description": "Languages Spoken",
+			"id": "ILO",
+			"shortDesc": "ILO",
+			"name": "Ilokano"
+		}, {
+			"description": "Languages Spoken",
+			"id": "ITA",
+			"shortDesc": "ITA",
+			"name": "Italian"
+		}, {
+			"description": "Languages Spoken",
+			"id": "JAP",
+			"shortDesc": "JAP",
+			"name": "Japanese"
+		}, {
+			"description": "Languages Spoken",
+			"id": "JAV",
+			"shortDesc": "JAV",
+			"name": "Javanese"
+		}, {
+			"description": "Languages Spoken",
+			"id": "JIN",
+			"shortDesc": "JIN",
+			"name": "Jin"
+		}, {
+			"description": "Languages Spoken",
+			"id": "KAN",
+			"shortDesc": "KAN",
+			"name": "Kannada"
+		}, {
+			"description": "Languages Spoken",
+			"id": "KAZ",
+			"shortDesc": "KAZ",
+			"name": "Kazakh"
+		}, {
+			"description": "Languages Spoken",
+			"id": "KHM",
+			"shortDesc": "KHM",
+			"name": "Khmer"
+		}, {
+			"description": "Languages Spoken",
+			"id": "KIN",
+			"shortDesc": "KIN",
+			"name": "Kinyarwanda"
+		}, {
+			"description": "Languages Spoken",
+			"id": "KOR",
+			"shortDesc": "KOR",
+			"name": "Korean"
+		}, {
+			"description": "Languages Spoken",
+			"id": "LAO",
+			"shortDesc": "LAO",
+			"name": "Lao"
+		}, {
+			"description": "Languages Spoken",
+			"id": "MAD",
+			"shortDesc": "MAD",
+			"name": "Madurese"
+		}, {
+			"description": "Languages Spoken",
+			"id": "MAG",
+			"shortDesc": "MAG",
+			"name": "Magahi"
+		}, {
+			"description": "Languages Spoken",
+			"id": "MAI",
+			"shortDesc": "MAI",
+			"name": "Maithili"
+		}, {
+			"description": "Languages Spoken",
+			"id": "MAL",
+			"shortDesc": "MAL",
+			"name": "Malagasy"
+		}, {
+			"description": "Languages Spoken",
+			"id": "MALI",
+			"shortDesc": "MALI",
+			"name": "Malay/Indonesian"
+		}, {
+			"description": "Languages Spoken",
+			"id": "MAN",
+			"shortDesc": "MAN",
+			"name": "Mandarin"
+		}, {
+			"description": "Languages Spoken",
+			"id": "MAR",
+			"shortDesc": "MAR",
+			"name": "Marwari"
+		}, {
+			"description": "Languages Spoken",
+			"id": "MARA",
+			"shortDesc": "MARA",
+			"name": "Marathi"
+		}, {
+			"description": "Languages Spoken",
+			"id": "MAY",
+			"shortDesc": "MAY",
+			"name": "Malayalam"
+		}, {
+			"description": "Languages Spoken",
+			"id": "MIN",
+			"shortDesc": "MIN",
+			"name": "Min Bei"
+		}, {
+			"description": "Languages Spoken",
+			"id": "MIND",
+			"shortDesc": "MIND",
+			"name": "Min Dong"
+		}, {
+			"description": "Languages Spoken",
+			"id": "MINN",
+			"shortDesc": "MINN",
+			"name": "Min Nan"
+		}, {
+			"description": "Languages Spoken",
+			"id": "MOS",
+			"shortDesc": "MOS",
+			"name": "Mossi"
+		}, {
+			"description": "Languages Spoken",
+			"id": "NEP",
+			"shortDesc": "NEP",
+			"name": "Nepali"
+		}, {
+			"description": "Languages Spoken",
+			"id": "ORI",
+			"shortDesc": "ORI",
+			"name": "Oriya"
+		}, {
+			"description": "Languages Spoken",
+			"id": "ORO",
+			"shortDesc": "ORO",
+			"name": "Oromo"
+		}, {
+			"description": "Languages Spoken",
+			"id": "OTH",
+			"shortDesc": "OTH",
+			"name": "Other"
+		}, {
+			"description": "Languages Spoken",
+			"id": "PAS",
+			"shortDesc": "PAS",
+			"name": "Pashto"
+		}, {
+			"description": "Languages Spoken",
+			"id": "PER",
+			"shortDesc": "PER",
+			"name": "Persian"
+		}, {
+			"description": "Languages Spoken",
+			"id": "POL",
+			"shortDesc": "POL",
+			"name": "Polish"
+		}, {
+			"description": "Languages Spoken",
+			"id": "POR",
+			"shortDesc": "POR",
+			"name": "Portuguese"
+		}, {
+			"description": "Languages Spoken",
+			"id": "PUN",
+			"shortDesc": "PUN",
+			"name": "Punjabi"
+		}, {
+			"description": "Languages Spoken",
+			"id": "QUE",
+			"shortDesc": "QUE",
+			"name": "Quechua"
+		}, {
+			"description": "Languages Spoken",
+			"id": "ROM",
+			"shortDesc": "ROM",
+			"name": "Romanian"
+		}, {
+			"description": "Languages Spoken",
+			"id": "RUS",
+			"shortDesc": "RUS",
+			"name": "Russian"
+		}, {
+			"description": "Languages Spoken",
+			"id": "SAR",
+			"shortDesc": "SAR",
+			"name": "Saraiki"
+		}, {
+			"description": "Languages Spoken",
+			"id": "SER",
+			"shortDesc": "SER",
+			"name": "Serbo-Croatian"
+		}, {
+			"description": "Languages Spoken",
+			"id": "SHO",
+			"shortDesc": "SHO",
+			"name": "Shona"
+		}, {
+			"description": "Languages Spoken",
+			"id": "SIN",
+			"shortDesc": "SIN",
+			"name": "Sindhi"
+		}, {
+			"description": "Languages Spoken",
+			"id": "SINH",
+			"shortDesc": "SINH",
+			"name": "Sinhalese"
+		}, {
+			"description": "Languages Spoken",
+			"id": "SOM",
+			"shortDesc": "SOM",
+			"name": "Somali"
+		}, {
+			"description": "Languages Spoken",
+			"id": "SPA",
+			"shortDesc": "SPA",
+			"name": "Spanish"
+		}, {
+			"description": "Languages Spoken",
+			"id": "SUN",
+			"shortDesc": "SUN",
+			"name": "Sundanese"
+		}, {
+			"description": "Languages Spoken",
+			"id": "SWA",
+			"shortDesc": "SWA",
+			"name": "Swahili"
+		}, {
+			"description": "Languages Spoken",
+			"id": "SWE",
+			"shortDesc": "SWE",
+			"name": "Swedish"
+		}, {
+			"description": "Languages Spoken",
+			"id": "SYL",
+			"shortDesc": "SYL",
+			"name": "Sylheti"
+		}, {
+			"description": "Languages Spoken",
+			"id": "TAG",
+			"shortDesc": "TAG",
+			"name": "Tagalog"
+		}, {
+			"description": "Languages Spoken",
+			"id": "TAM",
+			"shortDesc": "TAM",
+			"name": "Tamil"
+		}, {
+			"description": "Languages Spoken",
+			"id": "TEL",
+			"shortDesc": "TEL",
+			"name": "Telugu"
+		}, {
+			"description": "Languages Spoken",
+			"id": "THA",
+			"shortDesc": "THA",
+			"name": "Thai"
+		}, {
+			"description": "Languages Spoken",
+			"id": "TUR",
+			"shortDesc": "TUR",
+			"name": "Turkish"
+		}, {
+			"description": "Languages Spoken",
+			"id": "UKR",
+			"shortDesc": "UKR",
+			"name": "Ukrainian"
+		}, {
+			"description": "Languages Spoken",
+			"id": "URD",
+			"shortDesc": "URD",
+			"name": "Urdu"
+		}, {
+			"description": "Languages Spoken",
+			"id": "UYG",
+			"shortDesc": "UYG",
+			"name": "Uyghur"
+		}, {
+			"description": "Languages Spoken",
+			"id": "UZB",
+			"shortDesc": "UZB",
+			"name": "Uzbek"
+		}, {
+			"description": "Languages Spoken",
+			"id": "VIET",
+			"shortDesc": "VIET",
+			"name": "Vietnamese"
+		}, {
+			"description": "Languages Spoken",
+			"id": "Wu",
+			"shortDesc": "Wu",
+			"name": "Wu"
+		}, {
+			"description": "Languages Spoken",
+			"id": "XHO",
+			"shortDesc": "XHO",
+			"name": "Xhosa"
+		}, {
+			"description": "Languages Spoken",
+			"id": "XIA",
+			"shortDesc": "XIA",
+			"name": "Xiang"
+		}, {
+			"description": "Languages Spoken",
+			"id": "YOR",
+			"shortDesc": "YOR",
+			"name": "Yoruba"
+		}, {
+			"description": "Languages Spoken",
+			"id": "ZHU",
+			"shortDesc": "ZHU",
+			"name": "Zhuang"
+		}, {
+			"description": "Languages Spoken",
+			"id": "ZU",
+			"shortDesc": "ZU",
+			"name": "Zulu"
+		}]
+	}
+}

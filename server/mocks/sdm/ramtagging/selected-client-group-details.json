@@ -1,0 +1,55 @@
+{
+    "selectedClientGroupDetails": [{
+        "id": 1,
+        "groupName": "SCB",
+        "groupId": "990000022",
+        "clientId": "10001",
+        "clientLegalName": "L NAME 001",
+        "region": "GREATER CHINA",
+        "domicileCountry": "HONG KONG",
+        "clientSegment": "Medium Enterprise",
+        "clientSubSegment": "Medium Enterprise",
+        "checked": true
+    }, {
+        "id": 2,
+        "clientId": "10002",
+        "groupName": "SCB",
+        "groupId": "990000022",
+        "clientLegalName": "L NAME 002",
+        "region": "GREATER CHINA",
+        "domicileCountry": "HONG KONG",
+        "clientSegment": "Medium Enterprise",
+        "clientSubSegment": "Medium Enterprise",
+        "checked": true
+    }, {
+        "id": 3,
+        "groupName": "SCB",
+        "groupId": "990000024",
+        "clientId": "10003",
+        "clientLegalName": "L NAME 003",
+        "region": "GREATER CHINA",
+        "domicileCountry": "HONG KONG",
+        "clientSegment": "Medium Enterprise",
+        "clientSubSegment": "Medium Enterprise",
+        "checked": true
+    }, {
+        "id": 4,
+        "clientId": "10004",
+        "groupName": "SCB",
+        "groupId": "990000024",
+        "clientLegalName": "L NAME 004",
+        "region": "GREATER CHINA",
+        "domicileCountry": "HONG KONG",
+        "clientSegment": "Medium Enterprise",
+        "clientSubSegment": "Medium Enterprise",
+        "checked": true
+    }],
+    "meta": {
+        "count": {
+            "total": 22641,
+            "groups": 2046,
+            "clients": 20595
+        },
+        "totalRecords": 2046
+    }
+}

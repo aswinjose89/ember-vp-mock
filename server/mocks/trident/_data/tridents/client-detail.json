@@ -1,0 +1,494 @@
+{
+  "tridentEntities": [
+    {
+      "tridentId": "700",
+      "entityXRefId": "703",
+      "entityType": "C",
+      "clientLeId": "11122745",
+      "clientName": "TAISEI CORPORATION",
+      "limitItemsMap": {},
+      "orgLocWiseLimitItemDetails": {
+        "IND": {
+          "orgLocCodeXrefId": "INDIA-703",
+          "originatingLocationCode": "INDIA",
+          "originatingLocation": "IND/INDIA",
+          "approvedCreditGrade": null,
+          "bcaRefNo": "10228700",
+          "bcaPreparedBy": "1415977",
+          "modelId": null,
+          "raptorPreparedBy": null,
+          "supportDocument": null,
+          "isDummyModel": null,
+          "maxTenor": null,
+          "maxTenorType": null,
+          "el": null,
+          "creditGrade": null,
+          "limitItemsMap": {
+            "CAT1": [
+              {
+                "limitDataType": "GM",
+                "limitDataScale": "M",
+                "limitDataValue": 38000
+              },
+              {
+                "limitDataType": "BCA",
+                "limitDataScale": "M",
+                "limitDataValue": 1500
+              },
+              {
+                "limitDataType": "PROPOSED",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              }
+            ],
+            "CAT2": [
+              {
+                "limitDataType": "GM",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "BCA",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "PROPOSED",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              }
+            ],
+            "CAT3": [
+              {
+                "limitDataType": "GM",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "BCA",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "PROPOSED",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              }
+            ],
+            "CAT4": [
+              {
+                "limitDataType": "GM",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "BCA",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "PROPOSED",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              }
+            ],
+            "CAT5": [
+              {
+                "limitDataType": "GM",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "BCA",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "PROPOSED",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              }
+            ],
+            "CONTROL": [
+              {
+                "limitDataType": "GM",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "BCA",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "PROPOSED",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              }
+            ]
+          }
+        },
+        "JPSCBL": {
+          "orgLocCodeXrefId": "JPSCBL-703",
+          "originatingLocationCode": "JPSCBL",
+          "originatingLocation": "JP/SCBL-JAPAN",
+          "approvedCreditGrade": null,
+          "bcaRefNo": "10429089",
+          "bcaPreparedBy": "1457607",
+          "modelId": "155006",
+          "raptorPreparedBy": "Amarjeet Singh",
+          "supportDocument": null,
+          "isDummyModel": "N",
+          "maxTenor": "5",
+          "maxTenorType": "YEAR",
+          "el": null,
+          "creditGrade": "4B",
+          "limitItemsMap": {
+            "CAT1": [
+              {
+                "limitDataType": "GM",
+                "limitDataScale": "M",
+                "limitDataValue": 62000
+              },
+              {
+                "limitDataType": "BCA",
+                "limitDataScale": "M",
+                "limitDataValue": 120000
+              },
+              {
+                "limitDataType": "PROPOSED",
+                "limitDataScale": "M",
+                "limitDataValue": 120000000
+              }
+            ],
+            "CAT2": [
+              {
+                "limitDataType": "GM",
+                "limitDataScale": "M",
+                "limitDataValue": 5000
+              },
+              {
+                "limitDataType": "BCA",
+                "limitDataScale": "M",
+                "limitDataValue": 5000
+              },
+              {
+                "limitDataType": "PROPOSED",
+                "limitDataScale": "M",
+                "limitDataValue": 5000000
+              }
+            ],
+            "CAT3": [
+              {
+                "limitDataType": "GM",
+                "limitDataScale": "M",
+                "limitDataValue": 10000
+              },
+              {
+                "limitDataType": "BCA",
+                "limitDataScale": "M",
+                "limitDataValue": 10000
+              },
+              {
+                "limitDataType": "PROPOSED",
+                "limitDataScale": "M",
+                "limitDataValue": 10000000
+              }
+            ],
+            "CAT4": [
+              {
+                "limitDataType": "GM",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "BCA",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "PROPOSED",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              }
+            ],
+            "CAT5": [
+              {
+                "limitDataType": "GM",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "BCA",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "PROPOSED",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              }
+            ],
+            "CONTROL": [
+              {
+                "limitDataType": "GM",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "BCA",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "PROPOSED",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              }
+            ]
+          }
+        },
+        "AESCBL": {
+          "orgLocCodeXrefId": "AESCBL-703",
+          "originatingLocationCode": "AESCBL",
+          "originatingLocation": "AE/SCBL-UNITED ARAB EMIRATES",
+          "approvedCreditGrade": null,
+          "bcaRefNo": "10169876",
+          "bcaPreparedBy": "1347531",
+          "modelId": "154902",
+          "raptorPreparedBy": "Amarjeet Singh",
+          "supportDocument": "Branch of Parent (Same CG applied)",
+          "isDummyModel": "N",
+          "maxTenor": "6",
+          "maxTenorType": "YEAR",
+          "el": 167.889018,
+          "creditGrade": "7B",
+          "limitItemsMap": {
+            "CAT1": [
+              {
+                "limitDataType": "GM",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "BCA",
+                "limitDataScale": "M",
+                "limitDataValue": 898.45
+              },
+              {
+                "limitDataType": "PROPOSED",
+                "limitDataScale": "M",
+                "limitDataValue": 898448.13
+              }
+            ],
+            "CAT2": [
+              {
+                "limitDataType": "GM",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "BCA",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "PROPOSED",
+                "limitDataScale": "M",
+                "limitDataValue": 200000
+              }
+            ],
+            "CAT3": [
+              {
+                "limitDataType": "GM",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "BCA",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "PROPOSED",
+                "limitDataScale": "M",
+                "limitDataValue": 300000
+              }
+            ],
+            "CAT4": [
+              {
+                "limitDataType": "GM",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "BCA",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "PROPOSED",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              }
+            ],
+            "CAT5": [
+              {
+                "limitDataType": "GM",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "BCA",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "PROPOSED",
+                "limitDataScale": "M",
+                "limitDataValue": 200000
+              }
+            ],
+            "CONTROL": [
+              {
+                "limitDataType": "GM",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "BCA",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "PROPOSED",
+                "limitDataScale": "M",
+                "limitDataValue": 300000
+              }
+            ]
+          }
+        },
+        "LK": {
+          "orgLocCodeXrefId": "LK-703",
+          "originatingLocationCode": "LK",
+          "originatingLocation": "SRI LANKA",
+          "approvedCreditGrade": null,
+          "bcaRefNo": "10003729",
+          "bcaPreparedBy": "1187564",
+          "modelId": null,
+          "raptorPreparedBy": null,
+          "supportDocument": null,
+          "isDummyModel": null,
+          "maxTenor": null,
+          "maxTenorType": null,
+          "el": null,
+          "creditGrade": null,
+          "limitItemsMap": {
+            "CAT1": [
+              {
+                "limitDataType": "GM",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "BCA",
+                "limitDataScale": "M",
+                "limitDataValue": 500
+              },
+              {
+                "limitDataType": "PROPOSED",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              }
+            ],
+            "CAT2": [
+              {
+                "limitDataType": "GM",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "BCA",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "PROPOSED",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              }
+            ],
+            "CAT3": [
+              {
+                "limitDataType": "GM",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "BCA",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "PROPOSED",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              }
+            ],
+            "CAT4": [
+              {
+                "limitDataType": "GM",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "BCA",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "PROPOSED",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              }
+            ],
+            "CAT5": [
+              {
+                "limitDataType": "GM",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "BCA",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "PROPOSED",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              }
+            ],
+            "CONTROL": [
+              {
+                "limitDataType": "GM",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "BCA",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              },
+              {
+                "limitDataType": "PROPOSED",
+                "limitDataScale": "M",
+                "limitDataValue": 0
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

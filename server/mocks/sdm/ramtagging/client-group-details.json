@@ -1,0 +1,37 @@
+{
+    "clientGroupDetails": [{
+        "id": 1,
+        "clientCount": 33,
+        "groupId": "990000022",
+        "groupName": "GRP NAME 990000022",
+        "region": "EUR",
+        "domicileCountry": "SWITZERLAND",
+        "groupCountryCode": "CH",
+        "segment": "K",
+        "segmentDescription": "GLOBAL CORPORATES",
+        "subSegment": null,
+        "subSegmentDescription": null,
+        "checked": false
+    }, {
+        "id": 2,
+        "clientCount": 25,
+        "groupId": "990000024",
+        "groupName": "GRP NAME 990000024",
+        "region": "EUROPE",
+        "domicileCountry": "GERMANY",
+        "groupCountryCode": "DE",
+        "segment": "K",
+        "segmentDescription": "GLOBAL CORPORATES",
+        "subSegment": null,
+        "subSegmentDescription": null,
+        "checked": false
+    }],
+    "meta": {
+        "count": {
+            "total": 22641,
+            "groups": 2046,
+            "clients": 20595
+        },
+        "totalRecords": 2046
+    }
+}

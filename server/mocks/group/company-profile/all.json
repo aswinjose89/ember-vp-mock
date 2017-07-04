@@ -1,0 +1,99 @@
+{
+  "companyProfile": {
+    "id": "1",
+    "leid": "990000120",
+    "description": "Test description",
+    "csuite": [
+      8,
+      10,
+      1,
+      2,
+      11,
+      12,
+      9,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "relationshipSensitivity": [
+      "201510061607483251302609966",
+      "201510061638196781939316037"
+    ]
+  },
+  "csuites": [
+    {
+      "id": 8,
+      "name": "Ms Elkie Wong",
+      "title": "Other"
+    },
+    {
+      "id": 10,
+      "name": "Miss Rebecca Cheung",
+      "title": "Other"
+    },
+    {
+      "id": 1,
+      "name": "Mr Sanga Kumar",
+      "title": "Acquisition Strategy Manager"
+    },
+    {
+      "id": 2,
+      "name": "Mr Sanga Kumar",
+      "title": "Acquisition Strategy Manager"
+    },
+    {
+      "id": 11,
+      "name": "Ms Carrie Ng",
+      "title": "Other"
+    },
+    {
+      "id": 12,
+      "name": "Mr Matt Russell",
+      "title": "Other"
+    },
+    {
+      "id": 9,
+      "name": "Mr Sorakij Amornkittimatee",
+      "title": "Financial Controller"
+    },
+    {
+      "id": 3,
+      "name": "Admiral Ricardo Nowicki",
+      "title": "Acquisition Strategy Manager"
+    },
+    {
+      "id": 4,
+      "name": "Admiral Ricardo Nowicki",
+      "title": "Acquisition Strategy Manager"
+    },
+    {
+      "id": 5,
+      "name": "Admiral Ricardo Nowicki",
+      "title": "Acquisition Strategy Manager"
+    },
+    {
+      "id": 6,
+      "name": "Admiral Ricardo Nowicki",
+      "title": "Acquisition Strategy Manager"
+    },
+    {
+      "id": 7,
+      "name": "Admiral Ricardo Nowicki",
+      "title": "Acquisition Strategy Manager"
+    }
+  ],
+  "relationshipSensitivities": [
+    {
+      "id": "201510061607483251302609966",
+      "relationshipSensitivity": "Test Relationship Sensitivity 1",
+      "updateDate": 1444060800000
+    },
+    {
+      "id": "201510061638196781939316037",
+      "relationshipSensitivity": "Test Relationship Sensitivity 2",
+      "updateDate": 1444060800000
+    }
+  ]
+}

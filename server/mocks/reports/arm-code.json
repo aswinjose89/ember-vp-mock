@@ -1,0 +1,22 @@
+{
+    "armCode": [
+        {
+            "id": 1,
+            "armCode": "TestCode123",
+            "armCountry": "USA"
+        },
+        {
+            "id": 2,
+            "armCode": "TestCode 2",
+            "armCountry": "UK"
+        },
+        {
+            "id": 3,
+            "armCode": "TestCode 3",
+            "armCountry": "IN"
+        }
+    ],
+    "meta": {
+        "total": 100
+    }
+}

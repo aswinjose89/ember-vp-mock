@@ -1,0 +1,40 @@
+{
+	"meta": {
+		"totaltaskrecords": 100
+	},
+	"offboarding/inboxHomes": [{
+		"id": 1,
+		"task": [{
+			"id": "1",
+			"activityId": "B9737",
+			"activityName": "Client Offboarding",
+			"entityId": "1148",
+			"entityName": "Singapore Airlines",
+			"entityType": "C",
+			"entityColor": "blue-500",
+			"exitType": "Account Closure",
+			"status": "In Progress",
+			"initiatedBy": "1533593-Joseph",
+			"initiatedOn":"1479108619498",
+			"taskId": "178254",
+			"bookingLocation": "IN/SCBL",
+			"isChecked": false
+		},
+		{
+			"id": "2",
+			"activityId": "B9711",
+			"activityName": "Client Offboarding",
+			"entityId": "1148",
+			"entityName": "Singapore Airlines",
+			"entityType": "C",
+			"entityColor": "blue-500",
+			"exitType": "Client Exit",
+			"status": "In Progress",
+			"initiatedBy": "1533593-Joseph",
+			"initiatedOn":"1435575376748",
+			"taskId": "178254",
+			"bookingLocation": "IN/SCBL",
+			"isChecked": false
+		}]
+	}]
+}

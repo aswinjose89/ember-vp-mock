@@ -1,0 +1,3256 @@
+{
+	"offboardingPicklists": {
+		"rmRoles": [{
+			"code": "RTS",
+			"description": "RTS"
+		}, {
+			"code": "GTS",
+			"description": "GTS"
+		}, {
+			"code": "TBS",
+			"description": "TBS"
+		}],
+		"legalConstitutionCode": [{
+			"code": "A23",
+			"description": "Unregistered NGOs / Charities (Clubs/Society) including Religious bodies and places of worship"
+		}, {
+			"code": "00",
+			"description": "Non Individual"
+		}, {
+			"code": "A06",
+			"description": "Fund Manager"
+		}, {
+			"code": "12",
+			"description": "Educational Establishment"
+		}, {
+			"code": "10",
+			"description": "Executorship"
+		}, {
+			"code": "A12",
+			"description": "Publicly Quoted Company on an EU equivalent regulated market as listed in Appendix B2"
+		}, {
+			"code": "22",
+			"description": "SCB Subsidiary/Associate"
+		}, {
+			"code": "15",
+			"description": "Other Non-Profit Making Entity"
+		}, {
+			"code": "04",
+			"description": "Limited Partnership"
+		}, {
+			"code": "A21",
+			"description": "State Owned Company"
+		}, {
+			"code": "A28",
+			"description": "Others"
+		}, {
+			"code": "A07",
+			"description": "Government"
+		}, {
+			"code": "A08",
+			"description": "Insurance Company"
+		}, {
+			"code": "A09",
+			"description": "Majority Owned Subsi of a Publicly Quoted Company on EU equivalent regulated market (Appendix B2)"
+		}, {
+			"code": "01",
+			"description": "Natural Person"
+		}, {
+			"code": "A26",
+			"description": "Private Company"
+		}, {
+			"code": "A24",
+			"description": "Unregistered NGOs / Charities (Private Company) including Religious bodies and places of worship"
+		}, {
+			"code": "19",
+			"description": "State Government Organization"
+		}, {
+			"code": "A05",
+			"description": "Finance Company"
+		}, {
+			"code": "A20",
+			"description": "Unregulated Fund"
+		}, {
+			"code": "18",
+			"description": "Central Government Organization"
+		}, {
+			"code": "A35",
+			"description": "Sole Proprietor owned by a non-individual"
+		}, {
+			"code": "A04",
+			"description": "Company subject to statutory licensing and regulation of industry (low / medium risk jurisdiction)"
+		}, {
+			"code": "A17",
+			"description": "Supra-National include development organisations"
+		}, {
+			"code": "32",
+			"description": "Development Organisation"
+		}, {
+			"code": "A27",
+			"description": "Club or Society"
+		}, {
+			"code": "20",
+			"description": "Local Government Organization"
+		}, {
+			"code": "A34",
+			"description": "Publicly quoted companies (non-EU equivalent jurisdictions)"
+		}, {
+			"code": "03",
+			"description": "Partnership"
+		}, {
+			"code": "A16",
+			"description": "Significant and Well Established private entity"
+		}, {
+			"code": "14",
+			"description": "Club, Society or Association"
+		}, {
+			"code": "09",
+			"description": "Receivership"
+		}, {
+			"code": "07",
+			"description": "Branch Office"
+		}, {
+			"code": "A10",
+			"description": "Majority Owned Subsidiary of Significant and Well Established private entity"
+		}, {
+			"code": "A02",
+			"description": "Broker Dealer"
+		}, {
+			"code": "21",
+			"description": "Standard Chartered Bank Branch"
+		}, {
+			"code": "A22",
+			"description": "Statutory Corporation"
+		}, {
+			"code": "A11",
+			"description": "Majority Owned Subsidiary of State Owned Company"
+		}, {
+			"code": "A14",
+			"description": "Regulated Fund"
+		}, {
+			"code": "A01",
+			"description": "Bank"
+		}, {
+			"code": "DEFAULTIN",
+			"description": "DEFAULT"
+		}, {
+			"code": "25",
+			"description": "Statutory Authority (State)"
+		}, {
+			"code": "02",
+			"description": "Sole Proprietor"
+		}, {
+			"code": "17",
+			"description": "Public Sector Entity"
+		}, {
+			"code": "06",
+			"description": "Public Limited Company - Others"
+		}, {
+			"code": "A19",
+			"description": "Unincorporated Business"
+		}, {
+			"code": "A15",
+			"description": "Significant and Well Established"
+		}, {
+			"code": "11",
+			"description": "Trust"
+		}, {
+			"code": "27",
+			"description": "Public Limited Company - Banks"
+		}, {
+			"code": "13",
+			"description": "Religious Establishment"
+		}, {
+			"code": "24",
+			"description": "Statutory Authority (Federal)"
+		}, {
+			"code": "29",
+			"description": "Public Limited Company - Non Bank Financial Instituion"
+		}, {
+			"code": "16",
+			"description": "Embassy, Consultate, High Commission"
+		}, {
+			"code": "A13",
+			"description": "Registered Non-Government Organizations / Charities including Religious bodies and places of worship"
+		}, {
+			"code": "A18",
+			"description": "Trust, Foundation or similar entity"
+		}, {
+			"code": "28",
+			"description": "Private Limited Company - Non Bank Financial Institution"
+		}, {
+			"code": "26",
+			"description": "Private Limited Company - Banks"
+		}, {
+			"code": "23",
+			"description": "Government Controlled Corporation"
+		}, {
+			"code": "05",
+			"description": "Private Limited Company - Others"
+		}, {
+			"code": "08",
+			"description": "Joint Venture"
+		}, {
+			"code": "A25",
+			"description": "Unregistered NGOs / Charities (Trust) including Religious bodies and places of worship"
+		}, {
+			"code": "A03",
+			"description": "Central Bank"
+		}],
+		"segments": [{
+			"code": "20",
+			"description": "Preferred Clients"
+		}, {
+			"code": "30",
+			"description": "Business Clients"
+		}, {
+			"code": "40",
+			"description": "Priority & Intl Clients"
+		}, {
+			"code": "MM",
+			"description": "Middle Market"
+		}, {
+			"code": "S",
+			"description": "Own Account"
+		}, {
+			"code": "ZZ",
+			"description": "Unmapped"
+		}, {
+			"code": "A",
+			"description": "Local Corporate"
+		}, {
+			"code": "N",
+			"description": "Financial Institution"
+		}, {
+			"code": "10",
+			"description": "Personal Clients"
+		}, {
+			"code": "K",
+			"description": "Global Corporate"
+		}, {
+			"code": "HV",
+			"description": "High Value Small Business"
+		}, {
+			"code": "ME",
+			"description": "Medium Enterprise"
+		}, {
+			"code": "50",
+			"description": "Private Banking"
+		}, {
+			"code": "E",
+			"description": "Commodity Traders & Agriculture"
+		}, {
+			"code": "eOPS001",
+			"description": "eOPS 001 Testing"
+		}],
+		"isicCode": [{
+			"code": "1303",
+			"description": "Marine aquaculture"
+		}, {
+			"code": "9320",
+			"description": "Cultural education"
+		}, {
+			"code": "3902",
+			"description": "MFG OF MUSICAL INSTRUMENTS"
+		}, {
+			"code": "3113",
+			"description": "CANNING AND PRESERVING OF FRUITS & VEGETABLES"
+		}, {
+			"code": "9399",
+			"description": "SOCIAL & RELATED COMMUNITY SERVICES NEC"
+		}, {
+			"code": "9575",
+			"description": "Repair of communication equipment"
+		}, {
+			"code": "1138",
+			"description": "Plant propagation"
+		}, {
+			"code": "8177",
+			"description": "Risk and damage evaluation"
+		}, {
+			"code": "9335",
+			"description": "RESIDENTIAL CARE"
+		}, {
+			"code": "9577",
+			"description": "Repair of furniture and home furnishings"
+		}, {
+			"code": "9446",
+			"description": "Other sports activities"
+		}, {
+			"code": "6241",
+			"description": "PHARMACIES & DRUG STORES (WESTERN)"
+		}, {
+			"code": "5059",
+			"description": "INSTALLATN OF FIRE PROTECTN & SECURITY ALARM SYS"
+		}, {
+			"code": "5021",
+			"description": "ROADS STREETS CONSTRUCTION"
+		}, {
+			"code": "8330",
+			"description": "ACCOUNTING AUDITING & BOOK-KEEPING SERVICES"
+		}, {
+			"code": "1121",
+			"description": "COTTON"
+		}, {
+			"code": "8152",
+			"description": "FINANCIAL LEASING COMPANIES"
+		}, {
+			"code": "1126",
+			"description": "Growing of tropical and subtropical fruits"
+		}, {
+			"code": "6139",
+			"description": "SPECIFIC COMMODITIES NEC"
+		}, {
+			"code": "1133",
+			"description": "Raising of horses and other equines"
+		}, {
+			"code": "6225",
+			"description": "DEALING IN COMPUTER & OFFICE EQUIPMENT"
+		}, {
+			"code": "9579",
+			"description": "REPAIR OF OTHER CONSUMER GOODS"
+		}, {
+			"code": "3875",
+			"description": "Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers"
+		}, {
+			"code": "9439",
+			"description": "THEATRICAL PRODUCERS & ENTERTAINMENT SERVICES NEC"
+		}, {
+			"code": "9530",
+			"description": "MAINTENANCE OF ESTATES & PREMISES"
+		}, {
+			"code": "3861",
+			"description": "MFR OF ENGINEERING & SCIENTIFIC INSTRUMENTS"
+		}, {
+			"code": "3530",
+			"description": "PETROLEUM REFINERIES"
+		}, {
+			"code": "8347",
+			"description": "Computer consultancy and computer facilities management activities"
+		}, {
+			"code": "3820",
+			"description": "Manufacture of tanks, reservoirs and containers of metal"
+		}, {
+			"code": "3512",
+			"description": "Manufacture of fertilizers and nitrogen compounds"
+		}, {
+			"code": "3821",
+			"description": "MFR OF ENGINES & TURBINES"
+		}, {
+			"code": "5013",
+			"description": "RENOVATION CONTRACTORS - INDUSTRIAL"
+		}, {
+			"code": "5004",
+			"description": "GENERAL CONTRACTORS - RESIDENTIAL"
+		}, {
+			"code": "2405",
+			"description": "TIN"
+		}, {
+			"code": "4040",
+			"description": "Steam and air conditioning supply"
+		}, {
+			"code": "3834",
+			"description": "MFR OF STORAGE & PRIMARILY BATTERIES"
+		}, {
+			"code": "3711",
+			"description": "Casting of iron and steel"
+		}, {
+			"code": "6115",
+			"description": "WSALE TR IN FURNITURE,HM FURNISHG&OTH HSEHOLD EQUIP"
+		}, {
+			"code": "8183",
+			"description": "NOMINEE COMPANIES"
+		}, {
+			"code": "6242",
+			"description": "PHARMACIES & DRUG STORES (NON-WESTERN)"
+		}, {
+			"code": "6311",
+			"description": "RESTAURANT & CATERING"
+		}, {
+			"code": "9573",
+			"description": "REPAIR OF ELECTRICAL HOUSEHOLD GOODS"
+		}, {
+			"code": "3529",
+			"description": "MFR OF CHEMICAL PRODUCTS NEC"
+		}, {
+			"code": "9490",
+			"description": "AMUSEMENT & RECREATIONAL SERVICES NEC"
+		}, {
+			"code": "3863",
+			"description": "MFR OF SURGICAL & MEDICAL INSTRUMENTS & SUPPLIES"
+		}, {
+			"code": "1301",
+			"description": "OCEAN & COASTAL FISHING"
+		}, {
+			"code": "8320",
+			"description": "LEGAL SERVICES"
+		}, {
+			"code": "9594",
+			"description": "UNDERTAKING CREMATING & CEMETERY SERVICES"
+		}, {
+			"code": "6136",
+			"description": "PAPER PAPER & CELLOPHANE PRODUCTS & STATIONERY"
+		}, {
+			"code": "8389",
+			"description": "Combined facilities support activities"
+		}, {
+			"code": "3807",
+			"description": "Treatment and coating of metals; machining"
+		}, {
+			"code": "8173",
+			"description": "FOREIGN EXCHANGE BROKERS & DEALERS"
+		}, {
+			"code": "3862",
+			"description": "MFR OF MEASURING & CONTROLLING DEVICES"
+		}, {
+			"code": "8178",
+			"description": "Activities of insurance agents and brokers"
+		}, {
+			"code": "6161",
+			"description": "SHIP CHANDLERS"
+		}, {
+			"code": "8352",
+			"description": "Research and experimental development on natural sciences and engineering"
+		}, {
+			"code": "3824",
+			"description": "MFR & REPAIR OF METAL WORKG & WOODWRKG MACH&EQUIP"
+		}, {
+			"code": "1143",
+			"description": "Support activities for animal production"
+		}, {
+			"code": "0031",
+			"description": "LOANS TO PURCHASE SHARES - MARGIN LENDING"
+		}, {
+			"code": "3838",
+			"description": "Manufacture of fibre optic cables"
+		}, {
+			"code": "8391",
+			"description": "INTERIOR DESIGN & LANDSCAPE PLANNING"
+		}, {
+			"code": "3114",
+			"description": "CANNING, PROCESSG & PRESERVG OF FISH & OTH SEAFOOD"
+		}, {
+			"code": "1202",
+			"description": "LOGGING"
+		}, {
+			"code": "9456",
+			"description": "Gambling and betting activities"
+		}, {
+			"code": "8142",
+			"description": "BANKERS CLEARING HOUSE"
+		}, {
+			"code": "1201",
+			"description": "FORESTRY"
+		}, {
+			"code": "3812",
+			"description": "MFR OF FURNITURE & FIXTURES PRIMARILY OF METAL"
+		}, {
+			"code": "4030",
+			"description": "WATER SUPPLY & DISTRIBUTION"
+		}, {
+			"code": "5057",
+			"description": "ROOFING WORKS"
+		}, {
+			"code": "6151",
+			"description": "Activities of wholesale auctioneering houses"
+		}, {
+			"code": "3903",
+			"description": "MFG OF SPORTING & ATHLETIC GOODS"
+		}, {
+			"code": "9111",
+			"description": "CENTRAL GOVERNMENT ORGANISATION"
+		}, {
+			"code": "2300",
+			"description": "IRON ORE MINING"
+		}, {
+			"code": "6226",
+			"description": "RETAIL STORES DEALG IN OPTICAL & PHOTOGRAPHIC GOOD"
+		}, {
+			"code": "3879",
+			"description": "Manufacture of machinery for textile, apparel and leather production"
+		}, {
+			"code": "7190",
+			"description": "SERVICES ALLIED TO TRANSPORT NEC"
+		}, {
+			"code": "5012",
+			"description": "RENOVATION CONTRACTORS - COMMERCIAL"
+		}, {
+			"code": "6150",
+			"description": "COMMISSION AGENCIES"
+		}, {
+			"code": "9620",
+			"description": "INTERNATIONAL ORGANISATIONS"
+		}, {
+			"code": "5011",
+			"description": "RENOVATION CONTRACTORS - AGRICULTURAL"
+		}, {
+			"code": "9113",
+			"description": "LOCAL GOVERNMENT ORGANISATIONS"
+		}, {
+			"code": "8186",
+			"description": "TRUSTS & FOUNDATIONS"
+		}, {
+			"code": "6237",
+			"description": "Other retail sale not in stores, stalls or markets"
+		}, {
+			"code": "6317",
+			"description": "Other food service activities"
+		}, {
+			"code": "3116",
+			"description": "MFR OF GRAIN MILL PDT(INCL PROVISN OF MILLING SVC)"
+		}, {
+			"code": "3525",
+			"description": "MFG OF INCENSE & JOSS STICKS"
+		}, {
+			"code": "8182",
+			"description": "INVESTMENT COMPANIES"
+		}, {
+			"code": "6233",
+			"description": "Retail sale of games and toys in specialized stores"
+		}, {
+			"code": "8156",
+			"description": "CREDIT UNIONS"
+		}, {
+			"code": "3124",
+			"description": "Manufacture of macaroni, noodles, couscous and similar farinaceous products"
+		}, {
+			"code": "8413",
+			"description": "REAL ESTATE DEVELOPMENT - INDUSTRIAL"
+		}, {
+			"code": "8123",
+			"description": "COMMERCIAL BANK"
+		}, {
+			"code": "6211",
+			"description": "RETAIL TRADE - FOOD DRINK & TOBACCO"
+		}, {
+			"code": "6224",
+			"description": "BOOKS MAGAZINES & PAPER PRODUCTS"
+		}, {
+			"code": "9391",
+			"description": "RELIGIOUS ORGANISATIONS"
+		}, {
+			"code": "3869",
+			"description": "Repair of electronic and optical equipment"
+		}, {
+			"code": "7125",
+			"description": "Inland passenger water transport"
+		}, {
+			"code": "6124",
+			"description": "WSALE TR IN MINERAL FUELS, LUBRICANTS &RELATED PDT"
+		}, {
+			"code": "3420",
+			"description": "PRINTING PUBLISHING & ALLIED INDUSTRIES"
+		}, {
+			"code": "1125",
+			"description": "Growing of grapes"
+		}, {
+			"code": "7211",
+			"description": "Courier activities"
+		}, {
+			"code": "3233",
+			"description": "MFR-PROD OF LEATHER&LEATHER SUB EXC FTWR&WEARG APP"
+		}, {
+			"code": "8168",
+			"description": "MORTGAGE AND HOUSING CREDIT COMPANIES"
+		}, {
+			"code": "8412",
+			"description": "REAL ESTATE DEVELOPMENT - COMMERCIAL"
+		}, {
+			"code": "8434",
+			"description": "REAL ESTATE INVESTMENT - RESIDENTIAL"
+		}, {
+			"code": "2200",
+			"description": "Extraction Of Oil"
+		}, {
+			"code": "3319",
+			"description": "MFR OF WOOD & CORK PRODTS NEC"
+		}, {
+			"code": "3221",
+			"description": "Manufacture of knitted and crocheted apparel"
+		}, {
+			"code": "7123",
+			"description": "SUPPORTING SERVICES TO WATER TPT NEC"
+		}, {
+			"code": "3825",
+			"description": "MFR & REPAIR OF CONSTRUCTN & RELATED MACH & EQUIP"
+		}, {
+			"code": "3220",
+			"description": "MFR OF WEARING APPAREL EXCEPT FOOTWEAR"
+		}, {
+			"code": "9520",
+			"description": "LAUNDRY SERVICES CLEANING & DYEING SERVICES"
+		}, {
+			"code": "3904",
+			"description": "MFR OF TOYS"
+		}, {
+			"code": "8373",
+			"description": "Security systems service activities"
+		}, {
+			"code": "3817",
+			"description": "METAL FORGINGS & STAMPINGS"
+		}, {
+			"code": "9571",
+			"description": "REPAIR OF FOOTWEAR & LEATHER GOODS"
+		}, {
+			"code": "3819",
+			"description": "MFR OF FABRICATED METAL PRDT EXCPT MACH&EQUIP NEC"
+		}, {
+			"code": "9329",
+			"description": "HEALTH SERVICES NEC"
+		}, {
+			"code": "5022",
+			"description": "WATER SEWERS GAS PIPELINE CONSTRUCTION"
+		}, {
+			"code": "1204",
+			"description": "Support services to forestry"
+		}, {
+			"code": "8175",
+			"description": "RUBBER BROKERS"
+		}, {
+			"code": "3810",
+			"description": "Manufacture of machinery for metallurgy"
+		}, {
+			"code": "6219",
+			"description": "Retail sale of automotive fuel in specialized stores"
+		}, {
+			"code": "9331",
+			"description": "SOCIAL WELFARE SERVICES"
+		}, {
+			"code": "3853",
+			"description": "Manufacture of motor vehicles"
+		}, {
+			"code": "8160",
+			"description": "CREDIT AGENCIES NEC"
+		}, {
+			"code": "8348",
+			"description": "Other information technology and computer service activities"
+		}, {
+			"code": "8452",
+			"description": "REAL ESTATE MANAGEMENT"
+		}, {
+			"code": "3514",
+			"description": "Manufacture of pesticides and other agrochemical products"
+		}, {
+			"code": "0000",
+			"description": "PERSONAL"
+		}, {
+			"code": "6118",
+			"description": "WHOLESALE TRADE IN SOUVENIRS FANCY GOODS & GIFTS"
+		}, {
+			"code": "4036",
+			"description": "Materials recovery"
+		}, {
+			"code": "3211",
+			"description": "Weaving of textiles"
+		}, {
+			"code": "3843",
+			"description": "MFG OF OTH CONSUMER ELECTRONIC PDT EXC WATCH&CLOCK"
+		}, {
+			"code": "9531",
+			"description": "Undifferentiated goods-producing activities of private households for own use"
+		}, {
+			"code": "8179",
+			"description": "OTHER FINANCIAL FUTURE BROKERS & DEALERS"
+		}, {
+			"code": "6162",
+			"description": "AIR TRANSPORT SUPPLIERS"
+		}, {
+			"code": "6312",
+			"description": "COFFEE SHOPS CAFES & CREAMERIES"
+		}, {
+			"code": "6252",
+			"description": "HAWKERS & STALL-HOLDERS DEALG IN OTH COMMODITIES"
+		}, {
+			"code": "9572",
+			"description": "REPAIR OF WATCHES CLOCKS & JEWELRY"
+		}, {
+			"code": "9340",
+			"description": "BUSINESS & TRADE ASSOCIATION"
+		}, {
+			"code": "9319",
+			"description": "EDUCATION SERVICES NOT ELSEWHERE CLASSIFIED"
+		}, {
+			"code": "6232",
+			"description": "Retail sale of second-hand goods"
+		}, {
+			"code": "7114",
+			"description": "SUPPORTING SERVICES TO LAND TRANSPORT"
+		}, {
+			"code": "6228",
+			"description": "Retail sale of music and video recordings in specialized stores"
+		}, {
+			"code": "6114",
+			"description": "WHOLESALE TRADE IN PERSONAL EFFECTS"
+		}, {
+			"code": "8343",
+			"description": "Web portals"
+		}, {
+			"code": "0013",
+			"description": "LNS TO PUR RESIDENTIAL PROPERTY-NON OWNER OCCUPIED"
+		}, {
+			"code": "3523",
+			"description": "MFR-SOAP&CLEANG PREPARTN,PERFUME COSMETIC&TOILETRY"
+		}, {
+			"code": "5047",
+			"description": "INSTALLATION & ERECTION OF BLDG EQUIP"
+		}, {
+			"code": "1134",
+			"description": "Raising of camels and camelids"
+		}, {
+			"code": "8382",
+			"description": "Photocopying, document preparation and other specialized office support activities"
+		}, {
+			"code": "9231",
+			"description": "PRISONS"
+		}, {
+			"code": "3826",
+			"description": "MFR&REPAIR OF REFRIGERATG,AIR-CON, VEN MACH&EQUIP"
+		}, {
+			"code": "1117",
+			"description": "RICE"
+		}, {
+			"code": "1132",
+			"description": "CATTLE"
+		}, {
+			"code": "8151",
+			"description": "GENERAL FINANCE COMPANIES"
+		}, {
+			"code": "7210",
+			"description": "POSTAL SERVICES"
+		}, {
+			"code": "8393",
+			"description": "CAR PARK MANAGEMENT"
+		}, {
+			"code": "3848",
+			"description": "MFR OF MILITARY ELECTRONIC PRODUCTS"
+		}, {
+			"code": "3874",
+			"description": "Manufacture of lifting and handling equipment"
+		}, {
+			"code": "8415",
+			"description": "REAL ESTATE DEVELOPMENT - RETAIL"
+		}, {
+			"code": "8367",
+			"description": "DETECTIVE AGENCIES & SECURITY SERVICES"
+		}, {
+			"code": "3808",
+			"description": "Manufacture of weapons and ammunition"
+		}, {
+			"code": "9318",
+			"description": "Sports and recreation education"
+		}, {
+			"code": "3231",
+			"description": "TANNERIES & LEATHER FINISHING"
+		}, {
+			"code": "3835",
+			"description": "MFR OF ELECT LIGHTING EQUIP FITTING & PARTS"
+		}, {
+			"code": "6253",
+			"description": "Other retail sale in non-specialized stores"
+		}, {
+			"code": "6236",
+			"description": "Retail sale via mail order houses or via Internet"
+		}, {
+			"code": "1124",
+			"description": "TOBACCO"
+		}, {
+			"code": "8395",
+			"description": "Other professional, scientific and technical activities n e c"
+		}, {
+			"code": "1203",
+			"description": "Gathering of non-wood forest products"
+		}, {
+			"code": "3217",
+			"description": "Finishing of textiles"
+		}, {
+			"code": "3829",
+			"description": "MFR&REPAIR OF MACH&EQUIP EXC ELECT&ELECTRONIC NEC"
+		}, {
+			"code": "3846",
+			"description": "MFR OF OTHER ELECTRONIC COMPONENTS"
+		}, {
+			"code": "4010",
+			"description": "ELECTRICITY GENERATION & DISTRIBUTION"
+		}, {
+			"code": "3122",
+			"description": "MFR OF PREPARED ANIMAL FOOD"
+		}, {
+			"code": "5042",
+			"description": "FOUNDATION WORKS"
+		}, {
+			"code": "8185",
+			"description": "UNIT TRUSTS"
+		}, {
+			"code": "3831",
+			"description": "MFR&REPR OF ELEC IND MAC&APPARATUS EXC ELECT INSTR"
+		}, {
+			"code": "9339",
+			"description": "Other social work activities without accommodation"
+		}, {
+			"code": "8371",
+			"description": "CAR RENTAL"
+		}, {
+			"code": "9418",
+			"description": "Software publishing"
+		}, {
+			"code": "3827",
+			"description": "Manufacture of computers and peripheral equipment"
+		}, {
+			"code": "3850",
+			"description": "Manufacture of domestic appliances"
+		}, {
+			"code": "8381",
+			"description": "Combined office administrative service activities"
+		}, {
+			"code": "3865",
+			"description": "MFR OF WATCHES & CLOCKS(INC PARTS & ACCESSORIES)"
+		}, {
+			"code": "3855",
+			"description": "MFR OF AIRCRAFT"
+		}, {
+			"code": "3421",
+			"description": "Service activities related to printing"
+		}, {
+			"code": "6230",
+			"description": "SUPERMKTS, DEPARTMENTAL STORES & GEN PROVISN SHOP"
+		}, {
+			"code": "3841",
+			"description": "MFR & REPAIR OF INDUSTRL/COMMERCIAL ELECTRONIC PDT"
+		}, {
+			"code": "6254",
+			"description": "Other retail sale of new goods in specialized stores"
+		}, {
+			"code": "8341",
+			"description": "INFORMATION PROCESSING SERVICES"
+		}, {
+			"code": "3809",
+			"description": "Manufacture of steam generators, except central heating hot water boilers"
+		}, {
+			"code": "1141",
+			"description": "Post-harvest crop activities"
+		}, {
+			"code": "7132",
+			"description": "SUPPORTING SERVICES TO AIR TRANSPORT"
+		}, {
+			"code": "1400",
+			"description": "COLLECTION OF AGRICULTURE BY-PRODUCTS"
+		}, {
+			"code": "3880",
+			"description": "Manufacture of medical and dental instruments and supplies"
+		}, {
+			"code": "3513",
+			"description": "Manufacture of plastics and synthetic rubber in primary forms"
+		}, {
+			"code": "3140",
+			"description": "MFR OF TOBACCO PRODUCTS"
+		}, {
+			"code": "9240",
+			"description": "FIRE FIGHTING SERVICES"
+		}, {
+			"code": "3836",
+			"description": "MFG OF ELECTRICAL HOUSEHOLD APPLIANCES"
+		}, {
+			"code": "7150",
+			"description": "STORAGE & WAREHOUSING"
+		}, {
+			"code": "3570",
+			"description": "MFR OF PLASTIC PRODUCTS NEC"
+		}, {
+			"code": "9999",
+			"description": "INDUSTRY SECTOR CODE NOT ENTERED"
+		}, {
+			"code": "8361",
+			"description": "ADVERTISING"
+		}, {
+			"code": "8170",
+			"description": "MONEYBROKERS & GILT-EDGED JOBBERS"
+		}, {
+			"code": "8431",
+			"description": "REAL ESTATE INVESTMENT - AGRICULTURAL"
+		}, {
+			"code": "8358",
+			"description": "Travel agency activities"
+		}, {
+			"code": "2401",
+			"description": "GOLD & PRECIOUS METALS"
+		}, {
+			"code": "9454",
+			"description": "CULTURAL VILLAGE"
+		}, {
+			"code": "8392",
+			"description": "BUSINESS REPRESENTATIVE OFFICES"
+		}, {
+			"code": "8399",
+			"description": "BUSINESS SERVICES NEC"
+		}, {
+			"code": "9414",
+			"description": "Book publishing"
+		}, {
+			"code": "3112",
+			"description": "MANUFACTURE OF DAIRY PRODUCTS"
+		}, {
+			"code": "1302",
+			"description": "FISHING NEC"
+		}, {
+			"code": "9413",
+			"description": "CINEMA SERVICES"
+		}, {
+			"code": "8369",
+			"description": "Market research and public opinion polling"
+		}, {
+			"code": "9690",
+			"description": "INTL & OTH EXTRA-TERRITORIAL ORGANISATIONS NEC"
+		}, {
+			"code": "8387",
+			"description": "Activities of collection agencies and credit bureaus"
+		}, {
+			"code": "8384",
+			"description": "Organization of conventions and trade shows"
+		}, {
+			"code": "8351",
+			"description": "Technical testing and analysis"
+		}, {
+			"code": "8374",
+			"description": "Renting and leasing of recreational and sports goods"
+		}, {
+			"code": "3134",
+			"description": "SOFT DRINKS & CARBONATED WATER INDUSTRIES"
+		}, {
+			"code": "4032",
+			"description": "Collection of non-hazardous waste"
+		}, {
+			"code": "3849",
+			"description": "MFR OF ELECTRONIC PRODUCTS & COMPONENTS NEC"
+		}, {
+			"code": "4035",
+			"description": "Treatment and disposal of hazardous waste"
+		}, {
+			"code": "6229",
+			"description": "DIY STORES"
+		}, {
+			"code": "2402",
+			"description": "DIAMONDS"
+		}, {
+			"code": "8150",
+			"description": "FINANCE COMPANIES"
+		}, {
+			"code": "6134",
+			"description": "TIMBER PAINTS & CONSTRUCTION MATERIALS"
+		}, {
+			"code": "9574",
+			"description": "Repair of computers and peripheral equipment"
+		}, {
+			"code": "9343",
+			"description": "LABOUR UNION & ASSOCIATION"
+		}, {
+			"code": "3213",
+			"description": "TEXTILE-KNITTING MILLS"
+		}, {
+			"code": "6313",
+			"description": "BARS"
+		}, {
+			"code": "1111",
+			"description": "GRAIN"
+		}, {
+			"code": "5023",
+			"description": "DAMS & DRAINAGE WORKS"
+		}, {
+			"code": "6128",
+			"description": "TRANSPORT EQUIPMENT"
+		}, {
+			"code": "3729",
+			"description": "NON-FERROUS METAL BASIS INDUSTRIES"
+		}, {
+			"code": "8140",
+			"description": "DISCOUNT HOUSES"
+		}, {
+			"code": "8165",
+			"description": "MONEY LENDING"
+		}, {
+			"code": "8362",
+			"description": "EMPLOYMENT & LABOUR CONTRACTING SERVICES"
+		}, {
+			"code": "9416",
+			"description": "Publishing of newspapers, journals and periodicals"
+		}, {
+			"code": "8172",
+			"description": "STOCKBROKERS - MARGIN LENDING"
+		}, {
+			"code": "8364",
+			"description": "HEAD/REGIONAL OFF OF ENTERPRISES OPERATING ABROAD"
+		}, {
+			"code": "9630",
+			"description": "FOREIGN ARMED FORCE BASES"
+		}, {
+			"code": "8153",
+			"description": "BUILDING SOCIETIES"
+		}, {
+			"code": "8181",
+			"description": "TRULY DIVERSIFIED CONGLOMERATES"
+		}, {
+			"code": "3859",
+			"description": "MFG OF TRANSPORT EQUIPMENT NEC"
+		}, {
+			"code": "3856",
+			"description": "Manufacture of parts and accessories for motor vehicles"
+		}, {
+			"code": "3884",
+			"description": "Installation of industrial machinery and equipment"
+		}, {
+			"code": "3868",
+			"description": "Repair of machinery"
+		}, {
+			"code": "3121",
+			"description": "MFR OF FOOD PRODUCTS NEC"
+		}, {
+			"code": "5054",
+			"description": "TILE SETTING"
+		}, {
+			"code": "2904",
+			"description": "Extraction of peat"
+		}, {
+			"code": "9591",
+			"description": "MARRIAGE SERVICES"
+		}, {
+			"code": "9332",
+			"description": "COMMUNITY SERVICES"
+		}, {
+			"code": "7141",
+			"description": "SERVICES ALLIED TO TRANSPORT OF PASSENGERS"
+		}, {
+			"code": "9191",
+			"description": "Regulation of and contribution to more efficient operation of businesses"
+		}, {
+			"code": "8189",
+			"description": "FUND MGMT ON BEHALF OF UK INS CO AND PENSION FUNDS"
+		}, {
+			"code": "9445",
+			"description": "Activities of sports clubs"
+		}, {
+			"code": "8365",
+			"description": "STENOGRAPHIC & RELATED SERVICES"
+		}, {
+			"code": "6227",
+			"description": "RETAIL STORES DEALING IN HARDWR & BUILDER MATERIAL"
+		}, {
+			"code": "3131",
+			"description": "DISTIL,RECTIF&BLEND OF SPIRIT(INC SAMSU&CHINESE LIQ"
+		}, {
+			"code": "3871",
+			"description": "Manufacture of other pumps, compressors, taps and valves"
+		}, {
+			"code": "3878",
+			"description": "Manufacture of machinery for food, beverage and tobacco processing"
+		}, {
+			"code": "9321",
+			"description": "MEDICAL & HEALTH SERVICES"
+		}, {
+			"code": "3909",
+			"description": "MFR INDUSTRIES NEC"
+		}, {
+			"code": "3620",
+			"description": "MFR OF GLASS AND GLASS PRODUCTS"
+		}, {
+			"code": "9322",
+			"description": "DENTAL SERVICES"
+		}, {
+			"code": "8166",
+			"description": "MOTOR FINANCE"
+		}, {
+			"code": "8174",
+			"description": "GOLD BULLION DEALERS"
+		}, {
+			"code": "5041",
+			"description": "EXCAVATION AND EARTH MOVING WORKS"
+		}, {
+			"code": "3561",
+			"description": "MFR & RETREADING OF TYRES & TUBES"
+		}, {
+			"code": "7220",
+			"description": "Wired telecommunications activities"
+		}, {
+			"code": "2901",
+			"description": "STONE QUARRYING CLAY & SAND PITS"
+		}, {
+			"code": "7124",
+			"description": "Sea and coastal passenger water transport"
+		}, {
+			"code": "9576",
+			"description": "Repair of household appliances and home and garden equipment"
+		}, {
+			"code": "3322",
+			"description": "Manufacture of veneer sheets and wood-based panels"
+		}, {
+			"code": "3320",
+			"description": "MFR-FNITURE&FIXTURE EXC PRI OF METAL,STONE&PLASTIC"
+		}, {
+			"code": "6240",
+			"description": "Activities of auctioning houses (retail)"
+		}, {
+			"code": "3842",
+			"description": "MFR OF AUDIO & VIDEO CONSUMER ELECTRONIC PRODUCTS"
+		}, {
+			"code": "6133",
+			"description": "MACHINERY & EQUIPMENT NEC"
+		}, {
+			"code": "3870",
+			"description": "Manufacture of fluid power equipment"
+		}, {
+			"code": "9345",
+			"description": "Social work activities without accommodation - fund raising or similar activities aimed at social wo"
+		}, {
+			"code": "3822",
+			"description": "MFR OF AGRICULTURAL MACHINERY & EQUIPMENT"
+		}, {
+			"code": "3540",
+			"description": "MFG OF MISC PRODUCTS OF PETROLEUM & COAL"
+		}, {
+			"code": "6221",
+			"description": "DEALING IN ATHLETICSPORT & RECREATIONAL GOODS"
+		}, {
+			"code": "9417",
+			"description": "Other publishing activities"
+		}, {
+			"code": "1136",
+			"description": "Raising of poultry"
+		}, {
+			"code": "1114",
+			"description": "COFFEE"
+		}, {
+			"code": "6125",
+			"description": "CHEMICALS &CHEMICAL PRODUCTS NEC"
+		}, {
+			"code": "2201",
+			"description": "OIL RIG OPERATORS"
+		}, {
+			"code": "6126",
+			"description": "INDUSTRL&AGRI MACH&EQUIP EXCPT TPT&OFF MACH&EQUIP"
+		}, {
+			"code": "3111",
+			"description": "SLAUGHTERG,  PREPARG, CANNING & PRESERVG OF MEAT"
+		}, {
+			"code": "6135",
+			"description": "WHOLESALE TRADE IN PLASTIC MATERIALS"
+		}, {
+			"code": "3313",
+			"description": "RATTAN PROCESG & MFG OF RATTAN PDT EXCPT FURNITURE"
+		}, {
+			"code": "6209",
+			"description": "Retail sale of weapons and ammunition"
+		}, {
+			"code": "1142",
+			"description": "Seed processing for propagation"
+		}, {
+			"code": "8350",
+			"description": "ENGINEERING ARCHITECTURAL & TECHNICAL SERVICES"
+		}, {
+			"code": "3710",
+			"description": "IRON & STEEL BASIS INDUSTRIES"
+		}, {
+			"code": "8169",
+			"description": "Money Service Bureaus"
+		}, {
+			"code": "3828",
+			"description": "MFR-SPECL INDL MACH&EQUP EXC METAL&WOOD WORKG MACH"
+		}, {
+			"code": "8375",
+			"description": "Leasing of intellectual property and similar products, except copyrighted works"
+		}, {
+			"code": "9433",
+			"description": "ORCHESTRA, DANCE BK, ACTOR, SINGER&OTH ENTERTAINER"
+		}, {
+			"code": "3847",
+			"description": "MFR OF PHONOGRAPH RECORDS & MAGNETIC TAPES"
+		}, {
+			"code": "6314",
+			"description": "HAWKER&STALLHOLDER SELLG COOKED FOOD&PREPARE DRKS"
+		}, {
+			"code": "9550",
+			"description": "PHOTOGRAPHIC & VIDEO RECORDING SERVICES"
+		}, {
+			"code": "6222",
+			"description": "Retail sale of carpets, rugs, wall and floor coverings in specialized stores"
+		}, {
+			"code": "3839",
+			"description": "MFG-ELECTRICL MAC, APPARATUS, APPLIANCE&SUPPLY NEC"
+		}, {
+			"code": "9592",
+			"description": "HEALTH CENTRES TURKISH BATHS & MASSAGE PARLORS"
+		}, {
+			"code": "5015",
+			"description": "RENOVATION CONTRACTORS - RETAIL"
+		}, {
+			"code": "5002",
+			"description": "GENERAL CONTRACTORS - COMMERCIAL"
+		}, {
+			"code": "6238",
+			"description": "Sale, maintenance and repair of motorcycles and related parts and accessories"
+		}, {
+			"code": "3214",
+			"description": "MFR OF CARPETS & RUGS"
+		}, {
+			"code": "9443",
+			"description": "FREE-LANCE JOURNALISTS & REPORTERS"
+		}, {
+			"code": "7223",
+			"description": "Wireless telecommunications activities"
+		}, {
+			"code": "8209",
+			"description": "INSURANCE SERVICES NEC"
+		}, {
+			"code": "6218",
+			"description": "Retail sale of tobacco products in specialized stores"
+		}, {
+			"code": "3881",
+			"description": "Repair of electrical equipment"
+		}, {
+			"code": "4033",
+			"description": "Collection of hazardous waste"
+		}, {
+			"code": "1131",
+			"description": "SHEEP"
+		}, {
+			"code": "1129",
+			"description": "Growing of other tree and bush fruits and nuts"
+		}, {
+			"code": "5001",
+			"description": "GENERAL CONTRACTORS - AGRICULTURAL"
+		}, {
+			"code": "9411",
+			"description": "MOTION PICTURE/VIDEO PRODUCTION & ALLIED SERVICES"
+		}, {
+			"code": "6220",
+			"description": "Retail sale of audio and video equipment in specialized stores"
+		}, {
+			"code": "9311",
+			"description": "GENERAL EDUCATION SERVICES"
+		}, {
+			"code": "6140",
+			"description": "GENERAL IMPORTERS & EXPORTERS"
+		}, {
+			"code": "5058",
+			"description": "GLASS & GLAZING WORKS"
+		}, {
+			"code": "6113",
+			"description": "WHOLESALE TRADE IN TEXTILES &WEARING APPAREL"
+		}, {
+			"code": "0032",
+			"description": "LOANS TO PURCHASE SHARES"
+		}, {
+			"code": "8203",
+			"description": "CAPTIVE INSURANCE"
+		}, {
+			"code": "7225",
+			"description": "Other telecommunications activities"
+		}, {
+			"code": "9338",
+			"description": "Social work activities without accommodation for the elderly and disabled"
+		}, {
+			"code": "6123",
+			"description": "Wholesale of metals and metal ores"
+		}, {
+			"code": "8388",
+			"description": "Other information service activities n e c"
+		}, {
+			"code": "1144",
+			"description": "Growing of other perennial crops"
+		}, {
+			"code": "3515",
+			"description": "Manufacture of man-made fibres"
+		}, {
+			"code": "9449",
+			"description": "OTHER INDEPENDENT ARTISTS NEC"
+		}, {
+			"code": "3215",
+			"description": "CORDAGE ROPE & TWINE INDUSTRIES"
+		}, {
+			"code": "9239",
+			"description": "OTHER PLACES OF DETENTION & CORRECTION"
+		}, {
+			"code": "3901",
+			"description": "MFR OF JEWELRY &RELATED ARTICLE(EXC COSTUME JEWRY)"
+		}, {
+			"code": "9419",
+			"description": "Motion picture, video and television programme post-production activities"
+		}, {
+			"code": "9324",
+			"description": "MEDICAL & DENTAL LABORATORIES"
+		}, {
+			"code": "9453",
+			"description": "ART GALLERIES"
+		}, {
+			"code": "3630",
+			"description": "MFR OF STRUCTURAL CLAY PRODUCTS"
+		}, {
+			"code": "3712",
+			"description": "Casting of non-ferrous metals"
+		}, {
+			"code": "7122",
+			"description": "SUPPORTING SERVICES TO WATER TRANSPORT"
+		}, {
+			"code": "1150",
+			"description": "HUNTINGTRAPPING & GAME PROPAGATION"
+		}, {
+			"code": "8451",
+			"description": "REAL ESTATE AGENTS & LESSORS"
+		}, {
+			"code": "5014",
+			"description": "RENOVATION CONTRACTORS - RESIDENTIAL"
+		}, {
+			"code": "9112",
+			"description": "STATE GOVERNMENT ORGANISATIONS"
+		}, {
+			"code": "6319",
+			"description": "EATING & DRINKING PLACES NEC"
+		}, {
+			"code": "6131",
+			"description": "MACHINES & EQUIPMENT"
+		}, {
+			"code": "1122",
+			"description": "JUTE"
+		}, {
+			"code": "3511",
+			"description": "MFR OF BASIC INDUSTRIAL CHEMICAL EXCPT FERTILISERS"
+		}, {
+			"code": "3873",
+			"description": "Manufacture of ovens, furnaces and furnace burners"
+		}, {
+			"code": "8349",
+			"description": "Other reservation service and related activities"
+		}, {
+			"code": "3866",
+			"description": "Reproduction of recorded media"
+		}, {
+			"code": "0020",
+			"description": "LOANS FOR CREDIT CARD ADVANCES"
+		}, {
+			"code": "6217",
+			"description": "DEALG IN TRANSPORTATN EQUIP(INC PETROL SVC STATN)"
+		}, {
+			"code": "6212",
+			"description": "Retail sale of food in specialized stores"
+		}, {
+			"code": "9325",
+			"description": "ENVIRONMENTAL HEALTH SERVICES"
+		}, {
+			"code": "6121",
+			"description": "WSALE TRADE IN MEDICINAL & PHARMACEUTICAL PRODUCTS"
+		}, {
+			"code": "3851",
+			"description": "BLDG & REPAIRING OF SHIPS AND BOATS"
+		}, {
+			"code": "9220",
+			"description": "POLICE"
+		}, {
+			"code": "8356",
+			"description": "Temporary employment agency activities"
+		}, {
+			"code": "7143",
+			"description": "SERVICES ALLIED TO TRANSPORT OF GOODS"
+		}, {
+			"code": "9540",
+			"description": "HAIRDRESSING & BEAUTY SHOPS"
+		}, {
+			"code": "7112",
+			"description": "PASSENGER TRANSPORT BY ROAD"
+		}, {
+			"code": "3323",
+			"description": "Manufacture of builders' carpentry and joinery"
+		}, {
+			"code": "5053",
+			"description": "BRICK-LAYING STONE-SETTING & CEMENT WORKS"
+		}, {
+			"code": "8342",
+			"description": "I T PROFESSIONAL SERVICES"
+		}, {
+			"code": "8432",
+			"description": "REAL ESTATE INVESTMENT - COMMERCIAL"
+		}, {
+			"code": "3419",
+			"description": "MFR OF ARTICLES OF PAPER & PAPERBOARD NEC"
+		}, {
+			"code": "8353",
+			"description": "Research and experimental development on social sciences and humanities"
+		}, {
+			"code": "5055",
+			"description": "CARPENTRY JOINERY & OTHER WOODWORKS"
+		}, {
+			"code": "3240",
+			"description": "MANUFACTURE OF FOOTWEAR"
+		}, {
+			"code": "3219",
+			"description": "MFR OF TEXTILES NEC"
+		}, {
+			"code": "3699",
+			"description": "MFROF NON-METALLIC MINERAL PRODUCTS NEC"
+		}, {
+			"code": "9190",
+			"description": "PUBLIC ADMINISTRATION AND DEVELOPMENT SERVICES NEC"
+		}, {
+			"code": "2404",
+			"description": "BAUXITE"
+		}, {
+			"code": "8188",
+			"description": "FUND MGMT ON BEHALF OF UK INV & UNIT TRT OTHER THAN UK MMM FUNDS"
+		}, {
+			"code": "3816",
+			"description": "MFR OF PLUMBG,HEATG & RELATED PDTS EXCPT ELECTRIC"
+		}, {
+			"code": "8124",
+			"description": "MERCHANT BANKS - FOREIGN"
+		}, {
+			"code": "3216",
+			"description": "Preparation and spinning of textile fibres"
+		}, {
+			"code": "8321",
+			"description": "Legal Services - sole practioner or small/little known law firms"
+		}, {
+			"code": "9337",
+			"description": "Residential care activities for mental retardation, mental health and substance abuse"
+		}, {
+			"code": "3721",
+			"description": "ALUMINUM"
+		}, {
+			"code": "1135",
+			"description": "Raising of swine/pigs"
+		}, {
+			"code": "2903",
+			"description": "SALT MINING"
+		}, {
+			"code": "3115",
+			"description": "MFR-VEG&ANIMAL&FAT EXCT LAND&OTH EDIBLE ANIMAL FAT"
+		}, {
+			"code": "6213",
+			"description": "RETAIL TRADE DEALING IN TEXTILES & WEARING APPAREL"
+		}, {
+			"code": "9561",
+			"description": "REPAIR & SERVICING OF VEHICLES"
+		}, {
+			"code": "8435",
+			"description": "REAL ESTATE INVESTMENT - RETAIL"
+		}, {
+			"code": "2403",
+			"description": "COPPER & ZINC"
+		}, {
+			"code": "9459",
+			"description": "CULTURAL SERVICES NEC"
+		}, {
+			"code": "3610",
+			"description": "MFG OF POTTERY CHINA & EARTHENWARE"
+		}, {
+			"code": "3640",
+			"description": "MFR OF CEMENTLIME & PLASTER"
+		}, {
+			"code": "8359",
+			"description": "Tour operator activities"
+		}, {
+			"code": "8383",
+			"description": "Activities of call centres"
+		}, {
+			"code": "6117",
+			"description": "WSALE TRADE IN ATHLETIC, SPORTS & RECREATIONAL GDS"
+		}, {
+			"code": "9314",
+			"description": "RESEARCH & SCIENTIFIC TEACHING INSTITUTES"
+		}, {
+			"code": "9455",
+			"description": "BOTANICAL & ZOOLOGICAL GARDENS & PARK"
+		}, {
+			"code": "1115",
+			"description": "TEA"
+		}, {
+			"code": "6316",
+			"description": "Event catering"
+		}, {
+			"code": "9344",
+			"description": "Pre-primary and primary education"
+		}, {
+			"code": "8176",
+			"description": "Administration of financial markets"
+		}, {
+			"code": "8163",
+			"description": "CREDIT CARD SERVICES"
+		}, {
+			"code": "1112",
+			"description": "OILS"
+		}, {
+			"code": "3876",
+			"description": "Manufacture of power-driven hand tools"
+		}, {
+			"code": "8180",
+			"description": "HOLDING & OTHER INVESTMENT COMPANIES"
+		}, {
+			"code": "7115",
+			"description": "Freight rail transport"
+		}, {
+			"code": "3132",
+			"description": "WINE INDUSTRIES"
+		}, {
+			"code": "3906",
+			"description": "Mfr Of Jewellery & Related Articles(Except Costume Jewellery)  - working of diamonds"
+		}, {
+			"code": "8122",
+			"description": "MERCHANT BANKS - LOCAL"
+		}, {
+			"code": "8414",
+			"description": "REAL ESTATE DEVELOPMENT - RESIDENTIAL"
+		}, {
+			"code": "3877",
+			"description": "Manufacture of other general-purpose machinery"
+		}, {
+			"code": "9444",
+			"description": "Operation of sports facilities"
+		}, {
+			"code": "3844",
+			"description": "MFR OF SEMI-CONDUCTOR DEVICES"
+		}, {
+			"code": "9312",
+			"description": "TECHNICAL & COMMERCIAL EDUCATION SERVICES"
+		}, {
+			"code": "3522",
+			"description": "MFG OF MEDICINAL & PHARMACEUTICAL PRODUCTS"
+		}, {
+			"code": "5026",
+			"description": "MARINE CONSTRUCTN(EG HARBOR, PIER, DOCK, WHARVES)"
+		}, {
+			"code": "8376",
+			"description": "Landscape care and maintenance service activities"
+		}, {
+			"code": "6215",
+			"description": "RETAIL STORE DEALG FNITURE,FNISHG&OTH HSEHLD EQUIP"
+		}, {
+			"code": "9219",
+			"description": "OTHER DEFENCE SERVICES"
+		}, {
+			"code": "6191",
+			"description": "SCRAP JUNK AND WASTE DEALERS"
+		}, {
+			"code": "3232",
+			"description": "MFR OF FUR PRODUCTS EXCEPT WEARING APPAREL"
+		}, {
+			"code": "3693",
+			"description": "Manufacture of refractory products"
+		}, {
+			"code": "3815",
+			"description": "MFR OF METAL CANS CONTAINERS & RELATED PRODUCTS"
+		}, {
+			"code": "3854",
+			"description": "MFG OF MOTORCYCLES SCOOTERS & BICYCLES"
+		}, {
+			"code": "7126",
+			"description": "Inland freight water transport"
+		}, {
+			"code": "3411",
+			"description": "MFR OF PULP PAPER & PAPERBOARD"
+		}, {
+			"code": "3569",
+			"description": "MFR OF OTH RUBBER PRDTS EXCPT RUBBER FOOTWR & TOYS"
+		}, {
+			"code": "2902",
+			"description": "CHEMICAL & FERTILIZER MINERAL MINING"
+		}, {
+			"code": "3872",
+			"description": "Manufacture of bearings, gears, gearing and driving elements"
+		}, {
+			"code": "3521",
+			"description": "MFR-PAINT,VARNISHES&LACQUER(INCL ENAMEL&ALLIED PDT"
+		}, {
+			"code": "8433",
+			"description": "REAL ESTATE INVESTMENT - INDUSTRIAL"
+		}, {
+			"code": "3125",
+			"description": "Manufacture of prepared meals and dishes"
+		}, {
+			"code": "6223",
+			"description": "DEALING IN SOUVENIRS FANCY GOODS & GIFTS"
+		}, {
+			"code": "9610",
+			"description": "FOREIGN EMBASSIES & TRADE REPRESENTATIVES"
+		}, {
+			"code": "7133",
+			"description": "Freight air transport"
+		}, {
+			"code": "9392",
+			"description": "Activities of political organizations"
+		}, {
+			"code": "8184",
+			"description": "PENSION FUNDS"
+		}, {
+			"code": "3813",
+			"description": "MFR OF STRUCTURAL METAL PRODUCTS"
+		}, {
+			"code": "8201",
+			"description": "Life Insurance"
+		}, {
+			"code": "3860",
+			"description": "Building of pleasure and sporting boats"
+		}, {
+			"code": "7224",
+			"description": "Satellite telecommunications activities"
+		}, {
+			"code": "1140",
+			"description": "AGRICULTURE SERVICES"
+		}, {
+			"code": "3692",
+			"description": "MFR OF INSULATION PRODUCTS"
+		}, {
+			"code": "1137",
+			"description": "Mixed farming"
+		}, {
+			"code": "8411",
+			"description": "REAL ESTATE DEVELOPMENT - AGRICULTURAL"
+		}, {
+			"code": "3118",
+			"description": "SUGAR FACTORIES & REFINERIES"
+		}, {
+			"code": "5045",
+			"description": "SCAFFOLDING WORKS"
+		}, {
+			"code": "5029",
+			"description": "OTHER NON-BUILDING CONSTRUCTION NEC"
+		}, {
+			"code": "1128",
+			"description": "Growing of pome fruits and stone fruits"
+		}, {
+			"code": "6119",
+			"description": "Wholesale of electronic and telecommunications equipment and parts"
+		}, {
+			"code": "8354",
+			"description": "Other building and industrial cleaning activities"
+		}, {
+			"code": "2202",
+			"description": "Support activities for petroleum and natural gas extraction"
+		}, {
+			"code": "0011",
+			"description": "BRIDGING FIN FOR HOME PURCHASE-NON OWNER OCCUPIED"
+		}, {
+			"code": "8167",
+			"description": "HIRE PURCHASE"
+		}, {
+			"code": "9211",
+			"description": "ARMED FORCES"
+		}, {
+			"code": "5003",
+			"description": "GENERAL CONTRACTORS - INDUSTRIAL"
+		}, {
+			"code": "9442",
+			"description": "COMPOSERS & SONG WRITERS"
+		}, {
+			"code": "0012",
+			"description": "LNS TO PUR RESIDENTIAL PROPERTY-OWNER OCCUPIED"
+		}, {
+			"code": "6239",
+			"description": "Retail sale of antiques"
+		}, {
+			"code": "8205",
+			"description": "Non-life insurance Others"
+		}, {
+			"code": "3845",
+			"description": "MFG OF ELECTRON TUBES"
+		}, {
+			"code": "9421",
+			"description": "Sound recording and music publishing activities"
+		}, {
+			"code": "6112",
+			"description": "WHOLESALE GEM TRADING"
+		}, {
+			"code": "9422",
+			"description": "Television programming and broadcasting activities"
+		}, {
+			"code": "1116",
+			"description": "SUGAR"
+		}, {
+			"code": "7113",
+			"description": "FREIGHT TRANSPORT BY ROAD"
+		}, {
+			"code": "9313",
+			"description": "HIGHER EDUCATION SERVICES"
+		}, {
+			"code": "6111",
+			"description": "WHOLESALE TRADE-IN FOODDRINK & TOBACCO"
+		}, {
+			"code": "7142",
+			"description": "TAXIS & PUBLIC LIGHT BUSES"
+		}, {
+			"code": "9334",
+			"description": "CHILD CARE SERVICES"
+		}, {
+			"code": "8190",
+			"description": "FINANCIAL INSTITUTIONS & FINANCIAL SERVICES NEC"
+		}, {
+			"code": "8187",
+			"description": "MONEY MARKET MUTUAL FUNDS"
+		}, {
+			"code": "9336",
+			"description": "Residential nursing care facilities"
+		}, {
+			"code": "3818",
+			"description": "METAL PRODUCTS SERVICES"
+		}, {
+			"code": "3905",
+			"description": "Manufacture of imitation jewellery and related articles"
+		}, {
+			"code": "3212",
+			"description": "MFR OF MADE-UP TEXTILE GOODS"
+		}, {
+			"code": "7131",
+			"description": "Passenger air transport"
+		}, {
+			"code": "6129",
+			"description": "Sale of motor vehicle parts and accessories"
+		}, {
+			"code": "8355",
+			"description": "General cleaning of buildings"
+		}, {
+			"code": "6251",
+			"description": "HAWKER&STALL-HOLDER DEALING IN FOODSTUFF(UNCOOKED)"
+		}, {
+			"code": "1123",
+			"description": "RUBBER"
+		}, {
+			"code": "9432",
+			"description": "STAGE SHOWS"
+		}, {
+			"code": "9470",
+			"description": "TRAINING & CARE SERVICES FOR PETS & ANIMALS"
+		}, {
+			"code": "6210",
+			"description": "Retail sale of watches, clocks and jewellery"
+		}, {
+			"code": "8204",
+			"description": "IMPORT & EXPORT INSURANCE"
+		}, {
+			"code": "6235",
+			"description": "Retail sale via mail order houses or via Internet - internet auction"
+		}, {
+			"code": "3806",
+			"description": "Manufacture of office machinery and equipment (except computers and peripheral equipment)"
+		}, {
+			"code": "3907",
+			"description": "Mfr Of Jewellery & Related Articles(Except Costume Jewellery) - production of precious and semi-prec"
+		}, {
+			"code": "1127",
+			"description": "Growing of citrus fruits"
+		}, {
+			"code": "2909",
+			"description": "MINING & QUARRYING NEC"
+		}, {
+			"code": "8131",
+			"description": "OFFSHORE BANKING UNITS OF COMMERCIAL BANKS"
+		}, {
+			"code": "3857",
+			"description": "Manufacture of military fighting vehicles"
+		}, {
+			"code": "3550",
+			"description": "PROCESSING OF NATURAL RUBBER & GUMS"
+		}, {
+			"code": "6321",
+			"description": "Camping grounds, recreational vehicle parks and trailer parks"
+		}, {
+			"code": "8366",
+			"description": "NEWS SYNDICATES"
+		}, {
+			"code": "9599",
+			"description": "PERSONAL & HOUSEHOLD SERVICES NEC"
+		}, {
+			"code": "9510",
+			"description": "DOMESTIC SERVICES"
+		}, {
+			"code": "3412",
+			"description": "MFR OF CONTAINERS & BOXES OF PAPER & PAPERBOARD"
+		}, {
+			"code": "8191",
+			"description": "FUND MGMT UNCLASSIFIABLE"
+		}, {
+			"code": "5046",
+			"description": "SAND BLASTING WORKS"
+		}, {
+			"code": "9333",
+			"description": "JOB TRAINING & VOCATIONAL ABILITATION SERVICES"
+		}, {
+			"code": "9120",
+			"description": "JUDICIARY & RELATED SERVICES"
+		}, {
+			"code": "8419",
+			"description": "REAL ESTATE DEVELOPMENT - NOT ELSEWHERE CLASSIFIED"
+		}, {
+			"code": "3811",
+			"description": "MFR OF CUTLERY HAND TOOLS & GENERAL HARDWARE"
+		}, {
+			"code": "6199",
+			"description": "WHOLESALE TRADE NEC"
+		}, {
+			"code": "3823",
+			"description": "MFR&REPR OF MING,OILFIELD&GASFIELD&RLATED MACH&EQU"
+		}, {
+			"code": "6320",
+			"description": "HOTELS LODGING & BOARDING HOUSES"
+		}, {
+			"code": "2101",
+			"description": "Mining of lignite"
+		}, {
+			"code": "3867",
+			"description": "Repair of fabricated metal products"
+		}, {
+			"code": "5019",
+			"description": "OTH BUILDG CONTRACTG WORK-NOT ELSEWHERE CLASSIFIED"
+		}, {
+			"code": "3882",
+			"description": "Repair of transport equipment, except motor vehicles"
+		}, {
+			"code": "2911",
+			"description": "Support activities for other mining and quarrying"
+		}, {
+			"code": "1304",
+			"description": "Freshwater aquaculture"
+		}, {
+			"code": "7111",
+			"description": "Passenger rail transport"
+		}, {
+			"code": "9420",
+			"description": "RADIO & TELEVISION BROADCASTING"
+		}, {
+			"code": "8162",
+			"description": "THRIFT & LOAN SOCIETIES & CREDIT ASSOCIATIONS"
+		}, {
+			"code": "9310",
+			"description": "Compulsory social security activities"
+		}, {
+			"code": "7116",
+			"description": "Transport via pipeline"
+		}, {
+			"code": "7121",
+			"description": "Sea and coastal freight water transport"
+		}, {
+			"code": "4020",
+			"description": "GAS MFR & DISTRIBUTION"
+		}, {
+			"code": "6214",
+			"description": "RETAIL STORE DEALING IN PERSONAL EFFECTS"
+		}, {
+			"code": "9415",
+			"description": "Publishing of directories and mailing lists"
+		}, {
+			"code": "8111",
+			"description": "PUBLIC FINANCIAL INSTITUTIONS"
+		}, {
+			"code": "8363",
+			"description": "MANAGEMENT CONSULTING & PUBLIC RELATION SERVICES"
+		}, {
+			"code": "1119",
+			"description": "Growing of spices, aromatic, drug and pharmaceutical crops"
+		}, {
+			"code": "8331",
+			"description": "Accounting, Auditing & Book-Keeping Services - sole practioner or small/little known accounting or a"
+		}, {
+			"code": "5052",
+			"description": "ELECTRICAL WORKS"
+		}, {
+			"code": "6322",
+			"description": "Other accommodation"
+		}, {
+			"code": "9593",
+			"description": "ASTROLOGY, PALMISTRY & OTHER FORTUNE TELLING SVC"
+		}, {
+			"code": "9562",
+			"description": "VEHICLE INSPECTION SERVICES"
+		}, {
+			"code": "3858",
+			"description": "Manufacture of bicycles and invalid carriages"
+		}, {
+			"code": "4037",
+			"description": "Remediation activities and other waste management services"
+		}, {
+			"code": "2203",
+			"description": "Extraction of natural gas"
+		}, {
+			"code": "8379",
+			"description": "EQUIPMENT RENTAL, LEASING & MAINTENANCE SVC NEC"
+		}, {
+			"code": "8202",
+			"description": "REINSURANCE UNDERWRITING"
+		}, {
+			"code": "3814",
+			"description": "MFR OF WIRE & CABLE PDTS EXCPT INSULTED WIRE&CABLE"
+		}, {
+			"code": "8133",
+			"description": "OTHER OFFSHORE BANKING UNITS"
+		}, {
+			"code": "1139",
+			"description": "OTHER LIVESTOCK"
+		}, {
+			"code": "9451",
+			"description": "LIBRARIES"
+		}, {
+			"code": "8372",
+			"description": "VIDEO RENTAL"
+		}, {
+			"code": "3883",
+			"description": "Repair of other equipment"
+		}, {
+			"code": "8171",
+			"description": "BROKER DEALERS AND FUND MANAGERS UPDATED"
+		}, {
+			"code": "6122",
+			"description": "WHOLESALE TRADE IN TROPICAL PRODUCE"
+		}, {
+			"code": "6231",
+			"description": "Retail sale of clothing, footwear and leather articles in specialized stores"
+		}, {
+			"code": "6216",
+			"description": "Retail sale of beverages in specialized stores"
+		}, {
+			"code": "9326",
+			"description": "Educational support activities"
+		}, {
+			"code": "9460",
+			"description": "AMUSEMENT PARKS"
+		}, {
+			"code": "7134",
+			"description": "Cargo handling"
+		}, {
+			"code": "2408",
+			"description": "Mining of uranium and thorium ores"
+		}, {
+			"code": "0090",
+			"description": "OTHER PERSONAL LOANS NEC"
+		}, {
+			"code": "8164",
+			"description": "MUTUAL BENEFIT ORGANISATIONS"
+		}, {
+			"code": "8370",
+			"description": "Private security activities"
+		}, {
+			"code": "1118",
+			"description": "VEGETABLES & HORTICULTURE"
+		}, {
+			"code": "8385",
+			"description": "Packaging activities"
+		}, {
+			"code": "5051",
+			"description": "PLUMBING HEATING(NON-ELECTRIC) & AIR-CONDITIONING"
+		}, {
+			"code": "3864",
+			"description": "MFR OF PHOTOGRAPHIC&OPTICAL GD(INC PHOTOCOPYG EQUP)"
+		}, {
+			"code": "6234",
+			"description": "Retail sale via stalls and markets of textiles, clothing and footwear"
+		}, {
+			"code": "9341",
+			"description": "THEATRICAL PROCEDURES EXCEPT MOTION PICTURE"
+		}, {
+			"code": "9412",
+			"description": "MOTION PICTURE/VIDEO DISTRIBUTION & ALLIED SVC"
+		}, {
+			"code": "3117",
+			"description": "MFR OF BAKERY & MILLED GRAIN PRODUCTS"
+		}, {
+			"code": "3837",
+			"description": "MFR OF RADIO, TV & COMMUNICATN EQUIP & APPARATUS"
+		}, {
+			"code": "3691",
+			"description": "MFG OF CUT STONE & STONE PRDTS (INCL TOMB STONES)"
+		}, {
+			"code": "1113",
+			"description": "COCOA"
+		}, {
+			"code": "3311",
+			"description": "SAWMILLS PLANING & OTHER WOOD MILLS"
+		}, {
+			"code": "5024",
+			"description": "COMMUNICATION & POWER LINES CONSTRUCTION"
+		}, {
+			"code": "3650",
+			"description": "MFR OF STRUCTURAL CEMENT & CONCRETE PRODUCTS"
+		}, {
+			"code": "5005",
+			"description": "GENERAL CONTRACTORS - RETAIL"
+		}, {
+			"code": "5025",
+			"description": "BRIDGE,TUNNEL,VIADUCT,ELEVATED HIGHWAY CONSTRUCTN"
+		}, {
+			"code": "0010",
+			"description": "BRIDGING FIN FOR HOME PURCHASE-OWNER OCCUPIED"
+		}, {
+			"code": "3852",
+			"description": "MFG & REPAIRING RAILROAD EQUIPMENT"
+		}, {
+			"code": "6116",
+			"description": "Wholesale of computers, computer peripheral equipment and software"
+		}, {
+			"code": "8161",
+			"description": "FACTORING COMPANIES"
+		}, {
+			"code": "9441",
+			"description": "AUTHORS & NOVELISTS"
+		}, {
+			"code": "1130",
+			"description": "Growing of other non-perennial crops"
+		}, {
+			"code": "5044",
+			"description": "WRECKING & DEMOLITION WORKS"
+		}, {
+			"code": "8368",
+			"description": "MACHINERY & EQUIPMENT RENTAL & LEASING"
+		}, {
+			"code": "8112",
+			"description": "Central Banks"
+		}, {
+			"code": "4034",
+			"description": "Treatment and disposal of non-hazardous waste"
+		}, {
+			"code": "9323",
+			"description": "VETERINARY SERVICES"
+		}, {
+			"code": "4031",
+			"description": "Sewerage"
+		}, {
+			"code": "3531",
+			"description": "Manufacture of coke oven products"
+		}, {
+			"code": "3119",
+			"description": "MFR OF COCOACHOCOLATE & SUGAR CONFECTIONERY"
+		}, {
+			"code": "3832",
+			"description": "MFR & REPAIR OF ELECTRICAL DISTRIBUTION EQUIPMENT"
+		}, {
+			"code": "2100",
+			"description": "COAL MINING"
+		}, {
+			"code": "8357",
+			"description": "Other human resources provision"
+		}, {
+			"code": "5043",
+			"description": "LAND RECLAMATION WORKS"
+		}, {
+			"code": "3524",
+			"description": "MFG OF MATCHES"
+		}, {
+			"code": "3312",
+			"description": "MANUFACTURE OF WOODEN CONTAINERS"
+		}, {
+			"code": "5056",
+			"description": "PAINTING & DECORATING"
+		}, {
+			"code": "3123",
+			"description": "Manufacture of starches and starch products"
+		}, {
+			"code": "9452",
+			"description": "MUSEUMS"
+		}, {
+			"code": "3133",
+			"description": "MALT LIQUOR & MALT"
+		}, {
+			"code": "3833",
+			"description": "MFR OF ELECTRICAL CABLES & WIRES"
+		}, {
+			"code": "9342",
+			"description": "PROFESSIONAL ASSOCIATIONS"
+		}, {
+			"code": "3840",
+			"description": "Manufacture of wiring devices"
+		}],
+		"baselSegmentCode": [{
+			"code": "BSC18",
+			"description": "Sovereign and Central Government"
+		}, {
+			"code": "BSC24",
+			"description": "Natural Person"
+		}, {
+			"code": "BSC20",
+			"description": "Public Services Entity"
+		}, {
+			"code": "BSC10",
+			"description": "Corporate Entity"
+		}, {
+			"code": "BSC11",
+			"description": "Channel Finance / Supply Chain Finance"
+		}, {
+			"code": "BSC12",
+			"description": "Object Finance"
+		}, {
+			"code": "BSC23",
+			"description": "Other Development Organisations"
+		}, {
+			"code": "BSC17",
+			"description": "Central Bank"
+		}, {
+			"code": "BSC16",
+			"description": "Qualifying Multilateral Development Bank (MDB)"
+		}, {
+			"code": "BSCNB",
+			"description": "Not Applicable"
+		}, {
+			"code": "BSC21",
+			"description": "Bank"
+		}, {
+			"code": "BSC25",
+			"description": "Central Counterparty"
+		}, {
+			"code": "BSC19",
+			"description": "Regional / Government Authority"
+		}, {
+			"code": "BSC13",
+			"description": "Commodity Finance"
+		}, {
+			"code": "BSC22",
+			"description": "Non Bank Financial Institutions (NBFI)"
+		}, {
+			"code": "NP",
+			"description": "Not Provided"
+		}, {
+			"code": "BSC14",
+			"description": "Project Finance"
+		}, {
+			"code": "BSC15",
+			"description": "Income Producing Real Estate"
+		}],
+		"regions": [{
+			"code": "AFO",
+			"description": "AFRICA"
+		}, {
+			"code": "EUR",
+			"description": "EUROPE"
+		}, {
+			"code": "IND",
+			"description": "INDIA"
+		}, {
+			"code": "SAS",
+			"description": "SOUTH ASIA"
+		}, {
+			"code": "NEA",
+			"description": "NORTH EAST ASIA"
+		}, {
+			"code": "AUA",
+			"description": "AUSTRALASIA"
+		}, {
+			"code": "OTH",
+			"description": "REGION OTHERS"
+		}, {
+			"code": "GCH",
+			"description": "GREATER CHINA"
+		}, {
+			"code": "SEA",
+			"description": "ASEAN"
+		}, {
+			"code": "AMS",
+			"description": "AMERICAS"
+		}, {
+			"code": "AZA",
+			"description": "SOUTH AFRICA"
+		}, {
+			"code": "MEN",
+			"description": "MENAP"
+		}],
+		"baselSubSegmentCode": [{
+			"code": "BSSCNB",
+			"description": "Default BASEL sub-segment"
+		}, {
+			"code": "NP",
+			"description": "Not Provided"
+		}, {
+			"code": "BSC51",
+			"description": "Not Applicable"
+		}],
+		"countries": [{
+			"code": "FI",
+			"description": "FINLAND",
+			"param1": "AFO"
+		}, {
+			"code": "RE",
+			"description": "REUNION",
+			"param1": "AFO"
+		}, {
+			"code": "FO",
+			"description": "FAROE ISLANDS"
+		}, {
+			"code": "IE",
+			"description": "IRELAND",
+			"param1": "EUR"
+		}, {
+			"code": "HM",
+			"description": "HEARD ISLAND,MCDONALD ISLANDS"
+		}, {
+			"code": "MN",
+			"description": "MONGOLIA"
+		}, {
+			"code": "HK",
+			"description": "HONG KONG"
+		}, {
+			"code": "LI",
+			"description": "LIECHTENSTEIN"
+		}, {
+			"code": "IN",
+			"description": "INDIA"
+		}, {
+			"code": "SS",
+			"description": "SOUTH SUDAN"
+		}, {
+			"code": "NB",
+			"description": "GLOBAL DNB (DATA NOT IN BCRS)"
+		}, {
+			"code": "SY",
+			"description": "SYRIAN ARAB REPUBLIC"
+		}, {
+			"code": "KN",
+			"description": "SAINT KITTS AND NEVIS"
+		}, {
+			"code": "TL",
+			"description": "TIMOR-LESTE"
+		}, {
+			"code": "KP",
+			"description": "KOREADEMOCRATIC PEOPLES REP"
+		}, {
+			"code": "MO",
+			"description": "MACAO"
+		}, {
+			"code": "UZ",
+			"description": "UZBEKISTAN"
+		}, {
+			"code": "LK",
+			"description": "SRI LANKA"
+		}, {
+			"code": "KE",
+			"description": "KENYA"
+		}, {
+			"code": "XX",
+			"description": "All Countries / Global"
+		}, {
+			"code": "IR",
+			"description": "IRAN, ISLAMIC REPUBLIC OF"
+		}, {
+			"code": "AR",
+			"description": "ARGENTINA"
+		}, {
+			"code": "TO",
+			"description": "TONGA"
+		}, {
+			"code": "KR",
+			"description": "KOREA, REPUBLIC OF"
+		}, {
+			"code": "MH",
+			"description": "MARSHALL ISLANDS"
+		}, {
+			"code": "SJ",
+			"description": "SVALBARD AND JAN MAYEN"
+		}, {
+			"code": "NP",
+			"description": "NEPAL"
+		}, {
+			"code": "BF",
+			"description": "BURKINA FASO"
+		}, {
+			"code": "AQ",
+			"description": "ANTARCTICA"
+		}, {
+			"code": "AE",
+			"description": "UNITED ARAB EMIRATES"
+		}, {
+			"code": "GT",
+			"description": "EOD CHANGE"
+		}, {
+			"code": "LN",
+			"description": "LABUAN"
+		}, {
+			"code": "JP",
+			"description": "JAPAN"
+		}, {
+			"code": "WS",
+			"description": "SAMOA"
+		}, {
+			"code": "DE",
+			"description": "GERMANY"
+		}, {
+			"code": "BT",
+			"description": "BHUTAN"
+		}, {
+			"code": "GH",
+			"description": "GHANA"
+		}, {
+			"code": "OT",
+			"description": "GLOBAL PRODUCTS"
+		}, {
+			"code": "BH",
+			"description": "BAHRAIN"
+		}, {
+			"code": "CL",
+			"description": "CHILE"
+		}, {
+			"code": "FJ",
+			"description": "FIJI"
+		}, {
+			"code": "TW",
+			"description": "TAIWAN"
+		}, {
+			"code": "MD",
+			"description": "MOLDOVA, REPUBLIC OF"
+		}, {
+			"code": "AF",
+			"description": "AF description"
+		}, {
+			"code": "RA",
+			"description": "AFRICA REGION OTHERS (ARO)"
+		}, {
+			"code": "ZZ",
+			"description": "UNKNOWN"
+		}, {
+			"code": "YE",
+			"description": "YEMEN"
+		}, {
+			"code": "PE",
+			"description": "PERU"
+		}, {
+			"code": "KH",
+			"description": "CAMBODIA"
+		}, {
+			"code": "BL",
+			"description": "SAINT BARTHELEMY"
+		}, {
+			"code": "HU",
+			"description": "HUNGARY"
+		}, {
+			"code": "CH",
+			"description": "SWITZERLAND"
+		}, {
+			"code": "TR",
+			"description": "TURKEY"
+		}, {
+			"code": "VA",
+			"description": "HOLY SEE"
+		}, {
+			"code": "PN",
+			"description": "PITCAIRN"
+		}, {
+			"code": "IS",
+			"description": "ICELAND"
+		}, {
+			"code": "AD",
+			"description": "ANDORRA"
+		}, {
+			"code": "IT",
+			"description": "ITALY"
+		}, {
+			"code": "KZ",
+			"description": "KAZAKHSTAN"
+		}, {
+			"code": "SE",
+			"description": "SWEDEN"
+		}, {
+			"code": "FK",
+			"description": "FALKLAND ISLANDS FLK"
+		}, {
+			"code": "BG",
+			"description": "BULGARIA"
+		}, {
+			"code": "YY",
+			"description": "YY"
+		}, {
+			"code": "MB",
+			"description": "T001"
+		}, {
+			"code": "BC",
+			"description": "Approval_Modify_3 (Test Reject)"
+		}, {
+			"code": "NX",
+			"description": "TESTING"
+		}, {
+			"code": "AH",
+			"description": "ABA HABA"
+		}, {
+			"code": "XL",
+			"description": "Labuan"
+		}, {
+			"code": "AK",
+			"description": "AK Country Update 7"
+		}, {
+			"code": "DH",
+			"description": "EOD TESTING"
+		}, {
+			"code": "GK",
+			"description": "GECKO KERMIT"
+		}, {
+			"code": "AJ",
+			"description": "AJ DESC UPDATED"
+		}, {
+			"code": "EF",
+			"description": "EFESCA"
+		}, {
+			"code": "IZ",
+			"description": "IBIZA"
+		}, {
+			"code": "DA",
+			"description": "DARMARK"
+		}, {
+			"code": "PZ",
+			"description": "PIZZA HUT"
+		}, {
+			"code": "FS",
+			"description": "FISTA"
+		}, {
+			"code": "ZX",
+			"description": "TEST"
+		}, {
+			"code": "YH",
+			"description": "YUHOSLAVIA"
+		}, {
+			"code": "AP",
+			"description": "AP DESC"
+		}, {
+			"code": "CN",
+			"description": "CHINA"
+		}, {
+			"code": "EI",
+			"description": "ELEMENTARY"
+		}, {
+			"code": "IP",
+			"description": "IP MAN"
+		}, {
+			"code": "KB",
+			"description": "KEBABS"
+		}, {
+			"code": "MI",
+			"description": "T002 testing"
+		}, {
+			"code": "IA",
+			"description": "INTEL ASLAND - UPDATED"
+		}, {
+			"code": "HC",
+			"description": "test"
+		}, {
+			"code": "MQ",
+			"description": "MARTINIQUE"
+		}, {
+			"code": "BD",
+			"description": "BANGLADESH"
+		}, {
+			"code": "UG",
+			"description": "UGANDA"
+		}, {
+			"code": "XB",
+			"description": "SUPRANATIONAL "
+		}, {
+			"code": "SA",
+			"description": "SAUDI ARABIA"
+		}, {
+			"code": "PA",
+			"description": "PANAMA"
+		}, {
+			"code": "TH",
+			"description": "THAILAND"
+		}, {
+			"code": "ZC",
+			"description": "Testing purposes only"
+		}, {
+			"code": "TK",
+			"description": "TOKELAU"
+		}, {
+			"code": "RO",
+			"description": "ROMANIA"
+		}, {
+			"code": "CM",
+			"description": "CAMEROON"
+		}, {
+			"code": "JO",
+			"description": "JORDAN"
+		}, {
+			"code": "MS",
+			"description": "MONTSERRAT"
+		}, {
+			"code": "VU",
+			"description": "VANUATU"
+		}, {
+			"code": "GG",
+			"description": "GUERNSEY"
+		}, {
+			"code": "GA",
+			"description": "GABON"
+		}, {
+			"code": "TN",
+			"description": "TUNISIA"
+		}, {
+			"code": "LC",
+			"description": "SAINT LUCIA"
+		}, {
+			"code": "CX",
+			"description": "CHRISTMAS ISLAND"
+		}, {
+			"code": "MK",
+			"description": "MACEDONIA, REPUBLIC OF"
+		}, {
+			"code": "ML",
+			"description": "MALI"
+		}, {
+			"code": "QA",
+			"description": "QATAR"
+		}, {
+			"code": "VI",
+			"description": "VIRGIN ISLANDS, U.S."
+		}, {
+			"code": "ID",
+			"description": "INDONESIA"
+		}, {
+			"code": "NC",
+			"description": "NEW CALEDONIA"
+		}, {
+			"code": "CD",
+			"description": "CONGO, DEMOCRATIC REPUBLIC OF"
+		}, {
+			"code": "XA",
+			"description": "Saudi offshore"
+		}, {
+			"code": "MP",
+			"description": "NORTHERN MARIANA ISLANDS"
+		}, {
+			"code": "PH",
+			"description": "PHILIPPINES"
+		}, {
+			"code": "PL",
+			"description": "POLAND"
+		}, {
+			"code": "EH",
+			"description": "WESTERN SAHARA"
+		}, {
+			"code": "OM",
+			"description": "OMAN"
+		}, {
+			"code": "UY",
+			"description": "URUGUAY"
+		}, {
+			"code": "PW",
+			"description": "PALAU"
+		}, {
+			"code": "JE",
+			"description": "JERSEY"
+		}, {
+			"code": "NA",
+			"description": "NAMIBIA"
+		}, {
+			"code": "EG",
+			"description": "EGYPT"
+		}, {
+			"code": "CA",
+			"description": "CANADA"
+		}, {
+			"code": "LA",
+			"description": "LAO PEOPLES DEMOCRATIC REP"
+		}, {
+			"code": "XK",
+			"description": "KOSOVO"
+		}, {
+			"code": "SD",
+			"description": "SUDAN"
+		}, {
+			"code": "KW",
+			"description": "KUWAIT"
+		}, {
+			"code": "BB",
+			"description": "BARBADOS"
+		}, {
+			"code": "MY",
+			"description": "MALAYSIA"
+		}, {
+			"code": "ES",
+			"description": "SPAIN"
+		}, {
+			"code": "ER",
+			"description": "ERITREA"
+		}, {
+			"code": "PK",
+			"description": "PAKISTAN"
+		}, {
+			"code": "PR",
+			"description": "PUERTO RICO"
+		}, {
+			"code": "CC",
+			"description": "COCOS (KEELING) ISLANDS"
+		}, {
+			"code": "KG",
+			"description": "KYRGYZSTAN"
+		}, {
+			"code": "DJ",
+			"description": "DJIBOUTI"
+		}, {
+			"code": "SP",
+			"description": "SNPC - MENA Others"
+		}, {
+			"code": "BZ",
+			"description": "BELIZE"
+		}, {
+			"code": "BN",
+			"description": "BRUNEI DARUSSALAM"
+		}, {
+			"code": "CZ",
+			"description": "CZECH REPUBLIC"
+		}, {
+			"code": "SO",
+			"description": "SOMALIA"
+		}, {
+			"code": "GL",
+			"description": "GREENLAND"
+		}, {
+			"code": "MV",
+			"description": "MALDIVES"
+		}, {
+			"code": "TZ",
+			"description": "TANZANIA, UNITED REPUBLIC OF"
+		}, {
+			"code": "LY",
+			"description": "LIBYA"
+		}, {
+			"code": "CO",
+			"description": "COLOMBIA"
+		}, {
+			"code": "VN",
+			"description": "VIETNAM"
+		}, {
+			"code": "GE",
+			"description": "GEORGIA"
+		}, {
+			"code": "LR",
+			"description": "LIBERIA"
+		}, {
+			"code": "PS",
+			"description": "PALESTINE, STATE OF"
+		}, {
+			"code": "AN",
+			"description": "NETHERLANDS ANTILLES"
+		}, {
+			"code": "YU",
+			"description": "YUGOSLAVIA"
+		}, {
+			"code": "AG",
+			"description": "ANTIGUA AND  BARBUDA"
+		}, {
+			"code": "AU",
+			"description": "Australia"
+		}, {
+			"code": "SI",
+			"description": "SLOVENIA"
+		}, {
+			"code": "KM",
+			"description": "COMOROS"
+		}, {
+			"code": "LB",
+			"description": "LEBANON"
+		}, {
+			"code": "TC",
+			"description": "TURKS AND CAICOS ISLANDS"
+		}, {
+			"code": "UM",
+			"description": "UNITED STATES OUTLYING ISLAND"
+		}, {
+			"code": "CK",
+			"description": "COOK ISLANDS"
+		}, {
+			"code": "BV",
+			"description": "BOUVET ISLAND"
+		}, {
+			"code": "ZA",
+			"description": "SOUTH AFRICA"
+		}, {
+			"code": "BO",
+			"description": "BOLIVIA,PLURINATIONAL STATEOF"
+		}, {
+			"code": "LU",
+			"description": "LUXEMBOURG"
+		}, {
+			"code": "ZW",
+			"description": "ZIMBABWE"
+		}, {
+			"code": "CU",
+			"description": "CUBA"
+		}, {
+			"code": "IQ",
+			"description": "IRAQ"
+		}, {
+			"code": "GD",
+			"description": "GRENADA"
+		}, {
+			"code": "NF",
+			"description": "NORFOLK ISLAND"
+		}, {
+			"code": "DK",
+			"description": "DENMARK"
+		}, {
+			"code": "SC",
+			"description": "SEYCHELLES"
+		}, {
+			"code": "DZ",
+			"description": "ALGERIA"
+		}, {
+			"code": "PY",
+			"description": "PARAGUAY"
+		}, {
+			"code": "NR",
+			"description": "NAURU"
+		}, {
+			"code": "GP",
+			"description": "GUADELOUPE"
+		}, {
+			"code": "TD",
+			"description": "CHAD"
+		}, {
+			"code": "DF",
+			"description": "DUBAI INT FIN CENTRE (DIFC)"
+		}, {
+			"code": "SX",
+			"description": "SINT MAARTEN (DUTCH PART)"
+		}, {
+			"code": "KI",
+			"description": "KIRIBATI"
+		}, {
+			"code": "NO",
+			"description": "NORWAY"
+		}, {
+			"code": "RW",
+			"description": "RWANDA"
+		}, {
+			"code": "MA",
+			"description": "MOROCCO"
+		}, {
+			"code": "GY",
+			"description": "GUYANA"
+		}, {
+			"code": "NZ",
+			"description": "NEW ZEALAND"
+		}, {
+			"code": "PT",
+			"description": "PORTUGAL"
+		}, {
+			"code": "GW",
+			"description": "GUINEA-BISSAU"
+		}, {
+			"code": "KY",
+			"description": "CAYMAN ISLANDS"
+		}, {
+			"code": "TV",
+			"description": "TUVALU"
+		}, {
+			"code": "TF",
+			"description": "FRENCH SOUTHERN TERRITORIES"
+		}, {
+			"code": "CF",
+			"description": "CENTRAL AFRICAN REPUBLIC"
+		}, {
+			"code": "BR",
+			"description": "BRAZIL"
+		}, {
+			"code": "MM",
+			"description": "MYANMAR"
+		}, {
+			"code": "GR",
+			"description": "GREECE"
+		}, {
+			"code": "NG",
+			"description": "NIGERIA"
+		}, {
+			"code": "VE",
+			"description": "VENEZUELA, BOLIVARIAN REP OF"
+		}, {
+			"code": "PG",
+			"description": "PAPUA NEW GUINEA"
+		}, {
+			"code": "EE",
+			"description": "ESTONIA"
+		}, {
+			"code": "CI",
+			"description": "COTE D'IVOIRE"
+		}, {
+			"code": "SR",
+			"description": "SURINAME"
+		}, {
+			"code": "FM",
+			"description": "MICRONESIA,FEDERATED STATE OF"
+		}, {
+			"code": "MT",
+			"description": "MALTA"
+		}, {
+			"code": "BW",
+			"description": "BOTSWANA"
+		}, {
+			"code": "AS",
+			"description": "AMERICAN SAMOA"
+		}, {
+			"code": "SB",
+			"description": "SOLOMON ISLANDS"
+		}, {
+			"code": "SM",
+			"description": "SAN MARINO"
+		}, {
+			"code": "ST",
+			"description": "SAO TOME AND PRINCIPE"
+		}, {
+			"code": "US",
+			"description": "UNITED STATES OF AMERICA"
+		}, {
+			"code": "SG",
+			"description": "SINGAPORE"
+		}, {
+			"code": "IM",
+			"description": "ISLE OF MAN"
+		}, {
+			"code": "GQ",
+			"description": "EQUATORIAL GUINEA"
+		}, {
+			"code": "BM",
+			"description": "BERMUDA"
+		}, {
+			"code": "NU",
+			"description": "NIUE"
+		}, {
+			"code": "TJ",
+			"description": "TAJIKISTAN"
+		}, {
+			"code": "CG",
+			"description": "CONGO"
+		}, {
+			"code": "SK",
+			"description": "SLOVAKIA"
+		}, {
+			"code": "NE",
+			"description": "NIGER"
+		}, {
+			"code": "AI",
+			"description": "ANGUILLA"
+		}, {
+			"code": "GS",
+			"description": "SOUTH GEORGIA,SANDWICH ISLAND"
+		}, {
+			"code": "LS",
+			"description": "LESOTHO"
+		}, {
+			"code": "TT",
+			"description": "TRINIDAD AND TOBAGO"
+		}, {
+			"code": "YT",
+			"description": "MAYOTTE"
+		}, {
+			"code": "SZ",
+			"description": "SWAZILAND"
+		}, {
+			"code": "EC",
+			"description": "ECUADOR"
+		}, {
+			"code": "LV",
+			"description": "LATVIA"
+		}, {
+			"code": "MZ",
+			"description": "MOZAMBIQUE"
+		}, {
+			"code": "CW",
+			"description": "CURACAO"
+		}, {
+			"code": "GF",
+			"description": "FRENCH GUIANA"
+		}, {
+			"code": "SL",
+			"description": "SIERRA LEONE"
+		}, {
+			"code": "DO",
+			"description": "DOMINICAN REPUBLIC"
+		}, {
+			"code": "BE",
+			"description": "BELGIUM"
+		}, {
+			"code": "BJ",
+			"description": "BENIN"
+		}, {
+			"code": "HN",
+			"description": "HN description"
+		}, {
+			"code": "NL",
+			"description": "NETHERLANDS"
+		}, {
+			"code": "SN",
+			"description": "SENEGAL"
+		}, {
+			"code": "GU",
+			"description": "GUAM"
+		}, {
+			"code": "PM",
+			"description": "SAINT PIERRE AND MIQUELON"
+		}, {
+			"code": "MR",
+			"description": "sample future"
+		}, {
+			"code": "NI",
+			"description": "NICARAGUA"
+		}, {
+			"code": "SH",
+			"description": "STHELENA ASCENSN TRISTANCUNHA"
+		}, {
+			"code": "TG",
+			"description": "TOGO"
+		}, {
+			"code": "CR",
+			"description": "COSTA RICA"
+		}, {
+			"code": "LT",
+			"description": "LITHUANIA"
+		}, {
+			"code": "BI",
+			"description": "BURUNDI"
+		}, {
+			"code": "VG",
+			"description": "VIRGIN ISLANDS, BRITISH"
+		}, {
+			"code": "IO",
+			"description": "BRITISH INDIAN OCEANTERRITORY"
+		}, {
+			"code": "GN",
+			"description": "GUINEA"
+		}, {
+			"code": "BQ",
+			"description": "BONAIRE, SINT EUSTATIUS, SABA"
+		}, {
+			"code": "GB",
+			"description": "UNITED KINGDOM"
+		}, {
+			"code": "MU",
+			"description": "MAURITIUS"
+		}, {
+			"code": "AW",
+			"description": "ARUBA"
+		}, {
+			"code": "AM",
+			"description": "ARMENIA"
+		}, {
+			"code": "MG",
+			"description": "MADAGASCAR"
+		}, {
+			"code": "HT",
+			"description": "HAITI"
+		}, {
+			"code": "FR",
+			"description": "FRANCE"
+		}, {
+			"code": "MW",
+			"description": "MALAWI"
+		}, {
+			"code": "MX",
+			"description": "MEXICO"
+		}, {
+			"code": "TM",
+			"description": "TURKMENISTAN"
+		}, {
+			"code": "ET",
+			"description": "ETHIOPIA"
+		}, {
+			"code": "SV",
+			"description": "EL SALVADOR"
+		}, {
+			"code": "AT",
+			"description": "AUSTRIA"
+		}, {
+			"code": "ZM",
+			"description": "ZAMBIA"
+		}, {
+			"code": "BS",
+			"description": "BAHAMAS"
+		}, {
+			"code": "MC",
+			"description": "MONACO"
+		}, {
+			"code": "CV",
+			"description": "CAPO VERDE"
+		}, {
+			"code": "VC",
+			"description": "SAINT VINCENT, THE GRENADINES"
+		}, {
+			"code": "ME",
+			"description": "MONTENEGRO"
+		}, {
+			"code": "GM",
+			"description": "GAMBIA"
+		}, {
+			"code": "MF",
+			"description": "SAINT MARTIN (FRENCH PART)"
+		}, {
+			"code": "AL",
+			"description": "Malaysia"
+		}, {
+			"code": "AO",
+			"description": "ANGOLA"
+		}, {
+			"code": "DM",
+			"description": "DOMINICA"
+		}, {
+			"code": "RS",
+			"description": "SERBIA"
+		}, {
+			"code": "JM",
+			"description": "JAMAICA"
+		}, {
+			"code": "HR",
+			"description": "CROATIA"
+		}, {
+			"code": "CY",
+			"description": "CYPRUS"
+		}, {
+			"code": "WF",
+			"description": "WALLIS AND FUTUNA"
+		}, {
+			"code": "AZ",
+			"description": "AZERBAIJAN"
+		}, {
+			"code": "PF",
+			"description": "FRENCH POLYNESIA"
+		}, {
+			"code": "UA",
+			"description": "UKRAINE"
+		}, {
+			"code": "BA",
+			"description": "BA Description"
+		}, {
+			"code": "GI",
+			"description": "GIBRALTAR"
+		}, {
+			"code": "RU",
+			"description": "RUSSIAN FEDERATION"
+		}, {
+			"code": "BY",
+			"description": "BELARUS"
+		}, {
+			"code": "AX",
+			"description": "ALAND ISLANDS"
+		}, {
+			"code": "IL",
+			"description": "ISRAEL"
+		}],
+		"id": 1,
+		"subSegments": [{
+			"code": "H4",
+			"description": "Metal Traders",
+			"param1": "20"
+		}, {
+			"code": "H1",
+			"description": "Energy Traders",
+			"param1": "20"
+		}, {
+			"code": "G1",
+			"description": "Agriculture",
+			"param1": "20"
+		}, {
+			"code": "1",
+			"description": "Private Banking",
+			"param1": "30"
+		}, {
+			"code": "K3",
+			"description": "Network Clients",
+			"param1": "30"
+		}, {
+			"code": "K2",
+			"description": "SCCG",
+			"param1": "30"
+		}, {
+			"code": "K1",
+			"description": "Global Corporates"
+		}, {
+			"code": "P3",
+			"description": "Insurance Companies"
+		}, {
+			"code": "P2",
+			"description": "Sovereign Wealth Funds"
+		}, {
+			"code": "N3",
+			"description": "Private Banks"
+		}, {
+			"code": "P8",
+			"description": "Investment Companies"
+		}, {
+			"code": "P9",
+			"description": "Finance Companies"
+		}, {
+			"code": "M1",
+			"description": "Ministry of Finance"
+		}, {
+			"code": "M4",
+			"description": "Other Government Entities"
+		}, {
+			"code": "P5",
+			"description": "Hedge Funds"
+		}, {
+			"code": "N4",
+			"description": "Investment Banks"
+		}, {
+			"code": "P4",
+			"description": "Broker Dealers Updated"
+		}, {
+			"code": "F3",
+			"description": "Other Financial Institutions"
+		}, {
+			"code": "N6",
+			"description": "Local Bank Non-Franchise"
+		}, {
+			"code": "P6",
+			"description": "Real Money Funds"
+		}, {
+			"code": "O1",
+			"description": "Development Organisations"
+		}, {
+			"code": "N2",
+			"description": "Central Banks"
+		}, {
+			"code": "N5",
+			"description": "Local Bank Franchise"
+		}, {
+			"code": "M3",
+			"description": "Local Governments"
+		}, {
+			"code": "P10",
+			"description": "Others"
+		}, {
+			"code": "P7",
+			"description": "Financial Sponsors"
+		}, {
+			"code": "F1",
+			"description": "Banks"
+		}, {
+			"code": "N7",
+			"description": "Universal Banks"
+		}, {
+			"code": "P11",
+			"description": "Public Pension Funds"
+		}, {
+			"code": "M2",
+			"description": "Multilaterals"
+		}, {
+			"code": "A2",
+			"description": "International Corporates"
+		}, {
+			"code": "B1",
+			"description": "Local Corporates"
+		}, {
+			"code": "A1",
+			"description": "Middle Markets"
+		}, {
+			"code": "ZZ",
+			"description": "Unmapped"
+		}, {
+			"code": "S7",
+			"description": "Local Corporate-Internal"
+		}, {
+			"code": "S4",
+			"description": "Finance Companies-Internal"
+		}, {
+			"code": "S2",
+			"description": "Broker Dealers-Internal"
+		}, {
+			"code": "S1",
+			"description": "Banks-Internal"
+		}, {
+			"code": "S3",
+			"description": "Financial Sponsors-Internal"
+		}, {
+			"code": "S99",
+			"description": "Own Account-Seg S"
+		}, {
+			"code": "S8",
+			"description": "CTA (Commodity Traders & Agriculture)-Internal"
+		}, {
+			"code": "S5",
+			"description": "Other Financial Institutions-Internal"
+		}, {
+			"code": "S6",
+			"description": "Global Corporate-Internal"
+		}, {
+			"code": "09",
+			"description": "SME - High Growth Small Business"
+		}, {
+			"code": "95",
+			"description": "GSAM NPL - UPDATE"
+		}, {
+			"code": "10",
+			"description": "SME - Mass Market Small Business"
+		}, {
+			"code": "07",
+			"description": "Priority"
+		}, {
+			"code": "19",
+			"description": "SME - High Value Small Business "
+		}, {
+			"code": "03",
+			"description": "Medium Enterprise"
+		}, {
+
+			"code": "20",
+			"description": "SME Express Trade"
+		}],
+		"bookingLocations": [{
+            "code": "SG/SCBL",
+            "description": "SG/SCBL"
+        }, {
+            "code": "MY/SCBL",
+            "description": "MY/SCBL"
+        }, {
+            "code": "TH/SCBL",
+            "description": "TH/SCBL"
+        }, {
+            "code": "ID/SCBL",
+            "description": "ID/SCBL"
+        }, {
+            "code": "IN/SCBL",
+            "description": "IN/SCBL"
+        }, {
+            "code": "BR/SCBL",
+            "description": "BR/SCBL"
+        }],
+		"rmUsers": [{
+		"id": 1,
+	    "empCode": "LF22",
+	    "empBookingLocation": "SG/SCBL",
+	    "empPsId": "1213507",
+	    "empName": "Nikhil Vaswani",
+	    "empCountry": "SG",
+	    "empRole": "TBS"
+	}, {
+		"id":2,
+	    "empCode": "LF23",
+	    "empBookingLocation": "SG/SCBL",
+	    "empPsId": "1213508",
+	    "empName": "Nikhil Vaswani1",
+	    "empCountry": "SG",
+	    "empRole": "ACO"
+	}, {
+		"id": 3,
+	    "empCode": "LF22",
+	    "empBookingLocation": "SG/SCBL",
+	    "empPsId": "1213507",
+	    "empName": "Nikhil Vaswani",
+	    "empCountry": "SG",
+	    "empRole": "FMF"
+	}, {
+		"id": 4,
+	    "empCode": "LF22",
+	    "empBookingLocation": "SG/SCBL",
+	    "empPsId": "1213507",
+	    "empName": "Nikhil Vaswani",
+	    "empCountry": "SG",
+	    "empRole": "RTS"
+	}, {
+		"id": 5,
+	    "empCode": "LF22",
+	    "empBookingLocation": "SG/SCBL",
+	    "empPsId": "1213507",
+	    "empName": "Nikhil Vaswani",
+	    "empCountry": "SG",
+	    "empRole": "RAM"
+	}, {
+		"id": 6,
+	    "empCode": "LF22",
+	    "empBookingLocation": "SG/SCBL",
+	    "empPsId": "1213507",
+	    "empName": "Nikhil Vaswani",
+	    "empCountry": "SG",
+	    "empRole": "FAM"
+	}, {
+		"id": 7,
+	    "empCode": "LF22",
+	    "empBookingLocation": "SG/SCBL",
+	    "empPsId": "1213507",
+	    "empName": "Nikhil Vaswani",
+	    "empCountry": "SG",
+	    "empRole": "CFS"
+	}]
+	}
+}

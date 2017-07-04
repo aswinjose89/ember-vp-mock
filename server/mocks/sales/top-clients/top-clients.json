@@ -1,0 +1,106 @@
+{
+    "topClients":[
+        {
+        "entityName": "JP Morgan Asset Management",
+        "entityId": "11252468",
+        "id": 11252468,
+        "subProfileId": "0",
+        "entityType": "C",
+        "quantity": "46641001.54",
+        "indicator": "0",
+        "filterName": "rev"
+    },
+    {
+        "entityId": "990000327",
+        "id": 990000327,
+        "subProfileId": "0",
+        "entityName": "Coca Cola Group",
+        "entityType": "G",
+        "quantity": "60",
+        "indicator": "-1",
+        "filterName": "rev"
+
+    },
+    {
+        "entityId": "11184321",
+        "id": 11184321,
+        "subProfileId": "0",
+        "entityName": "SamSung Electronics",
+        "entityType": "C",
+        "quantity": "0",
+        "indicator": "0",
+        "filterName": "rev"
+
+    },
+    {
+        "entityId": "11184322",
+        "id": 11184322,
+        "subProfileId": "0",
+        "entityName": "SamSung Electronics",
+        "entityType": "C",
+        "quantity": "0",
+        "indicator": "0",
+        "filterName": "rev"
+    },
+    {
+        "entityId": "11184323",
+        "id": 11184323,
+        "subProfileId": "0",
+        "entityName": "SamSung Electronics",
+        "entityType": "C",
+        "quantity": "0",
+        "indicator": "0",
+        "filterName": "rev"
+    },
+    {
+        "entityId": "11184324",
+        "id": 11184324,
+        "subProfileId": "0",
+        "entityName": "SamSung Electronics",
+        "entityType": "C",
+        "quantity": "0",
+        "indicator": "0",
+        "filterName": "rev"
+    },
+    {
+        "entityId": "11184325",
+        "id": 11184325,
+        "subProfileId": "0",
+        "entityName": "SamSung Electronics",
+        "entityType": "C",
+        "quantity": "0",
+        "indicator": "0",
+        "filterName": "rev"
+    },
+    {
+        "entityId": "11184326",
+        "id": 11184326,
+        "subProfileId": "0",
+        "entityName": "SamSung Electronics",
+        "entityType": "C",
+        "quantity": "0",
+        "indicator": "0",
+        "filterName": "rev"
+    },
+    {
+        "id": 11184327,
+        "entityId": "11184327",
+        "subProfileId": "0",
+        "entityName": "SamSung Electronics",
+        "entityType": "C",
+        "quantity": "0",
+        "indicator": "0",
+        "filterName": "rev"
+    },
+    {
+        "entityId": "11184328",
+        "id": 11184328,
+        "subProfileId": "0",
+        "entityName": "SamSung Electronics",
+        "entityType": "C",
+        "quantity": "0",
+        "indicator": "0",
+        "filterName": "rev"
+    }
+    ]
+}

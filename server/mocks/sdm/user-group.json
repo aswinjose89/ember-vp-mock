@@ -1,0 +1,32 @@
+{
+	"userGroups": [{
+		"id": 1,
+	    "fmgCode": null,
+	    "fmgId": null,
+	    "fmgLocation": "",
+	    "fmgName": null,
+	    "gamCode": "GS",
+	    "gamId": "1138725",
+	    "gamLocation": "AU/SCBL",
+	    "gamName": "Smith, Glenn",
+	    "groupCountry": "AU",
+	    "groupCreditgrade": "3B",
+	    "groupId": 990002170,
+	    "groupIsiccode": null,
+	    "groupName": "GRP NAME 990002170",
+	    "groupRelationwithscb": null,
+	    "groupSegment": "K",
+	    "groupSubSegment": null,
+	    "groupType": "CR",
+	    "gtsCode": "P977",
+	    "gtsLocation": "AU/SCBL",
+	    "gtsName": "Arnaiz, Luisa",
+	    "gtsPsid": "1310112",
+	    "sciLeId": 11117446,
+	    "groupSegmentDesc": null,
+	    "groupSubSegmentDesc": null,
+	    "countryDesc": null,
+	    "regionId": null,
+	    "regionDesc": null
+	}]
+}

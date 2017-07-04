@@ -1,0 +1,28 @@
+{
+  "prospectCharts": [
+    {
+      "id": 1,
+      "category": "Lead",
+      "value": 1,
+      "color": "#B3CDDE"
+    },
+    {
+      "id": 2,
+      "category": "Qualified",
+      "value": 5,
+      "color": "#2C85BF"
+    },
+    {
+      "id": 3,
+      "category": "Converted",
+      "value": 7,
+      "color": "#98D18C"
+    },
+    {
+      "id": 4,
+      "category": "Disqualified",
+      "value": 3,
+      "color": "#E05430"
+    }
+  ]
+}

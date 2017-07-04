@@ -1,0 +1,9 @@
+{
+	"offboarding/caseIds": [{
+		"id": 1,
+		"caseId": "1"
+	}, {
+		"id": 2,
+		"caseId": "2"
+	}]
+}

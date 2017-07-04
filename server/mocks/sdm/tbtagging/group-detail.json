@@ -1,0 +1,27 @@
+{
+	"groupDetails": [{
+      "id": "12",
+      "groupName": "Macsteel Groupqq44",
+      "groupId": "90003561",
+      "domicileRegion": "Africa",
+      "domicileCountry": "Zambia",
+      "groupSegment": "Local Corporate",
+      "TBSegment": "Global Corporate",
+      "entityType": "group",
+      "actions": {
+        "add":1,
+        "replace":2,
+        "delete": 5
+      },
+      "isChecked": false
+    }],
+      "meta": {
+          "count": {
+            "actioned": 4,
+            "groups": 2,
+            "clients": 2
+          },
+    "totalRecords": 100,
+    "isActionPresent": true
+  }
+}

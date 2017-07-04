@@ -1,0 +1,1831 @@
+{
+    "countryRegions":
+    [{
+    "id": 1,
+    "regionId": "1500",
+    "countryId": "AF",
+    "regionDescription": "MENAP",
+    "countryDescription": "AFGHANISTAN",
+    "scbNetwork": "N"
+}, {
+    "id": 2,
+    "regionId": "1300",
+    "countryId": "ARO",
+    "regionDescription": "AFRICA",
+    "countryDescription": "AFRICA REGION OTHERS",
+    "scbNetwork": "N"
+}, {
+    "id": 3,
+    "regionId": "1300",
+    "countryId": "RA",
+    "regionDescription": "AFRICA",
+    "countryDescription": "AFRICA REGION OTHERS (ARO)",
+    "scbNetwork": "N"
+}, {
+    "id": 4,
+    "regionId": "1800",
+    "countryId": "AX",
+    "regionDescription": "EUROPE",
+    "countryDescription": "ALAND ISLANDS",
+    "scbNetwork": "N"
+}, {
+    "id": 5,
+    "regionId": "1800",
+    "countryId": "AL",
+    "regionDescription": "EUROPE",
+    "countryDescription": "ALBANIA",
+    "scbNetwork": "N"
+}, {
+    "id": 6,
+    "regionId": "1500",
+    "countryId": "DZ",
+    "regionDescription": "MENAP",
+    "countryDescription": "ALGERIA",
+    "scbNetwork": "N"
+}, {
+    "id": 7,
+    "regionId": "1600",
+    "countryId": "AS",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "AMERICAN SAMOA",
+    "scbNetwork": "N"
+}, {
+    "id": 8,
+    "regionId": "1800",
+    "countryId": "AD",
+    "regionDescription": "EUROPE",
+    "countryDescription": "ANDORRA",
+    "scbNetwork": "N"
+}, {
+    "id": 9,
+    "regionId": "1300",
+    "countryId": "AO",
+    "regionDescription": "AFRICA",
+    "countryDescription": "ANGOLA",
+    "scbNetwork": "N"
+}, {
+    "id": 10,
+    "regionId": "1600",
+    "countryId": "AI",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "ANGUILLA",
+    "scbNetwork": "N"
+}, {
+    "id": 11,
+    "regionId": "1000",
+    "countryId": "AQ",
+    "regionDescription": null,
+    "countryDescription": "ANTARCTICA",
+    "scbNetwork": "N"
+}, {
+    "id": 12,
+    "regionId": "1600",
+    "countryId": "AG",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "ANTIGUA AND BARBUDA",
+    "scbNetwork": "N"
+}, {
+    "id": 13,
+    "regionId": "1600",
+    "countryId": "AR",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "ARGENTINA",
+    "scbNetwork": "N"
+}, {
+    "id": 14,
+    "regionId": "1800",
+    "countryId": "AM",
+    "regionDescription": "EUROPE",
+    "countryDescription": "ARMENIA",
+    "scbNetwork": "N"
+}, {
+    "id": 15,
+    "regionId": "1600",
+    "countryId": "AW",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "ARUBA",
+    "scbNetwork": "N"
+}, {
+    "id": 16,
+    "regionId": "1400",
+    "countryId": "AU",
+    "regionDescription": "ASEAN",
+    "countryDescription": "AUSTRALIA",
+    "scbNetwork": "N"
+}, {
+    "id": 17,
+    "regionId": "1800",
+    "countryId": "AT",
+    "regionDescription": "EUROPE",
+    "countryDescription": "AUSTRIA",
+    "scbNetwork": "N"
+}, {
+    "id": 18,
+    "regionId": "1800",
+    "countryId": "AZ",
+    "regionDescription": "EUROPE",
+    "countryDescription": "AZERBAIJAN",
+    "scbNetwork": "N"
+}, {
+    "id": 19,
+    "regionId": "1600",
+    "countryId": "BS",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "BAHAMAS",
+    "scbNetwork": "N"
+}, {
+    "id": 20,
+    "regionId": "1500",
+    "countryId": "BH",
+    "regionDescription": "MENAP",
+    "countryDescription": "BAHRAIN",
+    "scbNetwork": "Y"
+}, {
+    "id": 21,
+    "regionId": "1700",
+    "countryId": "BD",
+    "regionDescription": "SOUTH ASIA",
+    "countryDescription": "BANGLADESH",
+    "scbNetwork": "Y"
+}, {
+    "id": 22,
+    "regionId": "1600",
+    "countryId": "BB",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "BARBADOS",
+    "scbNetwork": "N"
+}, {
+    "id": 23,
+    "regionId": "1800",
+    "countryId": "BY",
+    "regionDescription": "EUROPE",
+    "countryDescription": "BELARUS",
+    "scbNetwork": "N"
+}, {
+    "id": 24,
+    "regionId": "1800",
+    "countryId": "BE",
+    "regionDescription": "EUROPE",
+    "countryDescription": "BELGIUM",
+    "scbNetwork": "N"
+}, {
+    "id": 25,
+    "regionId": "1600",
+    "countryId": "BZ",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "BELIZE",
+    "scbNetwork": "N"
+}, {
+    "id": 26,
+    "regionId": "1300",
+    "countryId": "BJ",
+    "regionDescription": "AFRICA",
+    "countryDescription": "BENIN",
+    "scbNetwork": "N"
+}, {
+    "id": 27,
+    "regionId": "1600",
+    "countryId": "BM",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "BERMUDA",
+    "scbNetwork": "N"
+}, {
+    "id": 28,
+    "regionId": "1700",
+    "countryId": "BT",
+    "regionDescription": "SOUTH ASIA",
+    "countryDescription": "BHUTAN",
+    "scbNetwork": "N"
+}, {
+    "id": 29,
+    "regionId": "1600",
+    "countryId": "BO",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "BOLIVIA, PLURINATIONAL STATE OF",
+    "scbNetwork": "N"
+}, {
+    "id": 30,
+    "regionId": "1800",
+    "countryId": "BQ",
+    "regionDescription": "EUROPE",
+    "countryDescription": "BONAIRE, SINT EUSTATIUS AND SABA",
+    "scbNetwork": "N"
+}, {
+    "id": 31,
+    "regionId": "1800",
+    "countryId": "BA",
+    "regionDescription": "EUROPE",
+    "countryDescription": "BOSNIA AND HERZEGOVINA",
+    "scbNetwork": "N"
+}, {
+    "id": 32,
+    "regionId": "1300",
+    "countryId": "BW",
+    "regionDescription": "AFRICA",
+    "countryDescription": "BOTSWANA",
+    "scbNetwork": "Y"
+}, {
+    "id": 33,
+    "regionId": "1800",
+    "countryId": "BV",
+    "regionDescription": "EUROPE",
+    "countryDescription": "BOUVET ISLAND",
+    "scbNetwork": "N"
+}, {
+    "id": 34,
+    "regionId": "1600",
+    "countryId": "BR",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "BRAZIL",
+    "scbNetwork": "N"
+}, {
+    "id": 35,
+    "regionId": "1800",
+    "countryId": "IO",
+    "regionDescription": "EUROPE",
+    "countryDescription": "BRITISH INDIAN OCEAN TERRITORY",
+    "scbNetwork": "N"
+}, {
+    "id": 36,
+    "regionId": "1600",
+    "countryId": "VG",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "BRITISH VIRGIN ISLANDS",
+    "scbNetwork": "N"
+}, {
+    "id": 37,
+    "regionId": "1400",
+    "countryId": "BN",
+    "regionDescription": "ASEAN",
+    "countryDescription": "BRUNEI DARUSSALAM",
+    "scbNetwork": "N"
+}, {
+    "id": 38,
+    "regionId": "1800",
+    "countryId": "BG",
+    "regionDescription": "EUROPE",
+    "countryDescription": "BULGARIA",
+    "scbNetwork": "N"
+}, {
+    "id": 39,
+    "regionId": "1300",
+    "countryId": "BF",
+    "regionDescription": "AFRICA",
+    "countryDescription": "BURKINA FASO",
+    "scbNetwork": "N"
+}, {
+    "id": 40,
+    "regionId": "1300",
+    "countryId": "BI",
+    "regionDescription": "AFRICA",
+    "countryDescription": "BURUNDI",
+    "scbNetwork": "N"
+}, {
+    "id": 41,
+    "regionId": "1400",
+    "countryId": "KH",
+    "regionDescription": "ASEAN",
+    "countryDescription": "CAMBODIA",
+    "scbNetwork": "N"
+}, {
+    "id": 42,
+    "regionId": "1300",
+    "countryId": "CM",
+    "regionDescription": "AFRICA",
+    "countryDescription": "CAMEROON",
+    "scbNetwork": "Y"
+}, {
+    "id": 43,
+    "regionId": "1600",
+    "countryId": "CA",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "CANADA",
+    "scbNetwork": "N"
+}, {
+    "id": 44,
+    "regionId": "1300",
+    "countryId": "CV",
+    "regionDescription": "AFRICA",
+    "countryDescription": "CAPE VERDE",
+    "scbNetwork": "N"
+}, {
+    "id": 45,
+    "regionId": "1600",
+    "countryId": "KY",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "CAYMAN ISLANDS",
+    "scbNetwork": "N"
+}, {
+    "id": 46,
+    "regionId": "1300",
+    "countryId": "CF",
+    "regionDescription": "AFRICA",
+    "countryDescription": "CENTRAL AFRICAN REPUBLIC",
+    "scbNetwork": "N"
+}, {
+    "id": 47,
+    "regionId": "1300",
+    "countryId": "TD",
+    "regionDescription": "AFRICA",
+    "countryDescription": "CHAD",
+    "scbNetwork": "N"
+}, {
+    "id": 48,
+    "regionId": "1600",
+    "countryId": "CL",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "CHILE",
+    "scbNetwork": "N"
+}, {
+    "id": 49,
+    "regionId": "1900",
+    "countryId": "CN",
+    "regionDescription": "GREATER CHINA",
+    "countryDescription": "CHINA",
+    "scbNetwork": "Y"
+}, {
+    "id": 50,
+    "regionId": "1400",
+    "countryId": "CX",
+    "regionDescription": "ASEAN",
+    "countryDescription": "CHRISTMAS ISLAND",
+    "scbNetwork": "N"
+}, {
+    "id": 51,
+    "regionId": "1400",
+    "countryId": "CC",
+    "regionDescription": "ASEAN",
+    "countryDescription": "COCOS (KEELING) ISLANDS",
+    "scbNetwork": "N"
+}, {
+    "id": 52,
+    "regionId": "1600",
+    "countryId": "CO",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "COLOMBIA",
+    "scbNetwork": "N"
+}, {
+    "id": 53,
+    "regionId": "1300",
+    "countryId": "KM",
+    "regionDescription": "AFRICA",
+    "countryDescription": "COMOROS",
+    "scbNetwork": "N"
+}, {
+    "id": 54,
+    "regionId": "1300",
+    "countryId": "CG",
+    "regionDescription": "AFRICA",
+    "countryDescription": "CONGO",
+    "scbNetwork": "N"
+}, {
+    "id": 55,
+    "regionId": "1300",
+    "countryId": "CD",
+    "regionDescription": "AFRICA",
+    "countryDescription": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+    "scbNetwork": "N"
+}, {
+    "id": 56,
+    "regionId": "1400",
+    "countryId": "CK",
+    "regionDescription": "ASEAN",
+    "countryDescription": "COOK ISLANDS",
+    "scbNetwork": "N"
+}, {
+    "id": 57,
+    "regionId": "1600",
+    "countryId": "CR",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "COSTA RICA",
+    "scbNetwork": "N"
+}, {
+    "id": 58,
+    "regionId": "1300",
+    "countryId": "CI",
+    "regionDescription": "AFRICA",
+    "countryDescription": "COTE D'IVOIRE",
+    "scbNetwork": "N"
+}, {
+    "id": 59,
+    "regionId": "1800",
+    "countryId": "HR",
+    "regionDescription": "EUROPE",
+    "countryDescription": "CROATIA",
+    "scbNetwork": "N"
+}, {
+    "id": 60,
+    "regionId": "1600",
+    "countryId": "CU",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "CUBA",
+    "scbNetwork": "N"
+}, {
+    "id": 61,
+    "regionId": "1800",
+    "countryId": "CW",
+    "regionDescription": "EUROPE",
+    "countryDescription": "CURACAO",
+    "scbNetwork": "N"
+}, {
+    "id": 62,
+    "regionId": "1800",
+    "countryId": "CY",
+    "regionDescription": "EUROPE",
+    "countryDescription": "CYPRUS",
+    "scbNetwork": "N"
+}, {
+    "id": 63,
+    "regionId": "1800",
+    "countryId": "CZ",
+    "regionDescription": "EUROPE",
+    "countryDescription": "CZECH REPUBLIC",
+    "scbNetwork": "N"
+}, {
+    "id": 64,
+    "regionId": "1300",
+    "countryId": "ZR",
+    "regionDescription": "AFRICA",
+    "countryDescription": "DEMOCRATIC REPUBLIC OF ZAIRE",
+    "scbNetwork": "N"
+}, {
+    "id": 65,
+    "regionId": "1800",
+    "countryId": "DK",
+    "regionDescription": "EUROPE",
+    "countryDescription": "DENMARK",
+    "scbNetwork": "N"
+}, {
+    "id": 66,
+    "regionId": "1300",
+    "countryId": "DJ",
+    "regionDescription": "AFRICA",
+    "countryDescription": "DJIBOUTI",
+    "scbNetwork": "N"
+}, {
+    "id": 67,
+    "regionId": "1600",
+    "countryId": "DM",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "DOMINICA",
+    "scbNetwork": "N"
+}, {
+    "id": 68,
+    "regionId": "1600",
+    "countryId": "DO",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "DOMINICAN REPUBLIC",
+    "scbNetwork": "N"
+}, {
+    "id": 69,
+    "regionId": "1600",
+    "countryId": "EC",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "ECUADOR",
+    "scbNetwork": "N"
+}, {
+    "id": 70,
+    "regionId": "1500",
+    "countryId": "EG",
+    "regionDescription": "MENAP",
+    "countryDescription": "EGYPT",
+    "scbNetwork": "N"
+}, {
+    "id": 71,
+    "regionId": "1600",
+    "countryId": "SV",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "EL SALVADOR",
+    "scbNetwork": "N"
+}, {
+    "id": 72,
+    "regionId": "1300",
+    "countryId": "GQ",
+    "regionDescription": "AFRICA",
+    "countryDescription": "EQUATORIAL GUINEA",
+    "scbNetwork": "N"
+}, {
+    "id": 73,
+    "regionId": "1300",
+    "countryId": "ER",
+    "regionDescription": "AFRICA",
+    "countryDescription": "ERITREA",
+    "scbNetwork": "N"
+}, {
+    "id": 74,
+    "regionId": "1800",
+    "countryId": "EE",
+    "regionDescription": "EUROPE",
+    "countryDescription": "ESTONIA",
+    "scbNetwork": "N"
+}, {
+    "id": 75,
+    "regionId": "1300",
+    "countryId": "ET",
+    "regionDescription": "AFRICA",
+    "countryDescription": "ETHIOPIA",
+    "scbNetwork": "N"
+}, {
+    "id": 76,
+    "regionId": "1800",
+    "countryId": "FK",
+    "regionDescription": "EUROPE",
+    "countryDescription": "FALKLAND ISLANDS (MALVINAS)",
+    "scbNetwork": "N"
+}, {
+    "id": 77,
+    "regionId": "1800",
+    "countryId": "FO",
+    "regionDescription": "EUROPE",
+    "countryDescription": "FAROE ISLANDS",
+    "scbNetwork": "N"
+}, {
+    "id": 78,
+    "regionId": "1400",
+    "countryId": "FJ",
+    "regionDescription": "ASEAN",
+    "countryDescription": "FIJI",
+    "scbNetwork": "N"
+}, {
+    "id": 79,
+    "regionId": "1800",
+    "countryId": "FI",
+    "regionDescription": "EUROPE",
+    "countryDescription": "FINLAND",
+    "scbNetwork": "N"
+}, {
+    "id": 80,
+    "regionId": "1800",
+    "countryId": "FR",
+    "regionDescription": "EUROPE",
+    "countryDescription": "FRANCE",
+    "scbNetwork": "N"
+}, {
+    "id": 81,
+    "regionId": "1800",
+    "countryId": "GF",
+    "regionDescription": "EUROPE",
+    "countryDescription": "FRENCH GUIANA",
+    "scbNetwork": "N"
+}, {
+    "id": 82,
+    "regionId": "1800",
+    "countryId": "PF",
+    "regionDescription": "EUROPE",
+    "countryDescription": "FRENCH POLYNESIA",
+    "scbNetwork": "N"
+}, {
+    "id": 83,
+    "regionId": "1800",
+    "countryId": "TF",
+    "regionDescription": "EUROPE",
+    "countryDescription": "FRENCH SOUTHERN TERRITORIES",
+    "scbNetwork": "N"
+}, {
+    "id": 84,
+    "regionId": "1300",
+    "countryId": "GA",
+    "regionDescription": "AFRICA",
+    "countryDescription": "GABON",
+    "scbNetwork": "N"
+}, {
+    "id": 85,
+    "regionId": "1300",
+    "countryId": "GM",
+    "regionDescription": "AFRICA",
+    "countryDescription": "GAMBIA",
+    "scbNetwork": "Y"
+}, {
+    "id": 86,
+    "regionId": "1800",
+    "countryId": "GE",
+    "regionDescription": "EUROPE",
+    "countryDescription": "GEORGIA",
+    "scbNetwork": "N"
+}, {
+    "id": 87,
+    "regionId": "1800",
+    "countryId": "DE",
+    "regionDescription": "EUROPE",
+    "countryDescription": "GERMANY",
+    "scbNetwork": "N"
+}, {
+    "id": 88,
+    "regionId": "1300",
+    "countryId": "GH",
+    "regionDescription": "AFRICA",
+    "countryDescription": "GHANA",
+    "scbNetwork": "Y"
+}, {
+    "id": 89,
+    "regionId": "1800",
+    "countryId": "GI",
+    "regionDescription": "EUROPE",
+    "countryDescription": "GIBRALTAR",
+    "scbNetwork": "N"
+}, {
+    "id": 90,
+    "regionId": "1000",
+    "countryId": "GPRD",
+    "regionDescription": null,
+    "countryDescription": "GLOBAL PRODUCTS",
+    "scbNetwork": "N"
+}, {
+    "id": 91,
+    "regionId": "1800",
+    "countryId": "GR",
+    "regionDescription": "EUROPE",
+    "countryDescription": "GREECE",
+    "scbNetwork": "N"
+}, {
+    "id": 92,
+    "regionId": "1800",
+    "countryId": "GL",
+    "regionDescription": "EUROPE",
+    "countryDescription": "GREENLAND",
+    "scbNetwork": "N"
+}, {
+    "id": 93,
+    "regionId": "1600",
+    "countryId": "GD",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "GRENADA",
+    "scbNetwork": "N"
+}, {
+    "id": 94,
+    "regionId": "1800",
+    "countryId": "GP",
+    "regionDescription": "EUROPE",
+    "countryDescription": "GUADELOUPE",
+    "scbNetwork": "N"
+}, {
+    "id": 95,
+    "regionId": "1600",
+    "countryId": "GU",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "GUAM",
+    "scbNetwork": "N"
+}, {
+    "id": 96,
+    "regionId": "1600",
+    "countryId": "GT",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "GUATEMALA",
+    "scbNetwork": "N"
+}, {
+    "id": 97,
+    "regionId": "1800",
+    "countryId": "GG",
+    "regionDescription": "EUROPE",
+    "countryDescription": "GUERNSEY",
+    "scbNetwork": "N"
+}, {
+    "id": 98,
+    "regionId": "1300",
+    "countryId": "GN",
+    "regionDescription": "AFRICA",
+    "countryDescription": "GUINEA",
+    "scbNetwork": "N"
+}, {
+    "id": 99,
+    "regionId": "1300",
+    "countryId": "GW",
+    "regionDescription": "AFRICA",
+    "countryDescription": "GUINEA-BISSAU",
+    "scbNetwork": "N"
+}, {
+    "id": 100,
+    "regionId": "1600",
+    "countryId": "GY",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "GUYANA",
+    "scbNetwork": "N"
+}, {
+    "id": 101,
+    "regionId": "1600",
+    "countryId": "HT",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "HAITI",
+    "scbNetwork": "N"
+}, {
+    "id": 102,
+    "regionId": "1400",
+    "countryId": "HM",
+    "regionDescription": "ASEAN",
+    "countryDescription": "HEARD ISLAND AND MCDONALD ISLANDS",
+    "scbNetwork": "N"
+}, {
+    "id": 103,
+    "regionId": "1800",
+    "countryId": "VA",
+    "regionDescription": "EUROPE",
+    "countryDescription": "HOLY SEE (VATICAN CITY STATE)",
+    "scbNetwork": "N"
+}, {
+    "id": 104,
+    "regionId": "1600",
+    "countryId": "HN",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "HONDURAS",
+    "scbNetwork": "N"
+}, {
+    "id": 105,
+    "regionId": "1900",
+    "countryId": "HK",
+    "regionDescription": "GREATER CHINA",
+    "countryDescription": "HONG KONG",
+    "scbNetwork": "Y"
+}, {
+    "id": 106,
+    "regionId": "1800",
+    "countryId": "HU",
+    "regionDescription": "EUROPE",
+    "countryDescription": "HUNGARY",
+    "scbNetwork": "N"
+}, {
+    "id": 107,
+    "regionId": "1800",
+    "countryId": "IS",
+    "regionDescription": "EUROPE",
+    "countryDescription": "ICELAND",
+    "scbNetwork": "N"
+}, {
+    "id": 108,
+    "regionId": "1700",
+    "countryId": "IN",
+    "regionDescription": "SOUTH ASIA",
+    "countryDescription": "INDIA",
+    "scbNetwork": "Y"
+}, {
+    "id": 109,
+    "regionId": "1400",
+    "countryId": "ID",
+    "regionDescription": "ASEAN",
+    "countryDescription": "INDONESIA",
+    "scbNetwork": "Y"
+}, {
+    "id": 110,
+    "regionId": "1500",
+    "countryId": "IR",
+    "regionDescription": "MENAP",
+    "countryDescription": "IRAN",
+    "scbNetwork": "N"
+}, {
+    "id": 111,
+    "regionId": "1500",
+    "countryId": "IQ",
+    "regionDescription": "MENAP",
+    "countryDescription": "IRAQ",
+    "scbNetwork": "Y"
+}, {
+    "id": 112,
+    "regionId": "1800",
+    "countryId": "IE",
+    "regionDescription": "EUROPE",
+    "countryDescription": "IRELAND",
+    "scbNetwork": "N"
+}, {
+    "id": 113,
+    "regionId": "1800",
+    "countryId": "IM",
+    "regionDescription": "EUROPE",
+    "countryDescription": "ISLE OF MAN",
+    "scbNetwork": "N"
+}, {
+    "id": 114,
+    "regionId": "1800",
+    "countryId": "IL",
+    "regionDescription": "EUROPE",
+    "countryDescription": "ISRAEL",
+    "scbNetwork": "N"
+}, {
+    "id": 115,
+    "regionId": "1800",
+    "countryId": "IT",
+    "regionDescription": "EUROPE",
+    "countryDescription": "ITALY",
+    "scbNetwork": "N"
+}, {
+    "id": 116,
+    "regionId": "1600",
+    "countryId": "JM",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "JAMAICA",
+    "scbNetwork": "N"
+}, {
+    "id": 117,
+    "regionId": "1200",
+    "countryId": "JP",
+    "regionDescription": "NE ASIA",
+    "countryDescription": "JAPAN",
+    "scbNetwork": "Y"
+}, {
+    "id": 118,
+    "regionId": "1800",
+    "countryId": "JE",
+    "regionDescription": "EUROPE",
+    "countryDescription": "JERSEY",
+    "scbNetwork": "N"
+}, {
+    "id": 119,
+    "regionId": "1500",
+    "countryId": "JO",
+    "regionDescription": "MENAP",
+    "countryDescription": "JORDAN",
+    "scbNetwork": "N"
+}, {
+    "id": 120,
+    "regionId": "1800",
+    "countryId": "KZ",
+    "regionDescription": "EUROPE",
+    "countryDescription": "KAZAKSTAN",
+    "scbNetwork": "N"
+}, {
+    "id": 121,
+    "regionId": "1300",
+    "countryId": "KE",
+    "regionDescription": "AFRICA",
+    "countryDescription": "KENYA",
+    "scbNetwork": "Y"
+}, {
+    "id": 122,
+    "regionId": "1400",
+    "countryId": "KI",
+    "regionDescription": "ASEAN",
+    "countryDescription": "KIRIBATI",
+    "scbNetwork": "N"
+}, {
+    "id": 123,
+    "regionId": "1200",
+    "countryId": "KP",
+    "regionDescription": "NE ASIA",
+    "countryDescription": "KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",
+    "scbNetwork": "N"
+}, {
+    "id": 124,
+    "regionId": "1200",
+    "countryId": "KR",
+    "regionDescription": "NE ASIA",
+    "countryDescription": "KOREA, REPUBLIC OF",
+    "scbNetwork": "Y"
+}, {
+    "id": 125,
+    "regionId": "1500",
+    "countryId": "KW",
+    "regionDescription": "MENAP",
+    "countryDescription": "KUWAIT",
+    "scbNetwork": "N"
+}, {
+    "id": 126,
+    "regionId": "1800",
+    "countryId": "KG",
+    "regionDescription": "EUROPE",
+    "countryDescription": "KYRGYZSTAN",
+    "scbNetwork": "N"
+}, {
+    "id": 127,
+    "regionId": "1400",
+    "countryId": "LN",
+    "regionDescription": "ASEAN",
+    "countryDescription": "LABUAN",
+    "scbNetwork": "N"
+}, {
+    "id": 128,
+    "regionId": "1400",
+    "countryId": "LA",
+    "regionDescription": "ASEAN",
+    "countryDescription": "LAOS",
+    "scbNetwork": "N"
+}, {
+    "id": 129,
+    "regionId": "1800",
+    "countryId": "LV",
+    "regionDescription": "EUROPE",
+    "countryDescription": "LATVIA",
+    "scbNetwork": "N"
+}, {
+    "id": 130,
+    "regionId": "1500",
+    "countryId": "LB",
+    "regionDescription": "MENAP",
+    "countryDescription": "LEBANON",
+    "scbNetwork": "Y"
+}, {
+    "id": 131,
+    "regionId": "1300",
+    "countryId": "LS",
+    "regionDescription": "AFRICA",
+    "countryDescription": "LESOTHO",
+    "scbNetwork": "N"
+}, {
+    "id": 132,
+    "regionId": "1300",
+    "countryId": "LR",
+    "regionDescription": "AFRICA",
+    "countryDescription": "LIBERIA",
+    "scbNetwork": "N"
+}, {
+    "id": 133,
+    "regionId": "1500",
+    "countryId": "LY",
+    "regionDescription": "MENAP",
+    "countryDescription": "LIBYAN ARAB JAMAHIRIYA",
+    "scbNetwork": "N"
+}, {
+    "id": 134,
+    "regionId": "1800",
+    "countryId": "LI",
+    "regionDescription": "EUROPE",
+    "countryDescription": "LIECHTENSTEIN",
+    "scbNetwork": "N"
+}, {
+    "id": 135,
+    "regionId": "1800",
+    "countryId": "LT",
+    "regionDescription": "EUROPE",
+    "countryDescription": "LITHUANIA",
+    "scbNetwork": "N"
+}, {
+    "id": 136,
+    "regionId": "1800",
+    "countryId": "LU",
+    "regionDescription": "EUROPE",
+    "countryDescription": "LUXEMBOURG",
+    "scbNetwork": "N"
+}, {
+    "id": 137,
+    "regionId": "1900",
+    "countryId": "MO",
+    "regionDescription": "GREATER CHINA",
+    "countryDescription": "MACAO",
+    "scbNetwork": "N"
+}, {
+    "id": 138,
+    "regionId": "1800",
+    "countryId": "MK",
+    "regionDescription": "EUROPE",
+    "countryDescription": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+    "scbNetwork": "N"
+}, {
+    "id": 139,
+    "regionId": "1300",
+    "countryId": "MG",
+    "regionDescription": "AFRICA",
+    "countryDescription": "MADAGASCAR",
+    "scbNetwork": "N"
+}, {
+    "id": 140,
+    "regionId": "1300",
+    "countryId": "MW",
+    "regionDescription": "AFRICA",
+    "countryDescription": "MALAWI",
+    "scbNetwork": "N"
+}, {
+    "id": 141,
+    "regionId": "1400",
+    "countryId": "MY",
+    "regionDescription": "ASEAN",
+    "countryDescription": "MALAYSIA",
+    "scbNetwork": "Y"
+}, {
+    "id": 142,
+    "regionId": "1700",
+    "countryId": "MV",
+    "regionDescription": "SOUTH ASIA",
+    "countryDescription": "MALDIVES",
+    "scbNetwork": "N"
+}, {
+    "id": 143,
+    "regionId": "1300",
+    "countryId": "ML",
+    "regionDescription": "AFRICA",
+    "countryDescription": "MALI",
+    "scbNetwork": "N"
+}, {
+    "id": 144,
+    "regionId": "1800",
+    "countryId": "MT",
+    "regionDescription": "EUROPE",
+    "countryDescription": "MALTA",
+    "scbNetwork": "N"
+}, {
+    "id": 145,
+    "regionId": "1400",
+    "countryId": "MH",
+    "regionDescription": "ASEAN",
+    "countryDescription": "MARSHALL ISLANDS",
+    "scbNetwork": "N"
+}, {
+    "id": 146,
+    "regionId": "1800",
+    "countryId": "MQ",
+    "regionDescription": "EUROPE",
+    "countryDescription": "MARTINIQUE",
+    "scbNetwork": "N"
+}, {
+    "id": 147,
+    "regionId": "1300",
+    "countryId": "MR",
+    "regionDescription": "AFRICA",
+    "countryDescription": "MAURITANIA",
+    "scbNetwork": "N"
+}, {
+    "id": 148,
+    "regionId": "1300",
+    "countryId": "MU",
+    "regionDescription": "AFRICA",
+    "countryDescription": "MAURITIUS",
+    "scbNetwork": "Y"
+}, {
+    "id": 149,
+    "regionId": "1800",
+    "countryId": "YT",
+    "regionDescription": "EUROPE",
+    "countryDescription": "MAYOTTE",
+    "scbNetwork": "N"
+}, {
+    "id": 150,
+    "regionId": "1600",
+    "countryId": "MX",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "MEXICO",
+    "scbNetwork": "N"
+}, {
+    "id": 151,
+    "regionId": "1400",
+    "countryId": "FM",
+    "regionDescription": "ASEAN",
+    "countryDescription": "MICRONESIA, FEDERATED STATES OF",
+    "scbNetwork": "N"
+}, {
+    "id": 152,
+    "regionId": "1800",
+    "countryId": "MD",
+    "regionDescription": "EUROPE",
+    "countryDescription": "MOLDOVA, REPUBLIC OF",
+    "scbNetwork": "N"
+}, {
+    "id": 153,
+    "regionId": "1800",
+    "countryId": "MC",
+    "regionDescription": "EUROPE",
+    "countryDescription": "MONACO",
+    "scbNetwork": "N"
+}, {
+    "id": 154,
+    "regionId": "1200",
+    "countryId": "MN",
+    "regionDescription": "NE ASIA",
+    "countryDescription": "MONGOLIA",
+    "scbNetwork": "N"
+}, {
+    "id": 155,
+    "regionId": "1800",
+    "countryId": "ME",
+    "regionDescription": "EUROPE",
+    "countryDescription": "MONTENEGRO",
+    "scbNetwork": "N"
+}, {
+    "id": 156,
+    "regionId": "1600",
+    "countryId": "MS",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "MONTSERRAT",
+    "scbNetwork": "N"
+}, {
+    "id": 157,
+    "regionId": "1500",
+    "countryId": "MA",
+    "regionDescription": "MENAP",
+    "countryDescription": "MOROCCO",
+    "scbNetwork": "N"
+}, {
+    "id": 158,
+    "regionId": "1300",
+    "countryId": "MZ",
+    "regionDescription": "AFRICA",
+    "countryDescription": "MOZAMBIQUE",
+    "scbNetwork": "N"
+}, {
+    "id": 159,
+    "regionId": "1400",
+    "countryId": "MM",
+    "regionDescription": "ASEAN",
+    "countryDescription": "MYANMAR",
+    "scbNetwork": "N"
+}, {
+    "id": 160,
+    "regionId": "1300",
+    "countryId": "NA",
+    "regionDescription": "AFRICA",
+    "countryDescription": "NAMIBIA",
+    "scbNetwork": "N"
+}, {
+    "id": 161,
+    "regionId": "1400",
+    "countryId": "NR",
+    "regionDescription": "ASEAN",
+    "countryDescription": "NAURU",
+    "scbNetwork": "N"
+}, {
+    "id": 162,
+    "regionId": "1700",
+    "countryId": "NP",
+    "regionDescription": "SOUTH ASIA",
+    "countryDescription": "NEPAL",
+    "scbNetwork": "Y"
+}, {
+    "id": 163,
+    "regionId": "1800",
+    "countryId": "NL",
+    "regionDescription": "EUROPE",
+    "countryDescription": "NETHERLAND",
+    "scbNetwork": "N"
+}, {
+    "id": 164,
+    "regionId": "1800",
+    "countryId": "AN",
+    "regionDescription": "EUROPE",
+    "countryDescription": "NETHERLANDS ANTILLES",
+    "scbNetwork": "N"
+}, {
+    "id": 165,
+    "regionId": "1800",
+    "countryId": "NC",
+    "regionDescription": "EUROPE",
+    "countryDescription": "NEW CALEDONIA",
+    "scbNetwork": "N"
+}, {
+    "id": 166,
+    "regionId": "1400",
+    "countryId": "NZ",
+    "regionDescription": "ASEAN",
+    "countryDescription": "NEW ZEALAND",
+    "scbNetwork": "N"
+}, {
+    "id": 167,
+    "regionId": "1600",
+    "countryId": "NI",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "NICARAGUA",
+    "scbNetwork": "N"
+}, {
+    "id": 168,
+    "regionId": "1300",
+    "countryId": "NE",
+    "regionDescription": "AFRICA",
+    "countryDescription": "NIGER",
+    "scbNetwork": "N"
+}, {
+    "id": 169,
+    "regionId": "1300",
+    "countryId": "NG",
+    "regionDescription": "AFRICA",
+    "countryDescription": "NIGERIA",
+    "scbNetwork": "Y"
+}, {
+    "id": 170,
+    "regionId": "1400",
+    "countryId": "NU",
+    "regionDescription": "ASEAN",
+    "countryDescription": "NIUE",
+    "scbNetwork": "N"
+}, {
+    "id": 171,
+    "regionId": "1400",
+    "countryId": "NF",
+    "regionDescription": "ASEAN",
+    "countryDescription": "NORFOLK ISLAND",
+    "scbNetwork": "N"
+}, {
+    "id": 172,
+    "regionId": "1600",
+    "countryId": "MP",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "NORTHERN MARIANA ISLANDS",
+    "scbNetwork": "N"
+}, {
+    "id": 173,
+    "regionId": "1800",
+    "countryId": "NO",
+    "regionDescription": "EUROPE",
+    "countryDescription": "NORWAY",
+    "scbNetwork": "N"
+}, {
+    "id": 174,
+    "regionId": "1000",
+    "countryId": "ZZ",
+    "regionDescription": null,
+    "countryDescription": "NOT APPLICABLE",
+    "scbNetwork": "N"
+}, {
+    "id": 175,
+    "regionId": "1500",
+    "countryId": "OM",
+    "regionDescription": "MENAP",
+    "countryDescription": "OMAN",
+    "scbNetwork": "Y"
+}, {
+    "id": 176,
+    "regionId": "1000",
+    "countryId": "OT",
+    "regionDescription": null,
+    "countryDescription": "OTHERS",
+    "scbNetwork": "N"
+}, {
+    "id": 177,
+    "regionId": "1500",
+    "countryId": "PK",
+    "regionDescription": "MENAP",
+    "countryDescription": "PAKISTAN",
+    "scbNetwork": "Y"
+}, {
+    "id": 178,
+    "regionId": "1400",
+    "countryId": "PW",
+    "regionDescription": "ASEAN",
+    "countryDescription": "PALAU",
+    "scbNetwork": "N"
+}, {
+    "id": 179,
+    "regionId": "1500",
+    "countryId": "PS",
+    "regionDescription": "MENAP",
+    "countryDescription": "PALESTINIAN TERRITORY, OCCUPIED",
+    "scbNetwork": "N"
+}, {
+    "id": 180,
+    "regionId": "1600",
+    "countryId": "PA",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "PANAMA",
+    "scbNetwork": "N"
+}, {
+    "id": 181,
+    "regionId": "1400",
+    "countryId": "PG",
+    "regionDescription": "ASEAN",
+    "countryDescription": "PAPUA NEW GUINEA",
+    "scbNetwork": "N"
+}, {
+    "id": 182,
+    "regionId": "1600",
+    "countryId": "PY",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "PARAGUAY",
+    "scbNetwork": "N"
+}, {
+    "id": 183,
+    "regionId": "1600",
+    "countryId": "PE",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "PERU",
+    "scbNetwork": "N"
+}, {
+    "id": 184,
+    "regionId": "1400",
+    "countryId": "PH",
+    "regionDescription": "ASEAN",
+    "countryDescription": "PHILIPPINES",
+    "scbNetwork": "Y"
+}, {
+    "id": 185,
+    "regionId": "1800",
+    "countryId": "PN",
+    "regionDescription": "EUROPE",
+    "countryDescription": "PITCAIRN",
+    "scbNetwork": "N"
+}, {
+    "id": 186,
+    "regionId": "1800",
+    "countryId": "PL",
+    "regionDescription": "EUROPE",
+    "countryDescription": "POLAND",
+    "scbNetwork": "N"
+}, {
+    "id": 187,
+    "regionId": "1800",
+    "countryId": "PT",
+    "regionDescription": "EUROPE",
+    "countryDescription": "PORTUGAL",
+    "scbNetwork": "N"
+}, {
+    "id": 188,
+    "regionId": "1600",
+    "countryId": "PR",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "PUERTO RICO",
+    "scbNetwork": "N"
+}, {
+    "id": 189,
+    "regionId": "1500",
+    "countryId": "QA",
+    "regionDescription": "MENAP",
+    "countryDescription": "QATAR",
+    "scbNetwork": "Y"
+}, {
+    "id": 190,
+    "regionId": "1800",
+    "countryId": "RE",
+    "regionDescription": "EUROPE",
+    "countryDescription": "REUNION",
+    "scbNetwork": "N"
+}, {
+    "id": 191,
+    "regionId": "1800",
+    "countryId": "RO",
+    "regionDescription": "EUROPE",
+    "countryDescription": "ROMANIA",
+    "scbNetwork": "N"
+}, {
+    "id": 192,
+    "regionId": "1800",
+    "countryId": "RU",
+    "regionDescription": "EUROPE",
+    "countryDescription": "RUSSIAN FEDERATION",
+    "scbNetwork": "N"
+}, {
+    "id": 193,
+    "regionId": "1300",
+    "countryId": "RW",
+    "regionDescription": "AFRICA",
+    "countryDescription": "RWANDA",
+    "scbNetwork": "N"
+}, {
+    "id": 194,
+    "regionId": "1800",
+    "countryId": "BL",
+    "regionDescription": "EUROPE",
+    "countryDescription": "SAINT BARTHELEMY",
+    "scbNetwork": "N"
+}, {
+    "id": 195,
+    "regionId": "1800",
+    "countryId": "SH",
+    "regionDescription": "EUROPE",
+    "countryDescription": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+    "scbNetwork": "N"
+}, {
+    "id": 196,
+    "regionId": "1600",
+    "countryId": "KN",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "SAINT KITTS AND NEVIS",
+    "scbNetwork": "N"
+}, {
+    "id": 197,
+    "regionId": "1600",
+    "countryId": "LC",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "SAINT LUCIA",
+    "scbNetwork": "N"
+}, {
+    "id": 198,
+    "regionId": "1800",
+    "countryId": "MF",
+    "regionDescription": "EUROPE",
+    "countryDescription": "SAINT MARTIN",
+    "scbNetwork": "N"
+}, {
+    "id": 199,
+    "regionId": "1800",
+    "countryId": "PM",
+    "regionDescription": "EUROPE",
+    "countryDescription": "SAINT PIERRE AND MIQUELON",
+    "scbNetwork": "N"
+}, {
+    "id": 200,
+    "regionId": "1600",
+    "countryId": "VC",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "SAINT VINCENT AND THE GRENADINES",
+    "scbNetwork": "N"
+}, {
+    "id": 201,
+    "regionId": "1400",
+    "countryId": "WS",
+    "regionDescription": "ASEAN",
+    "countryDescription": "SAMOA",
+    "scbNetwork": "N"
+}, {
+    "id": 202,
+    "regionId": "1800",
+    "countryId": "SM",
+    "regionDescription": "EUROPE",
+    "countryDescription": "SAN MARINO",
+    "scbNetwork": "N"
+}, {
+    "id": 203,
+    "regionId": "1300",
+    "countryId": "ST",
+    "regionDescription": "AFRICA",
+    "countryDescription": "SAO TOME AND PRINCIPE",
+    "scbNetwork": "N"
+}, {
+    "id": 204,
+    "regionId": "1500",
+    "countryId": "SA",
+    "regionDescription": "MENAP",
+    "countryDescription": "SAUDI ARABIA",
+    "scbNetwork": "N"
+}, {
+    "id": 205,
+    "regionId": "1500",
+    "countryId": "XA",
+    "regionDescription": "MENAP",
+    "countryDescription": "SCB SAUDI OFFSHORE",
+    "scbNetwork": "N"
+}, {
+    "id": 206,
+    "regionId": "1300",
+    "countryId": "SN",
+    "regionDescription": "AFRICA",
+    "countryDescription": "SENEGAL",
+    "scbNetwork": "N"
+}, {
+    "id": 207,
+    "regionId": "1800",
+    "countryId": "RS",
+    "regionDescription": "EUROPE",
+    "countryDescription": "SERBIA",
+    "scbNetwork": "N"
+}, {
+    "id": 208,
+    "regionId": "1300",
+    "countryId": "SC",
+    "regionDescription": "AFRICA",
+    "countryDescription": "SEYCHELLES",
+    "scbNetwork": "N"
+}, {
+    "id": 209,
+    "regionId": "1300",
+    "countryId": "SL",
+    "regionDescription": "AFRICA",
+    "countryDescription": "SIERRA LEONE",
+    "scbNetwork": "Y"
+}, {
+    "id": 210,
+    "regionId": "1400",
+    "countryId": "SG",
+    "regionDescription": "ASEAN",
+    "countryDescription": "SINGAPORE",
+    "scbNetwork": "Y"
+}, {
+    "id": 211,
+    "regionId": "1600",
+    "countryId": "SX",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "SINT MAARTEN (DUTCH PART)",
+    "scbNetwork": "N"
+}, {
+    "id": 212,
+    "regionId": "1800",
+    "countryId": "SK",
+    "regionDescription": "EUROPE",
+    "countryDescription": "SLOVAKIA",
+    "scbNetwork": "N"
+}, {
+    "id": 213,
+    "regionId": "1800",
+    "countryId": "SI",
+    "regionDescription": "EUROPE",
+    "countryDescription": "SLOVENIA",
+    "scbNetwork": "N"
+}, {
+    "id": 214,
+    "regionId": "1500",
+    "countryId": "SNPC",
+    "regionDescription": "MENAP",
+    "countryDescription": "SNPC - MENA Others",
+    "scbNetwork": "N"
+}, {
+    "id": 215,
+    "regionId": "1500",
+    "countryId": "SP",
+    "regionDescription": "MENAP",
+    "countryDescription": "SNPC - MENA OTHERS",
+    "scbNetwork": "N"
+}, {
+    "id": 216,
+    "regionId": "1400",
+    "countryId": "SB",
+    "regionDescription": "ASEAN",
+    "countryDescription": "SOLOMON ISLANDS",
+    "scbNetwork": "N"
+}, {
+    "id": 217,
+    "regionId": "1300",
+    "countryId": "SO",
+    "regionDescription": "AFRICA",
+    "countryDescription": "SOMALIA",
+    "scbNetwork": "N"
+}, {
+    "id": 218,
+    "regionId": "1300",
+    "countryId": "ZA",
+    "regionDescription": "AFRICA",
+    "countryDescription": "SOUTH AFRICA",
+    "scbNetwork": "Y"
+}, {
+    "id": 219,
+    "regionId": "1800",
+    "countryId": "GS",
+    "regionDescription": "EUROPE",
+    "countryDescription": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+    "scbNetwork": "N"
+}, {
+    "id": 220,
+    "regionId": "1300",
+    "countryId": "SS",
+    "regionDescription": "AFRICA",
+    "countryDescription": "SOUTH SUDAN",
+    "scbNetwork": "N"
+}, {
+    "id": 221,
+    "regionId": "1800",
+    "countryId": "ES",
+    "regionDescription": "EUROPE",
+    "countryDescription": "SPAIN",
+    "scbNetwork": "N"
+}, {
+    "id": 222,
+    "regionId": "1700",
+    "countryId": "LK",
+    "regionDescription": "SOUTH ASIA",
+    "countryDescription": "SRI LANKA",
+    "scbNetwork": "Y"
+}, {
+    "id": 223,
+    "regionId": "1300",
+    "countryId": "SD",
+    "regionDescription": "AFRICA",
+    "countryDescription": "SUDAN",
+    "scbNetwork": "N"
+}, {
+    "id": 224,
+    "regionId": "1600",
+    "countryId": "SR",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "SURINAME",
+    "scbNetwork": "N"
+}, {
+    "id": 225,
+    "regionId": "1800",
+    "countryId": "SJ",
+    "regionDescription": "EUROPE",
+    "countryDescription": "SVALBARD AND JAN MAYEN",
+    "scbNetwork": "N"
+}, {
+    "id": 226,
+    "regionId": "1300",
+    "countryId": "SZ",
+    "regionDescription": "AFRICA",
+    "countryDescription": "SWAZILAND",
+    "scbNetwork": "N"
+}, {
+    "id": 227,
+    "regionId": "1800",
+    "countryId": "SE",
+    "regionDescription": "EUROPE",
+    "countryDescription": "SWEDEN",
+    "scbNetwork": "N"
+}, {
+    "id": 228,
+    "regionId": "1800",
+    "countryId": "CH",
+    "regionDescription": "EUROPE",
+    "countryDescription": "SWITZERLAND",
+    "scbNetwork": "N"
+}, {
+    "id": 229,
+    "regionId": "1500",
+    "countryId": "SY",
+    "regionDescription": "MENAP",
+    "countryDescription": "SYRIAN ARAB REPUBLIC",
+    "scbNetwork": "N"
+}, {
+    "id": 230,
+    "regionId": "1900",
+    "countryId": "TW",
+    "regionDescription": "GREATER CHINA",
+    "countryDescription": "TAIWAN",
+    "scbNetwork": "Y"
+}, {
+    "id": 231,
+    "regionId": "1800",
+    "countryId": "TJ",
+    "regionDescription": "EUROPE",
+    "countryDescription": "TAJIKISTAN",
+    "scbNetwork": "N"
+}, {
+    "id": 232,
+    "regionId": "1300",
+    "countryId": "TZ",
+    "regionDescription": "AFRICA",
+    "countryDescription": "TANZANIA UNITED REPUBLIC OF",
+    "scbNetwork": "Y"
+}, {
+    "id": 233,
+    "regionId": "1400",
+    "countryId": "TH",
+    "regionDescription": "ASEAN",
+    "countryDescription": "THAILAND",
+    "scbNetwork": "Y"
+}, {
+    "id": 234,
+    "regionId": "1400",
+    "countryId": "TL",
+    "regionDescription": "ASEAN",
+    "countryDescription": "TIMOR-LESTE",
+    "scbNetwork": "N"
+}, {
+    "id": 235,
+    "regionId": "1300",
+    "countryId": "TG",
+    "regionDescription": "AFRICA",
+    "countryDescription": "TOGO",
+    "scbNetwork": "N"
+}, {
+    "id": 236,
+    "regionId": "1400",
+    "countryId": "TK",
+    "regionDescription": "ASEAN",
+    "countryDescription": "TOKELAU",
+    "scbNetwork": "N"
+}, {
+    "id": 237,
+    "regionId": "1400",
+    "countryId": "TO",
+    "regionDescription": "ASEAN",
+    "countryDescription": "TONGA",
+    "scbNetwork": "N"
+}, {
+    "id": 238,
+    "regionId": "1600",
+    "countryId": "TT",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "TRINIDAD AND TOBAGO",
+    "scbNetwork": "N"
+}, {
+    "id": 239,
+    "regionId": "1500",
+    "countryId": "TN",
+    "regionDescription": "MENAP",
+    "countryDescription": "TUNISIA",
+    "scbNetwork": "N"
+}, {
+    "id": 240,
+    "regionId": "1800",
+    "countryId": "TR",
+    "regionDescription": "EUROPE",
+    "countryDescription": "TURKEY",
+    "scbNetwork": "N"
+}, {
+    "id": 241,
+    "regionId": "1800",
+    "countryId": "TM",
+    "regionDescription": "EUROPE",
+    "countryDescription": "TURKMENISTAN",
+    "scbNetwork": "N"
+}, {
+    "id": 242,
+    "regionId": "1600",
+    "countryId": "TC",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "TURKS AND CAICOS ISLANDS",
+    "scbNetwork": "N"
+}, {
+    "id": 243,
+    "regionId": "1400",
+    "countryId": "TV",
+    "regionDescription": "ASEAN",
+    "countryDescription": "TUVALU",
+    "scbNetwork": "N"
+}, {
+    "id": 244,
+    "regionId": "1300",
+    "countryId": "UG",
+    "regionDescription": "AFRICA",
+    "countryDescription": "UGANDA",
+    "scbNetwork": "Y"
+}, {
+    "id": 245,
+    "regionId": "1800",
+    "countryId": "UA",
+    "regionDescription": "EUROPE",
+    "countryDescription": "UKRAINE",
+    "scbNetwork": "N"
+}, {
+    "id": 246,
+    "regionId": "1500",
+    "countryId": "AE",
+    "regionDescription": "MENAP",
+    "countryDescription": "UNITED ARAB EMIRATES",
+    "scbNetwork": "Y"
+}, {
+    "id": 247,
+    "regionId": "1800",
+    "countryId": "GB",
+    "regionDescription": "EUROPE",
+    "countryDescription": "UNITED KINGDOM",
+    "scbNetwork": "Y"
+}, {
+    "id": 248,
+    "regionId": "1600",
+    "countryId": "US",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "UNITED STATES",
+    "scbNetwork": "Y"
+}, {
+    "id": 249,
+    "regionId": "1600",
+    "countryId": "UM",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "scbNetwork": "N"
+}, {
+    "id": 250,
+    "regionId": "1600",
+    "countryId": "UY",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "URUGUAY",
+    "scbNetwork": "N"
+}, {
+    "id": 251,
+    "regionId": "1800",
+    "countryId": "UZ",
+    "regionDescription": "EUROPE",
+    "countryDescription": "UZBEKISTAN",
+    "scbNetwork": "N"
+}, {
+    "id": 252,
+    "regionId": "1400",
+    "countryId": "VU",
+    "regionDescription": "ASEAN",
+    "countryDescription": "VANUATU",
+    "scbNetwork": "N"
+}, {
+    "id": 253,
+    "regionId": "1600",
+    "countryId": "VE",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "VENEZUELA",
+    "scbNetwork": "N"
+}, {
+    "id": 254,
+    "regionId": "1400",
+    "countryId": "VN",
+    "regionDescription": "ASEAN",
+    "countryDescription": "VIET NAM",
+    "scbNetwork": "Y"
+}, {
+    "id": 255,
+    "regionId": "1600",
+    "countryId": "VI",
+    "regionDescription": "AMERICAS",
+    "countryDescription": "VIRGIN ISLANDS, U.S.",
+    "scbNetwork": "N"
+}, {
+    "id": 256,
+    "regionId": "1800",
+    "countryId": "WF",
+    "regionDescription": "EUROPE",
+    "countryDescription": "WALLIS AND FUTUNA",
+    "scbNetwork": "N"
+}, {
+    "id": 257,
+    "regionId": "1500",
+    "countryId": "EH",
+    "regionDescription": "MENAP",
+    "countryDescription": "WESTERN SAHARA",
+    "scbNetwork": "N"
+}, {
+    "id": 258,
+    "regionId": "1500",
+    "countryId": "YE",
+    "regionDescription": "MENAP",
+    "countryDescription": "YEMEN",
+    "scbNetwork": "N"
+}, {
+    "id": 259,
+    "regionId": "1800",
+    "countryId": "YU",
+    "regionDescription": "EUROPE",
+    "countryDescription": "YUGOSLAVIA ",
+    "scbNetwork": "N"
+}, {
+    "id": 260,
+    "regionId": "1300",
+    "countryId": "ZM",
+    "regionDescription": "AFRICA",
+    "countryDescription": "ZAMBIA",
+    "scbNetwork": "Y"
+}, {
+    "id": 261,
+    "regionId": "1300",
+    "countryId": "ZW",
+    "regionDescription": "AFRICA",
+    "countryDescription": "ZIMBABWE",
+    "scbNetwork": "Y"
+}]
+}

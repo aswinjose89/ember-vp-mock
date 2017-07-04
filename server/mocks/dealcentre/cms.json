@@ -1,0 +1,21 @@
+{
+    "cmsList": [{
+        "projectName": "GOWTHAM_TEST_PAM",
+        "clientName": "FTA - FRANKLIN TEMPLETON CONSERVATIVE ALLOCATION FUND (FORMERLY NAMED FRANKLIN TEMPLETON CONSERVATIV",
+        "status": "Draft",
+        "primaryContacts": ["1332372 - De Alwis,Gihara Malindri", "fedvdf", "fbgntrew"],
+        "products": ["Leveraged", "Finance", "Yolo"],
+        "subProducts": ["Leveraged", "Finance"],
+        "cmsId": "20151119100212629",
+        "entitlement": {
+            "edit": true,
+            "view": true,
+            "delete": false
+        }
+    }],
+    "meta": {
+        "page": 1,
+        "totalRecords": 53,
+        "initiateCMSEntitlement": true
+    }
+}

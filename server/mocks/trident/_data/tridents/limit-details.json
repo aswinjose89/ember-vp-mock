@@ -1,0 +1,400 @@
+{
+  "limitDetails": [{
+    "tridentId": "d84527b5-a95b-40f8-a917-94dcd125c70a",
+    "entityXRefId": "ab6564b4-d4b7-48a3-aa35-cf0dd066c5dd",
+    "entityType": "C",
+    "clientLeId": "11163799",
+    "clientCrmId": "11163799",
+    "clientName": "3 WELLS WATCH INDUSTRIES LIMITED",
+    "limitItemsMap": {},
+    "orgLocWiseLimitItemDetails": {
+      "HKSCHK": {
+        "originatingLocationCode": "HKSCHK",
+        "originatingLocation": "HK/SCHK-HONG KONG",
+        "approvedCreditGrade": "9B",
+        "bcaRefNo": "10444643",
+        "bcaPreparedBy": "1520663,USER NAME OF 20000065",
+        "modelId": null,
+        "raptorPreparedBy": null,
+        "isDummyModel": null,
+        "supportDocument": null,
+        "supportType": null,
+        "supportDocumentOverride": null,
+        "supportTypeOverride": null,
+        "maxTenor": "103",
+        "maxTenorType": "MTH",
+        "el": null,
+        "creditGrade": null,
+        "limitItemsMap": {
+          "CAT1": [{
+            "limitDataType": "GM",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "BCA",
+            "limitDataScale": "M",
+            "limitDataValue": 3227
+          }, {
+            "limitDataType": "PROPOSED",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }],
+          "CAT2": [{
+            "limitDataType": "GM",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "BCA",
+            "limitDataScale": "M",
+            "limitDataValue": 200
+          }, {
+            "limitDataType": "PROPOSED",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }],
+          "CAT3": [{
+            "limitDataType": "GM",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "BCA",
+            "limitDataScale": "M",
+            "limitDataValue": 200
+          }, {
+            "limitDataType": "PROPOSED",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }],
+          "CAT5": [{
+            "limitDataType": "GM",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "BCA",
+            "limitDataScale": "M",
+            "limitDataValue": 1548.19
+          }, {
+            "limitDataType": "PROPOSED",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }],
+          "CONTROL": [{
+            "limitDataType": "GM",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "BCA",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "PROPOSED",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }]
+        }
+      }
+    }
+  }, {
+    "tridentId": "d84527b5-a95b-40f8-a917-94dcd125c70a",
+    "entityXRefId": "b35d3f58-9f35-4cb1-b0cd-3c2f92583112",
+    "entityType": "C",
+    "clientLeId": "11163799",
+    "clientCrmId": "11163799",
+    "clientName": "3 WELLS WATCH INDUSTRIES LIMITED",
+    "limitItemsMap": {},
+    "orgLocWiseLimitItemDetails": {
+      "HKSCHK": {
+        "originatingLocationCode": "HKSCHK",
+        "originatingLocation": "HK/SCHK-HONG KONG",
+        "approvedCreditGrade": "9B",
+        "bcaRefNo": "10444643",
+        "bcaPreparedBy": "1520663,USER NAME OF 20000065",
+        "modelId": null,
+        "raptorPreparedBy": null,
+        "isDummyModel": null,
+        "supportDocument": null,
+        "supportType": null,
+        "supportDocumentOverride": null,
+        "supportTypeOverride": null,
+        "maxTenor": "103",
+        "maxTenorType": "MTH",
+        "el": null,
+        "creditGrade": null,
+        "limitItemsMap": {
+          "CAT1": [{
+            "limitDataType": "GM",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "BCA",
+            "limitDataScale": "M",
+            "limitDataValue": 3227
+          }, {
+            "limitDataType": "PROPOSED",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }],
+          "CAT2": [{
+            "limitDataType": "GM",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "BCA",
+            "limitDataScale": "M",
+            "limitDataValue": 200
+          }, {
+            "limitDataType": "PROPOSED",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }],
+          "CAT3": [{
+            "limitDataType": "GM",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "BCA",
+            "limitDataScale": "M",
+            "limitDataValue": 200
+          }, {
+            "limitDataType": "PROPOSED",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }],
+          "CAT5": [{
+            "limitDataType": "GM",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "BCA",
+            "limitDataScale": "M",
+            "limitDataValue": 1548.19
+          }, {
+            "limitDataType": "PROPOSED",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }],
+          "CONTROL": [{
+            "limitDataType": "GM",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "BCA",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "PROPOSED",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }]
+        }
+      }
+    }
+  }, {
+    "tridentId": "d84527b5-a95b-40f8-a917-94dcd125c70a",
+    "entityXRefId": "8e41c025-ce20-4b5c-9989-67c25b98fca9",
+    "entityType": "C",
+    "clientLeId": "11163803",
+    "clientCrmId": "11163803",
+    "clientName": "BILLION START ENTERPRISE LIMITED",
+    "limitItemsMap": {},
+    "orgLocWiseLimitItemDetails": {
+      "HKSCHK": {
+        "originatingLocationCode": "HKSCHK",
+        "originatingLocation": "HK/SCHK-HONG KONG",
+        "approvedCreditGrade": "10A",
+        "bcaRefNo": "10419671",
+        "bcaPreparedBy": "1377270,USER NAME OF 20000065",
+        "modelId": null,
+        "raptorPreparedBy": null,
+        "isDummyModel": null,
+        "supportDocument": null,
+        "supportType": null,
+        "supportDocumentOverride": null,
+        "supportTypeOverride": null,
+        "maxTenor": "94",
+        "maxTenorType": "MTH",
+        "el": null,
+        "creditGrade": null,
+        "limitItemsMap": {
+          "CAT1": [{
+            "limitDataType": "GM",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "BCA",
+            "limitDataScale": "M",
+            "limitDataValue": 628.82
+          }, {
+            "limitDataType": "PROPOSED",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }],
+          "CAT2": [{
+            "limitDataType": "GM",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "BCA",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "PROPOSED",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }],
+          "CAT3": [{
+            "limitDataType": "GM",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "BCA",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "PROPOSED",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }],
+          "CAT5": [{
+            "limitDataType": "GM",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "BCA",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "PROPOSED",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }],
+          "CONTROL": [{
+            "limitDataType": "GM",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "BCA",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "PROPOSED",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }]
+        }
+      }
+    }
+  }, {
+    "tridentId": "d84527b5-a95b-40f8-a917-94dcd125c70a",
+    "entityXRefId": "19360c4a-c684-4d37-a6c8-c948541457d7",
+    "entityType": "C",
+    "clientLeId": "11234223",
+    "clientCrmId": "11234223",
+    "clientName": "BUYERS OF 3 WELLS WATCH INDUSTRIES LTD",
+    "limitItemsMap": {},
+    "orgLocWiseLimitItemDetails": {}
+  }, {
+    "tridentId": "d84527b5-a95b-40f8-a917-94dcd125c70a",
+    "entityXRefId": "2db59b56-6f3e-4e9b-8088-a5bd88348bf0",
+    "entityType": "HC",
+    "clientLeId": "d84527b5-a95b-40f8-a917-94dcd125c70a",
+    "clientName": "Headroom Client",
+    "limitItemsMap": {},
+    "orgLocWiseLimitItemDetails": {
+      "NA": {
+        "originatingLocationCode": "NA",
+        "originatingLocation": "NA",
+        "approvedCreditGrade": null,
+        "bcaRefNo": null,
+        "bcaPreparedBy": ",",
+        "modelId": null,
+        "raptorPreparedBy": ",",
+        "isDummyModel": null,
+        "supportDocument": null,
+        "supportType": null,
+        "supportDocumentOverride": null,
+        "supportTypeOverride": null,
+        "maxTenor": null,
+        "maxTenorType": null,
+        "el": null,
+        "creditGrade": null,
+        "limitItemsMap": {
+          "CAT1": [{
+            "limitDataType": "GM",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "BCA",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "PROPOSED",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }],
+          "CAT2": [{
+            "limitDataType": "GM",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "BCA",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "PROPOSED",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }],
+          "CAT3": [{
+            "limitDataType": "GM",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "BCA",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "PROPOSED",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }],
+          "CAT5": [{
+            "limitDataType": "GM",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "BCA",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "PROPOSED",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }],
+          "CONTROL": [{
+            "limitDataType": "GM",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "BCA",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }, {
+            "limitDataType": "PROPOSED",
+            "limitDataScale": "M",
+            "limitDataValue": 0
+          }]
+        }
+      }
+    }
+  }, {
+    "tridentId": "d84527b5-a95b-40f8-a917-94dcd125c70a",
+    "entityXRefId": "24af5696-7180-453b-9df2-2e739981b8bf",
+    "entityType": "P",
+    "clientLeId": "20270194",
+    "clientCrmId": "1008006771",
+    "clientName": "MILLION EASY ENTERPRISES LTD",
+    "limitItemsMap": {},
+    "orgLocWiseLimitItemDetails": {}
+  }]
+}

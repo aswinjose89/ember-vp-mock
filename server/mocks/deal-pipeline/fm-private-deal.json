@@ -1,0 +1,142 @@
+{
+"dealTeam": {
+  "id":"0",
+        "dealteamMember":[
+          {
+              "psid":"1336614",
+              "name":"Sharmitha",
+              "clientTeam":"Consolidated Freightways",
+              "additionalclientsCount":"",
+              "crPrimaryContact": false,
+              "country":"KR",
+              "productArea":"Corporate Finance",
+              "justification": "deal team id",
+              "isCct":true,
+              "teamRole":{
+                  "id": "93",
+                  "idCode": "DLPL0016",
+                  "code": "0092",
+                  "parentCode": "*",
+                  "description": null,
+                  "shortDescription": "Deal Team Leader",
+                  "longDescription": "Deal Team Leader",
+                  "param1": "",
+                  "param2": "",
+                  "param3": ""
+              },
+              "dealAccess":{
+                  "id":"96",
+                  "idCode":"DLPL0017",
+                  "code":"0096",
+                  "parentCode":"*",
+                  "description":null,
+                  "shortDescription":null,
+                  "label":"Edit",
+                  "longDescription":"Edit",
+                  "param1":"",
+                  "param2":"",
+                  "param3":"",
+                  "name":null,
+                  "val":null
+              },
+              "additionalClientNames":[
+                  {
+                      "id":"125",
+                      "idCode":"DLPL0037",
+                      "code":"PG",
+                      "parentCode":"1400",
+                      "description":null,
+                      "shortDescription":"PAPUA NEW GUINEA",
+                      "label":null,
+                      "longDescription":"PAPUA NEW GUINEA",
+                      "param1":"",
+                      "param2":"",
+                      "param3":"",
+                      "name":"Tata communication",
+                      "val":null
+                  },
+                  {
+                      "id":"126",
+                      "idCode":"DLPL0037",
+                      "code":"PH",
+                      "parentCode":"1400",
+                      "description":null,
+                      "shortDescription":"PHILIPPINES",
+                      "label":null,
+                      "longDescription":"PHILIPPINES",
+                      "param1":"",
+                      "param2":"",
+                      "param3":"",
+                      "name":"TATA STEELS",
+                      "val":null
+                  }
+              ]
+          },
+            {
+                "psid":"1193243",
+                "name":"Karungi, Carol",
+                "clientTeam":"Adelphia Communication",
+                "additionalclientsCount":"50+Clients",
+                "crPrimaryContact": false,
+                "productArea":"Corporate Finance",
+                "isCct":false,
+                "teamRole":{
+                  "id": "95",
+                  "idCode": "DLPL0016",
+                  "code": "0094",
+                  "parentCode": "*",
+                  "description": null,
+                  "label": "Insider",
+                  "longDescription": "Insider",
+                  "param1": "",
+                  "param2": "",
+                  "param3": ""
+                },
+                "dealAccess":{
+                  "id": "97",
+                  "idCode": "DLPL0017",
+                  "code": "0097",
+                  "parentCode": "*",
+                  "description": null,
+                  "label": "View Only",
+                  "longDescription": "View Only",
+                  "param1": "",
+                  "param2": "",
+                  "param3": ""
+                },
+                "additionalClientNames":[
+                    {
+                        "id":"123",
+                        "idCode":"DLPL0037",
+                        "code":"NF",
+                        "parentCode":"1400",
+                        "description":null,
+                        "shortDescription":"NORFOLK ISLAND",
+                        "label":null,
+                        "longDescription":"NORFOLK ISLAND",
+                        "param1":"",
+                        "param2":"",
+                        "param3":"",
+                        "name":"Zodiac account",
+                        "val":null
+                    },
+                    {
+                        "id":"124",
+                        "idCode":"DLPL0037",
+                        "code":"PW",
+                        "parentCode":"1400",
+                        "description":null,
+                        "shortDescription":"PALAU",
+                        "label":null,
+                        "longDescription":"PALAU",
+                        "param1":"",
+                        "param2":"",
+                        "param3":"",
+                        "name":"JPM account",
+                        "val":null
+                    }
+                ]
+            }
+        ]
+}
+}

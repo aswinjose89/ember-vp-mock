@@ -1,0 +1,168 @@
+{
+  "signoffDetails": {
+    "id": 2916,
+    "signoffId": 35,
+    "signoffVersion": 13,
+    "deleted": false,
+    "requirements": "Sign off req 1 edit Update",
+    "type": "0001",
+    "status": "0002",
+    "dueDate": 1527696000000,
+    "repeat": "0002",
+    "followupTasks": [
+          {
+            "id": 55,
+            "actionRequired": "Sign off action 2 wewewewe Update",
+            "dueDate": 1527696000000,
+            "repeat": "0002",
+            "endRepeat": null,
+            "assignedBy": "1191361-Bagri,Rajan",
+            "createdBy": "1191361-Bagri,Rajan",
+            "assignedDate": 1495094528000,
+            "taskStatus": "0002",
+            "completedDate": null,
+            "completionComments": "Test",
+            "confirmedByEsrm": null,
+            "deleted": false,
+            "calendarTaskId": "WB_395086",
+            "esraApprovers": [
+              "1444777"
+            ],
+            "assignedToEsrm": 1,
+            "assignees": [
+              {
+                "id": "76",
+                "name": "Maclean,Spencer",
+                "psId": "1325911",
+                "emailId": "Spencer.Maclean@sc.com"
+              },
+              {
+                "id": "77",
+                "name": "Gonzalez,Rodrigo",
+                "psId": "1347582",
+                "emailId": "Rodrigo.Gonzalez@sc.com"
+              },
+              {
+                "id": "78",
+                "name": "Lu,Tom Jin",
+                "psId": "1437419",
+                "emailId": "Tom.Lu@sc.com"
+              },
+              {
+                "id": "79",
+                "name": "Llewellyn,Morton",
+                "psId": "1506158",
+                "emailId": "Morton.Llewellyn@sc.com"
+              },
+              {
+                "id": "75",
+                "name": "Mourad,Victor",
+                "psId": "1365266",
+                "emailId": "Victor.Mourad@sc.com"
+              }
+            ],
+            "documents": [{
+                "docId": "20170516100753034"
+              }]
+          },
+          {
+            "id": 54,
+            "actionRequired": "Sign off action 1 edit",
+            "dueDate": 1527696000000,
+            "repeat": "0002",
+            "endRepeat": null,
+            "assignedBy": "1191361-Bagri,Rajan",
+            "createdBy": "1191361-Bagri,Rajan",
+            "assignedDate": 1495002937000,
+            "taskStatus": "0002",
+            "completedDate": null,
+            "completionComments": "Test",
+            "confirmedByEsrm": null,
+            "deleted": false,
+            "calendarTaskId": "WB_395046",
+            "esraApprovers": [
+              "1444777"
+            ],
+            "assignedToEsrm": 1,
+            "assignees": [
+              {
+                "id": "73",
+                "name": "Karungi,Carol",
+                "psId": "1193293",
+                "emailId": "Carol.Karungi@sc.com"
+              },
+              {
+                "id": "74",
+                "name": "Lu,Tom Jin",
+                "psId": "1437419",
+                "emailId": "Tom.Lu@sc.com"
+              }
+            ],
+            "documents": [
+              {
+                "docId": "20170516100753034"
+              }
+            ]
+          },
+          {
+            "id": 57,
+            "actionRequired": "Sign off action 1 edit",
+            "dueDate": 1527696000000,
+            "repeat": "0002",
+            "endRepeat": null,
+            "assignedBy": "1191361-Bagri,Rajan",
+            "createdBy": "1191361-Bagri,Rajan",
+            "assignedDate": 1495002937000,
+            "taskStatus": "0002",
+            "completedDate": null,
+            "completionComments": "Test",
+            "confirmedByEsrm": null,
+            "deleted": false,
+            "calendarTaskId": "WB_395046",
+            "esraApprovers": [
+              "1444777"
+            ],
+            "assignedToEsrm": 1,
+            "assignees": [
+              {
+                "id": "73",
+                "name": "Karungi,Carol",
+                "psId": "1193293",
+                "emailId": "Carol.Karungi@sc.com"
+              },
+              {
+                "id": "74",
+                "name": "Lu,Tom Jin",
+                "psId": "1437419",
+                "emailId": "Tom.Lu@sc.com"
+              }
+            ],
+            "documents": []
+          }
+        ],
+    "esraActivity": {
+      "id": "20150629100863685",
+      "version": 1,
+      "status": "0005",
+      "outcome": "0003",
+      "esrmRouteOnly": false,
+      "readOnly": true,
+      "locked": false,
+      "workflowHistoryEnabled": true,
+      "saveDraftEnabled": "N",
+      "submitEnabled": "N",
+      "recallEnabled": "N",
+      "approveEnabled": "N",
+      "rejectEnabled": "N",
+      "referBackEnabled": "N",
+      "withdrawEnabled": "N",
+      "reopenEnabled": "N",
+      "deleteEnabled": "N",
+      "referToESRMEnabled": "N",
+      "assignToReviewEnabled": "N",
+      "lockMessage": null,
+      "userRole": "0092",
+      "userAccess": "0096"
+    }
+  }
+}

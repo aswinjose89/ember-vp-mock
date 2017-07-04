@@ -1,0 +1,218 @@
+{
+  "globalSearch": {
+    "id": 1489667800718,
+    "filterType": "GS_ALL",
+    "clientSearchResult": 0,
+    "contactSearchResult": 0,
+    "dealSearchResult": 0,
+    "callReportsSearchResult": 0,
+    "allClientSearchResult": 0
+  },
+  "searchEntities": [],
+  "clientSearch": [
+    {
+      "category": "CLIENTS",
+      "startIndex": 0,
+      "children": [],
+      "numFound": 0,
+      "rows": 5
+    }
+  ],
+  "clientSearchEntities": [],
+  "contactSearch": [
+    {
+      "category": "CONTACTS",
+      "startIndex": 0,
+      "children": [],
+      "numFound": 0,
+      "rows": 3
+    }
+  ],
+  "contactSearchEntities": [],
+  "dealSearch": [
+    {
+      "category": "DEAL_PIPELINE",
+      "startIndex": 0,
+      "children": [],
+      "numFound": 0,
+      "rows": 3
+    }
+  ],
+  "callReportSearch": [
+    {
+      "category": "RCR",
+      "startIndex": 0,
+      "children": [],
+      "numFound": 0,
+      "rows": 3
+    }
+  ],
+  "allClientSearch": [
+    {
+      "category": "ALL_CLIENTS",
+      "startIndex": 0,
+      "children": [
+        "990296992",
+        "990025370",
+        "990286494"
+      ],
+      "numFound": 3,
+      "rows": 5
+    }
+  ],
+  "allClientSearchEntities": [
+    {
+      "id": "990296992",
+      "CHILDREN_PK": "990296992",
+      "name": "INDIA STANDARD LOAN TRUST XXXVI",
+      "entityId": "990296992",
+      "children": [
+        "13629339C11459192_990296992"
+      ],
+      "role": null,
+      "standalone": false,
+      "entityType": "G",
+      "crmId": "990296992",
+      "componentId": "990296992"
+    },
+    {
+      "id": "990025370",
+      "CHILDREN_PK": "990025370",
+      "name": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+      "entityId": "990025370",
+      "children": [
+        "13032668C11144050_990025370"
+      ],
+      "role": null,
+      "standalone": false,
+      "entityType": "G",
+      "crmId": "990025370",
+      "componentId": "990025370"
+    },
+    {
+      "id": "990286494",
+      "CHILDREN_PK": "990286494",
+      "name": "SOECHI GROUP",
+      "entityId": "990286494",
+      "children": [
+        "13620552C11468991_990286494"
+      ],
+      "role": null,
+      "standalone": false,
+      "entityType": "G",
+      "crmId": "990286494",
+      "componentId": "990286494"
+    },
+    {
+      "SUBSEGMENT_DESC": "FINANCE COMPANIES",
+      "groupName": "INDIA STANDARD LOAN TRUST XXXVI",
+      "SORT_ENTITY_TYPE": "C",
+      "entityId": "13629339",
+      "SUBSEGMENT_ID": "P9",
+      "ACCESS_TYPE": "F",
+      "entityType": "C",
+      "standalone": false,
+      "GROUP_TYPE": "G",
+      "ENTITY_STATUS": "A",
+      "componentId": "13629339",
+      "ROLE_ID": "2292",
+      "IS_DELETED": "N",
+      "id": "13629339C11459192_990296992",
+      "SEGMENT_DESC": "FINANCIAL INSTITUTIONS",
+      "CLIENT_GROUP_IDENT": "13629339 INDIA STANDARD LOAN TRUST XXXVI 990296992 INDIA STANDARD LOAN TRUST XXXVI",
+      "lastModifiedTimeStamp": 1476197761000,
+      "name": "INDIA STANDARD LOAN TRUST XXXVI",
+      "DOMICILE_COUNTRY_DESC": "INDIA",
+      "CLIENT_IDENT": "13629339 INDIA STANDARD LOAN TRUST XXXVI",
+      "entity_subprofile_Id": "136293391",
+      "DOMICILE_COUNTRY_ID": "IN",
+      "userPsid": "1459192",
+      "INDUSTRY_ID": "8186",
+      "SORT_GROUP_TYPE": 2,
+      "CREDIT_GRADE": "5B",
+      "groupId": "990296992",
+      "IC_CTRY_CODE": "IN",
+      "CHILDREN_PK": "990296992",
+      "subProfileId": 1,
+      "IC_CTRY_DESC": "INDIA",
+      "SEGMENT_ID": "N",
+      "GROUP_ACCESS": "Y",
+      "crmId": "13629339",
+      "IS_SEARCHABLE": 0
+    },
+    {
+      "SUBSEGMENT_DESC": "REAL MONEY FUNDS",
+      "groupName": "PT BANK NEGARA INDONESIA (PERSERO) TBK",
+      "SORT_ENTITY_TYPE": "C",
+      "entityId": "13032668",
+      "SUBSEGMENT_ID": "P6",
+      "ACCESS_TYPE": "F",
+      "entityType": "C",
+      "standalone": false,
+      "GROUP_TYPE": "G",
+      "ENTITY_STATUS": "A",
+      "componentId": "13032668",
+      "ROLE_ID": "3319",
+      "IS_DELETED": "N",
+      "id": "13032668C11144050_990025370",
+      "SEGMENT_DESC": "FINANCIAL INSTITUTIONS",
+      "CLIENT_GROUP_IDENT": "13032668 RDT BNI AM PROTEKSI XXX 990025370 PT BANK NEGARA INDONESIA (PERSERO) TBK",
+      "lastModifiedTimeStamp": 1476250599000,
+      "name": "RDT BNI AM PROTEKSI XXX",
+      "DOMICILE_COUNTRY_DESC": "INDONESIA",
+      "CLIENT_IDENT": "13032668 RDT BNI AM PROTEKSI XXX",
+      "entity_subprofile_Id": "130326681",
+      "DOMICILE_COUNTRY_ID": "ID",
+      "userPsid": "1144050",
+      "INDUSTRY_ID": "8171",
+      "SORT_GROUP_TYPE": 2,
+      "CREDIT_GRADE": "NA",
+      "groupId": "990025370",
+      "IC_CTRY_CODE": "ID",
+      "CHILDREN_PK": "990025370",
+      "subProfileId": 1,
+      "IC_CTRY_DESC": "INDONESIA",
+      "SEGMENT_ID": "N",
+      "GROUP_ACCESS": "Y",
+      "crmId": "13032668",
+      "IS_SEARCHABLE": 0
+    },
+    {
+      "SUBSEGMENT_DESC": "NETWORK CLIENTS",
+      "groupName": "SOECHI GROUP",
+      "SORT_ENTITY_TYPE": "C",
+      "entityId": "13620552",
+      "SUBSEGMENT_ID": "K3",
+      "ACCESS_TYPE": "F",
+      "entityType": "C",
+      "standalone": false,
+      "GROUP_TYPE": "G",
+      "ENTITY_STATUS": "A",
+      "componentId": "13620552",
+      "ROLE_ID": null,
+      "IS_DELETED": "N",
+      "id": "13620552C11468991_990286494",
+      "SEGMENT_DESC": "GLOBAL CORPORATES",
+      "CLIENT_GROUP_IDENT": "13620552 SUCCESS MARLINA XXXIII SA 990286494 SOECHI GROUP",
+      "lastModifiedTimeStamp": 1477049927000,
+      "name": "SUCCESS MARLINA XXXIII SA",
+      "DOMICILE_COUNTRY_DESC": "INDONESIA",
+      "CLIENT_IDENT": "13620552 SUCCESS MARLINA XXXIII SA",
+      "entity_subprofile_Id": "136205521",
+      "DOMICILE_COUNTRY_ID": "ID",
+      "userPsid": "1468991",
+      "INDUSTRY_ID": "7121",
+      "SORT_GROUP_TYPE": 2,
+      "CREDIT_GRADE": "8B",
+      "groupId": "990286494",
+      "IC_CTRY_CODE": "PA",
+      "CHILDREN_PK": "990286494",
+      "subProfileId": 1,
+      "IC_CTRY_DESC": "PANAMA",
+      "SEGMENT_ID": "K",
+      "GROUP_ACCESS": "Y",
+      "crmId": "13620552",
+      "IS_SEARCHABLE": 0
+    }
+  ]
+}

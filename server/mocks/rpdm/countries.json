@@ -1,0 +1,1908 @@
+{
+  "countries": [
+    {
+      "code": "AF",
+      "description": "AFGHANISTAN",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "AKROTIRI SOVEREIGN BASE AREA",
+      "description": "AKROTIRI SOVEREIGN BASE AREA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "AX",
+      "description": "ALAND ISLANDS",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "AL",
+      "description": "ALBANIA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "DZ",
+      "description": "ALGERIA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "AS",
+      "description": "AMERICAN SAMOA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "AD",
+      "description": "ANDORRA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "AO",
+      "description": "ANGOLA",
+      "vat": "",
+      "region": "AFRICA",
+      "type": ""
+    },
+    {
+      "code": "AI",
+      "description": "ANGUILLA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "AQ",
+      "description": "ANTARCTICA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "AG",
+      "description": "ANTIGUA AND BARBUDA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "AR",
+      "description": "ARGENTINA",
+      "vat": "",
+      "region": "AMERICAS",
+      "type": ""
+    },
+    {
+      "code": "AM",
+      "description": "ARMENIA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "AW",
+      "description": "ARUBA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "ASHMORE AND CARTIER ISLANDS",
+      "description": "ASHMORE AND CARTIER ISLANDS",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "AU",
+      "description": "AUSTRALIA",
+      "vat": "",
+      "region": "ASEAN",
+      "type": ""
+    },
+    {
+      "code": "AT",
+      "description": "AUSTRIA",
+      "vat": "",
+      "region": "EUROPE",
+      "type": ""
+    },
+    {
+      "code": "AZ",
+      "description": "AZERBAIJAN",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "BS",
+      "description": "BAHAMAS",
+      "vat": "",
+      "region": "AMERICAS",
+      "type": ""
+    },
+    {
+      "code": "BH",
+      "description": "BAHRAIN",
+      "vat": "",
+      "region": "MENAP",
+      "type": ""
+    },
+    {
+      "code": "BAKER ISLAND",
+      "description": "BAKER ISLAND",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "BD",
+      "description": "BANGLADESH",
+      "vat": "",
+      "region": "SOUTH ASIA",
+      "type": ""
+    },
+    {
+      "code": "BB",
+      "description": "BARBADOS",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "BY",
+      "description": "BELARUS",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "BE",
+      "description": "BELGIUM",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "BZ",
+      "description": "BELIZE",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "BJ",
+      "description": "BENIN",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "BM",
+      "description": "BERMUDA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "BT",
+      "description": "BHUTAN",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "BO",
+      "description": "BOLIVIA,PLURINATIONAL STATEOF",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "BQ",
+      "description": "BONAIRE, SINT EUSTATIUS, SABA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "BA",
+      "description": "BOSNIA AND HERZEGOVINA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "BW",
+      "description": "BOTSWANA",
+      "vat": "",
+      "region": "AFRICA",
+      "type": ""
+    },
+    {
+      "code": "BV",
+      "description": "BOUVET ISLAND",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "BR",
+      "description": "BRAZIL",
+      "vat": "",
+      "region": "AMERICAS",
+      "type": ""
+    },
+    {
+      "code": "IO",
+      "description": "BRITISH INDIAN OCEANTERRITORY",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "BN",
+      "description": "BRUNEI DARUSSALAM",
+      "vat": "",
+      "region": "ASEAN",
+      "type": ""
+    },
+    {
+      "code": "BG",
+      "description": "BULGARIA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "BF",
+      "description": "BURKINA FASO",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "BI",
+      "description": "BURUNDI",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "CV",
+      "description": "CABO VERDE",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "KH",
+      "description": "CAMBODIA",
+      "vat": "",
+      "region": "ASEAN",
+      "type": ""
+    },
+    {
+      "code": "CM",
+      "description": "CAMEROON",
+      "vat": "",
+      "region": "AFRICA",
+      "type": ""
+    },
+    {
+      "code": "CA",
+      "description": "CANADA",
+      "vat": "",
+      "region": "AMERICAS",
+      "type": ""
+    },
+    {
+      "code": "KY",
+      "description": "CAYMAN ISLANDS",
+      "vat": "",
+      "region": "AMERICAS",
+      "type": ""
+    },
+    {
+      "code": "CF",
+      "description": "CENTRAL AFRICAN REPUBLIC",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "TD",
+      "description": "CHAD",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "CL",
+      "description": "CHILE",
+      "vat": "",
+      "region": "AMERICAS",
+      "type": ""
+    },
+    {
+      "code": "CN",
+      "description": "CHINA",
+      "vat": "",
+      "region": "GREATER CHINA",
+      "type": ""
+    },
+    {
+      "code": "CX",
+      "description": "CHRISTMAS ISLAND",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "CLIPPERTON ISLAND",
+      "description": "CLIPPERTON ISLAND",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "CC",
+      "description": "COCOS (KEELING) ISLANDS",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "CO",
+      "description": "COLOMBIA",
+      "vat": "",
+      "region": "AMERICAS",
+      "type": ""
+    },
+    {
+      "code": "KM",
+      "description": "COMOROS",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "CG",
+      "description": "CONGO",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "CD",
+      "description": "CONGO, DEMOCRATIC REPUBLIC OF",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "CK",
+      "description": "COOK ISLANDS",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "CORAL SEA ISLANDS",
+      "description": "CORAL SEA ISLANDS",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "CR",
+      "description": "COSTA RICA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "CI",
+      "description": "COTE D'IVOIRE",
+      "vat": "",
+      "region": "AFRICA",
+      "type": ""
+    },
+    {
+      "code": "HR",
+      "description": "CROATIA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "CU",
+      "description": "CUBA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "CW",
+      "description": "CURACAO",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "CY",
+      "description": "CYPRUS",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "CYPRUS TURKISH CYPRIOT ADMINISTERED",
+      "description": "CYPRUS TURKISH CYPRIOT ADMINISTERED",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "CZ",
+      "description": "CZECH REPUBLIC",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "DK",
+      "description": "DENMARK",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "DHEKELIA SOVEREIGN BASE AREA",
+      "description": "DHEKELIA SOVEREIGN BASE AREA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "DJ",
+      "description": "DJIBOUTI",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "DM",
+      "description": "DOMINICA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "DO",
+      "description": "DOMINICAN REPUBLIC",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "EC",
+      "description": "ECUADOR",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "EG",
+      "description": "EGYPT",
+      "vat": "",
+      "region": "MENAP",
+      "type": ""
+    },
+    {
+      "code": "SV",
+      "description": "EL SALVADOR",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "GQ",
+      "description": "EQUATORIAL GUINEA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "ER",
+      "description": "ERITREA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "EE",
+      "description": "ESTONIA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "ET",
+      "description": "ETHIOPIA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "FK",
+      "description": "FALKLAND ISLANDS FLK",
+      "vat": "",
+      "region": "EUROPE",
+      "type": ""
+    },
+    {
+      "code": "FO",
+      "description": "FAROE ISLANDS",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "FJ",
+      "description": "FIJI",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "FI",
+      "description": "FINLAND",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "FR",
+      "description": "FRANCE",
+      "vat": "",
+      "region": "EUROPE",
+      "type": ""
+    },
+    {
+      "code": "GF",
+      "description": "FRENCH GUIANA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "PF",
+      "description": "FRENCH POLYNESIA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "TF",
+      "description": "FRENCH SOUTHERN TERRITORIES",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "GA",
+      "description": "GABON",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "GM",
+      "description": "GAMBIA",
+      "vat": "",
+      "region": "AFRICA",
+      "type": ""
+    },
+    {
+      "code": "GE",
+      "description": "GEORGIA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "DE",
+      "description": "GERMANY",
+      "vat": "",
+      "region": "EUROPE",
+      "type": ""
+    },
+    {
+      "code": "GH",
+      "description": "GHANA",
+      "vat": "",
+      "region": "AFRICA",
+      "type": ""
+    },
+    {
+      "code": "GI",
+      "description": "GIBRALTAR",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "GR",
+      "description": "GREECE",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "GL",
+      "description": "GREENLAND",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "GD",
+      "description": "GRENADA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "GP",
+      "description": "GUADELOUPE",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "GU",
+      "description": "GUAM",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "GT",
+      "description": "GUATEMALA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "GG",
+      "description": "GUERNSEY",
+      "vat": "",
+      "region": "EUROPE",
+      "type": ""
+    },
+    {
+      "code": "GN",
+      "description": "GUINEA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "GW",
+      "description": "GUINEA-BISSAU",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "GY",
+      "description": "GUYANA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "HT",
+      "description": "HAITI",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "HM",
+      "description": "HEARD ISLAND,MCDONALD ISLANDS",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "VA",
+      "description": "HOLY SEE",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "HN",
+      "description": "HONDURAS",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "HK",
+      "description": "HONG KONG",
+      "vat": "",
+      "region": "GREATER CHINA",
+      "type": ""
+    },
+    {
+      "code": "HOWLAND ISLAND",
+      "description": "HOWLAND ISLAND",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "HU",
+      "description": "HUNGARY",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "IS",
+      "description": "ICELAND",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "ILE AMSTERDAM",
+      "description": "ILE AMSTERDAM",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "ILE SAINT-PAUL",
+      "description": "ILE SAINT-PAUL",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "ILES CROZET",
+      "description": "ILES CROZET",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "ILES EPARSES",
+      "description": "ILES EPARSES",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "ILES KERGUELEN",
+      "description": "ILES KERGUELEN",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "IN",
+      "description": "INDIA",
+      "vat": "",
+      "region": "SOUTH ASIA",
+      "type": ""
+    },
+    {
+      "code": "ID",
+      "description": "INDONESIA",
+      "vat": "",
+      "region": "ASEAN",
+      "type": ""
+    },
+    {
+      "code": "IR",
+      "description": "IRAN, ISLAMIC REPUBLIC OF",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "IQ",
+      "description": "IRAQ",
+      "vat": "",
+      "region": "MENAP",
+      "type": ""
+    },
+    {
+      "code": "IE",
+      "description": "IRELAND",
+      "vat": "",
+      "region": "EUROPE",
+      "type": ""
+    },
+    {
+      "code": "IM",
+      "description": "ISLE OF MAN",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "IL",
+      "description": "ISRAEL",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "IT",
+      "description": "ITALY",
+      "vat": "",
+      "region": "EUROPE",
+      "type": ""
+    },
+    {
+      "code": "JM",
+      "description": "JAMAICA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "JP",
+      "description": "JAPAN",
+      "vat": "",
+      "region": "NE ASIA",
+      "type": ""
+    },
+    {
+      "code": "JARVIS ISLAND",
+      "description": "JARVIS ISLAND",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "JE",
+      "description": "JERSEY",
+      "vat": "",
+      "region": "EUROPE",
+      "type": ""
+    },
+    {
+      "code": "JOHNSTON ATOLL",
+      "description": "JOHNSTON ATOLL",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "JO",
+      "description": "JORDAN",
+      "vat": "",
+      "region": "MENAP",
+      "type": ""
+    },
+    {
+      "code": "KZ",
+      "description": "KAZAKHSTAN",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "KE",
+      "description": "KENYA",
+      "vat": "",
+      "region": "AFRICA",
+      "type": ""
+    },
+    {
+      "code": "KINGMAN REEF",
+      "description": "KINGMAN REEF",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "KI",
+      "description": "KIRIBATI",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "KR",
+      "description": "KOREA, REPUBLIC OF",
+      "vat": "",
+      "region": "NE ASIA",
+      "type": ""
+    },
+    {
+      "code": "KP",
+      "description": "KOREADEMOCRATIC PEOPLES REP",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "KW",
+      "description": "KUWAIT",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "KG",
+      "description": "KYRGYZSTAN",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "LN",
+      "description": "LABUAN",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "LA",
+      "description": "LAO PEOPLES DEMOCRATIC REP",
+      "vat": "",
+      "region": "ASEAN",
+      "type": ""
+    },
+    {
+      "code": "LV",
+      "description": "LATVIA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "LB",
+      "description": "LEBANON",
+      "vat": "",
+      "region": "MENAP",
+      "type": ""
+    },
+    {
+      "code": "LS",
+      "description": "LESOTHO",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "LR",
+      "description": "LIBERIA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "LY",
+      "description": "LIBYA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "LI",
+      "description": "LIECHTENSTEIN",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "LT",
+      "description": "LITHUANIA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "LU",
+      "description": "LUXEMBOURG",
+      "vat": "",
+      "region": "EUROPE",
+      "type": ""
+    },
+    {
+      "code": "MO",
+      "description": "MACAO",
+      "vat": "",
+      "region": "GREATER CHINA",
+      "type": ""
+    },
+    {
+      "code": "MK",
+      "description": "MACEDONIA, REPUBLIC OF",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "MG",
+      "description": "MADAGASCAR",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "MW",
+      "description": "MALAWI",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "MY",
+      "description": "MALAYSIA",
+      "vat": "",
+      "region": "ASEAN",
+      "type": ""
+    },
+    {
+      "code": "MV",
+      "description": "MALDIVES",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "ML",
+      "description": "MALI",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "MT",
+      "description": "MALTA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "MH",
+      "description": "MARSHALL ISLANDS",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "MQ",
+      "description": "MARTINIQUE",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "MR",
+      "description": "MAURITANIA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "MU",
+      "description": "MAURITIUS",
+      "vat": "",
+      "region": "AFRICA",
+      "type": ""
+    },
+    {
+      "code": "YT",
+      "description": "MAYOTTE",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "MX",
+      "description": "MEXICO",
+      "vat": "",
+      "region": "AMERICAS",
+      "type": ""
+    },
+    {
+      "code": "FM",
+      "description": "MICRONESIA,FEDERATED STATE OF",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "MIDWAY ISLANDS",
+      "description": "MIDWAY ISLANDS",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "MD",
+      "description": "MOLDOVA, REPUBLIC OF",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "MC",
+      "description": "MONACO",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "MN",
+      "description": "MONGOLIA",
+      "vat": "",
+      "region": "NE ASIA",
+      "type": ""
+    },
+    {
+      "code": "ME",
+      "description": "MONTENEGRO",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "MS",
+      "description": "MONTSERRAT",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "MA",
+      "description": "MOROCCO",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "MZ",
+      "description": "MOZAMBIQUE",
+      "vat": "",
+      "region": "AFRICA",
+      "type": ""
+    },
+    {
+      "code": "MM",
+      "description": "MYANMAR",
+      "vat": "",
+      "region": "ASEAN",
+      "type": ""
+    },
+    {
+      "code": "NA",
+      "description": "NAMIBIA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "NR",
+      "description": "NAURU",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "NAVASSA ISLAND",
+      "description": "NAVASSA ISLAND",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "NP",
+      "description": "NEPAL",
+      "vat": "",
+      "region": "SOUTH ASIA",
+      "type": ""
+    },
+    {
+      "code": "NL",
+      "description": "NETHERLANDS",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "NC",
+      "description": "NEW CALEDONIA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "NZ",
+      "description": "NEW ZEALAND",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "NI",
+      "description": "NICARAGUA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "NE",
+      "description": "NIGER",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "NG",
+      "description": "NIGERIA",
+      "vat": "",
+      "region": "AFRICA",
+      "type": ""
+    },
+    {
+      "code": "NU",
+      "description": "NIUE",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "NF",
+      "description": "NORFOLK ISLAND",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "MP",
+      "description": "NORTHERN MARIANA ISLANDS",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "NO",
+      "description": "NORWAY",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "OM",
+      "description": "OMAN",
+      "vat": "",
+      "region": "MENAP",
+      "type": ""
+    },
+    {
+      "code": "PK",
+      "description": "PAKISTAN",
+      "vat": "",
+      "region": "MENAP",
+      "type": ""
+    },
+    {
+      "code": "PW",
+      "description": "PALAU",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "PS",
+      "description": "PALESTINE, STATE OF",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "PALMYRA ATOLL",
+      "description": "PALMYRA ATOLL",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "PA",
+      "description": "PANAMA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "PG",
+      "description": "PAPUA NEW GUINEA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "PARACEL ISLANDS",
+      "description": "PARACEL ISLANDS",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "PY",
+      "description": "PARAGUAY",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "PE",
+      "description": "PERU",
+      "vat": "",
+      "region": "AMERICAS",
+      "type": ""
+    },
+    {
+      "code": "PH",
+      "description": "PHILIPPINES",
+      "vat": "",
+      "region": "ASEAN",
+      "type": ""
+    },
+    {
+      "code": "PN",
+      "description": "PITCAIRN",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "PL",
+      "description": "POLAND",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "PT",
+      "description": "PORTUGAL",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "PR",
+      "description": "PUERTO RICO",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "QA",
+      "description": "QATAR",
+      "vat": "",
+      "region": "MENAP",
+      "type": ""
+    },
+    {
+      "code": "RE",
+      "description": "REUNION",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "RO",
+      "description": "ROMANIA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "RU",
+      "description": "RUSSIAN FEDERATION",
+      "vat": "",
+      "region": "EUROPE",
+      "type": ""
+    },
+    {
+      "code": "RW",
+      "description": "RWANDA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "BL",
+      "description": "SAINT BARTHELEMY",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "KN",
+      "description": "SAINT KITTS AND NEVIS",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "LC",
+      "description": "SAINT LUCIA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "MF",
+      "description": "SAINT MARTIN (FRENCH PART)",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "PM",
+      "description": "SAINT PIERRE AND MIQUELON",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "VC",
+      "description": "SAINT VINCENT, THE GRENADINES",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "WS",
+      "description": "SAMOA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "SM",
+      "description": "SAN MARINO",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "ST",
+      "description": "SAO TOME AND PRINCIPE",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "SA",
+      "description": "SAUDI ARABIA",
+      "vat": "",
+      "region": "MENAP",
+      "type": ""
+    },
+    {
+      "code": "SN",
+      "description": "SENEGAL",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "RS",
+      "description": "SERBIA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "SC",
+      "description": "SEYCHELLES",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "SL",
+      "description": "SIERRA LEONE",
+      "vat": "",
+      "region": "AFRICA",
+      "type": ""
+    },
+    {
+      "code": "SG",
+      "description": "SINGAPORE",
+      "vat": "",
+      "region": "ASEAN",
+      "type": ""
+    },
+    {
+      "code": "SX",
+      "description": "SINT MAARTEN (DUTCH PART)",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "SK",
+      "description": "SLOVAKIA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "SI",
+      "description": "SLOVENIA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "SB",
+      "description": "SOLOMON ISLANDS",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "SO",
+      "description": "SOMALIA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "ZA",
+      "description": "SOUTH AFRICA",
+      "vat": "",
+      "region": "AFRICA",
+      "type": ""
+    },
+    {
+      "code": "GS",
+      "description": "SOUTH GEORGIA,SANDWICH ISLAND",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "SS",
+      "description": "SOUTH SUDAN",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "ES",
+      "description": "SPAIN",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "SPRATLY ISLANDS",
+      "description": "SPRATLY ISLANDS",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "LK",
+      "description": "SRI LANKA",
+      "vat": "",
+      "region": "SOUTH ASIA",
+      "type": ""
+    },
+    {
+      "code": "SH",
+      "description": "STHELENA ASCENSN TRISTANCUNHA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "SD",
+      "description": "SUDAN",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "SR",
+      "description": "SURINAME",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "SJ",
+      "description": "SVALBARD AND JAN MAYEN",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "SZ",
+      "description": "SWAZILAND",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "SE",
+      "description": "SWEDEN",
+      "vat": "",
+      "region": "EUROPE",
+      "type": ""
+    },
+    {
+      "code": "CH",
+      "description": "SWITZERLAND",
+      "vat": "",
+      "region": "EUROPE",
+      "type": ""
+    },
+    {
+      "code": "SY",
+      "description": "SYRIAN ARAB REPUBLIC",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "TW",
+      "description": "TAIWAN",
+      "vat": "",
+      "region": "GREATER CHINA",
+      "type": ""
+    },
+    {
+      "code": "TJ",
+      "description": "TAJIKISTAN",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "TZ",
+      "description": "TANZANIA, UNITED REPUBLIC OF",
+      "vat": "",
+      "region": "AFRICA",
+      "type": ""
+    },
+    {
+      "code": "TH",
+      "description": "THAILAND",
+      "vat": "",
+      "region": "ASEAN",
+      "type": ""
+    },
+    {
+      "code": "TL",
+      "description": "TIMOR-LESTE",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "TG",
+      "description": "TOGO",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "TK",
+      "description": "TOKELAU",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "TO",
+      "description": "TONGA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "TT",
+      "description": "TRINIDAD AND TOBAGO",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "TN",
+      "description": "TUNISIA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "TR",
+      "description": "TURKEY",
+      "vat": "",
+      "region": "EUROPE",
+      "type": ""
+    },
+    {
+      "code": "TM",
+      "description": "TURKMENISTAN",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "TC",
+      "description": "TURKS AND CAICOS ISLANDS",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "TV",
+      "description": "TUVALU",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "UG",
+      "description": "UGANDA",
+      "vat": "",
+      "region": "AFRICA",
+      "type": ""
+    },
+    {
+      "code": "UA",
+      "description": "UKRAINE",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "AE",
+      "description": "UNITED ARAB EMIRATES",
+      "vat": "",
+      "region": "MENAP",
+      "type": ""
+    },
+    {
+      "code": "GB",
+      "description": "UNITED KINGDOM",
+      "vat": "",
+      "region": "EUROPE",
+      "type": ""
+    },
+    {
+      "code": "US",
+      "description": "UNITED STATES OF AMERICA",
+      "vat": "",
+      "region": "AMERICAS",
+      "type": ""
+    },
+    {
+      "code": "UM",
+      "description": "UNITED STATES OUTLYING ISLAND",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "UY",
+      "description": "URUGUAY",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "UZ",
+      "description": "UZBEKISTAN",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "VU",
+      "description": "VANUATU",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "VE",
+      "description": "VENEZUELA, BOLIVARIAN REP OF",
+      "vat": "",
+      "region": "AMERICAS",
+      "type": ""
+    },
+    {
+      "code": "VN",
+      "description": "VIETNAM",
+      "vat": "",
+      "region": "ASEAN",
+      "type": ""
+    },
+    {
+      "code": "VG",
+      "description": "VIRGIN ISLANDS, BRITISH",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "VI",
+      "description": "VIRGIN ISLANDS, U.S.",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "WAKE ISLAND",
+      "description": "WAKE ISLAND",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "WF",
+      "description": "WALLIS AND FUTUNA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "EH",
+      "description": "WESTERN SAHARA",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "YE",
+      "description": "YEMEN",
+      "vat": "",
+      "region": "OTHERS",
+      "type": ""
+    },
+    {
+      "code": "ZM",
+      "description": "ZAMBIA",
+      "vat": "",
+      "region": "AFRICA",
+      "type": ""
+    },
+    {
+      "code": "ZW",
+      "description": "ZIMBABWE",
+      "vat": "",
+      "region": "AFRICA",
+      "type": ""
+    }
+  ]
+}

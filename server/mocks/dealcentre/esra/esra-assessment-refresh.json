@@ -1,0 +1,470 @@
+{
+  "assessmentDetail": {
+    "id": 20150629100863685,
+    "fsData": {
+        "id": 20150629100863685,
+        "fsFields": [
+        {
+          "commentCount": 0,
+          "commentable": false,
+          "dataType": "text",
+          "disable": null,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [{
+              "name": "Yes",
+              "isVisible": "true",
+              "value": "yes"
+            }, {
+              "name": "No",
+              "isVisible": "true",
+              "value": "no"
+            }],
+            "isHeader": true,
+            "isCard": true
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "helpText": null,
+          "id": "scr_assessment_0_0",
+          "isOpa": true,
+          "label": "Has Transaction ESRA been completed under a related deal?",
+          "mandatory": true,
+          "name": "in_trans_related_deal_1",
+          "opaObject": null,
+          "readOnly": false,
+          "refreshOnChange": false,
+          "type": "wb-radio",
+          "uncertain": false,
+          "value": "no",
+          "visible": true
+        },
+        {
+          "commentCount": 0,
+          "commentable": false,
+          "dataType": "text",
+          "disable": null,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [{
+              "name": "Project financing advisory services.",
+              "isVisible": "true",
+              "value": 1
+            }, {
+              "name": "Bridge loans with tenor of less than two years and a proposed Project Finance or Project-Related Corporate Loan take-out (as determined in discussion with the client, and where such PF / PRCL take-out structures will meet the definitions below)",
+              "isVisible": "true",
+              "value": 2
+            }, {
+              "name": "Will project impacts occur during the term of the facility / advisory engagement?",
+              "isVisible": "true",
+              "value": 3
+            }, {
+              "name": "Project-Related Corporate Loans ('PRCL') meet all of the following criteria: i. total aggregated loan amount committed by all parties, whether bilateral/sydicated/club, is at least US$100mn; ii. Standard Chartered's participation is at least US$50mn; iii. tenor is 2 years or longer, iv. over 50% of proceeds will be used to finance the development, expansion or upgrade of a single project, and v. the borrower has effective control (direct or indirect) over the project",
+              "isVisible": "true",
+              "value": 4
+            }, {
+              "name": "None of the above.",
+              "isVisible": "true",
+              "value": 5
+            }],
+            "isHeader": true,
+            "isCard": true
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "helpText": null,
+          "id": "scr_assessment_0_1",
+          "isOpa": true,
+          "label": "2. Select category of Transaction ESRA",
+          "mandatory": true,
+          "name": "question1",
+          "opaObject": null,
+          "readOnly": false,
+          "refreshOnChange": false,
+          "type": "wb-radio",
+          "uncertain": false,
+          "value": 3,
+          "visible": true
+        },
+        {
+          "commentCount": 0,
+          "commentable": false,
+          "dataType": "text",
+          "disable": null,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [{
+              "name": "A",
+              "isVisible": "true",
+              "value": "A"
+            }, {
+              "name": "B",
+              "isVisible": "true",
+              "value": "B"
+            }, {
+              "name": "C",
+              "isVisible": "true",
+              "value": "C"
+            }],
+            "isHeader": true,
+            "isCard": true
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "helpText": null,
+          "id": "scr_assessment_0_2",
+          "isOpa": true,
+          "label": "3. Please indicate the Equator Principles Categorisation of the transaction as advised by the independent Environment and Social consultant.",
+          "mandatory": true,
+          "name": "question2",
+          "opaObject": null,
+          "readOnly": false,
+          "refreshOnChange": true,
+          "type": "wb-radio",
+          "uncertain": false,
+          "value": "B",
+          "visible": true
+        },
+        {
+          "commentCount": 0,
+          "commentable": false,
+          "dataType": "text",
+          "disable": null,
+          "error": null,
+          "fieldAttributes": {
+            "listOptions": [{
+              "name": "A",
+              "isVisible": "true",
+              "value": "A"
+            }, {
+              "name": "B",
+              "isVisible": "true",
+              "value": "B"
+            }, {
+              "name": "C",
+              "isVisible": "true",
+              "value": "C"
+            }],
+            "isHeader": true,
+            "isCard": true
+          },
+          "fsValidations": {
+            "maxLength": ""
+          },
+          "helpText": null,
+          "id": "scr_assessment_0_3",
+          "isOpa": true,
+          "label": "4. Question 4?",
+          "mandatory": true,
+          "name": "question3",
+          "opaObject": null,
+          "readOnly": false,
+          "refreshOnChange": true,
+          "type": "wb-radio",
+          "uncertain": false,
+          "value": "B",
+          "visible": true
+        },
+        {
+            "type": "containment_relationship",
+            "dataType": "containment_relationship",
+            "id": "scr_assessment_0_4",
+            "isVisible": true,
+            "label": "Sectors of the Project / Assets",
+            "relationshipId": "rel_sectors",
+            "sourceEntityId": "global",
+            "sourceInstanceId": "global",
+            "targetEntityId": "ent_sector",
+            "relationshipType": "OneToMany",
+            "opaObject": {
+                "entityInstances": [
+                  {
+                    "entityId": "ent_sector",
+                    "instanceId": "0001",
+                    "isVisible": true,
+                    "properties": null,
+                    "entityControlList": null
+                  },
+                  {
+                    "entityId": "ent_sector",
+                    "instanceId": "0002",
+                    "isVisible": true,
+                    "properties": null,
+                    "entityControlList": null
+                  }
+                ],
+                "properties": [
+                  {
+                    "key": "show_add",
+                    "text": true
+                  }
+                ]
+            },
+            "uncertain": false
+          },
+          {
+            "commentCount": 0,
+            "commentable": false,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+              "listOptions": [{
+                "name": "A",
+                "isVisible": "true",
+                "value": "A"
+              }, {
+                "name": "B",
+                "isVisible": "true",
+                "value": "B"
+              }, {
+                "name": "C",
+                "isVisible": "true",
+                "value": "C"
+              }],
+              "isHeader": true,
+              "isCard": true
+            },
+            "fsValidations": {
+              "maxLength": ""
+            },
+            "helpText": null,
+            "id": "scr_assessment_0_5",
+            "isOpa": true,
+            "label": "Sector Question 1?",
+            "mandatory": true,
+            "name": "question4",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": true,
+            "type": "wb-radio",
+            "uncertain": false,
+            "value": "B",
+            "visible": true
+          },
+          {
+            "commentCount": 0,
+            "commentable": false,
+            "dataType": "text",
+            "disable": null,
+            "error": null,
+            "fieldAttributes": {
+              "listOptions": [{
+                "name": "A",
+                "isVisible": "true",
+                "value": "A"
+              }, {
+                "name": "B",
+                "isVisible": "true",
+                "value": "B"
+              }, {
+                "name": "C",
+                "isVisible": "true",
+                "value": "C"
+              }, {
+                "name": "NA",
+                "isVisible": "true",
+                "value": "na"
+              }],
+              "isHeader": true,
+              "isCard": true
+            },
+            "fsValidations": {
+              "maxLength": ""
+            },
+            "helpText": null,
+            "id": "scr_assessment_0_6",
+            "isOpa": true,
+            "label": "Sector 2 Question 1?",
+            "mandatory": true,
+            "name": "question5",
+            "opaObject": null,
+            "readOnly": false,
+            "refreshOnChange": true,
+            "type": "wb-radio",
+            "uncertain": false,
+            "value": "C",
+            "visible": true
+          }
+        ],
+        "fsForm": {
+          "autoSave": false,
+          "commentCount": 0,
+          "disable": null,
+          "errors": [],
+          "fsHeader": {
+            "consumerPayload": {
+              "sessionId": "735b9e89-f51a-4cb6-863a-960840e47e99",
+              "rulebaseName": "ESRA",
+              "rulebaseVersion": "1.0",
+              "userId": "system",
+              "requestType": "GetScreen",
+              "caseId": "X0001",
+              "caseVersion": "1.0",
+              "module": "ESRA"
+            },
+            "id": "-1"
+          },
+          "fsPages": [
+            "scr_assessment"
+          ],
+          "fsProperties": [{
+            "key": "tooltip_text",
+            "text": ""
+          }, {
+            "key": "fresh_reference_data",
+            "text": "False"
+          }, {
+            "key": "is_commentable",
+            "text": ""
+          }, {
+            "key": "page_layout",
+            "text": ""
+          }, {
+            "key": "page_route",
+            "text": "scr_assessment"
+          }],
+          "id": "DEAL0001",
+          "isOpa": true,
+          "label": "Test",
+          "message": null,
+          "messageData": null,
+          "readOnly": null,
+          "redirectToPage": "scr_assessment",
+          "showValidations": false,
+          "unauthorized": false,
+          "visible": true
+        },
+        "fsPages": [{
+          "commentCount": 0,
+          "commentable": false,
+          "disable": null,
+          "errors": null,
+          "fsButtons": [],
+          "fsHeader": {
+            "consumerPayload": {
+              "sessionId": "735b9e89-f51a-4cb6-863a-960840e47e99",
+              "rulebaseName": "ESRA",
+              "rulebaseVersion": "1.0",
+              "userId": "system",
+              "requestType": "GetScreen",
+              "caseId": "X0001",
+              "caseVersion": "1.0",
+              "module": "ESRA"
+            },
+            "id": "-1"
+          },
+          "fsProperties": [{
+            "key": "tooltip_text",
+            "text": ""
+          }, {
+            "key": "fresh_reference_data",
+            "text": "False"
+          }, {
+            "key": "is_commentable",
+            "text": ""
+          }, {
+            "key": "page_layout",
+            "text": ""
+          }, {
+            "key": "page_route",
+            "text": "scr_assessment"
+          }],
+          "fsSections": [
+            "scr_assessment_0",
+            "scr_assessment_1",
+            "scr_assessment_2",
+            "scr_assessment_3",
+            "scr_assessment_4"
+          ],
+          "hasErrors": false,
+          "id": "scr_assessment",
+          "isOpa": true,
+          "isPageLoaded": true,
+          "label": "Assessment",
+          "layout": "",
+          "pageId": "qs$scr_assessment$global$global",
+          "readOnly": null,
+          "transition": null,
+          "visible": true
+        }],
+        "fsSections": [{
+          "commentCount": 0,
+          "disable": null,
+          "fsFields": [
+            "scr_assessment_0_0"
+          ],
+          "id": "scr_assessment_0",
+          "isOpa": true,
+          "label": "",
+          "layout": "mdHeader",
+          "readOnly": null,
+          "visible": true
+        },
+        {
+          "commentCount": 0,
+          "disable": null,
+          "fsFields": [
+            "scr_assessment_0_1",
+            "scr_assessment_0_2",
+            "scr_assessment_0_3"
+          ],
+          "id": "scr_assessment_1",
+          "isOpa": true,
+          "label": "",
+          "layout": "vertical",
+          "readOnly": null,
+          "visible": true
+        },
+        {
+          "commentCount": 0,
+          "disable": null,
+          "fsFields": [
+            "scr_assessment_0_4"
+          ],
+          "id": "scr_assessment_2",
+          "isOpa": true,
+          "label": "",
+          "layout": "tabs",
+          "readOnly": null,
+          "visible": true
+        },
+        {
+          "commentCount": 0,
+          "disable": null,
+          "fsFields": [
+            "scr_assessment_0_5"
+          ],
+          "id": "scr_assessment_3",
+          "isOpa": true,
+          "label": "0001",
+          "layout": "tab",
+          "readOnly": null,
+          "visible": true
+        },
+        {
+          "commentCount": 0,
+          "disable": null,
+          "fsFields": [
+            "scr_assessment_0_6"
+          ],
+          "id": "scr_assessment_4",
+          "isOpa": true,
+          "label": "0002",
+          "layout": "tab",
+          "readOnly": null,
+          "visible": true
+        }
+        ]
+    },
+    "esraActivity": {
+      "id": 20150629100863685,
+      "status": "0002",
+      "outcome": "0001",
+      "version": 1
+    }
+  }
+}

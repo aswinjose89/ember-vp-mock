@@ -1,0 +1,864 @@
+{
+  "wbToken": "c7459638-43f0-448c-8158-eba8c7cdee8d",
+  "userProfile": {
+    "roleHead": "N",
+    "psId": "1183119",
+    "firstName": "Mothusi",
+    "lastName": "Sebina",
+    "emailId": "Mothusi.Sebina@sc.com",
+    "department": "CRM-WB Cr.Proces Re-think Proj",
+    "jobTitle": "Director Portfolio Management",
+    "shortDescription": null,
+    "userCountry": "Singapore",
+    "roleHeadType": 1,
+    "atwUserType": 0,
+    "atwUser": "Y",
+    "cobamRoles": null,
+    "ldapRoles": [
+      "ROLE_RMWB_ATW_SUPER_ADMIN",
+      "ROLE_MOBILE_ANALYTICS_ACCESS",
+      "ROLE_RMWB_DEAL_ADMIN",
+      "ROLE_BPM",
+      "ROLE_RMWB_RMSCARD_ADMIN",
+      "ROLE_ONEWB_DC_ADMIN",
+      "ROLE_CCT_ADMIN",
+      "ROLE_RM",
+      "ROLE_RMWB_SCBEVENT_ADMIN"
+    ],
+    "userRoles": [
+      "MOBILE_ANALYTICS_ACCESS",
+      "RMWB_SCBEVENT_ADMIN",
+      "RMWB_RMSCARD_ADMIN",
+      "RMWB_ATW_SUPER_ADMIN",
+      "BPM",
+      "ONEWB_DC_ADMIN",
+      "RMWB_DEAL_ADMIN",
+      "CCT_ADMIN",
+      "RM"
+    ],
+    "pseudoId": "1511946",
+    "telephoneNumber": "65 630 70519",
+    "mobileNumber": "65 932 09031",
+    "address": "1 Raffles Place, ",
+    "departmentCode": "OCC",
+    "fapData": {
+      "WB_SALES_HOME": {
+        "ALL_DEALS_TAB": {
+          "ACTION": "VIEW"
+        },
+        "DEAL_PIPELINE_ACCESS": {
+          "ACTION": "VIEW"
+        },
+        "CCT_MAINTENANCE": {
+          "ACTION": "UPDATE"
+        },
+        "ADD_NEW_PROSPECT": {
+          "ACTION": "DISABLE"
+        },
+        "CALL_REPORTS_TAB": {
+          "ADD_CALL_REPORT_BTN": {
+            "ACTION": "VIEW"
+          },
+          "ACTION": "VIEW",
+          "DELETE_CALL_REPORT": {
+            "ACTION": "VIEW"
+          }
+        },
+        "EDIT_PROSPECT": {
+          "ACTION": "DISABLE"
+        },
+        "FAVOURITES_REPORTS": {
+          "ACCOUNT_PLAN_MAIN": {
+            "ACTION": "VIEW"
+          },
+          "REVENUE_TREND": {
+            "ACTION": "VIEW"
+          },
+          "REVENUE_DASHBOARD": {
+            "ACTION": "VIEW"
+          },
+          "ACCOUNT_PLAN_SUB8": {
+            "ACTION": "VIEW"
+          },
+          "ACCOUNT_PLAN_SUB4": {
+            "ACTION": "VIEW"
+          },
+          "ACCOUNT_PLAN_SUB5": {
+            "ACTION": "VIEW"
+          },
+          "ACCOUNT_PLAN_SUB6": {
+            "ACTION": "VIEW"
+          },
+          "ACCOUNT_PLAN_SUB7": {
+            "ACTION": "VIEW"
+          },
+          "REVENUE_DET": {
+            "ACTION": "VIEW"
+          },
+          "PORTFOLIO_BAL_DASHBOARD": {
+            "ACTION": "VIEW"
+          },
+          "ACCOUNT_PLAN_SUB1": {
+            "ACTION": "VIEW"
+          },
+          "ACCOUNT_PLAN_SUB2": {
+            "ACTION": "VIEW"
+          },
+          "CLIENT_DASHBOARD": {
+            "ACTION": "VIEW"
+          },
+          "ACCOUNT_PLAN_SUB3": {
+            "ACTION": "VIEW"
+          },
+          "ACTION": "VIEW"
+        },
+        "ACTION": "VIEW",
+        "LAST_50_CALLS_TAB": {
+          "ACTION": "HIDDEN"
+        }
+      },
+      "WB": {
+        "DC_HOME": {
+          "ACTION": "VIEW"
+        },
+        "CALENDAR_HOME": {
+          "ACTION": "DISABLE"
+        },
+        "SALES_HOME": {
+          "ACTION": "VIEW"
+        },
+        "ACTION": "VIEW",
+        "CREDIT_HOME": {
+          "ACTION": "DISABLE"
+        }
+      },
+      "WB_REPORT_HOME_PORTFOLIO_REPORTS": {
+        "WORKBENCH_ADHOC_ANALYSIS": {
+          "ACTION": "VIEW"
+        },
+        "CALL_PARTICIPANTS_REPORT": {
+          "ACTION": "VIEW"
+        },
+        "TB_DEAL_PIPELINE": {
+          "ACTION": "DISABLE"
+        },
+        "REVENUE_DET_ALL": {
+          "ACTION": "VIEW"
+        },
+        "FM_DELTA_SUMMARY_DASHBOARD": {
+          "ACTION": "DISABLE"
+        },
+        "FM_DEAL_PIPELINE_2": {
+          "ACTION": "DISABLE"
+        },
+        "TWELVE_MONTHS_PIPELINE_TREND": {
+          "ACTION": "VIEW"
+        },
+        "COUNTRY_MOVEMENTS_MATURITIES_RPT": {
+          "ACTION": "HIDDEN"
+        },
+        "RCR_DASHBOARD": {
+          "ACTION": "VIEW"
+        },
+        "USAGE_STATISTICS_REPORT": {
+          "ACTION": "DISABLE"
+        },
+        "ACCOUNT_PLAN_SUB8": {
+          "ACTION": "VIEW"
+        },
+        "HOGS": {
+          "ACTION": "VIEW"
+        },
+        "ADHOC_REPORTING": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_SUB4": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_SUB5": {
+          "ACTION": "VIEW"
+        },
+        "SIX_MONTHS_PIPELINE_TREND": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_SUB6": {
+          "ACTION": "VIEW"
+        },
+        "GENERAL_CALL_REPORT": {
+          "ACTION": "VIEW"
+        },
+        "PORTFOLIO_BAL_DASHBOARD": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_SUB7": {
+          "ACTION": "VIEW"
+        },
+        "MY_CLIENT_ACCESS": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_SUB1": {
+          "ACTION": "VIEW"
+        },
+        "CLIENT_DASHBOARD": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_SUB2": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_SUB3": {
+          "ACTION": "VIEW"
+        },
+        "FM_DEAL_PIPELINE_1": {
+          "ACTION": "DISABLE"
+        },
+        "DISCUSSION_DETAILS_REPORT": {
+          "ACTION": "VIEW"
+        },
+        "ACTION": "VIEW",
+        "RISK_VIEW": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_MAIN": {
+          "ACTION": "VIEW"
+        },
+        "REVENUE_TREND": {
+          "ACTION": "VIEW"
+        },
+        "REVENUE_DASHBOARD": {
+          "ACTION": "VIEW"
+        },
+        "TB_DEAL_LIST": {
+          "ACTION": "DISABLE"
+        },
+        "MOBILE_STAT": {
+          "ACTION": "DISABLE"
+        },
+        "SALESPERSON_PORTFOLIO_MOVEMENT_REPORT": {
+          "ACTION": "HIDDEN"
+        },
+        "DEAL_VIEWER": {
+          "ACTION": "VIEW"
+        },
+        "ONEWB_USER_LIST": {
+          "ACTION": "DISABLE"
+        },
+        "TIER_1_CUST_DASHBOARD": {
+          "ACTION": "VIEW"
+        },
+        "CLIENT_CNT_ACT_ENQUIRY_REPORT": {
+          "ACTION": "VIEW"
+        },
+        "REVENUE_DET": {
+          "ACTION": "VIEW"
+        },
+        "RCR_AD_HOC": {
+          "ACTION": "VIEW"
+        },
+        "SALESPERSON_PORTFOLIO_MOVEMENT_MATURITIES_REPORT": {
+          "ACTION": "HIDDEN"
+        }
+      },
+      "WB_REPORT_HOME_CLIENT_REPORTS": {
+        "CALL_PARTICIPANTS_REPORT": {
+          "ACTION": "VIEW"
+        },
+        "COUNTRY_MOVEMENTS_MATURITIES_RPT": {
+          "ACTION": "HIDDEN"
+        },
+        "RCR_DASHBOARD": {
+          "ACTION": "VIEW"
+        },
+        "USAGE_STATISTICS_REPORT": {
+          "ACTION": "DISABLE"
+        },
+        "CLIENT_LEND_PORTFOLIO": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_SUB8": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_SUB4": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_SUB5": {
+          "ACTION": "VIEW"
+        },
+        "GENERAL_CALL_REPORT": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_SUB6": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_SUB7": {
+          "ACTION": "VIEW"
+        },
+        "PORTFOLIO_BAL_DASHBOARD": {
+          "ACTION": "VIEW"
+        },
+        "MY_CLIENT_ACCESS": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_SUB1": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_SUB2": {
+          "ACTION": "VIEW"
+        },
+        "CLIENT_DASHBOARD": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_SUB3": {
+          "ACTION": "VIEW"
+        },
+        "DISCUSSION_DETAILS_REPORT": {
+          "ACTION": "VIEW"
+        },
+        "ACTION": "VIEW",
+        "RISK_VIEW": {
+          "ACTION": "VIEW"
+        },
+        "FM_LIMIT_UTIL_REPORT": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_MAIN": {
+          "ACTION": "VIEW"
+        },
+        "REVENUE_TREND": {
+          "ACTION": "VIEW"
+        },
+        "REVENUE_DASHBOARD": {
+          "ACTION": "VIEW"
+        },
+        "MOBILE_STAT": {
+          "ACTION": "DISABLE"
+        },
+        "SALESPERSON_PORTFOLIO_MOVEMENT_REPORT": {
+          "ACTION": "HIDDEN"
+        },
+        "DEAL_VIEWER": {
+          "ACTION": "VIEW"
+        },
+        "TIER_1_CUST_DASHBOARD": {
+          "ACTION": "VIEW"
+        },
+        "REVENUE_DET": {
+          "ACTION": "VIEW"
+        },
+        "RCR_AD_HOC": {
+          "ACTION": "VIEW"
+        },
+        "CLIENT_CNT_ACT_REPORT": {
+          "ACTION": "VIEW"
+        },
+        "SALESPERSON_PORTFOLIO_MOVEMENT_MATURITIES_REPORT": {
+          "ACTION": "HIDDEN"
+        }
+      },
+      "WB_REPORT_HOME_GROUP_REPORTS": {
+        "CALL_PARTICIPANTS_REPORT": {
+          "ACTION": "VIEW"
+        },
+        "COUNTRY_MOVEMENTS_MATURITIES_RPT": {
+          "ACTION": "HIDDEN"
+        },
+        "RCR_DASHBOARD": {
+          "ACTION": "VIEW"
+        },
+        "USAGE_STATISTICS_REPORT": {
+          "ACTION": "DISABLE"
+        },
+        "ACCOUNT_PLAN_SUB8": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_SUB4": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_SUB5": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_SUB6": {
+          "ACTION": "VIEW"
+        },
+        "GENERAL_CALL_REPORT": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_SUB7": {
+          "ACTION": "VIEW"
+        },
+        "PORTFOLIO_BAL_DASHBOARD": {
+          "ACTION": "VIEW"
+        },
+        "MY_CLIENT_ACCESS": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_SUB1": {
+          "ACTION": "VIEW"
+        },
+        "CLIENT_DASHBOARD": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_SUB2": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_SUB3": {
+          "ACTION": "VIEW"
+        },
+        "DISCUSSION_DETAILS_REPORT": {
+          "ACTION": "VIEW"
+        },
+        "ACTION": "VIEW",
+        "RISK_VIEW": {
+          "ACTION": "VIEW"
+        },
+        "ACCOUNT_PLAN_MAIN": {
+          "ACTION": "VIEW"
+        },
+        "REVENUE_DASHBOARD": {
+          "ACTION": "VIEW"
+        },
+        "REVENUE_TREND": {
+          "ACTION": "VIEW"
+        },
+        "MOBILE_STAT": {
+          "ACTION": "DISABLE"
+        },
+        "SALESPERSON_PORTFOLIO_MOVEMENT_REPORT": {
+          "ACTION": "HIDDEN"
+        },
+        "DEAL_VIEWER": {
+          "ACTION": "VIEW"
+        },
+        "TIER_1_CUST_DASHBOARD": {
+          "ACTION": "VIEW"
+        },
+        "REVENUE_DET": {
+          "ACTION": "VIEW"
+        },
+        "RCR_AD_HOC": {
+          "ACTION": "VIEW"
+        },
+        "CLIENT_CNT_ACT_REPORT": {
+          "ACTION": "VIEW"
+        },
+        "SALESPERSON_PORTFOLIO_MOVEMENT_MATURITIES_REPORT": {
+          "ACTION": "HIDDEN"
+        }
+      },
+      "WB_REPORT_HOME_DEAL_REPORTS": {
+        "DEAL_ACTIVITY_STATUS_REPORT": {
+          "ACTION": "VIEW"
+        },
+        "CM_REVENUE_FORECAST": {
+          "ACTION": "DISABLE"
+        },
+        "PRODUCT_PIPELINE": {
+          "ACTION": "DISABLE"
+        },
+        "CM_DEAL_PIPELINE": {
+          "ACTION": "DISABLE"
+        },
+        "VOLCKER_REPORT": {
+          "ACTION": "VIEW"
+        },
+        "PAM_ACTIVITY_STATUS_REPORT": {
+          "ACTION": "VIEW"
+        },
+        "ONEWB_USER_LIST": {
+          "ACTION": "DISABLE"
+        },
+        "REGIONAL_PIPELINE": {
+          "ACTION": "DISABLE"
+        },
+        "INDUSTRY_PIPELINE": {
+          "ACTION": "DISABLE"
+        },
+        "LOANS_PIPELINE_MEETING": {
+          "ACTION": "DISABLE"
+        },
+        "ACTIVITY_BASED_REPORT": {
+          "ACTION": "VIEW"
+        },
+        "ACTION": "VIEW",
+        "GLOBAL_PIPELINE": {
+          "ACTION": "DISABLE"
+        }
+      },
+      "DEAL_CENTRE": {
+        "DEAL_ACTIVITY_ACCESS": {
+          "ACTION": "HIDDEN"
+        },
+        "WB_REPORT_HOME_CF_DEAL_REPORTS": {
+          "ACTION": "HIDDEN"
+        },
+        "DEAL_PIPELINE_ACCESS": {
+          "ACTION": "HIDDEN"
+        },
+        "DEAL_CENTRE_ACCESS": {
+          "ACTION": "HIDDEN"
+        },
+        "ACTION": "HIDDEN",
+        "DEAL_ACTIVITY_ACCESS_KOREA": {
+          "ACTION": "HIDDEN"
+        }
+      },
+      "WB_ACTIVITIES": {
+        "LOG_CLIENT_COMPLAINT": {
+          "ACTION": "VIEW"
+        },
+        "PROSPECTS": {
+          "REOPEN_PROSPECT": {
+            "ACTION": "DISABLE"
+          },
+          "ADD_NEW_PROSPECT": {
+            "ACTION": "DISABLE"
+          },
+          "EDIT_PROSPECT": {
+            "ACTION": "DISABLE"
+          },
+          "ACTION": "VIEW",
+          "DISQUALIFY_PROSPECT": {
+            "ACTION": "DISABLE"
+          }
+        },
+        "ACCOUNT_PLAN": {
+          "ACTION": "VIEW"
+        },
+        "WB_LOANS": {
+          "ACTION": "HIDDEN"
+        },
+        "SDM": {
+          "SDM_TB": {
+            "ACTION": "HIDDEN"
+          },
+          "RAM_TAGGING": {
+            "ACTION": "VIEW"
+          },
+          "SDM_FM": {
+            "ACTION": "HIDDEN"
+          },
+          "SDM_OCC": {
+            "ACTION": "VIEW"
+          },
+          "ACTION": "VIEW",
+          "SDM_1_0": {
+            "ACTION": "VIEW"
+          }
+        },
+        "LIMIT_ALLOCATION": {
+          "ACTION": "VIEW"
+        },
+        "LOG_COMPLAINT_C360": {
+          "ACTION": "DISABLE"
+        },
+        "DEAL_APPROVAL": {
+          "ACTION": "VIEW"
+        },
+        "REPORTS": {
+          "ACTION": "VIEW"
+        },
+        "CREDIT": {
+          "FM_A_S": {
+            "ACTION": "VIEW"
+          },
+          "GLAS": {
+            "ACTION": "VIEW"
+          },
+          "EMSIF": {
+            "ACTION": "VIEW"
+          },
+          "SF_BCA": {
+            "ACTION": "VIEW"
+          },
+          "ISDACTS": {
+            "ACTION": "VIEW"
+          },
+          "STD_BCA": {
+            "ACTION": "VIEW"
+          },
+          "SPREAD": {
+            "ACTION": "VIEW"
+          },
+          "ESRA": {
+            "ACTION": "VIEW"
+          },
+          "ACTION": "VIEW",
+          "TER": {
+            "ACTION": "VIEW"
+          },
+          "RISK_VIEW": {
+            "ACTION": "DISABLE"
+          },
+          "FILA": {
+            "ACTION": "VIEW"
+          },
+          "SCORECARD": {
+            "ACTION": "VIEW"
+          }
+        },
+        "DEAL_PIPELINE": {
+          "DEAL_PIPELINE_ACCESS": {
+            "ACTION": "VIEW"
+          },
+          "ACTION": "VIEW"
+        },
+        "FATCA": {
+          "INITIATE_FATCA": {
+            "ACTION": "VIEW"
+          },
+          "ACTION": "VIEW",
+          "BULK_FATCA": {
+            "ACTION": "HIDDEN"
+          }
+        },
+        "EPDM": {
+          "ACTION": "VIEW"
+        },
+        "ACTION": "VIEW",
+        "RISK_VIEW": {
+          "ACTION": "VIEW"
+        },
+        "TB_CLIENT_MAP": {
+          "ACTION": "VIEW"
+        },
+        "AP_ARCHIVE": {
+          "ACTION": "DISABLE"
+        },
+        "DEAL_REFERRAL": {
+          "ACTION": "VIEW"
+        },
+        "OBL": {
+          "BLA": {
+            "ACTION": "VIEW"
+          },
+          "ACTION": "VIEW",
+          "PCB": {
+            "ACTION": "DISABLE"
+          }
+        },
+        "CDD_ADMINISTRATION": {
+          "WORKFLOW_ROLLBACK": {
+            "ACTION": "DISABLE"
+          },
+          "TRIGGER_EVENT": {
+            "ACTION": "DISABLE"
+          },
+          "ACTION": "DISABLE",
+          "REASSIGNMENT": {
+            "ACTION": "DISABLE"
+          }
+        },
+        "CLIENT_OFF_BOARDING": {
+          "ACTION": "VIEW"
+        },
+        "RAPTOR": {
+          "ACTION": "VIEW"
+        },
+        "RCR": {
+          "ACTION": "VIEW"
+        },
+        "CLIENT_MANAGEMENT": {
+          "ACTION": "DISABLE"
+        },
+        "DEAL_CENTRE_ACT_ACCESS": {
+          "ACTION": "VIEW"
+        },
+        "CONTACT-360": {
+          "ACTION": "VIEW"
+        },
+        "COPI2": {
+          "CDD_ADMINISTRATION": {
+            "WORKFLOW_ROLLBACK": {
+              "ACTION": "VIEW"
+            },
+            "TRIGGER_EVENT": {
+              "ACTION": "DISABLE"
+            },
+            "ACTION": "VIEW",
+            "REASSIGNMENT": {
+              "ACTION": "VIEW"
+            }
+          },
+          "ACTION": "VIEW",
+          "CLIENT_ON_BOARDING": {
+            "ACTION": "VIEW"
+          },
+          "CLIENT_MANAGEMENT": {
+            "ACTION": "VIEW"
+          }
+        },
+        "CP_CR": {
+          "ACTION": "HIDDEN"
+        },
+        "TRIDENT": {
+          "ACTION": "VIEW"
+        },
+        "CREDIT_CALENDAR": {
+          "ACTION": "VIEW"
+        },
+        "CLIENT_ON_BOARDING": {
+          "ACTION": "DISABLE"
+        }
+      },
+      "ONEWB_LOGIN": {
+        "ACTION": "VIEW"
+      }
+    },
+    "userManagementRole": [
+      "2292"
+    ],
+    "epdmCountry": []
+  },
+  "userPreferenceMap": {
+    "PREF0014_Pref_Call_Report_Summary_Page": {
+      "PREF0014": {}
+    },
+    "PREF0036_Pref_GEMS_Summary_Page": {
+      "PREF0036_1": {}
+    },
+    "PREF0001_Locale": "English",
+    "PREF0018_DC_USER_View": "ME",
+    "PREF0016_Pref_Deal_Referral_Summary_Page": {
+      "PREF0016": {}
+    },
+    "PREF0012_Pref_Prospect_Summary_Page": {
+      "PREF0012": {
+        "gridFilter": {
+          "pagination": {
+            "page": 1,
+            "size": 20
+          },
+          "triggerFilterChange": 0,
+          "resetParam": "",
+          "filters": [
+            {
+              "filterType": "dropdown",
+              "column": "domicileCountryDesc",
+              "value": [
+                {
+                  "code": "AX",
+                  "parentCode": "*",
+                  "description": "ALAND ISLANDS",
+                  "longDescription": "ALAND ISLANDS",
+                  "shortDescription": "ALANDISLANDS",
+                  "categoryType": null,
+                  "param1": "*",
+                  "param2": "*",
+                  "param3": "*",
+                  "param4": null,
+                  "idCode": "PR0017",
+                  "status": null,
+                  "appGroup": null,
+                  "displayOrder": null,
+                  "name": null,
+                  "val": null
+                }
+              ]
+            }
+          ]
+        },
+        "criteria": {
+          "viewFilter": null,
+          "statusFilter": [],
+          "monthRange": 3
+        }
+      }
+    },
+    "PREF0020_Preferred_DC_Pseudo_Id": null,
+    "PREF0008_Preferred_Name": "Sebina",
+    "PREF0015_Pref_Deal_Pipeline_Summary_Page": {
+      "PREF0015": {
+        "selectedTabIndex": 1,
+        "dealType": "ALL",
+        "status": "OPEN",
+        "gridPref": {
+          "columns": [
+            {
+              "field": "referenceId",
+              "isHidden": true
+            },
+            {
+              "field": "dealName",
+              "isHidden": false
+            },
+            {
+              "field": "formattedProductTypes",
+              "isHidden": false
+            },
+            {
+              "field": "expectedCloseDate",
+              "isHidden": false
+            },
+            {
+              "field": "dealOwner",
+              "isHidden": false
+            },
+            {
+              "field": "formattedDealStatus",
+              "isHidden": false
+            },
+            {
+              "field": "revenue",
+              "isHidden": true
+            },
+            {
+              "field": "dealCreatedDate",
+              "isHidden": true
+            },
+            {
+              "field": "annualRevenue",
+              "isHidden": true
+            },
+            {
+              "field": "totalRevenue",
+              "isHidden": true
+            },
+            {
+              "field": "probability",
+              "isHidden": true
+            },
+            {
+              "field": "lastUpdatedDate",
+              "isHidden": false
+            }
+          ]
+        }
+      }
+    },
+    "PREF0019_Calendar_Home_Page_Layout": {
+      "PREF0019": {
+        "selectedPanel": "Overdue",
+        "selectedToggle": "ACTIONS",
+        "sortByFilter": {
+          "id": "sortByFilter",
+          "text": "Sort by Date",
+          "value": "DUEDATE"
+        }
+      }
+    },
+    "PREF0005_Preferred_Home_Page": "SALES_HOME",
+    "PREF0009_Preferred_Pseudo_Id": "1511946",
+    "PREF0011_Preferred_Smart_List": {
+      "PREF0011": {
+        "smartList": [
+          {
+            "name": "My Portfolio",
+            "isRemovable": false,
+            "description": " "
+          },
+          {
+            "name": "My Top 5",
+            "isRemovable": false,
+            "description": "My top 5 clients by revenue"
+          }
+        ],
+        "defaultList": "My Portfolio"
+      }
+    },
+    "PREF0013_Pref_Contact_Summary_Page": {
+      "PREF0013": {}
+    }
+  },
+  "userRoles": "WB_SALES_HOME--{ALL_DEALS_TAB={ACTION=VIEW}, DEAL_PIPELINE_ACCESS={ACTION=VIEW}, CCT_MAINTENANCE={ACTION=UPDATE}, ADD_NEW_PROSPECT={ACTION=DISABLE}, CALL_REPORTS_TAB={ADD_CALL_REPORT_BTN={ACTION=VIEW}, ACTION=VIEW, DELETE_CALL_REPORT={ACTION=VIEW}}, EDIT_PROSPECT={ACTION=DISABLE}, FAVOURITES_REPORTS={ACCOUNT_PLAN_MAIN={ACTION=VIEW}, REVENUE_TREND={ACTION=VIEW}, REVENUE_DASHBOARD={ACTION=VIEW}, ACCOUNT_PLAN_SUB8={ACTION=VIEW}, ACCOUNT_PLAN_SUB4={ACTION=VIEW}, ACCOUNT_PLAN_SUB5={ACTION=VIEW}, ACCOUNT_PLAN_SUB6={ACTION=VIEW}, ACCOUNT_PLAN_SUB7={ACTION=VIEW}, REVENUE_DET={ACTION=VIEW}, PORTFOLIO_BAL_DASHBOARD={ACTION=VIEW}, ACCOUNT_PLAN_SUB1={ACTION=VIEW}, ACCOUNT_PLAN_SUB2={ACTION=VIEW}, CLIENT_DASHBOARD={ACTION=VIEW}, ACCOUNT_PLAN_SUB3={ACTION=VIEW}, ACTION=VIEW}, ACTION=VIEW, LAST_50_CALLS_TAB={ACTION=HIDDEN}}\nWB--{DC_HOME={ACTION=VIEW}, CALENDAR_HOME={ACTION=DISABLE}, SALES_HOME={ACTION=VIEW}, ACTION=VIEW, CREDIT_HOME={ACTION=DISABLE}}\nWB_REPORT_HOME_PORTFOLIO_REPORTS--{WORKBENCH_ADHOC_ANALYSIS={ACTION=VIEW}, CALL_PARTICIPANTS_REPORT={ACTION=VIEW}, TB_DEAL_PIPELINE={ACTION=DISABLE}, REVENUE_DET_ALL={ACTION=VIEW}, FM_DELTA_SUMMARY_DASHBOARD={ACTION=DISABLE}, FM_DEAL_PIPELINE_2={ACTION=DISABLE}, TWELVE_MONTHS_PIPELINE_TREND={ACTION=VIEW}, COUNTRY_MOVEMENTS_MATURITIES_RPT={ACTION=HIDDEN}, RCR_DASHBOARD={ACTION=VIEW}, USAGE_STATISTICS_REPORT={ACTION=DISABLE}, ACCOUNT_PLAN_SUB8={ACTION=VIEW}, HOGS={ACTION=VIEW}, ADHOC_REPORTING={ACTION=VIEW}, ACCOUNT_PLAN_SUB4={ACTION=VIEW}, ACCOUNT_PLAN_SUB5={ACTION=VIEW}, SIX_MONTHS_PIPELINE_TREND={ACTION=VIEW}, ACCOUNT_PLAN_SUB6={ACTION=VIEW}, GENERAL_CALL_REPORT={ACTION=VIEW}, PORTFOLIO_BAL_DASHBOARD={ACTION=VIEW}, ACCOUNT_PLAN_SUB7={ACTION=VIEW}, MY_CLIENT_ACCESS={ACTION=VIEW}, ACCOUNT_PLAN_SUB1={ACTION=VIEW}, CLIENT_DASHBOARD={ACTION=VIEW}, ACCOUNT_PLAN_SUB2={ACTION=VIEW}, ACCOUNT_PLAN_SUB3={ACTION=VIEW}, FM_DEAL_PIPELINE_1={ACTION=DISABLE}, DISCUSSION_DETAILS_REPORT={ACTION=VIEW}, ACTION=VIEW, RISK_VIEW={ACTION=VIEW}, ACCOUNT_PLAN_MAIN={ACTION=VIEW}, REVENUE_TREND={ACTION=VIEW}, REVENUE_DASHBOARD={ACTION=VIEW}, TB_DEAL_LIST={ACTION=DISABLE}, MOBILE_STAT={ACTION=DISABLE}, SALESPERSON_PORTFOLIO_MOVEMENT_REPORT={ACTION=HIDDEN}, DEAL_VIEWER={ACTION=VIEW}, ONEWB_USER_LIST={ACTION=DISABLE}, TIER_1_CUST_DASHBOARD={ACTION=VIEW}, CLIENT_CNT_ACT_ENQUIRY_REPORT={ACTION=VIEW}, REVENUE_DET={ACTION=VIEW}, RCR_AD_HOC={ACTION=VIEW}, SALESPERSON_PORTFOLIO_MOVEMENT_MATURITIES_REPORT={ACTION=HIDDEN}}\nWB_REPORT_HOME_CLIENT_REPORTS--{CALL_PARTICIPANTS_REPORT={ACTION=VIEW}, COUNTRY_MOVEMENTS_MATURITIES_RPT={ACTION=HIDDEN}, RCR_DASHBOARD={ACTION=VIEW}, USAGE_STATISTICS_REPORT={ACTION=DISABLE}, CLIENT_LEND_PORTFOLIO={ACTION=VIEW}, ACCOUNT_PLAN_SUB8={ACTION=VIEW}, ACCOUNT_PLAN_SUB4={ACTION=VIEW}, ACCOUNT_PLAN_SUB5={ACTION=VIEW}, GENERAL_CALL_REPORT={ACTION=VIEW}, ACCOUNT_PLAN_SUB6={ACTION=VIEW}, ACCOUNT_PLAN_SUB7={ACTION=VIEW}, PORTFOLIO_BAL_DASHBOARD={ACTION=VIEW}, MY_CLIENT_ACCESS={ACTION=VIEW}, ACCOUNT_PLAN_SUB1={ACTION=VIEW}, ACCOUNT_PLAN_SUB2={ACTION=VIEW}, CLIENT_DASHBOARD={ACTION=VIEW}, ACCOUNT_PLAN_SUB3={ACTION=VIEW}, DISCUSSION_DETAILS_REPORT={ACTION=VIEW}, ACTION=VIEW, RISK_VIEW={ACTION=VIEW}, FM_LIMIT_UTIL_REPORT={ACTION=VIEW}, ACCOUNT_PLAN_MAIN={ACTION=VIEW}, REVENUE_TREND={ACTION=VIEW}, REVENUE_DASHBOARD={ACTION=VIEW}, MOBILE_STAT={ACTION=DISABLE}, SALESPERSON_PORTFOLIO_MOVEMENT_REPORT={ACTION=HIDDEN}, DEAL_VIEWER={ACTION=VIEW}, TIER_1_CUST_DASHBOARD={ACTION=VIEW}, REVENUE_DET={ACTION=VIEW}, RCR_AD_HOC={ACTION=VIEW}, CLIENT_CNT_ACT_REPORT={ACTION=VIEW}, SALESPERSON_PORTFOLIO_MOVEMENT_MATURITIES_REPORT={ACTION=HIDDEN}}\nWB_REPORT_HOME_GROUP_REPORTS--{CALL_PARTICIPANTS_REPORT={ACTION=VIEW}, COUNTRY_MOVEMENTS_MATURITIES_RPT={ACTION=HIDDEN}, RCR_DASHBOARD={ACTION=VIEW}, USAGE_STATISTICS_REPORT={ACTION=DISABLE}, ACCOUNT_PLAN_SUB8={ACTION=VIEW}, ACCOUNT_PLAN_SUB4={ACTION=VIEW}, ACCOUNT_PLAN_SUB5={ACTION=VIEW}, ACCOUNT_PLAN_SUB6={ACTION=VIEW}, GENERAL_CALL_REPORT={ACTION=VIEW}, ACCOUNT_PLAN_SUB7={ACTION=VIEW}, PORTFOLIO_BAL_DASHBOARD={ACTION=VIEW}, MY_CLIENT_ACCESS={ACTION=VIEW}, ACCOUNT_PLAN_SUB1={ACTION=VIEW}, CLIENT_DASHBOARD={ACTION=VIEW}, ACCOUNT_PLAN_SUB2={ACTION=VIEW}, ACCOUNT_PLAN_SUB3={ACTION=VIEW}, DISCUSSION_DETAILS_REPORT={ACTION=VIEW}, ACTION=VIEW, RISK_VIEW={ACTION=VIEW}, ACCOUNT_PLAN_MAIN={ACTION=VIEW}, REVENUE_DASHBOARD={ACTION=VIEW}, REVENUE_TREND={ACTION=VIEW}, MOBILE_STAT={ACTION=DISABLE}, SALESPERSON_PORTFOLIO_MOVEMENT_REPORT={ACTION=HIDDEN}, DEAL_VIEWER={ACTION=VIEW}, TIER_1_CUST_DASHBOARD={ACTION=VIEW}, REVENUE_DET={ACTION=VIEW}, RCR_AD_HOC={ACTION=VIEW}, CLIENT_CNT_ACT_REPORT={ACTION=VIEW}, SALESPERSON_PORTFOLIO_MOVEMENT_MATURITIES_REPORT={ACTION=HIDDEN}}\nWB_REPORT_HOME_DEAL_REPORTS--{DEAL_ACTIVITY_STATUS_REPORT={ACTION=VIEW}, CM_REVENUE_FORECAST={ACTION=DISABLE}, PRODUCT_PIPELINE={ACTION=DISABLE}, CM_DEAL_PIPELINE={ACTION=DISABLE}, VOLCKER_REPORT={ACTION=VIEW}, PAM_ACTIVITY_STATUS_REPORT={ACTION=VIEW}, ONEWB_USER_LIST={ACTION=DISABLE}, REGIONAL_PIPELINE={ACTION=DISABLE}, INDUSTRY_PIPELINE={ACTION=DISABLE}, LOANS_PIPELINE_MEETING={ACTION=DISABLE}, ACTIVITY_BASED_REPORT={ACTION=VIEW}, ACTION=VIEW, GLOBAL_PIPELINE={ACTION=DISABLE}}\nDEAL_CENTRE--{DEAL_ACTIVITY_ACCESS={ACTION=HIDDEN}, WB_REPORT_HOME_CF_DEAL_REPORTS={ACTION=HIDDEN}, DEAL_PIPELINE_ACCESS={ACTION=HIDDEN}, DEAL_CENTRE_ACCESS={ACTION=HIDDEN}, ACTION=HIDDEN, DEAL_ACTIVITY_ACCESS_KOREA={ACTION=HIDDEN}}\nWB_ACTIVITIES--{LOG_CLIENT_COMPLAINT={ACTION=VIEW}, PROSPECTS={REOPEN_PROSPECT={ACTION=DISABLE}, ADD_NEW_PROSPECT={ACTION=DISABLE}, EDIT_PROSPECT={ACTION=DISABLE}, ACTION=VIEW, DISQUALIFY_PROSPECT={ACTION=DISABLE}}, ACCOUNT_PLAN={ACTION=VIEW}, WB_LOANS={ACTION=HIDDEN}, SDM={SDM_TB={ACTION=HIDDEN}, RAM_TAGGING={ACTION=VIEW}, SDM_FM={ACTION=HIDDEN}, SDM_OCC={ACTION=VIEW}, ACTION=VIEW, SDM_1_0={ACTION=VIEW}}, LIMIT_ALLOCATION={ACTION=VIEW}, LOG_COMPLAINT_C360={ACTION=DISABLE}, DEAL_APPROVAL={ACTION=VIEW}, REPORTS={ACTION=VIEW}, CREDIT={FM_A_S={ACTION=VIEW}, GLAS={ACTION=VIEW}, EMSIF={ACTION=VIEW}, SF_BCA={ACTION=VIEW}, ISDACTS={ACTION=VIEW}, STD_BCA={ACTION=VIEW}, SPREAD={ACTION=VIEW}, ESRA={ACTION=VIEW}, ACTION=VIEW, TER={ACTION=VIEW}, RISK_VIEW={ACTION=DISABLE}, FILA={ACTION=VIEW}, SCORECARD={ACTION=VIEW}}, DEAL_PIPELINE={DEAL_PIPELINE_ACCESS={ACTION=VIEW}, ACTION=VIEW}, FATCA={INITIATE_FATCA={ACTION=VIEW}, ACTION=VIEW, BULK_FATCA={ACTION=HIDDEN}}, EPDM={ACTION=VIEW}, ACTION=VIEW, RISK_VIEW={ACTION=VIEW}, TB_CLIENT_MAP={ACTION=VIEW}, AP_ARCHIVE={ACTION=DISABLE}, DEAL_REFERRAL={ACTION=VIEW}, OBL={BLA={ACTION=VIEW}, ACTION=VIEW, PCB={ACTION=DISABLE}}, CDD_ADMINISTRATION={WORKFLOW_ROLLBACK={ACTION=DISABLE}, TRIGGER_EVENT={ACTION=DISABLE}, ACTION=DISABLE, REASSIGNMENT={ACTION=DISABLE}}, CLIENT_OFF_BOARDING={ACTION=VIEW}, RAPTOR={ACTION=VIEW}, RCR={ACTION=VIEW}, CLIENT_MANAGEMENT={ACTION=DISABLE}, DEAL_CENTRE_ACT_ACCESS={ACTION=VIEW}, CONTACT-360={ACTION=VIEW}, COPI2={CDD_ADMINISTRATION={WORKFLOW_ROLLBACK={ACTION=VIEW}, TRIGGER_EVENT={ACTION=DISABLE}, ACTION=VIEW, REASSIGNMENT={ACTION=VIEW}}, ACTION=VIEW, CLIENT_ON_BOARDING={ACTION=VIEW}, CLIENT_MANAGEMENT={ACTION=VIEW}}, CP_CR={ACTION=HIDDEN}, TRIDENT={ACTION=VIEW}, CREDIT_CALENDAR={ACTION=VIEW}, CLIENT_ON_BOARDING={ACTION=DISABLE}}\nONEWB_LOGIN--{ACTION=VIEW}\n",
+  "auditRole": null,
+  "error": false
+}

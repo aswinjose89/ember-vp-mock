@@ -1,0 +1,94 @@
+
+
+ {
+  "taskHome": {
+   "id":546,
+    "clientExit": [
+      {
+         "entityName": "Client Name",
+         "entityId": 123,
+         "locationExitCount": 0,
+         "accountExitCount": 0,
+         "id":56,
+         "groupName":"Client",
+         "groupId":"91118799",
+         "region":"Asia",
+         "domicileCountry":"India",
+         "segment":"Global Corporate",
+         "subSegment":"Metal Traders",
+         "clientCount":16,
+         "isChecked":false,
+         "isClientsChecked":true,
+         "clientExitCount": 20,
+         "checklist":"View"
+      }
+    ],
+    "locationExit": [
+      {
+         "entityName": "Location Exit",
+         "entityId": 123,
+         "locationExitCount": 0,
+         "accountExitCount": 0,
+         "id":56,
+         "groupName":"LocationExit",
+         "groupId":"91118799",
+         "region":"Asia",
+         "domicileCountry":"India",
+         "segment":"Global Corporate",
+         "subSegment":"Metal Traders",
+         "clientCount":16,
+         "isChecked":false,
+         "isClientsChecked":true,
+         "checklist":"View"
+      }
+    ],
+    "accountExit": [
+      {
+         "entityName": "tp accountExit",
+         "entityId": 123,
+         "locationExitCount": 0,
+         "accountExitCount": 0,
+         "id":56,
+         "groupName":"tpAccountExit",
+         "groupId":"91118799",
+         "region":"Asia",
+         "domicileCountry":"India",
+         "segment":"Global Corporate",
+         "subSegment":"Metal Traders",
+         "clientCount":16,
+         "isChecked":false,
+         "isClientsChecked":true,
+         "checklist":"View"
+      }
+    ],
+    "groupExit": [{
+         "id":56,
+         "groupName":"groupExit",
+         "groupId":"91118799",
+         "region":"Asia",
+         "domicileCountry":"India",
+         "segment":"Global Corporate",
+         "subSegment":"Metal Traders",
+         "checklist":"View",
+         "action":"approve",
+         "clientCount":16,
+         "isChecked":false,
+         "isClientsChecked":true,
+         "groupExitCount": 6
+    }],
+    "taskInfo": {
+      "id": "132",
+      "taskId": "1234",
+      "activityId": "ACT11",
+      "initiatedBy": "Tet",
+      "initiatedOn": "Date",
+      "exitType": "GROUP"
+    }
+  },
+  "meta": {
+    "clientExitCount": 20,
+    "locationExitCount": 20,
+    "accountExitCount": 20,
+    "groupExitCount": 6
+  }
+}

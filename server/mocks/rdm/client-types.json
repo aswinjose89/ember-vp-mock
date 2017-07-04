@@ -1,0 +1,34 @@
+{
+  "clientTypes": [
+    {
+      "code": "01",
+      "type": "Prohibited Entities",
+      "description": "Mercenaries or brokers that deal in defence and related goods"
+    },
+    {
+      "code": "02",
+      "type": "Government Agency",
+      "description": "Only Government departments connected with defence, (e.g. National Defence Force, Police, etc.) who would legitimately procure armaments or other defence goods are covered under the policy. For other Government departments no Defence Policy approval is required, select �None of the Above� to proceed as normal with the On-boarding process (e.g. Embassies, Consulates, Health Ministries, Government Social & Humanitarian services, Central Banks)"
+    },
+    {
+      "code": "03",
+      "type": "Supplier in Defence Goods Business",
+      "description": "Defined as manufacture, supply distribution, marketing, trade, maintenance and disposal of goods for use by defence forces, police, etc. whose source of defence goods can be clearly identified"
+    },
+    {
+      "code": "04",
+      "type": "Non Defence Entity of Diversified Group (Defence Business >= 20%)",
+      "description": "Entity is NOT in the defence goods business but is part of a larger diversified group with defence related business that account for EQUAL TO or MORE THAN 20% of total group sales"
+    },
+    {
+      "code": "05",
+      "type": "Non Defence Entity of Diversified Group (Defence Business <20%)",
+      "description": "Entity is NOT in the defence goods business but is part of a larger diversified group with defence related business that account for LESS THAN 20% of total group sales"
+    },
+    {
+      "code": "06",
+      "type": "None of the above",
+      "description": "For other Government departments - Embassies, Consulates, Health Ministries, Government Social & Humanitarian Services, Central Banks"
+    }
+  ]
+}

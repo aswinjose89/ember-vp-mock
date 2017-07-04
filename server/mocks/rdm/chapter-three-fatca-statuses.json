@@ -1,0 +1,164 @@
+{
+  "chapterThreeFatcaStatuses": [
+    {
+      "status": "Qualified intermediary",
+      "createdBy": "1453800",
+      "createdDate": 1438509812000,
+      "docType": "W-8IMY",
+      "modfiedDate": 1438509812000,
+      "modifiedBy": "1453800"
+    },
+    {
+      "status": "Nonqualified intermediary",
+      "createdBy": "1453800",
+      "createdDate": 1438509812000,
+      "docType": "W-8IMY",
+      "modfiedDate": 1438509812000,
+      "modifiedBy": "1453800"
+    },
+    {
+      "status": "Territory financial institution",
+      "createdBy": "1453800",
+      "createdDate": 1438509812000,
+      "docType": "W-8IMY",
+      "modfiedDate": 1438509812000,
+      "modifiedBy": "1453800"
+    },
+    {
+      "status": "US Branch",
+      "createdBy": "1453800",
+      "createdDate": 1438509812000,
+      "docType": "W-8IMY",
+      "modfiedDate": 1438509812000,
+      "modifiedBy": "1453800"
+    },
+    {
+      "status": "Withholding foreign partnership",
+      "createdBy": "1453800",
+      "createdDate": 1438509812000,
+      "docType": "W-8IMY",
+      "modfiedDate": 1438509812000,
+      "modifiedBy": "1453800"
+    },
+    {
+      "status": "Withholding foreign trust",
+      "createdBy": "1453800",
+      "createdDate": 1438509812000,
+      "docType": "W-8IMY",
+      "modfiedDate": 1438509812000,
+      "modifiedBy": "1453800"
+    },
+    {
+      "status": "Nonwithholding foreign partnership",
+      "createdBy": "1453800",
+      "createdDate": 1438509813000,
+      "docType": "W-8IMY",
+      "modfiedDate": 1438509813000,
+      "modifiedBy": "1453800"
+    },
+    {
+      "status": "Nonwithholding foreign simple trust",
+      "createdBy": "1453800",
+      "createdDate": 1438509813000,
+      "docType": "W-8IMY",
+      "modfiedDate": 1438509813000,
+      "modifiedBy": "1453800"
+    },
+    {
+      "status": "Nonwithholding foreign grantor trust",
+      "createdBy": "1453800",
+      "createdDate": 1438509813000,
+      "docType": "W-8IMY",
+      "modfiedDate": 1438509813000,
+      "modifiedBy": "1453800"
+    },
+    {
+      "status": "Corporation",
+      "createdBy": "1453800",
+      "createdDate": 1438509813000,
+      "docType": "W-8BEN-E",
+      "modfiedDate": 1438509813000,
+      "modifiedBy": "1453800"
+    },
+    {
+      "status": "Disregarded Entity",
+      "createdBy": "1453800",
+      "createdDate": 1438509813000,
+      "docType": "W-8BEN-E",
+      "modfiedDate": 1438509813000,
+      "modifiedBy": "1453800"
+    },
+    {
+      "status": "Partnership",
+      "createdBy": "1453800",
+      "createdDate": 1438509813000,
+      "docType": "W-8BEN-E",
+      "modfiedDate": 1438509813000,
+      "modifiedBy": "1453800"
+    },
+    {
+      "status": "Simple Trust",
+      "createdBy": "1453800",
+      "createdDate": 1438509813000,
+      "docType": "W-8BEN-E",
+      "modfiedDate": 1438509813000,
+      "modifiedBy": "1453800"
+    },
+    {
+      "status": "Grantor Trust",
+      "createdBy": "1453800",
+      "createdDate": 1438509813000,
+      "docType": "W-8BEN-E",
+      "modfiedDate": 1438509813000,
+      "modifiedBy": "1453800"
+    },
+    {
+      "status": "Complex Trust",
+      "createdBy": "1453800",
+      "createdDate": 1438509813000,
+      "docType": "W-8BEN-E",
+      "modfiedDate": 1438509813000,
+      "modifiedBy": "1453800"
+    },
+    {
+      "status": "Estate",
+      "createdBy": "1453800",
+      "createdDate": 1438509813000,
+      "docType": "W-8BEN-E",
+      "modfiedDate": 1438509813000,
+      "modifiedBy": "1453800"
+    },
+    {
+      "status": "Government",
+      "createdBy": "1453800",
+      "createdDate": 1438509814000,
+      "docType": "W-8BEN-E",
+      "modfiedDate": 1438509814000,
+      "modifiedBy": "1453800"
+    },
+    {
+      "status": "Central Bank of Issue",
+      "createdBy": "1453800",
+      "createdDate": 1438509814000,
+      "docType": "W-8BEN-E",
+      "modfiedDate": 1438509814000,
+      "modifiedBy": "1453800"
+    },
+    {
+      "status": "Tax-exempt organization",
+      "createdBy": "1453800",
+      "createdDate": 1438509814000,
+      "docType": "W-8BEN-E",
+      "modfiedDate": 1438509814000,
+      "modifiedBy": "1453800"
+    },
+    {
+      "status": "Private foundation",
+      "createdBy": "1453800",
+      "createdDate": 1438509814000,
+      "docType": "W-8BEN-E",
+      "modfiedDate": 1438509814000,
+      "modifiedBy": "1453800"
+    }
+  ]
+}

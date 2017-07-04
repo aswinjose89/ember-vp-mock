@@ -1,0 +1,36 @@
+{
+  "activityTypes": [
+    {
+      "code": "A1",
+      "description": "Authorised Signatory"
+    },
+    {
+      "code": "A2",
+      "description": "Maintenance"
+    },
+    {
+      "code": "A3",
+      "description": "Onboarding"
+    },
+    {
+      "code": "A4",
+      "description": "Periodic Review"
+    },
+    {
+      "code": "A5",
+      "description": "RM Triggered Review"
+    },
+    {
+      "code": "A6",
+      "description": "FCC Triggered Review"
+    },
+    {
+      "code": "A7",
+      "description": "System Triggered Review"
+    },
+    {
+      "code": "A8",
+      "description": "Update"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "goodsTypes": [
+    {
+      "code": "01",
+      "type": "Prohibited Goods/Transactions",
+      "description": "Includes weapons, munitions including missiles and rockets, cluster munitions and mines, instruments of torture, or goods designed or adaptable for use in the manufacture or storage of nuclear weapons as well as chemical or biological weapons"
+    },
+    {
+      "code": "02",
+      "type": "Lethal Defence Goods/Transactions",
+      "description": "Includes aircraft, vessels and vehicles designed as or adaptable as weapons platforms"
+    },
+    {
+      "code": "03",
+      "type": "Non-Lethal Defence Goods/Transactions",
+      "description": "Includes avionics, electronics, radar, air traffic control systems, communications satellites and systems, medical supplies, clothing and accommodation, and aircraft, vessels, and vehicles designed solely for transportation purposes"
+    },
+    {
+      "code": "04",
+      "type": "Non-Defence Goods/Transactions",
+      "description": "None"
+    }
+  ]
+}

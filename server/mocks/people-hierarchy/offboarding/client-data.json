@@ -1,0 +1,19 @@
+{
+  "clientDatas":  [{
+         "id":11,
+         "clientName": "Client",
+         "clientId": "787878",
+         "region": "USA",
+         "domicileCountry": "USA",
+         "segment": "Banking",
+         "subSegment": "Mortgage"
+    }],
+  "meta": {
+    "count": {
+      "total": 4,
+      "groups": 2,
+      "clients": 2
+    },
+    "totalRecords": 50
+  }
+}

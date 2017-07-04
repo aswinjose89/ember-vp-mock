@@ -1,0 +1,23 @@
+{
+    "searchContact": {
+        "id": 1221,
+        "completedContactDetails": [{
+            "id": "CNTCT-CTNCT-2016-12-1282378",
+            "contactName": "Adsad Adsad",
+            "roleInBuyDecision": [],
+            "jobTitle": "Executive Director",
+            "country": "SINGAPORE",
+            "email": "ed@ti-singapore.org",
+            "contactNumber": "+65 88 9124929",
+            "contactId": null,
+            "products": "",
+            "last2calls": null,
+            "isChecked": "true",
+            "callPlanFrequency": null,
+            "scbContacts": null,
+            "dept": null,
+            "operation": null
+        }],
+        "incompletedContactDetails": []
+    }
+}

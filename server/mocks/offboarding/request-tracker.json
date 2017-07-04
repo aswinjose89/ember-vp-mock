@@ -1,0 +1,212 @@
+{
+  "offboarding/inbox/request-tracker": [
+    {
+      "id": 1,
+      "activityId": "13233",
+      "activityName": "Client Offboarding",
+"initiatedFor": "dsfsdf",
+"clientGroup": "dsfdsg",
+"hubTaskId": "45345",
+"originationFrom": "dsfsd",
+"acceptedBy": "sadsaf",
+"modifiedBy": "sdasf",
+"assignedDate": "01-11-2016",
+"lastUpdatedBy": "sdafgasfa",
+"processingTeam": "fgdfhf",
+    "tpTaskStatus": "COMPLETED",
+    "acceptedOn": "01-05-2016",
+"lastUpdatedOn": "01-11-2016",
+      "entities": [
+        {
+	  "id": 1,
+          "entityId": "11234567",
+          "entityName": "Client",
+	  "description": "11234567 - Client"
+        },
+        {
+	  "id": 2,
+          "entityId": "1123567",
+          "entityName": "Client 1",
+	  "description": "11234567 - Client 1"
+        }
+      ],
+      "entityType": "CLIENT",
+      "exitType": "Account Closure",
+      "location": "SG",
+      "status": "COMPLETED",
+      "clientType": "Account Closure",
+      "initiatedBy": "rrewrwe",
+      "createdOn": "01-11-2016",
+      "createdBy": "fgfdgdh",
+      "lastUpdated": "05-12-2016",
+      "assignTo": "rtett",
+      "taskId": "1234324",
+      "bookingLocation": "SG",
+      "taskAssignedToUser": false
+    },
+    {
+      "id": 2,
+      "activityId": "1323356",
+      "activityName": "Client Offboarding",
+"initiatedFor": "dsfsdf",
+"clientGroup": "dsfdsg",
+"hubTaskId": "45345",
+"originationFrom": "dsfsd",
+"processingTeam": "fgdfhf",
+    "tpTaskStatus": "COMPLETED",
+    "acceptedOn": "01-05-2016",
+"lastUpdatedOn": "01-11-2016",
+"acceptedBy": "sadsaf",
+"modifiedBy": "sdasf",
+"assignedDate": "01-11-2016",
+"lastUpdatedBy": "sdafgasfa",
+      "entities": [
+        {
+          "entityId": "11234567",
+          "entityName": "Client"
+        },
+        {
+          "entityId": "1123567",
+          "entityName": "Client 1"
+        }
+      ],
+      "exitType": "Account Closure",
+      "entityType": "CLIENT",
+      "location": "SG",
+      "status": "COMPLETED",
+      "clientType": "Account Closure",
+      "initiatedBy": "rrewrwe",
+      "createdOn": "10-11-2016",
+      "createdBy": "fgfdgdh",
+      "lastUpdated": "15-12-2016",
+      "assignTo": "rtett",
+      "taskId": "12343278",
+      "bookingLocation": "SG",
+      "taskAssignedToUser": true
+    },
+    {
+      "id": 3,
+      "activityId": "1323356",
+      "activityName": "Client Offboarding",
+"initiatedFor": "dsfsdf",
+"clientGroup": "dsfdsg",
+"hubTaskId": "45345",
+"processingTeam": "fgdfhf",
+    "tpTaskStatus": "COMPLETED",
+    "acceptedOn": "01-05-2016",
+"lastUpdatedOn": "01-11-2016",
+"originationFrom": "dsfsd",
+"acceptedBy": "sadsaf",
+"modifiedBy": "sdasf",
+"assignedDate": "01-11-2016",
+"lastUpdatedBy": "sdafgasfa",
+      "entities": [
+        {
+          "entityId": "11234567",
+          "entityName": "Client"
+        },
+        {
+          "entityId": "1123567",
+          "entityName": "Client 1"
+        }
+      ],
+      "exitType": "Account Closure",
+      "entityType": "CLIENT",
+      "location": "SG",
+      "status": "COMPLETED",
+      "clientType": "Account Closure",
+      "initiatedBy": "rrewrwe",
+      "createdOn": "10-11-2016",
+      "createdBy": "fgfdgdh",
+      "lastUpdated": "15-12-2016",
+      "assignTo": "rtett",
+      "taskId": "12343278",
+      "bookingLocation": "SG",
+      "taskAssignedToUser": true
+    },
+    {
+      "id": 4,
+      "activityId": "1323356",
+      "activityName": "Client Offboarding",
+"initiatedFor": "dsfsdf",
+"clientGroup": "dsfdsg",
+"hubTaskId": "45345",
+"processingTeam": "fgdfhf",
+    "tpTaskStatus": "COMPLETED",
+    "acceptedOn": "01-05-2016",
+"lastUpdatedOn": "01-11-2016",
+"originationFrom": "dsfsd",
+"acceptedBy": "sadsaf",
+"modifiedBy": "sdasf",
+"assignedDate": "01-11-2016",
+"lastUpdatedBy": "sdafgasfa",
+      "entities": [
+        {
+          "entityId": "11234567",
+          "entityName": "Client"
+        },
+        {
+          "entityId": "1123567",
+          "entityName": "Client 1"
+        }
+      ],
+      "exitType": "Account Closure",
+      "location": "SG",
+      "status": "COMPLETED",
+      "clientType": "Account Closure",
+      "entityType": "CLIENT",
+      "initiatedBy": "rrewrwe",
+      "createdOn": "10-11-2016",
+      "createdBy": "fgfdgdh",
+      "lastUpdated": "15-12-2016",
+      "assignTo": "rtett",
+      "taskId": "12343278",
+      "bookingLocation": "SG",
+      "taskAssignedToUser": true
+    },
+    {
+      "id": 5,
+      "activityId": "1323356",
+      "activityName": "Client Offboarding",
+"initiatedFor": "dsfsdf",
+"clientGroup": "dsfdsg",
+"hubTaskId": "45345",
+"processingTeam": "fgdfhf",
+    "tpTaskStatus": "COMPLETED",
+    "acceptedOn": "01-05-2016",
+"lastUpdatedOn": "01-11-2016",
+"originationFrom": "dsfsd",
+"acceptedBy": "sadsaf",
+"modifiedBy": "sdasf",
+"assignedDate": "01-11-2016",
+"lastUpdatedBy": "sdafgasfa",
+      "entities": [
+        {
+          "entityId": "11234567",
+          "entityName": "Client"
+        },
+        {
+          "entityId": "1123567",
+          "entityName": "Client 1"
+        }
+      ],
+      "entityType": "GROUP",
+      "exitType": "Account Closure",
+      "location": "SG",
+      "status": "COMPLETED",
+      "clientType": "Account Closure",
+      "initiatedBy": "rrewrwe",
+      "createdOn": "10-11-2016",
+      "createdBy": "fgfdgdh",
+      "lastUpdated": "15-12-2016",
+      "assignTo": "rtett",
+      "taskId": "12343278",
+      "bookingLocation": "SG",
+      "taskAssignedToUser": true
+    }
+  ],
+  "meta": {
+    "page": 1,
+    "totalRecords": 100
+  }
+}

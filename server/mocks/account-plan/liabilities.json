@@ -1,0 +1,433 @@
+{
+  "liabilities": {
+    "id": 111,
+    "clientBuyCashManagement": true,
+    "clientPlannedCashRfp": false,
+    "cashConversation": false,
+    "existingCashProvider": false,
+    "nextRfp": null,
+    "pmiDate":1450137016000,
+    "opportunities": false,
+    "rfpComments": {
+      "id": "201609061813162811908548931",
+      "notes": "Pure Test Proposal"
+    },
+    "cashAccount": true,
+    "operatingAccountCountry": [{
+                "id": "20170104002208698",
+                "sequence": 0,
+                "operation": null,
+                "name": "UNITED STATES",
+                "val": "US",
+                "checked": false
+            }, {
+                "id": "20170104002208699",
+                "sequence": 0,
+                "operation": null,
+                "val": "TAIWAN",
+                "name": "TAIWAN",
+                "checked": false
+            }, {
+                "id": "20170104002208700",
+                "sequence": 0,
+                "operation": null,
+                "val": "SINGAPORE",
+                "name": "SINGAPORE",
+                "checked": false
+            }, {
+                "id": "20170104002208701",
+                "sequence": 0,
+                "operation": null,
+                "val": "KOREA REPUBLIC OF",
+                "name": "KOREA REPUBLIC OF",
+                "checked": false
+            }, {
+                "id": "20170104002208702",
+                "sequence": 0,
+                "operation": null,
+                "val": "JAPAN",
+                "name": "JAPAN",
+                "checked": false
+            }, {
+                "id": "20170104002208703",
+                "sequence": 0,
+                "operation": null,
+                "val": "CHINA",
+                "name": "CHINA",
+                "checked": false
+            }, {
+                "id": "20170104002208704",
+                "sequence": 0,
+                "operation": null,
+                "val": "UNITED ARAB EMIRATES",
+                "name": "UNITED ARAB EMIRATES",
+                "checked": false
+            }, {
+                "id": "20170104002208705",
+                "sequence": 0,
+                "operation": null,
+                "val": "UNITED KINGDOM",
+                "name": "UNITED KINGDOM",
+                "checked": false
+            }, {
+                "id": "20170104002208706",
+                "sequence": 0,
+                "operation": null,
+                "val": "HONG KONG",
+                "name": "HONG KONG",
+                "checked": false
+            }],
+        "liabilitiesWalletComment":{
+            "id":"1232112",
+            "notes":"ssarakskkl"
+        },
+        "liabilitiesWalletSizingProductList": [{
+            "id": 23,
+            "operation": null,
+            "sequence": 1,
+            "product": {
+                "name": "WB Cash",
+                "val": "WB",
+                "parentGroup": "WB",
+                "isProductGroup": true
+            },
+            "addressableWallet": null,
+            "fyActualPrevYear": {
+              "id": 110,
+              "original": 15.27,
+              "changed": 15.27
+            },
+            "fyActualCurrYear": {
+              "id": 2210,
+              "original": 11.27,
+              "changed": 11.27
+            },
+            "fyForecastCurrYear": 2,
+            "fyForecastNextYear": 5,
+            "fyActualCurrYearPct": null,
+            "fyForecastCurrYearPct": null,
+            "fyForecastNextYearPct": null,
+            "fyForecastNextNextYearPct": null,
+            "fyForecastNextNextYear":33,
+            "keyCompetitorValues":[],
+            "cpLimitsForScb": null
+        }, {
+            "id": 543,
+            "operation": null,
+            "sequence": 2,
+            "product": {
+                "name": "TB Liabilities",
+                "val": "TB",
+                "parentGroup": "TB",
+                "isProductGroup": true
+            },
+            "addressableWallet": null,
+            "fyActualPrevYear": {
+              "id": 1234210,
+              "original": 15.27,
+              "changed": 15.27
+            },
+            "fyActualCurrYear": {
+              "id": 2213240,
+              "original": 11.27,
+              "changed": 11.27
+            },
+            "fyForecastCurrYear": null,
+            "fyForecastNextYear": null,
+            "fyActualCurrYearPct": null,
+            "fyForecastCurrYearPct": null,
+            "fyForecastNextYearPct": null,
+            "fyForecastNextNextYearPct": null,
+            "fyForecastNextNextYear":null,
+            "keyCompetitorValues": [{
+              "id": 1131,
+              "val": "scb",
+              "name": "scb"
+            },
+            {
+              "id": 1132,
+              "val": "scb123",
+              "name": "scb123"
+            }],
+            "cpLimitsForScb": null
+        }, {
+            "id": 6575,
+            "operation": null,
+            "sequence": 3,
+            "isChildElement":true,
+            "product": {
+                "name": "Of which OPAC",
+                "val": "OPAC",
+                "parentGroup": "TB",
+                "isProductGroup": false
+            },
+            "addressableWallet": null,
+            "fyActualPrevYear": {
+              "id": 11330,
+              "original": 15.27,
+              "changed": 15.27
+            },
+            "fyActualCurrYear": {
+              "id": 226610,
+              "original": 11.27,
+              "changed": 11.27
+            },
+            "fyForecastCurrYear": null,
+            "fyForecastNextYear": null,
+            "fyActualCurrYearPct": null,
+            "fyForecastCurrYearPct": null,
+            "fyForecastNextYearPct": null,
+            "fyForecastNextNextYearPct": null,
+            "fyForecastNextNextYear":null,
+            "keyCompetitorValues": [{
+              "id": 12211,
+              "val": "scb",
+              "name": "scb"
+            },
+            {
+              "id": 12212,
+              "val": "scb123",
+              "name": "scb123"
+            }],
+            "cpLimitsForScb": null
+        }, {
+            "id": 323765,
+            "operation": null,
+            "sequence": 4,
+            "product": {
+                "name": "FM Liabilities",
+                "val": "FM",
+                "parentGroup": "FM",
+                "isProductGroup": true
+            },
+            "addressableWallet": null,
+            "fyActualPrevYear": {
+              "id": 19910,
+              "original": 15.27,
+              "changed": 15.27
+            },
+            "fyActualCurrYear": {
+              "id": 229910,
+              "original": 11.27,
+              "changed": 11.27
+            },
+            "fyForecastCurrYear": null,
+            "fyForecastNextYear": null,
+            "fyActualCurrYearPct": null,
+            "fyForecastCurrYearPct": null,
+            "fyForecastNextYearPct": null,
+            "fyForecastNextNextYearPct": null,
+            "fyForecastNextNextYear":null,
+            "keyCompetitorValues": [{
+              "id": 1113,
+              "val": "scb",
+              "name": "scb"
+            },
+            {
+              "id": 1123,
+              "val": "scb123",
+              "name": "scb123"
+            }],
+            "cpLimitsForScb": null
+        }, {
+            "id": 65765,
+            "operation": null,
+            "sequence": 5,
+            "isChildElement":true,
+            "product": {
+                "name": "Of which Certificate Time Deposits",
+                "val": "CTD",
+                "parentGroup": "FM",
+                "isProductGroup": false
+            },
+            "addressableWallet": null,
+            "fyActualPrevYear": {
+              "id": 99999,
+              "original": 15.27,
+              "changed": 15.27
+            },
+            "fyActualCurrYear": {
+              "id": 77,
+              "original": 11.27,
+              "changed": 11.27
+            },
+            "fyForecastCurrYear": null,
+            "fyForecastNextYear": null,
+            "fyActualCurrYearPct": null,
+            "fyForecastCurrYearPct": null,
+            "fyForecastNextYearPct": null,
+            "fyForecastNextNextYearPct": null,
+            "fyForecastNextNextYear":null,
+            "keyCompetitorValues": [{
+              "id": 11155,
+              "val": "scb",
+              "name": "scb"
+            },
+            {
+              "id": 11255,
+              "val": "scb123",
+              "name": "scb123"
+            }],
+            "cpLimitsForScb": null
+        }, {
+            "id": 765,
+            "operation": null,
+            "sequence": 6,
+            "isChildElement":true,
+            "product": {
+                "name": "Of which Central Bank Deposits",
+                "val": "CB",
+                "parentGroup": "FM",
+                "isProductGroup": false
+            },
+            "addressableWallet": null,
+            "fyActualPrevYear": null,
+            "fyActualPrevYear": {
+              "id": 9987,
+              "original": 15.27,
+              "changed": 15.27
+            },
+            "fyActualCurrYear": {
+              "id": 22665510,
+              "original": 11.27,
+              "changed": 11.27
+            },
+            "fyForecastNextYear": null,
+            "fyActualCurrYearPct": null,
+            "fyForecastCurrYearPct": null,
+            "fyForecastNextYearPct": null,
+            "fyForecastNextNextYearPct": null,
+            "fyForecastNextNextYear":null,
+            "keyCompetitorValues": [{
+              "id": 113331,
+              "val": "scb",
+              "name": "scb"
+            },
+            {
+              "id": 115552,
+              "val": "scb123",
+              "name": "scb123"
+            }],
+            "cpLimitsForScb": null
+        }],
+        "responseStatus": null,
+        "cashPoolOpportunities": [{
+            "id": "20170101152104551000007",
+            "operation": null,
+            "sequence": null,
+            "country": {
+                "id": "20170104002209313",
+                "sequence": 0,
+                "operation": null,
+                "val": "AX",
+                "name": "AFAGAN",
+                "ext1": "1800",
+                "ext2": "EUROPE",
+                "ext3": null,
+                "ext4": null,
+                "ext5": null,
+                "ext6": null,
+                "ext7": null,
+                "checked": false
+            },
+            "product": [ {
+               "idCode": "ACPL0123",
+               "id": "CTD",
+               "val": "CTD",
+               "name": "Certificate Time Deposits",
+               "longDescription": "Certificate Time Deposits",
+               "status": "A",
+               "appGroup": "*",
+               "displayOrder": 0
+             },
+             {
+               "idCode": "ACPL0123",
+               "id": "SecCASA",
+               "val": "SecCASA",
+               "name": "Securities CASA",
+               "longDescription": "Securities CASA",
+               "status": "A",
+               "appGroup": "*",
+               "displayOrder": 7
+             }]
+        }, {
+            "id": "20170101152054104000006",
+            "operation": null,
+            "sequence": null,
+            "country": {
+                "id": "20170104002209942",
+                "sequence": 0,
+                "operation": null,
+                "val": "AX",
+                "name": "AFAGAN",
+                "ext1": "1800",
+                "ext2": "EUROPE",
+                "ext3": null,
+                "ext4": null,
+                "ext5": null,
+                "ext6": null,
+                "ext7": null,
+                "checked": false
+            },
+            "product": [{
+               "idCode": "ACPL0123",
+               "id": "CTD",
+               "val": "CTD",
+               "name": "Certificate Time Deposits",
+               "longDescription": "Certificate Time Deposits",
+               "status": "A",
+               "appGroup": "*",
+               "displayOrder": 0
+             }]
+        }, {
+            "id": "20170101152003000000004",
+            "operation": null,
+            "sequence": null,
+            "country": {
+                "id": "20170104002210593",
+                "sequence": 0,
+                "operation": null,
+                "val": "AX",
+                "name": "AFAGAN",
+                "ext1": "1800",
+                "ext2": "EUROPE",
+                "ext3": null,
+                "ext4": null,
+                "ext5": null,
+                "ext6": null,
+                "ext7": null,
+                "checked": false
+            },
+            "product": [{
+               "idCode": "ACPL0123",
+               "id": "CTD",
+               "val": "CTD",
+               "name": "Certificate Time Deposits",
+               "longDescription": "Certificate Time Deposits",
+               "status": "A",
+               "appGroup": "*",
+               "displayOrder": 0
+             }]
+        }],
+    "pmiLiabilitiesWalletSizing": {
+   "pmiDate": null,
+   "id":2232,
+   "newCountries": []
+ },
+    "contractualTenure": true,
+    "tenureRage": {
+      "id": "2016766835342424",
+      "val": "TR3",
+      "name": "Three months to six months"
+    },
+    "cashAsCollateral": true,
+    "comments": {
+      "notes": "Comments Test",
+      "id": "20160906181316281529381108"
+    },
+    "otherFeedback": {
+      "notes": "this is other feedback comments",
+      "id": "20160906181316281782119248"
+    }
+  }
+}

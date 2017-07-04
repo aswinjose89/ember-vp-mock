@@ -1,0 +1,51 @@
+{
+    "calendar": [{
+        "id": 1,
+        "start": 1372204800000,
+        "end": 1372208400000,
+        "isAllDay": false,
+        "title": "Breakfast"
+    }, {
+        "id": 2,
+        "start": 1370484900000,
+        "end": 1370493000000,
+        "title": "Job Interview"
+    }, {
+        "id": 3,
+        "start": 1372204800000,
+        "end": 1372208400000,
+        "isAllDay": false,
+        "title": "Interview 12345"
+    }, {
+        "id": 4,
+        "start": 1370394000000,
+        "end": 1370437200000,
+        "title": "Interview 1234567"
+    }],
+    "smartList":[{
+        "id": 1,
+        "name": "My Portfolio",
+        "description": "Description for My Portfolio",
+        "isDefault": false
+    },{
+        "id": 2,
+        "name": "My Favourites",
+        "description": "Top 5 Favourite Clients",
+        "isDefault": true
+    },{
+        "id": 3,
+        "name": "ASIA Filter",
+        "description": "5 Clients, 3 Activities",
+        "isDefault": false
+    },{
+        "id": 4,
+        "name": "Action List",
+        "description": "2 Clients, 2 Activities",
+        "isDefault": false
+    },{
+        "id": 5,
+        "name": "Watch List",
+        "description": "3 Clients, 4 Activities",
+        "isDefault": false
+    }]
+}

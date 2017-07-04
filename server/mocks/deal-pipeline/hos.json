@@ -1,0 +1,109 @@
+{
+"header":"SUCCESS",
+"handOverSheet":{
+    "sequence": 13452955896168529,
+    "id":"86687878788",
+    "supportingDocuments":[],
+    "dealId": "20160217100408482",
+    "referenceDealId": "DEAL-TB-2016-02-408482",
+    "dealOwner": "1357670 - Kaikaus,Mohammed",
+    "dealRevenue": 127.35,
+    "createdBy":"1003248",
+    "createdDate":"1475121762369",
+    "modifiedBy":"1314320",
+    "modifiedDate":"1475121762369",
+    "legalName": "TVS AUTO BANGLADESH LIMITED",
+    "clientName": "1341192 - Reza,Shamim",
+    "clientAddress": "239, AUCHPARA (1St Floor), TONGI NA",
+    "segment": "LOCAL CORPORATES",
+    "groupId": "990013614",
+    "leid": "11208991",
+    "subProfileId": "1",
+    "firstContact": {
+        "sequence": 14163246323240528,
+        "firstName": "Alex",
+        "lastName": "Grinwis",
+        "email": "alex.grinwis@glencore.com",
+        "mobileNumber": "+31104044432",
+        "contactName": {
+            "val": "AZTA-72RX38",
+            "name": "Alex Grinwis"
+        }
+    },
+    "secondContact": {
+        "sequence": 14163246323313528,
+        "firstName": "Bert",
+        "lastName": "Polling",
+        "email": "bert.polling@glencore.com",
+        "mobileNumber": "+31104044401",
+        "contactName": {
+            "val": "AZTA-D1PTAP",
+            "name": "Bert Polling"
+        }
+    },
+    "channels": [{
+      "id": "20160217194724547074427",
+      "sequence": 1455708796004,
+      "transactionId": "20160217200100769074522",
+      "subProduct": "Import LC Issuance",
+      "annualRevenue": 80.35,
+      "productDetailText": "",
+      "annualIncome":99,
+      "channel":{
+        "val":"0007",
+        "longDescription":"iH2H"
+     }
+    }, {
+      "id": "20160217194724548074429",
+      "sequence": 1455709527655,
+      "transactionId": "20160217200100787074523",
+      "subProduct": "Import Loan",
+      "annualRevenue": 30.67,
+      "productDetailText": "",
+      "annualIncome":99,
+      "channel":{
+        "val":"0007",
+        "longDescription":"iH2H"
+     }
+    }, {
+      "id": "20160217200100787074525",
+      "sequence": 1455709809027,
+      "transactionId": "20160905195153446027404",
+      "subProduct": "Import LC Issuance",
+      "annualRevenue": 11.60,
+      "annualIncome":99,
+      "productDetailText": "",
+      "channel":{
+        "val":"0007",
+        "longDescription":"iH2H"
+     }
+    }, {
+      "id": "20160217200100788074527",
+      "sequence": 1455710323764,
+      "transactionId": "20160217200100788074526",
+      "subProduct": "Import Loan",
+      "annualRevenue": 4.73,
+      "annualIncome":99,
+      "productDetailText": "",
+      "channel":{
+        "val":"0007",
+        "longDescription":"iH2H"
+     }
+    }],
+    "products":[
+   {
+      "operation":"ADD",
+      "sequence":1482224147386,
+      "channel":{
+         "val":"0003",
+         "longDescription":"Straight2Bank Link"
+      },
+      "subProduct":{
+         "val":"BAPO",
+         "longDescription":"Bank Payment Obligations (BPO)"
+      }
+   }
+],
+    "submit": false
+ }
+}

@@ -1,0 +1,103 @@
+{
+	"search-segment": {
+		"id": "1121",
+		"fyeYear": 2016,
+		"ytdYear": 2016,
+		"ytdMonth": "January",
+		"keyFinancialDetailNext": [{
+			"id": "12121",
+			"details": "Sales",
+			"displayName" : "Sales",
+			"fye": "",
+			"ytd": "1315"
+		}, {
+			"id": "12211",
+			"details": "EBIDTA",
+			"fye": "",
+			"displayName" : "EBIDTA",
+			"ytd": "1315"
+		}, {
+			"id": "11131",
+			"details": "EBIT",
+			"displayName" : "EBIT",
+			"fye": "",
+			"ytd": "1315"
+		}, {
+			"id": "11721",
+			"details": "NI",
+			"displayName" : "Net Income",
+			"fye": "",
+			"ytd": "1315"
+		}, {
+			"id": "14121",
+			"details": "WIC",
+			"displayName" : "Working Cap Investment",
+			"fye": "",
+			"ytd": "1315"
+		}, {
+			"id": "17121",
+			"details": "Capex",
+			"displayName" : "Capex",
+			"fye": "",
+			"ytd": "1315"
+		}, {
+			"id": "18121",
+			"details": "FCF",
+			"displayName" : "Free Cash Flow",
+			"fye": "",
+			"ytd": "1315"
+		}, {
+			"id": "18133",
+			"details": "Dividends",
+			"displayName" : "Dividends",
+			"fye": "",
+			"ytd": "1315"
+		}, {
+			"id": "18156",
+			"details": "GrossDebt",
+			"displayName" : "Gross Debt",
+			"fye": "",
+			"ytd": "1315"
+		}, {
+			"id": "186791",
+			"details": "LeverageRatio",
+			"displayName" : "Leverage Ratio",
+			"fye": "",
+			"ytd": "1315"
+		}, {
+			"id": "13451",
+			"details": "InterestCoverage",
+			"displayName" : "Interest Coverage Ratio",
+			"fye": "",
+			"ytd": "1315"
+		}, {
+			"id": "1743",
+			"details": "Equity",
+			"displayName" : "Equity",
+			"fye": "",
+			"ytd": "1315"
+		}, {
+			"id": "1253",
+			"details": "StockPrice",
+			"displayName" : "Stock Price",
+			"fye": "",
+			"ytd": "1315"
+		}, {
+			"id": "4326",
+			"details": "MarketCap",
+			"displayName" : "Market Cap",
+			"fye": "",
+			"ytd": "1315"
+		}, {
+			"id": "6578",
+			"details": "52Week",
+			"displayName" : "52 - week high/low (USD)",
+			"fye": "",
+			"ytd": "1315"
+		}],
+		"keyFinancialsComments": {
+			"id": "20166672288787286",
+			"notes": "the quick brown fox jumped over the lazy dog 12345"
+		}
+	}
+}

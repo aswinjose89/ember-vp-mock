@@ -1,0 +1,123 @@
+{
+  "clientContact": {
+    "id": "1121221",
+    "status": "2",
+    "manualRefresh": true,
+    "apReviewComments": {
+      "id": "201612131313131",
+      "notes": "Create a centralized view of all your responsibilities across multiple projects with this to-do list. Share with your team to create transparency, track task progress with Harvey ball symbols, and flag high-priority items."
+    },
+    "clientContactDetails":[{
+      	"id": 11,
+        "operation": "NO_CHANGE",
+        "contactName": "Zaheer, Yeong Yeong",
+        "jobTitle": "Executive Vice President",
+        "country": "Singapore",
+        "contactNumber": "+65 8480 5639",
+        "imageId":null,
+        "email": "Curtis.B@singaporeair.com",
+        "roleInBuyDecision": [{
+            "id": "1213324",
+            "role": "EX-CO",
+            "products": "Lending"
+        }, {
+            "id": "12133242",
+            "role": "Decision on Bank",
+            "products": "Corporate Finance, Capital Market"
+        }, {
+            "id": "113324",
+            "role": "Implementation",
+            "products": "Financial Market, Corporate Finance"
+        }],
+      	"products": "Transaction Banking",
+      	"callReportDetails": [{
+      		"callId": "201660681000318869",
+      		"callDate": "1479962153396"
+      	}, {
+      		"callId": "20166068100430318869",
+      		"callDate": "1479962153396"
+      	}],
+      	"callPlanFrequency": {
+          "idCode": "ACPL0152",
+          "id": "MON",
+          "val": "MON",
+          "name": "Monthly",
+          "longDescription": "Monthly",
+          "status": "A",
+          "appGroup": "*",
+          "displayOrder": 2
+        },
+      	"scbContacts": "Yes",
+      	"scbContactsDetails": [{
+          "id": "2018273464646",
+          "operation": "NO_CHANGE",
+          "name": null,
+          "country": null,
+          "product": null,
+          "jobTitle": null,
+          "team": null,
+          "psId": "1443213",
+          "firstName": "Vijith Mullappali",
+          "lastName": "kumar",
+          "roleType": null,
+          "relationshipStatus": null
+        }]
+      },
+      {
+        	"id": 1134,
+          "operation": "NO_CHANGE",
+          "contactName": "Vijith Mullappali",
+          "jobTitle": "Executive Vice President",
+          "country": "Singapore",
+          "contactNumber": "+65 8480 5639",
+          "imageId":"78778790",
+          "email": "Curtis.B@singaporeair.com",
+          "roleInBuyDecision": [{
+              "id": "1213324",
+              "role": "EX-CO",
+              "products": "Lending"
+          }, {
+              "id": "12133242",
+              "role": "Decision on Bank",
+              "products": "Corporate Finance, Capital Market"
+          }, {
+              "id": "113324",
+              "role": "Implementation",
+              "products": "Financial Market, Corporate Finance"
+          }],
+        	"products": "Transaction Banking",
+        	"callReportDetails": [{
+        		"callId": "201660681000318869",
+        		"callDate": "1479962153396"
+        	}, {
+        		"callId": "20166068100430318869",
+        		"callDate": "1479962153396"
+        	}],
+        	"callPlanFrequency": {
+            "idCode": "ACPL0152",
+            "id": "MON",
+            "val": "MON",
+            "name": "Monthly",
+            "longDescription": "Monthly",
+            "status": "A",
+            "appGroup": "*",
+            "displayOrder": 2
+          },
+        	"scbContacts": "Yes",
+        	"scbContactsDetails": [{
+            "id": "2018273464646",
+            "operation": "NO_CHANGE",
+            "name": null,
+            "country": null,
+            "product": null,
+            "jobTitle": null,
+            "team": null,
+            "psId": "1443213",
+            "firstName": "Vijith Mullappali",
+            "lastName": "kumar",
+            "roleType": null,
+            "relationshipStatus": null
+          }]
+        }]
+  }
+}

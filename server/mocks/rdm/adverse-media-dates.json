@@ -1,0 +1,16 @@
+{
+  "adverseMediaDates": [
+    {
+      "code": "D1",
+      "description": "Ongoing"
+    },
+    {
+      "code": "D2",
+      "description": "Within last three years"
+    },
+    {
+      "code": "D3",
+      "description": "Within last five years"
+    }
+  ]
+}

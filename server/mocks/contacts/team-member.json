@@ -1,0 +1,19 @@
+{
+"teamMember":{
+"cctMember":[{
+      "psid": "1487632",
+      "name": "Shyamala",
+      "jobTitle": "Ms",
+      "productArea": "Capital Markets",
+      "country": "AE",
+      "isCct":"CCT"
+  },{
+    "psid": "123456",
+    "name": "xyz",
+    "jobTitle": "Mr",
+    "productArea": "Capital Markets",
+    "country": "KE",
+    "isCct":"CCT"
+    }]
+ }
+}

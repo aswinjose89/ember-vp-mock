@@ -1,0 +1,73 @@
+    {
+      "tbGtsTag": [
+        {
+          "id":1,
+          "groupDetail": {
+            "id": "1",
+            "groupName": "JP Morgan chase & Company",
+            "groupId": "990024823",
+            "domicileRegion": "Africa",
+            "domicileCountry": "Zambia",
+            "groupSegment": "Local Corporate",
+            "TBSegment": "Global Corporate",
+            "entityType": "group",
+            "isChecked": false
+          },
+          "salesPerson": {
+            "id": 1,
+            "empCode": "LF22",
+            "empBookingLocation": "SG/SCBL",
+            "empPsId": "1234561",
+            "empName": "Bradley Pitt",
+            "empCountry": "SG",
+            "empRole": "TBS"
+          }
+        },
+        {
+          "id":2,
+          "groupDetail": {
+            "id": "2",
+            "groupName": "Macsteel Group",
+            "groupId": "90003566",
+            "domicileRegion": "Africa",
+            "domicileCountry": "Zambia",
+            "groupSegment": "Local Corporate",
+            "TBSegment": "Global Corporate",
+            "entityType": "group",
+            "isChecked": false
+          },
+          "salesPerson": {
+            "id": 2,
+            "empCode": "LF22",
+            "empBookingLocation": "SG/SCBL",
+            "empPsId": "1213507",
+            "empName": "Nikhil Vaswani",
+            "empCountry": "SG",
+            "empRole": "TBS"
+          }
+        },
+        {
+          "id":3,
+          "groupDetail": {
+            "id": "3",
+            "groupName": "Tata Group",
+            "groupId": "990012345",
+            "domicileRegion": "Africa",
+            "domicileCountry": "Zambia",
+            "groupSegment": "Local Corporate",
+            "TBSegment": "Global Corporate",
+            "entityType": "group",
+            "isChecked": false
+          },
+          "salesPerson": {
+            "id": 3,
+            "empCode": "LF22",
+            "empBookingLocation": "MY/SCMY",
+            "empPsId": "1532565",
+            "empName": "Isabel Rhodes",
+            "empCountry": "SG",
+            "empRole": "TBS"
+          }
+        }
+      ]
+    }

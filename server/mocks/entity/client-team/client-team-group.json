@@ -1,0 +1,31 @@
+{
+    "id": 1,
+    "clientTeamResponse": {
+        "clientTeams": [
+            "1279542",
+            "1279542"
+        ]
+    },
+    "clientTeams": [
+        {
+            "id": 1279542,
+            "userPsId": "1279542",
+            "userEmail": "null",
+            "userCountry": "null",
+            "userJobTitle": "null",
+            "clientAccess": "F",
+            "teamRole": "RAM",
+            "rmwbTeamRole": "RAM",
+            "dept": "OCC",
+            "name": "Arsalan Memon",
+            "roleCount": "0",
+            "clientAccessDesc": "Full Control",
+            "oldClientAccess": null,
+            "action": null,
+            "imageLink": "/api/core/users/profileInfo/image/1279542"
+        }
+    ],
+    "meta": {
+        "addClientTeamAccessFlag": true
+    }
+}

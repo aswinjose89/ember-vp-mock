@@ -1,0 +1,28 @@
+{
+  "urgentReasonCodes": [
+    {
+      "code": "06",
+      "description": "CDD review that needs to be completed before a GIC can be initiated"
+    },
+    {
+      "code": "04",
+      "description": "Country/RM level OD threshold breach"
+    },
+    {
+      "code": "05",
+      "description": "New Account Opening"
+    },
+    {
+      "code": "02",
+      "description": "New deal in the pipeline â€“ local or overseas"
+    },
+    {
+      "code": "03",
+      "description": "Overdue CDD review >4m or 6m case"
+    },
+    {
+      "code": "01",
+      "description": "Trigger event review to be completed within the deadline"
+    }
+  ]
+}

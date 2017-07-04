@@ -1,0 +1,92 @@
+{
+  "taskNames": [
+    {
+      "code": "T0",
+      "description": "CheckDeferral"
+    },
+    {
+      "code": "T1",
+      "description": "MakeBBA"
+    },
+    {
+      "code": "T2",
+      "description": "CheckGA"
+    },
+    {
+      "code": "T3",
+      "description": "CheckGIC"
+    },
+    {
+      "code": "T4",
+      "description": "Make FATCA"
+    },
+    {
+      "code": "T5",
+      "description": "Check FATCA"
+    },
+    {
+      "code": "T6",
+      "description": "MakeCDDASUpdate"
+    },
+    {
+      "code": "T7",
+      "description": "CheckCDDASUpdate"
+    },
+    {
+      "code": "T8",
+      "description": "MakeCDD"
+    },
+    {
+      "code": "T9",
+      "description": "MakeCDDUpdate"
+    },
+    {
+      "code": "T10",
+      "description": "MakeDeferral"
+    },
+    {
+      "code": "T11",
+      "description": "MakeGA"
+    },
+    {
+      "code": "T12",
+      "description": "MakeGIC"
+    },
+    {
+      "code": "T13",
+      "description": "CheckBBA"
+    },
+    {
+      "code": "T14",
+      "description": "CheckCDD"
+    },
+    {
+      "code": "T15",
+      "description": "CheckCDDUpdate"
+    },
+    {
+      "code": "T16",
+      "description": "MakeBBAASUpdate"
+    },
+    {
+      "code": "T17",
+      "description": "CheckBBAASUpdate"
+    },
+    {
+      "code": "T18",
+      "description": "MakeGICASUpdate"
+    },
+    {
+      "code": "T19",
+      "description": "CheckGICASUpdate"
+    },
+    {
+      "code": "T20",
+      "description": "MakeGAASUpdate"
+    },
+    {
+      "code": "T21",
+      "description": "CheckGAASUpdate"
+    }
+  ]
+}

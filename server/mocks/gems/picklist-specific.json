@@ -1,0 +1,128 @@
+{
+    "complaintPicklist": {
+        "id": "GEMS_PICKLIST_ID",
+        "finalRootCause": [
+            {
+                "id": "30ALLPROD",
+                "code": "all",
+                "label": "All Segments",
+                "description": "All Segments",
+                "shortDescription": null,
+                "longDescription": null,
+                "param1": "OS",
+                "param2": "updateSubSegments",
+                "param3": null
+            },
+            {
+                "id": "30PROD",
+                "code": "30",
+                "label": "SMALL AND MEDIUM ENTERPRISES",
+                "description": "SMALL AND MEDIUM ENTERPRISES",
+                "shortDescription": null,
+                "longDescription": null,
+                "param1": "OS",
+                "param2": "updateSubSegments",
+                "param3": null
+            },
+            {
+                "id": "50PROD",
+                "code": "50",
+                "label": "CONSUMER BANK",
+                "description": "CONSUMER BANK",
+                "shortDescription": null,
+                "longDescription": null,
+                "param1": "OS",
+                "param2": "updateSubSegments",
+                "param3": null
+            },
+            {
+                "id": "APROD",
+                "code": "A",
+                "label": "LOCAL CORPORATES",
+                "description": "LOCAL CORPORATES",
+                "shortDescription": null,
+                "longDescription": null,
+                "param1": "OS",
+                "param2": "updateSubSegments",
+                "param3": null
+            },
+            {
+                "id": "EPROD",
+                "code": "E",
+                "label": "COMMODITY TRADERS & AGRICULTURE",
+                "description": "COMMODITY TRADERS & AGRICULTURE",
+                "shortDescription": null,
+                "longDescription": null,
+                "param1": "OS",
+                "param2": "updateSubSegments",
+                "param3": null
+            },
+            {
+                "id": "HVPROD",
+                "code": "HV",
+                "label": "HIGH VALUE SMALL BUSINESS",
+                "description": "HIGH VALUE SMALL BUSINESS",
+                "shortDescription": null,
+                "longDescription": null,
+                "param1": "OS",
+                "param2": "updateSubSegments",
+                "param3": null
+            },
+            {
+                "id": "KPROD",
+                "code": "K",
+                "label": "GLOBAL CORPORATES",
+                "description": "GLOBAL CORPORATES",
+                "shortDescription": null,
+                "longDescription": null,
+                "param1": "OS",
+                "param2": "updateSubSegments",
+                "param3": null
+            },
+            {
+                "id": "MEPROD",
+                "code": "ME",
+                "label": "MEDIUM ENTERPRISE",
+                "description": "MEDIUM ENTERPRISE",
+                "shortDescription": null,
+                "longDescription": null,
+                "param1": "OS",
+                "param2": "updateSubSegments",
+                "param3": null
+            },
+            {
+                "id": "MMPROD",
+                "code": "MM",
+                "label": "MIDDLE MARKETS",
+                "description": "MIDDLE MARKETS",
+                "shortDescription": null,
+                "longDescription": null,
+                "param1": "OS",
+                "param2": "updateSubSegments",
+                "param3": null
+            },
+            {
+                "id": "NPROD",
+                "code": "N",
+                "label": "FINANCIAL INSTITUTIONS",
+                "description": "FINANCIAL INSTITUTIONS",
+                "shortDescription": null,
+                "longDescription": null,
+                "param1": "OS",
+                "param2": "updateSubSegments",
+                "param3": null
+            },
+            {
+                "id": "SPROD",
+                "code": "S",
+                "label": "OWN ACCOUNT",
+                "description": "OWN ACCOUNT",
+                "shortDescription": null,
+                "longDescription": null,
+                "param1": "OS",
+                "param2": "updateSubSegments",
+                "param3": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,30 @@
+{
+	"searchExceptions": {
+	    "id": 1,
+		"inflightEntities": [{		  
+			"entityName": "inflightEntities1",
+			"entityId": 123,
+			"activityId": 12345,
+			"id": 43444,
+			"initiatedOn": "2017-01-13",
+			"initiatedBy": "vp-1",
+			"action": "Group Exit",
+			"status": "In Progress"
+		}],
+		"exposureEntities": [{		   
+			"entityName": "exposureEntities1",
+			"entityId": 123,
+			"region": "ASIA",
+			"id": 1123,
+			"domicileCountry": "India1",
+			"segment": "one",
+			"subSegment": "subSegment"
+		}],
+		"borrowingClients": [],
+		"meta": {
+			"inflightTotalCount": 1,
+			"exposureTotalCount": 1,
+			"borrowingTotalCount": 0			
+		}
+	}
+}

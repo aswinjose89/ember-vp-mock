@@ -1,0 +1,153 @@
+{
+  "coverage": {
+    "id": "20161234567890",
+    "sequence": "21393604030522840",
+    "transactionId": "20160701200701594002463",
+    "entitlements":{
+        "id":"121234",
+        "coverage":{
+          "id":"20161234567890",
+          "edit":true,
+          "initiate":true,
+          "view":true
+        },
+        "tbsales":{
+          "id":"201612345678901",
+          "edit":false,
+          "initiate":true,
+          "view":true
+        }
+    },
+    "coverageSections":[
+        {
+          "id": "1",
+          "name":"Client Contact Management",
+          "route":"coverage.client-contact",
+          "status":"",
+          "isChecked":true,
+          "mandatory": true
+        },
+        {
+          "id": "2",
+          "name":"Liabilities",
+          "route":"coverage.liabilities",
+          "status":"",
+          "isChecked":true,
+          "mandatory": true
+        },
+        {
+          "id": "3",
+          "name":"Client Strategy",
+          "route":"coverage.client-strategy",
+          "status":"",
+          "isChecked":false,
+          "mandatory": false
+        },
+
+    
+      {
+        "id": "8",
+        "name":"Estimated Fees Paid",
+        "route":"coverage.estimated-fees-paid",
+        "status":"",
+          "mandatory": false
+      }
+    ],
+    "tbsalesSections":[
+        {
+          "id": "10",
+          "name":"Client Contact Management",
+          "route":"tbsales.client-contact",
+          "status":"",
+          "mandatory": true
+        },
+        {
+          "id": "11",
+          "name":"Client Penetration",
+          "route":"tbsales.client-penetration",
+          "status":"",
+          "mandatory": true
+        },
+        {
+          "id": "12",
+          "name":"Financials",
+          "route":"tbsales.financial",
+          "status":"",
+          "mandatory": false
+        },
+        {
+          "id": "13",
+          "name":"Action Plan",
+          "route":"tbsales.actionplan",
+          "status":"",
+          "mandatory": true
+        },
+        {
+          "id": "14",
+          "name":"Buying Behaviour",
+          "route":"tbsales.buyingbehaviour",
+          "status":"",
+          "mandatory": false
+        },
+        {
+          "id": "15",
+          "name":"Sign Off",
+          "route":"tbsales.signoff",
+          "status":"",
+          "mandatory": true
+        }
+    ],
+    "staticInformation": {
+        "id": "G",
+        "entityName":"CONAIR GROUP OF COMPANIES AND OTHERS ",
+        "group": {
+          "id": "990002021",
+          "name": "CONAIR GROUP",
+          "stripe": "Striped",
+          "productTag": [
+            {"key": "MULTI STRIPED"},
+            {"key": "FM"},
+            {"key":  "TB"}
+          ],
+          "topNext": "Top Next 100",
+          "segment": "GLOBAL CORPORATES",
+          "subSegment": null,
+          "gamName": "Vahid Sazegara",
+          "gamLocation": "United States",
+          "pfamName": "Vahid Sazegara",
+          "pfamLocation": "United States",
+          "sciId": null,
+          "onboardingStatus": null,
+          "cddStatus": null,
+          "domicileregion": "India",
+          "incorporationCountry": "United States",
+          "legalConstitution": "Singapore"
+        },
+        "client": {
+          "id": "990007882021",
+          "name": "CONAIR GROUP",
+          "stripe": "Striped",
+          "productTag": [
+            {"key": "FM"},
+            {"key": "TB"}
+          ],
+          "segment": "GLOBAL CORPORATES",
+          "subSegment": null,
+          "pfamName": "Vahid Sazegara",
+          "pfamLocation": "United States"
+        },
+        "prospect": {
+          "id": "9900026021",
+          "name": "CONAIR GROUP",
+          "segment": "GLOBAL CORPORATES",
+          "subSegment": null,
+          "prospectOwner": "Vahid Sazegara",
+          "prospectOwnerLoc": "United States"
+        }
+
+    },
+    "retag": false,
+    "createdDate": 1467374821657,
+    "createdBy": "Jha,Jeevesh Chandra"
+  }
+}

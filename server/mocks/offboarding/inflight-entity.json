@@ -1,0 +1,82 @@
+{
+	"offboarding/inflightEntity": [{
+		"entityName": "entityName Test",
+		"entityId": 123,
+		"activityId": 12345,
+		"id": 23,
+		"initiatedOn": "10 March 2016",
+		"initiatedBy": "VP-2",
+		"action": "Group Exit",
+		"status": "In Progress"
+	},{
+		"entityName": "entityName Test",
+		"entityId": 123,
+		"activityId": 12345,
+		"id": 24,
+		"initiatedOn": "10 March 2016",
+		"initiatedBy": "VP-2",
+		"action": "Group Exit",
+		"status": "In Progress"
+	},{
+		"entityName": "entityName Test",
+		"entityId": 123,
+		"activityId": 12345,
+		"id": 25,
+		"initiatedOn": "10 March 2016",
+		"initiatedBy": "VP-2",
+		"action": "Group Exit",
+		"status": "In Progress"
+	},{
+		"entityName": "entityName Test",
+		"entityId": 123,
+		"activityId": 12345,
+		"id": 26,
+		"initiatedOn": "10 March 2016",
+		"initiatedBy": "VP-2",
+		"action": "Group Exit",
+		"status": "In Progress"
+	},{
+		"entityName": "entityName Test",
+		"entityId": 123,
+		"activityId": 12345,
+		"id": 27,
+		"initiatedOn": "10 March 2016",
+		"initiatedBy": "VP-2",
+		"action": "Group Exit",
+		"status": "In Progress"
+	},{
+		"entityName": "entityName Test",
+		"entityId": 123,
+		"activityId": 12345,
+		"id": 28,
+		"initiatedOn": "10 March 2016",
+		"initiatedBy": "VP-2",
+		"action": "Group Exit",
+		"status": "In Progress"
+	},{
+		"entityName": "entityName Test",
+		"entityId": 123,
+		"activityId": 12345,
+		"id": 29,
+		"initiatedOn": "10 March 2016",
+		"initiatedBy": "VP-2",
+		"action": "Group Exit",
+		"status": "In Progress"
+	},{
+		"entityName": "entityName Test",
+		"entityId": 123,
+		"activityId": 12345,
+		"id": 30,
+		"initiatedOn": "10 March 2016",
+		"initiatedBy": "VP-2",
+		"action": "Group Exit",
+		"status": "In Progress"
+	}],
+	"meta": {
+		"inflightTotalCount": 20,
+		"count": {
+			"total": 8
+		},
+		"totalRecords": 100
+	}
+}

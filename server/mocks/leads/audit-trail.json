@@ -1,0 +1,98 @@
+{
+  "leadAuditTrails": [
+    {
+      "id": "1",
+      "bankId": "1",
+      "type": "ETB",
+      "fileName": "doc.xls",
+      "documentId": "India",
+      "status": "In-Progress",
+      "lastUpdated":"dd/mm/yyyy"
+    },
+    {
+      "id": "2",
+      "bankId": "2",
+      "type": "NTB",
+      "fileName": "doc1.xlsx",
+      "documentId": "singapore",
+      "status": "In-Progress",
+      "lastUpdated":"dd/mm/yyyy"
+
+    },
+    {
+      "id": "3",
+      "bankId": "3",
+      "type": "NTB",
+      "fileName": "doc1.xlsx",
+      "documentId": "singapore",
+      "status": "In-Progress",
+      "lastUpdated":"dd/mm/yyyy"
+
+    },
+    {
+      "id": "4",
+      "bankId": "4",
+      "type": "ETB",
+      "fileName": "doc1232.xls",
+      "documentId": "India",
+      "status": "In-Progress",
+      "lastUpdated":"dd/mm/yyyy"
+    },
+    {
+      "id": "5",
+      "bankId": "5",
+      "type": "ALERT",
+      "fileName": "doc1232.xls",
+      "documentId": "India",
+      "status": "In-Progress",
+      "lastUpdated":"dd/mm/yyyy"
+    },
+    {
+      "id": "6",
+      "bankId": "6",
+      "type": "ETB",
+      "fileName": "doc.xls",
+      "documentId": "India",
+      "status": "In-Progress",
+      "lastUpdated":"dd/mm/yyyy"
+    },
+    {
+      "id": "7",
+      "bankId": "7",
+      "type": "NTB",
+      "fileName": "doc1.xlsx",
+      "documentId": "singapore",
+      "status": "In-Progress",
+      "lastUpdated":"dd/mm/yyyy"
+
+    },
+    {
+      "id": "8",
+      "bankId": "8",
+      "type": "ETB",
+      "fileName": "doc1.xlsx",
+      "documentId": "singapore",
+      "status": "In-Progress",
+      "lastUpdated":"dd/mm/yyyy"
+
+    },
+    {
+      "id": "9",
+      "bankId": "9",
+      "type": "ALERT",
+      "fileName": "doc1232.xls",
+      "documentId": "India",
+      "status": "In-Progress",
+      "lastUpdated":"dd/mm/yyyy"
+    },
+    {
+      "id": "10",
+      "bankId": "10",
+      "type": "NTB",
+      "fileName": "doc1232.xls",
+      "documentId": "India",
+      "status": "In-Progress",
+      "lastUpdated":"dd/mm/yyyy"
+    }
+  ]
+}

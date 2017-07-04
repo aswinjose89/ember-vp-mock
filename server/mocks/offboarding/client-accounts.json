@@ -1,0 +1,74 @@
+{
+
+    "clientLocationAccounts": [{
+        "id": 101,
+        "product": "EBBS (Core Banking)",
+        "accountNumber": "400479082",
+        "accountName": "SUS LKT AUTOMATIVE ANA...",
+        "processTeam": "Chennai_Hub_FM_Systems",
+        "status": "ACCOUNT_CLOSURE",
+        "bookingLocation": "IN/SCBL"
+    }, {
+        "id": 102,
+        "product": "IMEX (Trade)",
+        "accountNumber": "400479010",
+        "accountName": "SUS LKT AUTOMATIVE ANA...",
+        "processTeam": "Chennai_Hub_FM_Systems"
+
+    }, {
+        "id": 103,
+        "product": "RMA",
+        "accountNumber": "21121121",
+        "accountName": "SUS LKT AUTOMATIVE ANA...",
+        "processTeam": "Chennai_Hub_FM_Systems"
+
+    }, {
+        "id": 104,
+        "product": "EBBS (Trade)",
+        "accountNumber": "22200479082",
+        "accountName": "SUS LKT AUTOMATIVE ANA...",
+        "processTeam": "Chennai_Hub_FM_Systems"
+
+    }, {
+        "id": 105,
+        "product": "AMEX (Core Banking)",
+        "accountNumber": "500479082",
+        "accountName": "SUS LKT AUTOMATIVE ANA...",
+        "processTeam": "Chennai_Hub_FM_Systems"
+
+    }, {
+        "id": 106,
+        "product": "EBBS (Core Banking)",
+        "accountNumber": "400479082",
+        "accountName": "SUS LKT AUTOMATIVE ANA...",
+        "processTeam": "Chennai_Hub_FM_Systems"
+
+    }, {
+        "id": 107,
+        "product": "EBBS (Trade)",
+        "accountNumber": "400479082",
+        "accountName": "SUS LKT AUTOMATIVE ANA...",
+        "processTeam": "Chennai_Hub_FM_Systems"
+
+    }, {
+        "id": 108,
+        "product": "IMEX (Finance)",
+        "accountNumber": "430479082",
+        "accountName": "SUS LKT AUTOMATIVE ANA...",
+        "processTeam": "Chennai_Hub_FM_Systems"
+
+    }, {
+        "id": 109,
+        "product": "EBBS (Finance)",
+        "accountNumber": "400479082",
+        "accountName": "SUS LKT AUTOMATIVE ANA...",
+        "processTeam": "Chennai_Hub_FM_Systems"
+
+    }],
+    "meta": {
+        "count": {
+            "total": 9
+        },
+        "totalRecords": 100
+    }
+}

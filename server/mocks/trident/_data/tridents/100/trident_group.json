@@ -1,0 +1,5624 @@
+{
+  "details": [],
+  "updatedDate": 1487065669348,
+  "lastCachedTime": 1487128919942,
+  "tridentInfo": {
+    "tridentId": "100",
+    "tridentName": "delete2",
+    "wacg": "2A",
+    "groupCG": "4B",
+    "el": "7768065.028",
+    "lastUpdatedDate": "14 Feb 2017",
+    "updatedBy": "1536576 - Akilan Mohan 1536576",
+    "gamName": "1182424-Choon Beng Yap",
+    "groupName": "KEPPEL CORPORATION GROUP",
+    "domicileCountry": "SINGAPORE",
+    "unformattedUpdatedDate": 1487065669348,
+    "nonAccessibleEntities": [],
+    "createdById": "1536576",
+    "status": "DRAFT",
+    "primaryGroup": true,
+    "modelGenerationStatus": false,
+    "limitItemsMap": {},
+    "accessible": false
+  },
+  "tridentSummary": {
+    "wacg": "2A",
+    "el": "7768065.028",
+    "nonAccessibleEntities": [],
+    "maxTenor": "5 Years",
+    "limitItemsMap": {
+      "CAT1": [
+        {
+          "limitDataType": "GM",
+          "limitDataValue": 981000000,
+          "approvedDate": null,
+          "new": false
+        },
+        {
+          "limitDataType": "BCA",
+          "limitDataValue": 564275000,
+          "approvedDate": null,
+          "new": false
+        },
+        {
+          "limitDataType": "PROPOSED",
+          "limitDataValue": 850687109.23,
+          "approvedDate": null,
+          "new": false
+        },
+        {
+          "limitDataType": "APPROVED",
+          "limitDataValue": 981000000,
+          "approvedDate": null,
+          "new": false
+        }
+      ],
+      "CAT2": [
+        {
+          "limitDataType": "GM",
+          "limitDataValue": 194000000,
+          "approvedDate": null,
+          "new": false
+        },
+        {
+          "limitDataType": "BCA",
+          "limitDataValue": 125004000,
+          "approvedDate": null,
+          "new": false
+        },
+        {
+          "limitDataType": "PROPOSED",
+          "limitDataValue": 127004000,
+          "approvedDate": null,
+          "new": false
+        },
+        {
+          "limitDataType": "APPROVED",
+          "limitDataValue": 194000000,
+          "approvedDate": null,
+          "new": false
+        }
+      ],
+      "CAT1_CAT2": [
+        {
+          "limitDataType": "GM",
+          "limitDataValue": 1175000000,
+          "approvedDate": null,
+          "new": false
+        },
+        {
+          "limitDataType": "BCA",
+          "limitDataValue": 689279000,
+          "approvedDate": null,
+          "new": false
+        },
+        {
+          "limitDataType": "PROPOSED",
+          "limitDataValue": 977691109.23,
+          "approvedDate": null,
+          "new": false
+        },
+        {
+          "limitDataType": "APPROVED",
+          "limitDataValue": 1175000000,
+          "approvedDate": null,
+          "new": false
+        }
+      ],
+      "CAT3": [
+        {
+          "limitDataType": "GM",
+          "limitDataValue": 600000000,
+          "approvedDate": null,
+          "new": false
+        },
+        {
+          "limitDataType": "BCA",
+          "limitDataValue": 375004000,
+          "approvedDate": null,
+          "new": false
+        },
+        {
+          "limitDataType": "PROPOSED",
+          "limitDataValue": 468004000,
+          "approvedDate": null,
+          "new": false
+        },
+        {
+          "limitDataType": "APPROVED",
+          "limitDataValue": 600000000,
+          "approvedDate": null,
+          "new": false
+        }
+      ],
+      "CAT5_PROD": [
+        {
+          "limitDataType": "GM",
+          "limitDataValue": 0,
+          "approvedDate": null,
+          "new": false
+        },
+        {
+          "limitDataType": "BCA",
+          "limitDataValue": -24,
+          "approvedDate": null,
+          "new": false
+        },
+        {
+          "limitDataType": "PROPOSED",
+          "limitDataValue": 5000000,
+          "approvedDate": null,
+          "new": false
+        },
+        {
+          "limitDataType": "APPROVED",
+          "limitDataValue": 0,
+          "approvedDate": null,
+          "new": false
+        }
+      ],
+      "CAT5": [
+        {
+          "limitDataType": "GM",
+          "limitDataValue": 250000000,
+          "approvedDate": null,
+          "new": false
+        },
+        {
+          "limitDataType": "BCA",
+          "limitDataValue": 0,
+          "approvedDate": null,
+          "new": false
+        },
+        {
+          "limitDataType": "PROPOSED",
+          "limitDataValue": 255500000,
+          "approvedDate": null,
+          "new": false
+        },
+        {
+          "limitDataType": "APPROVED",
+          "limitDataValue": 250000000,
+          "approvedDate": null,
+          "new": false
+        }
+      ],
+      "CONTROL": [
+        {
+          "limitDataType": "GM",
+          "limitDataValue": 0,
+          "approvedDate": null,
+          "new": false
+        },
+        {
+          "limitDataType": "BCA",
+          "limitDataValue": 0,
+          "approvedDate": null,
+          "new": false
+        },
+        {
+          "limitDataType": "PROPOSED",
+          "limitDataValue": 4000000,
+          "approvedDate": null,
+          "new": false
+        },
+        {
+          "limitDataType": "APPROVED",
+          "limitDataValue": 0,
+          "approvedDate": null,
+          "new": false
+        }
+      ]
+    },
+    "accessible": false
+  },
+  "tridentGroups": [
+    {
+      "tridentId": "100",
+      "groupId": "990000257",
+      "sciGroupId": "990000257",
+      "groupName": "KEPPEL CORPORATION GROUP",
+      "generateModels": false,
+      "primaryGroup": true,
+      "limitItemsMap": {
+        "CAT1": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 981000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 564275000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 850687109.23,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "APPROVED",
+            "limitDataValue": 981000000,
+            "approvedDate": "09 Sep 2016",
+            "new": false
+          }
+        ],
+        "CAT2": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 194000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 125004000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 127004000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "APPROVED",
+            "limitDataValue": 194000000,
+            "approvedDate": "09 Sep 2016",
+            "new": false
+          }
+        ],
+        "CAT1_CAT2": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 1175000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 689279000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 977691109.23,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "APPROVED",
+            "limitDataValue": 1175000000,
+            "approvedDate": "09 Sep 2016",
+            "new": false
+          }
+        ],
+        "CAT3": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 600000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 375004000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 468004000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "APPROVED",
+            "limitDataValue": 600000000,
+            "approvedDate": "09 Sep 2016",
+            "new": false
+          }
+        ],
+        "CAT5_PROD": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": -24,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 5000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "APPROVED",
+            "limitDataValue": 0,
+            "approvedDate": "09 Sep 2016",
+            "new": false
+          }
+        ],
+        "CAT5": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 250000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 255500000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "APPROVED",
+            "limitDataValue": 250000000,
+            "approvedDate": "09 Sep 2016",
+            "new": false
+          }
+        ],
+        "CONTROL": [
+          {
+            "limitDataType": "GM",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "BCA",
+            "limitDataValue": 0,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "PROPOSED",
+            "limitDataValue": 4000000,
+            "approvedDate": null,
+            "new": false
+          },
+          {
+            "limitDataType": "APPROVED",
+            "limitDataValue": 0,
+            "approvedDate": "09 Sep 2016",
+            "new": false
+          }
+        ]
+      },
+      "proposedCat5LE": 0,
+      "approvedCat5LE": 0,
+      "groupMandateId": "6000133588",
+      "clientsCount": 23,
+      "groupEL": 7253449.938,
+      "groupTenor": "5 Years",
+      "groupCreditGrade": "4B",
+      "tridentEntities": [
+        {
+          "tridentId": "100",
+          "entityXRefId": "6a2ff569-7aca-45d5-9f46-2a7f85f200c0",
+          "entityType": "HC",
+          "clientId": "86e1ecd2-68ee-4680-9dda-55d512fd724c",
+          "generateModels": false,
+          "clientName": "KEPPEL CORPORATION GROUP - Headroom",
+          "cat1Cat2": 1031871439,
+          "orgLocWiseLimitItemDetails": {
+            "NA": {
+              "originatingLocationCode": "NA",
+              "originatingLocation": "NA",
+              "bcaPreparedBy": ",",
+              "modelId": "328234",
+              "raptorPreparedBy": "1536576,Akilan Mohan 1536576",
+              "isDummyModel": "Y",
+              "supportDocument": "-",
+              "supportDocumentCode": "7",
+              "supportTypeCode": "3",
+              "supportType": "-",
+              "isEditable": "Y",
+              "active": true,
+              "orgLocCodeXrefId": "NA-6a2ff569-7aca-45d5-9f46-2a7f85f200c0",
+              "ccr": "-",
+              "ccrCode": "-",
+              "gmRefId": "c9155c3a-01ef-40d4-9a86-3ccadfbeeb3a",
+              "gmEl": 143770,
+              "computeError": false,
+              "limitItemsMap": {
+                "CAT1": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 280331980,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 280331980,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "APPROVED",
+                    "limitDataValue": 280331970,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ],
+                "CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "APPROVED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ],
+                "CAT1_CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 280331980,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 280331980,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "APPROVED",
+                    "limitDataValue": 280331970,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ],
+                "CAT3": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 90000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 90000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "APPROVED",
+                    "limitDataValue": 90000000,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ],
+                "CAT5_PROD": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": -23,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "APPROVED",
+                    "limitDataValue": -1,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ],
+                "CAT5": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 250000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 250000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "APPROVED",
+                    "limitDataValue": 165556000,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ],
+                "CONTROL": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "APPROVED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ]
+              },
+              "mainBorrower": false
+            }
+          }
+        },
+        {
+          "tridentId": "100",
+          "entityXRefId": "e6915d51-05a4-4758-930b-556eb1deb65a",
+          "entityType": "C",
+          "clientId": "11187349",
+          "clientLeId": "11187349",
+          "generateModels": false,
+          "glatStatus": "GLAT_A",
+          "clientName": "KEPPEL SEGHERS ENGINEERING SINGAPORE PTE. LTD.",
+          "cat1Cat2": 162079187.26,
+          "orgLocWiseLimitItemDetails": {
+            "SGSCBL": {
+              "originatingLocationCode": "SGSCBL",
+              "originatingLocation": "SG/SCBL-SINGAPORE",
+              "bcaRefNo": "10501914",
+              "bcaPreparedBy": "1378765,USER NAME OF 10000046",
+              "modelId": "328228",
+              "raptorPreparedBy": "1536576,Akilan Mohan 1536576",
+              "isDummyModel": "Y",
+              "supportDocument": "Comprehensive Verbal statement of support",
+              "supportDocumentCode": "7",
+              "supportTypeCode": "3",
+              "supportType": "Non-Contractual (unqualified)",
+              "isEditable": "Y",
+              "active": true,
+              "orgLocCodeXrefId": "SGSCBL-e6915d51-05a4-4758-930b-556eb1deb65a",
+              "shareHoldingPercentage": 100,
+              "ccr": "SG/SCBL SINGAPORE",
+              "ccrCode": "SGSCBL",
+              "gmRefId": "540dcff0-f76a-4ccc-b0ab-4b0046e4e65f",
+              "gmEl": 315410,
+              "gmCG": "6A",
+              "maxTenor": "5 Years",
+              "el": 236320.538,
+              "creditGrade": "5B",
+              "computeError": false,
+              "limitItemsMap": {
+                "CAT1": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 162079190,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 162097970,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 162079187.26,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "09 Nov 2016",
+                    "new": false
+                  }
+                ],
+                "CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "09 Nov 2016",
+                    "new": false
+                  }
+                ],
+                "CAT1_CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 162079190,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 162097970,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 162079187.26,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "09 Nov 2016",
+                    "new": false
+                  }
+                ],
+                "CAT3": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "09 Nov 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5_PROD": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": -1,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": -1,
+                    "approvedDate": "09 Nov 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "09 Nov 2016",
+                    "new": false
+                  }
+                ],
+                "CONTROL": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "09 Nov 2016",
+                    "new": false
+                  }
+                ]
+              },
+              "mainBorrower": false
+            }
+          }
+        },
+        {
+          "tridentId": "100",
+          "entityXRefId": "7bb40a15-4724-42c8-ac3c-293f4b7a72c5",
+          "entityType": "C",
+          "clientId": "11000984",
+          "clientLeId": "11000984",
+          "generateModels": false,
+          "glatStatus": "GLAT_A",
+          "clientName": "KEPPEL CORPORATION LIMITED",
+          "cat1Cat2": 141321000,
+          "orgLocWiseLimitItemDetails": {
+            "SGSCBL": {
+              "originatingLocationCode": "SGSCBL",
+              "originatingLocation": "SG/SCBL-SINGAPORE",
+              "bcaRefNo": "10496854",
+              "bcaPreparedBy": "1378765,USER NAME OF 10000046",
+              "modelId": "328232",
+              "raptorPreparedBy": "1536576,Akilan Mohan 1536576",
+              "isDummyModel": "N",
+              "supportDocument": "Not applicable",
+              "supportDocumentCode": "10",
+              "supportTypeCode": "5",
+              "supportType": "None (standalone)",
+              "isEditable": "Y",
+              "active": true,
+              "orgLocCodeXrefId": "SGSCBL-7bb40a15-4724-42c8-ac3c-293f4b7a72c5",
+              "shareHoldingPercentage": 100,
+              "ccr": "SG/SCBL SINGAPORE",
+              "ccrCode": "SGSCBL",
+              "gmRefId": "2bb4c1da-497e-42c1-b4b9-bcfc32b15aa8",
+              "gmEl": 276430,
+              "gmCG": "5A",
+              "maxTenor": "5 Years",
+              "creditGrade": "5A",
+              "computeError": true,
+              "limitItemsMap": {
+                "CAT1": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 160000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 91321000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 91321000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "14 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 50000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 50000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 50000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "14 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT1_CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 210000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 141321000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 141321000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "14 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT3": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 300000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 300000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 300000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "14 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5_PROD": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": -1,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": -1,
+                    "approvedDate": "14 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "14 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CONTROL": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "14 Oct 2016",
+                    "new": false
+                  }
+                ]
+              },
+              "mainBorrower": false
+            }
+          }
+        },
+        {
+          "tridentId": "100",
+          "entityXRefId": "161a4c31-15fe-4101-8779-d04e3172cfa8",
+          "entityType": "C",
+          "clientId": "12798291",
+          "clientLeId": "12798291",
+          "generateModels": false,
+          "glatStatus": "GLAT_A",
+          "clientName": "PT KEPLAND INVESTAMA",
+          "cat1Cat2": 69245776.61,
+          "orgLocWiseLimitItemDetails": {
+            "IDSCBL": {
+              "originatingLocationCode": "IDSCBL",
+              "originatingLocation": "ID/SCBL-INDONESIA",
+              "bcaRefNo": "10427500",
+              "bcaPreparedBy": "1455181,USER NAME OF 10000046",
+              "modelId": "328230",
+              "raptorPreparedBy": "1536576,Akilan Mohan 1536576",
+              "isDummyModel": "N",
+              "supportDocument": "Comprehensive Verbal statement of support",
+              "supportDocumentCode": "7",
+              "supportTypeCode": "3",
+              "supportType": "Non-Contractual (unqualified)",
+              "isEditable": "Y",
+              "active": true,
+              "orgLocCodeXrefId": "IDSCBL-161a4c31-15fe-4101-8779-d04e3172cfa8",
+              "shareHoldingPercentage": 100,
+              "ccr": "SG/SCBL SINGAPORE",
+              "ccrCode": "SGSCBL",
+              "gmRefId": "3e016381-741f-41b9-a5f5-07c81e6ba458",
+              "gmEl": 143770,
+              "gmCG": "6A",
+              "maxTenor": "14 Months",
+              "el": 208541.232,
+              "creditGrade": "5B",
+              "computeError": false,
+              "limitItemsMap": {
+                "CAT1": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 65603740,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 62497330,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 69245776.61,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "12 Nov 2015",
+                    "new": false
+                  }
+                ],
+                "CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "12 Nov 2015",
+                    "new": false
+                  }
+                ],
+                "CAT1_CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 65603740,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 62497330,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 69245776.61,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "12 Nov 2015",
+                    "new": false
+                  }
+                ],
+                "CAT3": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "12 Nov 2015",
+                    "new": false
+                  }
+                ],
+                "CAT5_PROD": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": -1,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": -1,
+                    "approvedDate": "12 Nov 2015",
+                    "new": false
+                  }
+                ],
+                "CAT5": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "12 Nov 2015",
+                    "new": false
+                  }
+                ],
+                "CONTROL": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "12 Nov 2015",
+                    "new": false
+                  }
+                ]
+              },
+              "mainBorrower": false
+            }
+          }
+        },
+        {
+          "tridentId": "100",
+          "entityXRefId": "4b25d980-ac37-4a36-a350-5a2a42015f07",
+          "entityType": "C",
+          "clientId": "13562580",
+          "clientLeId": "13562580",
+          "generateModels": false,
+          "glatStatus": "GLAT_A",
+          "clientName": "KEPPEL DHCS PTE LTD",
+          "cat1Cat2": 60790273.55,
+          "orgLocWiseLimitItemDetails": {
+            "SGSCBL": {
+              "originatingLocationCode": "SGSCBL",
+              "originatingLocation": "SG/SCBL-SINGAPORE",
+              "bcaRefNo": "10481280",
+              "bcaPreparedBy": "1407314,USER NAME OF 10000045",
+              "modelId": "328227",
+              "raptorPreparedBy": "1536576,Akilan Mohan 1536576",
+              "isDummyModel": "N",
+              "supportDocument": "Comprehensive Verbal statement of support",
+              "supportDocumentCode": "7",
+              "supportTypeCode": "3",
+              "supportType": "Non-Contractual (unqualified)",
+              "isEditable": "Y",
+              "active": true,
+              "orgLocCodeXrefId": "SGSCBL-4b25d980-ac37-4a36-a350-5a2a42015f07",
+              "shareHoldingPercentage": 100,
+              "ccr": "SG/SCBL SINGAPORE",
+              "ccrCode": "SGSCBL",
+              "gmRefId": "66731358-c265-4fdf-9264-27469e47789c",
+              "gmEl": 230550,
+              "gmCG": "6A",
+              "maxTenor": "4 Years",
+              "el": 60167.28,
+              "creditGrade": "4B",
+              "computeError": false,
+              "limitItemsMap": {
+                "CAT1": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 59259260,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 58997050,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 60790273.55,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "22 Jul 2016",
+                    "new": false
+                  }
+                ],
+                "CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "22 Jul 2016",
+                    "new": false
+                  }
+                ],
+                "CAT1_CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 59259260,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 58997050,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 60790273.55,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "22 Jul 2016",
+                    "new": false
+                  }
+                ],
+                "CAT3": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "22 Jul 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5_PROD": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": -1,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": -1,
+                    "approvedDate": "22 Jul 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "22 Jul 2016",
+                    "new": false
+                  }
+                ],
+                "CONTROL": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "22 Jul 2016",
+                    "new": false
+                  }
+                ]
+              },
+              "mainBorrower": false
+            }
+          }
+        },
+        {
+          "tridentId": "100",
+          "entityXRefId": "e527f4d5-93c4-4ea7-afd8-598496d47c85",
+          "entityType": "C",
+          "clientId": "12731677",
+          "clientLeId": "12731677",
+          "generateModels": false,
+          "glatStatus": "GLAT_A",
+          "clientName": "ESTALEIRO BRASFELS LTDA",
+          "cat1Cat2": 60000000,
+          "orgLocWiseLimitItemDetails": {
+            "BRSCBR": {
+              "originatingLocationCode": "BRSCBR",
+              "originatingLocation": "BR/SCBR-BRAZIL",
+              "bcaRefNo": "10489617",
+              "bcaPreparedBy": "1177369,USER NAME OF 10000045",
+              "modelId": "328237",
+              "raptorPreparedBy": "1536576,Akilan Mohan 1536576",
+              "isDummyModel": "N",
+              "supportDocument": "Comprehensive Verbal statement of support",
+              "supportDocumentCode": "7",
+              "supportTypeCode": "3",
+              "supportType": "Non-Contractual (unqualified)",
+              "isEditable": "Y",
+              "active": true,
+              "orgLocCodeXrefId": "BRSCBR-e527f4d5-93c4-4ea7-afd8-598496d47c85",
+              "shareHoldingPercentage": 100,
+              "ccr": "SG/SCBL SINGAPORE",
+              "ccrCode": "SGSCBL",
+              "gmRefId": "6fe82d6a-279a-49e1-8328-8b0d4b2e0c82",
+              "gmEl": 216950,
+              "gmCG": "6A",
+              "maxTenor": "12 Months",
+              "el": 169906.841,
+              "creditGrade": "5B",
+              "computeError": false,
+              "limitItemsMap": {
+                "CAT1": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 50000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 50000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 50000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "30 Sep 2016",
+                    "new": false
+                  }
+                ],
+                "CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 10000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 10000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 10000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "30 Sep 2016",
+                    "new": false
+                  }
+                ],
+                "CAT1_CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 60000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 60000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 60000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "30 Sep 2016",
+                    "new": false
+                  }
+                ],
+                "CAT3": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "30 Sep 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5_PROD": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": -1,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": -1,
+                    "approvedDate": "30 Sep 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "30 Sep 2016",
+                    "new": false
+                  }
+                ],
+                "CONTROL": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "30 Sep 2016",
+                    "new": false
+                  }
+                ]
+              },
+              "mainBorrower": false
+            }
+          }
+        },
+        {
+          "tridentId": "100",
+          "entityXRefId": "3b4fc15d-dfaa-48ec-8b9d-9fce33e280b3",
+          "entityType": "C",
+          "clientId": "13549896",
+          "clientLeId": "13549896",
+          "generateModels": false,
+          "glatStatus": "GLAT_A",
+          "clientName": "KEPPEL ELECTRIC PTE LTD",
+          "cat1Cat2": 40000000,
+          "orgLocWiseLimitItemDetails": {
+            "SGSCBL": {
+              "originatingLocationCode": "SGSCBL",
+              "originatingLocation": "SG/SCBL-SINGAPORE",
+              "bcaRefNo": "10481395",
+              "bcaPreparedBy": "1407314,USER NAME OF 10000045",
+              "modelId": "328239",
+              "raptorPreparedBy": "1536576,Akilan Mohan 1536576",
+              "isDummyModel": "N",
+              "supportDocument": "Comprehensive Verbal statement of support",
+              "supportDocumentCode": "7",
+              "supportTypeCode": "3",
+              "supportType": "Non-Contractual (unqualified)",
+              "isEditable": "Y",
+              "active": true,
+              "orgLocCodeXrefId": "SGSCBL-3b4fc15d-dfaa-48ec-8b9d-9fce33e280b3",
+              "shareHoldingPercentage": 100,
+              "ccr": "SG/SCBL SINGAPORE",
+              "ccrCode": "SGSCBL",
+              "gmRefId": "6749f622-c81b-4633-b34c-58623b4f2338",
+              "gmEl": 166170,
+              "gmCG": "6A",
+              "maxTenor": "5 Years",
+              "el": 126824.757,
+              "creditGrade": "5A",
+              "computeError": false,
+              "limitItemsMap": {
+                "CAT1": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "22 Jul 2016",
+                    "new": false
+                  }
+                ],
+                "CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 40000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 40000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 40000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "22 Jul 2016",
+                    "new": false
+                  }
+                ],
+                "CAT1_CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 40000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 40000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 40000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "22 Jul 2016",
+                    "new": false
+                  }
+                ],
+                "CAT3": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "22 Jul 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5_PROD": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": -1,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": -1,
+                    "approvedDate": "22 Jul 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "22 Jul 2016",
+                    "new": false
+                  }
+                ],
+                "CONTROL": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "22 Jul 2016",
+                    "new": false
+                  }
+                ]
+              },
+              "mainBorrower": false
+            }
+          }
+        },
+        {
+          "tridentId": "100",
+          "entityXRefId": "79bc6873-8ad2-4cf2-8bee-cc8596d7430c",
+          "entityType": "C",
+          "clientId": "11780609",
+          "clientLeId": "11780609",
+          "generateModels": false,
+          "glatStatus": "GLAT_A",
+          "clientName": "LEADER FORTUNE HOLDINGS LIMITED",
+          "cat1Cat2": 29658284.98,
+          "orgLocWiseLimitItemDetails": {
+            "SGSCBL": {
+              "originatingLocationCode": "SGSCBL",
+              "originatingLocation": "SG/SCBL-SINGAPORE",
+              "bcaRefNo": "10489655",
+              "bcaPreparedBy": "1511896,USER NAME OF 10000045",
+              "modelId": "328231",
+              "raptorPreparedBy": "1536576,Akilan Mohan 1536576",
+              "isDummyModel": "N",
+              "supportDocument": "Not applicable",
+              "supportDocumentCode": "10",
+              "supportTypeCode": "5",
+              "supportType": "None (standalone)",
+              "isEditable": "Y",
+              "active": true,
+              "orgLocCodeXrefId": "SGSCBL-79bc6873-8ad2-4cf2-8bee-cc8596d7430c",
+              "shareHoldingPercentage": 0,
+              "ccr": "HK/SCHK HONG KONG",
+              "ccrCode": "HKSCHK",
+              "gmRefId": "dfb55976-eab9-4ac5-92b9-ef89104bfc7d",
+              "gmEl": 173880,
+              "gmCG": "7A",
+              "maxTenor": "2 Years",
+              "el": 106022.868,
+              "creditGrade": "7A",
+              "computeError": false,
+              "limitItemsMap": {
+                "CAT1": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 59301280,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 29654460,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 29658284.98,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "26 Sep 2016",
+                    "new": false
+                  }
+                ],
+                "CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "26 Sep 2016",
+                    "new": false
+                  }
+                ],
+                "CAT1_CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 59301280,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 29654460,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 29658284.98,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "26 Sep 2016",
+                    "new": false
+                  }
+                ],
+                "CAT3": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "26 Sep 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5_PROD": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": -1,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": -1,
+                    "approvedDate": "26 Sep 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "26 Sep 2016",
+                    "new": false
+                  }
+                ],
+                "CONTROL": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "26 Sep 2016",
+                    "new": false
+                  }
+                ]
+              },
+              "mainBorrower": false
+            }
+          }
+        },
+        {
+          "tridentId": "100",
+          "entityXRefId": "e871b5e4-ab97-4acc-84f3-fed4318e56d7",
+          "entityType": "C",
+          "clientId": "11000537",
+          "clientLeId": "11000537",
+          "generateModels": false,
+          "glatStatus": "GLAT_A",
+          "clientName": "KEPPEL LAND LIMITED",
+          "cat1Cat2": 29000000,
+          "orgLocWiseLimitItemDetails": {
+            "SGSCBL": {
+              "originatingLocationCode": "SGSCBL",
+              "originatingLocation": "SG/SCBL-SINGAPORE",
+              "bcaRefNo": "10471272",
+              "bcaPreparedBy": "1264935,USER NAME OF 10000045",
+              "modelId": "328236",
+              "raptorPreparedBy": "1536576,Akilan Mohan 1536576",
+              "isDummyModel": "N",
+              "supportDocument": "Comprehensive Verbal statement of support",
+              "supportDocumentCode": "7",
+              "supportTypeCode": "3",
+              "supportType": "Non-Contractual (unqualified)",
+              "isEditable": "Y",
+              "active": true,
+              "orgLocCodeXrefId": "SGSCBL-e871b5e4-ab97-4acc-84f3-fed4318e56d7",
+              "shareHoldingPercentage": 100,
+              "ccr": "SG/SCBL SINGAPORE",
+              "ccrCode": "SGSCBL",
+              "gmRefId": "693b193f-a410-46f9-a410-62f30a7a6a86",
+              "gmEl": 178860,
+              "gmCG": "6A",
+              "maxTenor": "1 Years",
+              "el": 26391.111,
+              "creditGrade": "4B",
+              "computeError": false,
+              "limitItemsMap": {
+                "CAT1": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 50000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 29000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 29000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "31 Jul 2016",
+                    "new": false
+                  }
+                ],
+                "CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "31 Jul 2016",
+                    "new": false
+                  }
+                ],
+                "CAT1_CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 50000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 29000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 29000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "31 Jul 2016",
+                    "new": false
+                  }
+                ],
+                "CAT3": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "31 Jul 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5_PROD": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": -1,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": -1,
+                    "approvedDate": "31 Jul 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "31 Jul 2016",
+                    "new": false
+                  }
+                ],
+                "CONTROL": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "31 Jul 2016",
+                    "new": false
+                  }
+                ]
+              },
+              "mainBorrower": false
+            }
+          }
+        },
+        {
+          "tridentId": "100",
+          "entityXRefId": "47a9438c-ce79-41a4-bda1-e3146e0db05b",
+          "entityType": "C",
+          "clientId": "11004002",
+          "clientLeId": "11004002",
+          "generateModels": false,
+          "glatStatus": "GLAT_A",
+          "clientName": "KEPPEL DATA CENTRES PTE. LTD.",
+          "cat1Cat2": 28595744.68,
+          "orgLocWiseLimitItemDetails": {
+            "SGSCBL": {
+              "originatingLocationCode": "SGSCBL",
+              "originatingLocation": "SG/SCBL-SINGAPORE",
+              "bcaRefNo": "10497880",
+              "bcaPreparedBy": "1407314,USER NAME OF 10000045",
+              "modelId": "328241",
+              "raptorPreparedBy": "1536576,Akilan Mohan 1536576",
+              "isDummyModel": "N",
+              "supportDocument": "Comprehensive Verbal statement of support",
+              "supportDocumentCode": "7",
+              "supportTypeCode": "3",
+              "supportType": "Non-Contractual (unqualified)",
+              "isEditable": "Y",
+              "active": true,
+              "orgLocCodeXrefId": "SGSCBL-47a9438c-ce79-41a4-bda1-e3146e0db05b",
+              "shareHoldingPercentage": 80,
+              "ccr": "SG/SCBL SINGAPORE",
+              "ccrCode": "SGSCBL",
+              "gmRefId": "b0f845d6-fb23-44d7-b3ae-31e8c007e759",
+              "gmEl": 99810,
+              "gmCG": "6A",
+              "maxTenor": "3 Years",
+              "creditGrade": "5B",
+              "computeError": true,
+              "limitItemsMap": {
+                "CAT1": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 25925930,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 25735290,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 26595744.68,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "25 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 2000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 2000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 2000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "25 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT1_CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 27925930,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 27735290,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 28595744.68,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "25 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT3": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 5000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 5000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 5000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "25 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5_PROD": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": -1,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": -1,
+                    "approvedDate": "25 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "25 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CONTROL": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "25 Oct 2016",
+                    "new": false
+                  }
+                ]
+              },
+              "mainBorrower": false
+            }
+          }
+        },
+        {
+          "tridentId": "100",
+          "entityXRefId": "242a218d-a21d-4e13-ad40-7e62207f4199",
+          "entityType": "C",
+          "clientId": "13574077",
+          "clientLeId": "13574077",
+          "generateModels": false,
+          "glatStatus": "GLAT_A",
+          "clientName": "ESTELLA JOINT VENTURE COMPANY LIMITED",
+          "cat1Cat2": 21053923.87,
+          "orgLocWiseLimitItemDetails": {
+            "VNSCVN": {
+              "originatingLocationCode": "VNSCVN",
+              "originatingLocation": "VN/SCVN-VIETNAM",
+              "bcaRefNo": "10492870",
+              "bcaPreparedBy": "1272487,USER NAME OF 10000045",
+              "modelId": "328238",
+              "raptorPreparedBy": "1536576,Akilan Mohan 1536576",
+              "isDummyModel": "N",
+              "supportDocument": "Comprehensive Verbal statement of support",
+              "supportDocumentCode": "7",
+              "supportTypeCode": "3",
+              "supportType": "Non-Contractual (unqualified)",
+              "isEditable": "Y",
+              "active": true,
+              "orgLocCodeXrefId": "VNSCVN-242a218d-a21d-4e13-ad40-7e62207f4199",
+              "shareHoldingPercentage": 97,
+              "ccr": "SG/SCBL SINGAPORE",
+              "ccrCode": "SGSCBL",
+              "gmRefId": "9db94d55-233b-4dcb-96c9-8d36d4b30e94",
+              "gmEl": 79630,
+              "gmCG": "6A",
+              "maxTenor": "3 Years",
+              "el": 64548.486,
+              "creditGrade": "5B",
+              "computeError": false,
+              "limitItemsMap": {
+                "CAT1": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 20179540,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 20174980,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 21053923.87,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "21 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "21 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT1_CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 20179540,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 20174980,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 21053923.87,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "21 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT3": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "21 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5_PROD": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": -1,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": -1,
+                    "approvedDate": "21 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "21 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CONTROL": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "21 Oct 2016",
+                    "new": false
+                  }
+                ]
+              },
+              "mainBorrower": false
+            }
+          }
+        },
+        {
+          "tridentId": "100",
+          "entityXRefId": "9728683d-92b7-4d85-9375-081c991383bb",
+          "entityType": "C",
+          "clientId": "11335916",
+          "clientLeId": "11335916",
+          "generateModels": false,
+          "glatStatus": "GLAT_A",
+          "clientName": "KEPPEL INFRASTRUCTURE FUND MANAGEMENT PTE LTD AS TRUSTEE-MANAGER OF KEPPEL INFRASTRUCTURE TRUST",
+          "cat1Cat2": 15197568.39,
+          "orgLocWiseLimitItemDetails": {
+            "SGSCBL": {
+              "originatingLocationCode": "SGSCBL",
+              "originatingLocation": "SG/SCBL-SINGAPORE",
+              "bcaRefNo": "10438153",
+              "bcaPreparedBy": "1378765,USER NAME OF 10000046",
+              "modelId": "328233",
+              "raptorPreparedBy": "1536576,Akilan Mohan 1536576",
+              "isDummyModel": "N",
+              "supportDocument": "Not applicable",
+              "supportDocumentCode": "10",
+              "supportTypeCode": "5",
+              "supportType": "None (standalone)",
+              "isEditable": "Y",
+              "active": true,
+              "orgLocCodeXrefId": "SGSCBL-9728683d-92b7-4d85-9375-081c991383bb",
+              "shareHoldingPercentage": 18,
+              "ccr": "SG/SCBL SINGAPORE",
+              "ccrCode": "SGSCBL",
+              "gmRefId": "745e50c3-fc19-42c2-a4e0-e28b99ca4e3a",
+              "gmEl": 101790,
+              "gmCG": "9A",
+              "maxTenor": "3 Years",
+              "el": 104421.232,
+              "creditGrade": "9A",
+              "computeError": false,
+              "limitItemsMap": {
+                "CAT1": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 14814810,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 14154280,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 15197568.39,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "01 Dec 2015",
+                    "new": false
+                  }
+                ],
+                "CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "01 Dec 2015",
+                    "new": false
+                  }
+                ],
+                "CAT1_CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 14814810,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 14154280,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 15197568.39,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "01 Dec 2015",
+                    "new": false
+                  }
+                ],
+                "CAT3": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "01 Dec 2015",
+                    "new": false
+                  }
+                ],
+                "CAT5_PROD": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": -1,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": -1,
+                    "approvedDate": "01 Dec 2015",
+                    "new": false
+                  }
+                ],
+                "CAT5": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "01 Dec 2015",
+                    "new": false
+                  }
+                ],
+                "CONTROL": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "01 Dec 2015",
+                    "new": false
+                  }
+                ]
+              },
+              "mainBorrower": false
+            }
+          }
+        },
+        {
+          "tridentId": "100",
+          "entityXRefId": "f363fc44-5b11-412b-8565-f45508b48046",
+          "entityType": "C",
+          "clientId": "13491230",
+          "clientLeId": "13491230",
+          "generateModels": false,
+          "glatStatus": "GLAT_A",
+          "clientName": "KEPPEL DC REIT FIN. COMPANY PTE. LTD.",
+          "cat1Cat2": 15000000,
+          "orgLocWiseLimitItemDetails": {
+            "SGSCBL": {
+              "originatingLocationCode": "SGSCBL",
+              "originatingLocation": "SG/SCBL-SINGAPORE",
+              "bcaRefNo": "10488723",
+              "bcaPreparedBy": "1456104,USER NAME OF 10000045",
+              "modelId": "328240",
+              "raptorPreparedBy": "1536576,Akilan Mohan 1536576",
+              "isDummyModel": "N",
+              "supportDocument": "Not applicable",
+              "supportDocumentCode": "10",
+              "supportTypeCode": "5",
+              "supportType": "None (standalone)",
+              "isEditable": "Y",
+              "active": true,
+              "orgLocCodeXrefId": "SGSCBL-f363fc44-5b11-412b-8565-f45508b48046",
+              "shareHoldingPercentage": 35,
+              "ccr": "SG/SCBL SINGAPORE",
+              "ccrCode": "SGSCBL",
+              "gmRefId": "fc474d07-2458-428e-bae1-553301f79db6",
+              "gmEl": 119800,
+              "gmCG": "7A",
+              "maxTenor": "5 Years",
+              "el": 92411.801,
+              "creditGrade": "6B",
+              "computeError": false,
+              "limitItemsMap": {
+                "CAT1": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "31 Aug 2016",
+                    "new": false
+                  }
+                ],
+                "CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 15000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 15000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 15000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "31 Aug 2016",
+                    "new": false
+                  }
+                ],
+                "CAT1_CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 15000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 15000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 15000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "31 Aug 2016",
+                    "new": false
+                  }
+                ],
+                "CAT3": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 50000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 50000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 50000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "31 Aug 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5_PROD": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": -1,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": -1,
+                    "approvedDate": "31 Aug 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "31 Aug 2016",
+                    "new": false
+                  }
+                ],
+                "CONTROL": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "31 Aug 2016",
+                    "new": false
+                  }
+                ]
+              },
+              "mainBorrower": false
+            }
+          }
+        },
+        {
+          "tridentId": "100",
+          "entityXRefId": "dfb0a320-dd7a-4fe1-b9ee-feb78e164426",
+          "entityType": "C",
+          "clientId": "13478351",
+          "clientLeId": "13478351",
+          "generateModels": false,
+          "glatStatus": "GLAT_A",
+          "clientName": "TIANJIN ECO-CITY KEPPEL NEW ENERGY DEVELOPMENT CO., LTD.",
+          "cat1Cat2": 10613977.79,
+          "orgLocWiseLimitItemDetails": {
+            "SGSCBL": {
+              "originatingLocationCode": "SGSCBL",
+              "originatingLocation": "SG/SCBL-SINGAPORE",
+              "bcaRefNo": "10498845",
+              "bcaPreparedBy": "1407314,USER NAME OF 10000045",
+              "modelId": "328229",
+              "raptorPreparedBy": "1536576,Akilan Mohan 1536576",
+              "isDummyModel": "N",
+              "supportDocument": "Comprehensive Verbal statement of support",
+              "supportDocumentCode": "7",
+              "supportTypeCode": "3",
+              "supportType": "Non-Contractual (unqualified)",
+              "isEditable": "Y",
+              "active": true,
+              "orgLocCodeXrefId": "SGSCBL-dfb0a320-dd7a-4fe1-b9ee-feb78e164426",
+              "shareHoldingPercentage": 80,
+              "ccr": "SG/SCBL SINGAPORE",
+              "ccrCode": "SGSCBL",
+              "gmRefId": "a0109ff3-b323-4812-9a1a-9abf8549cc5f",
+              "gmEl": 53560,
+              "gmCG": "6A",
+              "maxTenor": "1 Years",
+              "el": 29472.894,
+              "creditGrade": "5B",
+              "computeError": false,
+              "limitItemsMap": {
+                "CAT1": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 14985760,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 9740740,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 10613977.79,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "31 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "31 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT1_CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 14985760,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 9740740,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 10613977.79,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "31 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT3": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "31 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5_PROD": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": -1,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": -1,
+                    "approvedDate": "31 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "31 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CONTROL": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "31 Oct 2016",
+                    "new": false
+                  }
+                ]
+              },
+              "mainBorrower": false
+            }
+          }
+        },
+        {
+          "tridentId": "100",
+          "entityXRefId": "2900f0b9-0ecd-46d5-9b7d-e23e76369070",
+          "entityType": "C",
+          "clientId": "11198221",
+          "clientLeId": "11198221",
+          "generateModels": false,
+          "glatStatus": "GLAT_A",
+          "clientName": "ALPHA INVESTMENT PARTNERS LIMITED",
+          "cat1Cat2": 6000000,
+          "orgLocWiseLimitItemDetails": {
+            "SGSCBL": {
+              "originatingLocationCode": "SGSCBL",
+              "originatingLocation": "SG/SCBL-SINGAPORE",
+              "bcaRefNo": "10484544",
+              "bcaPreparedBy": "1309548,USER NAME OF 10000045",
+              "modelId": "328226",
+              "raptorPreparedBy": "1536576,Akilan Mohan 1536576",
+              "isDummyModel": "N",
+              "supportDocument": "Not applicable",
+              "supportDocumentCode": "10",
+              "supportTypeCode": "5",
+              "supportType": "None (standalone)",
+              "isEditable": "Y",
+              "active": true,
+              "orgLocCodeXrefId": "SGSCBL-2900f0b9-0ecd-46d5-9b7d-e23e76369070",
+              "shareHoldingPercentage": 100,
+              "ccr": "SG/SCBL SINGAPORE",
+              "ccrCode": "SGSCBL",
+              "gmRefId": "f6429a20-2521-4da7-ab73-6107321ec374",
+              "gmEl": 7310,
+              "gmCG": "5B",
+              "maxTenor": "1 Years",
+              "el": 7307.369,
+              "creditGrade": "5B",
+              "computeError": false,
+              "limitItemsMap": {
+                "CAT1": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "30 Sep 2016",
+                    "new": false
+                  }
+                ],
+                "CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 6000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 6000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 6000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "30 Sep 2016",
+                    "new": false
+                  }
+                ],
+                "CAT1_CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 6000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 6000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 6000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "30 Sep 2016",
+                    "new": false
+                  }
+                ],
+                "CAT3": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 15000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 15000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 15000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "30 Sep 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5_PROD": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": -1,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": -1,
+                    "approvedDate": "30 Sep 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "30 Sep 2016",
+                    "new": false
+                  }
+                ],
+                "CONTROL": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "30 Sep 2016",
+                    "new": false
+                  }
+                ]
+              },
+              "mainBorrower": false
+            }
+          }
+        },
+        {
+          "tridentId": "100",
+          "entityXRefId": "1d6e7909-35ec-40a4-a7e3-d3401f3264f4",
+          "entityType": "C",
+          "clientId": "11329208",
+          "clientLeId": "11329208",
+          "generateModels": false,
+          "glatStatus": "GLAT_A",
+          "clientName": "KEPPEL LOGISTICS PTE. LTD.",
+          "cat1Cat2": 5799392.1,
+          "orgLocWiseLimitItemDetails": {
+            "SGSCBL": {
+              "originatingLocationCode": "SGSCBL",
+              "originatingLocation": "SG/SCBL-SINGAPORE",
+              "bcaRefNo": "10496941",
+              "bcaPreparedBy": "1407314,USER NAME OF 10000045",
+              "modelId": "328243",
+              "raptorPreparedBy": "1536576,Akilan Mohan 1536576",
+              "isDummyModel": "N",
+              "supportDocument": "Comprehensive Verbal statement of support",
+              "supportDocumentCode": "7",
+              "supportTypeCode": "3",
+              "supportType": "Non-Contractual (unqualified)",
+              "isEditable": "Y",
+              "active": true,
+              "orgLocCodeXrefId": "SGSCBL-1d6e7909-35ec-40a4-a7e3-d3401f3264f4",
+              "shareHoldingPercentage": 80,
+              "ccr": "SG/SCBL SINGAPORE",
+              "ccrCode": "SGSCBL",
+              "gmRefId": "9bb3b37a-5500-4513-b77c-64c70e98e110",
+              "gmEl": 20390,
+              "gmCG": "6A",
+              "maxTenor": "3 Years",
+              "el": 21106.593,
+              "creditGrade": "6A",
+              "computeError": false,
+              "limitItemsMap": {
+                "CAT1": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 3703700,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 3676470,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 3799392.1,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 2000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 2000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 2000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT1_CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 5703700,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 5676470,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 5799392.1,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT3": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 5000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 5000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 5000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5_PROD": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": -1,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": -1,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CONTROL": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ]
+              },
+              "mainBorrower": false
+            }
+          }
+        },
+        {
+          "tridentId": "100",
+          "entityXRefId": "c5900ca1-d655-48aa-9836-8dfffc6cd5c5",
+          "entityType": "C",
+          "clientId": "11329596",
+          "clientLeId": "11329596",
+          "generateModels": false,
+          "glatStatus": "GLAT_A",
+          "clientName": "KEPPEL DATAHUB PTE. LTD.",
+          "cat1Cat2": 3000000,
+          "orgLocWiseLimitItemDetails": {
+            "SGSCBL": {
+              "originatingLocationCode": "SGSCBL",
+              "originatingLocation": "SG/SCBL-SINGAPORE",
+              "bcaRefNo": "10500779",
+              "bcaPreparedBy": "1407314,USER NAME OF 10000045",
+              "modelId": "339507",
+              "raptorPreparedBy": "1536576,Akilan Mohan 1536576",
+              "isDummyModel": "Y",
+              "supportDocument": "Comprehensive Verbal statement of support",
+              "supportDocumentCode": "7",
+              "supportTypeCode": "3",
+              "supportType": "Non-Contractual (unqualified)",
+              "isEditable": "Y",
+              "active": true,
+              "orgLocCodeXrefId": "SGSCBL-c5900ca1-d655-48aa-9836-8dfffc6cd5c5",
+              "shareHoldingPercentage": 80,
+              "ccr": "SG/SCBL SINGAPORE",
+              "ccrCode": "SGSCBL",
+              "gmRefId": "8091eb86-cdec-4b46-8cec-3926ee1171de",
+              "gmEl": 52950,
+              "gmCG": "6A",
+              "maxTenor": "3 Years",
+              "el": 6000000,
+              "creditGrade": "1B",
+              "computeError": false,
+              "limitItemsMap": {
+                "CAT1": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 14814810,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 7225430,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 1000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "14 Nov 2016",
+                    "new": false
+                  }
+                ],
+                "CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 2000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "14 Nov 2016",
+                    "new": false
+                  }
+                ],
+                "CAT1_CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 14814810,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 7225430,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 3000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "14 Nov 2016",
+                    "new": false
+                  }
+                ],
+                "CAT3": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 3000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "14 Nov 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5_PROD": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": -1,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 5000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": -1,
+                    "approvedDate": "14 Nov 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 5500000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "14 Nov 2016",
+                    "new": false
+                  }
+                ],
+                "CONTROL": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 4000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "14 Nov 2016",
+                    "new": false
+                  }
+                ]
+              },
+              "mainBorrower": false
+            }
+          }
+        },
+        {
+          "tridentId": "100",
+          "entityXRefId": "75d46745-12f4-4165-add0-8b6d8c1449ae",
+          "entityType": "C",
+          "clientId": "11200143",
+          "clientLeId": "11200143",
+          "generateModels": false,
+          "glatStatus": "GLAT_A",
+          "clientName": "AIB ALPHA JAPAN FUND PTE. LTD.",
+          "cat1Cat2": 1000,
+          "orgLocWiseLimitItemDetails": {
+            "SGSCBL": {
+              "originatingLocationCode": "SGSCBL",
+              "originatingLocation": "SG/SCBL-SINGAPORE",
+              "bcaRefNo": "10480035",
+              "bcaPreparedBy": "1309548,USER NAME OF 10000045",
+              "modelId": "328225",
+              "raptorPreparedBy": "1536576,Akilan Mohan 1536576",
+              "isDummyModel": "N",
+              "supportDocument": "Not applicable",
+              "supportDocumentCode": "10",
+              "supportTypeCode": "5",
+              "supportType": "None (standalone)",
+              "isEditable": "Y",
+              "active": true,
+              "orgLocCodeXrefId": "SGSCBL-75d46745-12f4-4165-add0-8b6d8c1449ae",
+              "shareHoldingPercentage": 0,
+              "ccr": "SG/SCBL SINGAPORE",
+              "ccrCode": "SGSCBL",
+              "gmRefId": "5cfe45a2-1e39-4926-b22b-ec1a8f2949b6",
+              "gmEl": 24060,
+              "gmCG": "8A",
+              "maxTenor": "3 Months",
+              "el": 4.812,
+              "creditGrade": "8A",
+              "computeError": false,
+              "limitItemsMap": {
+                "CAT1": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 5000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 1000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 1000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT1_CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 5000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 1000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 1000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT3": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 10000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 1000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 1000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5_PROD": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": -1,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": -1,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CONTROL": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ]
+              },
+              "mainBorrower": false
+            }
+          }
+        },
+        {
+          "tridentId": "100",
+          "entityXRefId": "7ec40dba-aca3-4569-a771-06f15c8522fa",
+          "entityType": "C",
+          "clientId": "11717421",
+          "clientLeId": "11717421",
+          "generateModels": false,
+          "glatStatus": "GLAT_A",
+          "clientName": "ALPHA ASIA MACRO TRENDS FUND II PRIVATE LIMITED",
+          "cat1Cat2": 1000,
+          "orgLocWiseLimitItemDetails": {
+            "SGSCBL": {
+              "originatingLocationCode": "SGSCBL",
+              "originatingLocation": "SG/SCBL-SINGAPORE",
+              "bcaRefNo": "10484542",
+              "bcaPreparedBy": "1309548,USER NAME OF 10000045",
+              "modelId": "328235",
+              "raptorPreparedBy": "1536576,Akilan Mohan 1536576",
+              "isDummyModel": "N",
+              "supportDocument": "Not applicable",
+              "supportDocumentCode": "10",
+              "supportTypeCode": "5",
+              "supportType": "None (standalone)",
+              "isEditable": "Y",
+              "active": true,
+              "orgLocCodeXrefId": "SGSCBL-7ec40dba-aca3-4569-a771-06f15c8522fa",
+              "shareHoldingPercentage": 0,
+              "ccr": "SG/SCBL SINGAPORE",
+              "ccrCode": "SGSCBL",
+              "gmRefId": "836d5ffc-85fb-4dd0-9d8d-3623ee99f6c7",
+              "gmEl": 28740,
+              "gmCG": "5B",
+              "maxTenor": "3 Years",
+              "el": 1.437,
+              "creditGrade": "5B",
+              "computeError": false,
+              "limitItemsMap": {
+                "CAT1": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 20000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 1000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 1000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT1_CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 20000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 1000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 1000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT3": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 40000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 1000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 1000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5_PROD": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": -1,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": -1,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CONTROL": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ]
+              },
+              "mainBorrower": false
+            }
+          }
+        },
+        {
+          "tridentId": "100",
+          "entityXRefId": "e699db98-a346-4f63-be8a-bcbe4d6571d6",
+          "entityType": "C",
+          "clientId": "11248562",
+          "clientLeId": "11248562",
+          "generateModels": false,
+          "glatStatus": "GLAT_A",
+          "clientName": "ALPHA ASIA MACRO TRENDS FUND PRIVATE LIMITED",
+          "cat1Cat2": 1000,
+          "orgLocWiseLimitItemDetails": {
+            "SGSCBL": {
+              "originatingLocationCode": "SGSCBL",
+              "originatingLocation": "SG/SCBL-SINGAPORE",
+              "bcaRefNo": "10484543",
+              "bcaPreparedBy": "1309548,USER NAME OF 10000045",
+              "modelId": "328224",
+              "raptorPreparedBy": "1536576,Akilan Mohan 1536576",
+              "isDummyModel": "N",
+              "supportDocument": "Not applicable",
+              "supportDocumentCode": "10",
+              "supportTypeCode": "5",
+              "supportType": "None (standalone)",
+              "isEditable": "Y",
+              "active": true,
+              "orgLocCodeXrefId": "SGSCBL-e699db98-a346-4f63-be8a-bcbe4d6571d6",
+              "shareHoldingPercentage": 0,
+              "ccr": "SG/SCBL SINGAPORE",
+              "ccrCode": "SGSCBL",
+              "gmRefId": "8b76bbe5-2407-442a-94ea-5ca09a18d57a",
+              "gmEl": 13270,
+              "gmCG": "5A",
+              "maxTenor": "10 Months",
+              "el": 0.687,
+              "creditGrade": "5A",
+              "computeError": false,
+              "limitItemsMap": {
+                "CAT1": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 20000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 1000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 1000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT1_CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 20000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 1000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 1000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT3": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 50000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 1000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 1000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5_PROD": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": -1,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": -1,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CONTROL": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ]
+              },
+              "mainBorrower": false
+            }
+          }
+        },
+        {
+          "tridentId": "100",
+          "entityXRefId": "44fc2c46-1f6d-446b-8611-784e0321821b",
+          "entityType": "C",
+          "clientId": "11181769",
+          "clientLeId": "11181769",
+          "generateModels": false,
+          "glatStatus": "GLAT_A",
+          "clientName": "ALPHA CORE PLUS REAL ESTATE FUND PRIVATE LIMITED",
+          "cat1Cat2": 1000,
+          "orgLocWiseLimitItemDetails": {
+            "SGSCBL": {
+              "originatingLocationCode": "SGSCBL",
+              "originatingLocation": "SG/SCBL-SINGAPORE",
+              "bcaRefNo": "10480023",
+              "bcaPreparedBy": "1309548,USER NAME OF 10000045",
+              "modelId": "328223",
+              "raptorPreparedBy": "1536576,Akilan Mohan 1536576",
+              "isDummyModel": "N",
+              "supportDocument": "Not applicable",
+              "supportDocumentCode": "10",
+              "supportTypeCode": "5",
+              "supportType": "None (standalone)",
+              "isEditable": "Y",
+              "active": true,
+              "orgLocCodeXrefId": "SGSCBL-44fc2c46-1f6d-446b-8611-784e0321821b",
+              "shareHoldingPercentage": 0,
+              "ccr": "SG/SCBL SINGAPORE",
+              "ccrCode": "SGSCBL",
+              "gmRefId": "a152f6b7-b952-4b91-8fd9-de9894b7a8a4",
+              "gmEl": 13820,
+              "gmCG": "7A",
+              "maxTenor": "0 Years",
+              "creditGrade": "7A",
+              "computeError": true,
+              "limitItemsMap": {
+                "CAT1": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 5000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 1000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 1000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT1_CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 5000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 1000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 1000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT3": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 25000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 1000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 1000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5_PROD": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": -1,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": -1,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CAT5": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ],
+                "CONTROL": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA_PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": "17 Oct 2016",
+                    "new": false
+                  }
+                ]
+              },
+              "mainBorrower": false
+            }
+          }
+        },
+        {
+          "tridentId": "100",
+          "entityXRefId": "a0dba525-29ce-4b93-8f63-8385b51fe781",
+          "entityType": "C",
+          "clientId": "11717420",
+          "clientLeId": "11717420",
+          "generateModels": false,
+          "glatStatus": "GLAT_A",
+          "clientName": "AAMTF II (EX-KOREA) PRIVATE LIMITED",
+          "cat1Cat2": 0,
+          "orgLocWiseLimitItemDetails": {
+            "SGSCBL": {
+              "originatingLocationCode": "SGSCBL",
+              "originatingLocation": "SG/SCBL-SINGAPORE",
+              "supportDocument": "Not applicable",
+              "supportDocumentCode": "10",
+              "supportTypeCode": "5",
+              "supportType": "None (standalone)",
+              "active": true,
+              "orgLocCodeXrefId": "SGSCBL-a0dba525-29ce-4b93-8f63-8385b51fe781",
+              "shareHoldingPercentage": 0,
+              "ccr": "-",
+              "ccrCode": "-",
+              "gmRefId": "8611cfd2-25dc-4991-b29e-bff686250b41",
+              "gmEl": 4070,
+              "gmCG": "7A",
+              "limitItemsMap": {
+                "CAT1": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ],
+                "CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 1250000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ],
+                "CAT1_CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 1250000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ],
+                "CAT3": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 3000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ],
+                "CAT5_PROD": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ],
+                "CAT5": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ],
+                "CONTROL": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ]
+              },
+              "mainBorrower": false
+            }
+          }
+        },
+        {
+          "tridentId": "100",
+          "entityXRefId": "5c36ba5a-82f6-4617-9ac4-ba8fb5679bf6",
+          "entityType": "C",
+          "generateModels": false,
+          "glatStatus": "GLAT_D",
+          "clientName": "AAMTF II EX JAPAN PRIVATE LIMITED",
+          "cat1Cat2": 0,
+          "orgLocWiseLimitItemDetails": {
+            "SGSCBL": {
+              "originatingLocationCode": "SGSCBL",
+              "originatingLocation": "SG/SCBL-SINGAPORE",
+              "supportDocument": "Not applicable",
+              "supportDocumentCode": "10",
+              "supportTypeCode": "5",
+              "supportType": "None (standalone)",
+              "active": true,
+              "orgLocCodeXrefId": "SGSCBL-5c36ba5a-82f6-4617-9ac4-ba8fb5679bf6",
+              "shareHoldingPercentage": 0,
+              "ccr": "-",
+              "ccrCode": "-",
+              "gmRefId": "eeb22dc1-3306-4a97-bfb2-ec95b41661e1",
+              "gmEl": 6780,
+              "gmCG": "6B",
+              "limitItemsMap": {
+                "CAT1": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ],
+                "CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 2750000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ],
+                "CAT1_CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 2750000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ],
+                "CAT3": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 7000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ],
+                "CAT5_PROD": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ],
+                "CAT5": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ],
+                "CONTROL": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ]
+              },
+              "mainBorrower": false
+            }
+          }
+        },
+        {
+          "tridentId": "100",
+          "entityXRefId": "01d6f0a8-c4a6-4a1f-9ada-0705f5b2e7eb",
+          "entityType": "C",
+          "generateModels": false,
+          "glatStatus": "GLAT_D",
+          "clientName": "KEPPEL GAS PTE. LTD.",
+          "cat1Cat2": 0,
+          "orgLocWiseLimitItemDetails": {
+            "SGSCBL": {
+              "originatingLocationCode": "SGSCBL",
+              "originatingLocation": "SG/SCBL-SINGAPORE",
+              "supportDocument": "Comprehensive Verbal statement of support",
+              "supportDocumentCode": "7",
+              "supportTypeCode": "3",
+              "supportType": "Non-Contractual (unqualified)",
+              "active": true,
+              "orgLocCodeXrefId": "SGSCBL-01d6f0a8-c4a6-4a1f-9ada-0705f5b2e7eb",
+              "shareHoldingPercentage": 100,
+              "ccr": "SG/SCBL SINGAPORE",
+              "ccrCode": "SGSCBL",
+              "gmRefId": "1aec74b7-f514-44d5-b9da-9dc38283c031",
+              "gmEl": 59240,
+              "gmCG": "6A",
+              "limitItemsMap": {
+                "CAT1": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ],
+                "CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 15000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ],
+                "CAT1_CAT2": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 15000000,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ],
+                "CAT3": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ],
+                "CAT5_PROD": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ],
+                "CAT5": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ],
+                "CONTROL": [
+                  {
+                    "limitDataType": "GM",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "BCA",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  },
+                  {
+                    "limitDataType": "PROPOSED",
+                    "limitDataValue": 0,
+                    "approvedDate": null,
+                    "new": false
+                  }
+                ]
+              },
+              "mainBorrower": false
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

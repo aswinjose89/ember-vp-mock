@@ -1,0 +1,1427 @@
+{
+  "meta": {
+    "totalCount": 1452
+  },
+  "links": [
+    {
+      "linkId": 8800000000692058,
+      "rpMaster": {
+        "rpID": 0,
+        "rpCategory": {
+          "code": 0,
+          "description": "ENTITY"
+        },
+        "rpName": "BASMINE BELL  LIMITED",
+        "adverseMediaFlag": null,
+        "rpStatus": null,
+        "directorConcentrationFlag": null,
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "fullName": null,
+        "previousName": null,
+        "alias": null,
+        "gender": null,
+        "dob": null,
+        "countryOfBirth": null,
+        "companyName": "BASMINE BELL  LIMITED",
+        "parentCompanyName": null,
+        "previousCompanyName": null,
+        "incorporationNumber": null,
+        "doi": null,
+        "incorporationCountry": null,
+        "mergeFlag": false,
+        "score": 0,
+        "candidates": null,
+        "nationalities": null,
+        "sourceSystems": null,
+        "identities": null,
+        "addresses": null,
+        "contacts": null,
+        "linkages": null,
+        "wfHist": null,
+        "fatcaflag": null,
+        "pepflag": null
+      },
+      "client": {
+        "clientId": 0,
+        "srcClientId": "11229781",
+        "sourceSystem": {
+          "code": 0,
+          "description": "eCDD+"
+        },
+        "clientStatus": null,
+        "clientType": {
+          "code": 0,
+          "description": "Private Company"
+        },
+        "riskRating": null,
+        "cddCaseNumber": null,
+        "cddCaseVersion": 0,
+        "cddCountry": null,
+        "cddCaseStatus": null,
+        "cddCaseType": null
+      },
+      "rpSourceId": null,
+      "ownershipPercentage": 0,
+      "linkageStatus": null,
+      "relationshipType": {
+        "code": 0,
+        "description": "Beneficial Owners"
+      },
+      "linkType": {
+        "code": 0,
+        "description": "LINKED"
+      }
+    },
+    {
+      "linkId": 8800000000719576,
+      "rpMaster": {
+        "rpID": 0,
+        "rpCategory": {
+          "code": 0,
+          "description": "ENTITY"
+        },
+        "rpName": "ALPHALINK ACCOUNTING SERVICES  LIMITED",
+        "adverseMediaFlag": null,
+        "rpStatus": null,
+        "directorConcentrationFlag": null,
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "fullName": null,
+        "previousName": null,
+        "alias": null,
+        "gender": null,
+        "dob": null,
+        "countryOfBirth": null,
+        "companyName": "ALPHALINK ACCOUNTING SERVICES  LIMITED",
+        "parentCompanyName": null,
+        "previousCompanyName": null,
+        "incorporationNumber": null,
+        "doi": null,
+        "incorporationCountry": null,
+        "mergeFlag": false,
+        "score": 0,
+        "candidates": null,
+        "nationalities": null,
+        "sourceSystems": null,
+        "identities": null,
+        "addresses": null,
+        "contacts": null,
+        "linkages": null,
+        "wfHist": null,
+        "fatcaflag": null,
+        "pepflag": null
+      },
+      "client": {
+        "clientId": 0,
+        "srcClientId": "11198513",
+        "sourceSystem": {
+          "code": 0,
+          "description": "eCDD+"
+        },
+        "clientStatus": null,
+        "clientType": {
+          "code": 0,
+          "description": "Private Company"
+        },
+        "riskRating": null,
+        "cddCaseNumber": null,
+        "cddCaseVersion": 0,
+        "cddCountry": null,
+        "cddCaseStatus": null,
+        "cddCaseType": null
+      },
+      "rpSourceId": null,
+      "ownershipPercentage": 0,
+      "linkageStatus": null,
+      "relationshipType": {
+        "code": 0,
+        "description": "All Authorised Signatories"
+      },
+      "linkType": {
+        "code": 0,
+        "description": "LINKED"
+      }
+    },
+    {
+      "linkId": 8800000000682793,
+      "rpMaster": {
+        "rpID": 0,
+        "rpCategory": {
+          "code": 0,
+          "description": "ENTITY"
+        },
+        "rpName": "LASCOMBE  LIMITED",
+        "adverseMediaFlag": null,
+        "rpStatus": null,
+        "directorConcentrationFlag": null,
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "fullName": null,
+        "previousName": null,
+        "alias": null,
+        "gender": null,
+        "dob": null,
+        "countryOfBirth": null,
+        "companyName": "LASCOMBE  LIMITED",
+        "parentCompanyName": null,
+        "previousCompanyName": null,
+        "incorporationNumber": null,
+        "doi": null,
+        "incorporationCountry": null,
+        "mergeFlag": false,
+        "score": 0,
+        "candidates": null,
+        "nationalities": null,
+        "sourceSystems": null,
+        "identities": null,
+        "addresses": null,
+        "contacts": null,
+        "linkages": null,
+        "wfHist": null,
+        "fatcaflag": null,
+        "pepflag": null
+      },
+      "client": {
+        "clientId": 0,
+        "srcClientId": "11224437",
+        "sourceSystem": {
+          "code": 0,
+          "description": "eCDD+"
+        },
+        "clientStatus": null,
+        "clientType": {
+          "code": 0,
+          "description": "Private Company"
+        },
+        "riskRating": null,
+        "cddCaseNumber": null,
+        "cddCaseVersion": 0,
+        "cddCountry": null,
+        "cddCaseStatus": null,
+        "cddCaseType": null
+      },
+      "rpSourceId": null,
+      "ownershipPercentage": 0,
+      "linkageStatus": null,
+      "relationshipType": {
+        "code": 0,
+        "description": "IndividualCDD"
+      },
+      "linkType": {
+        "code": 0,
+        "description": "LINKED"
+      }
+    },
+    {
+      "linkId": 8800000000694454,
+      "rpMaster": {
+        "rpID": 0,
+        "rpCategory": {
+          "code": 0,
+          "description": "ENTITY"
+        },
+        "rpName": "LONGREACH MANAGEMENT CORPORATION  CAYMAN",
+        "adverseMediaFlag": null,
+        "rpStatus": null,
+        "directorConcentrationFlag": null,
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "fullName": null,
+        "previousName": null,
+        "alias": null,
+        "gender": null,
+        "dob": null,
+        "countryOfBirth": null,
+        "companyName": "LONGREACH MANAGEMENT CORPORATION  CAYMAN",
+        "parentCompanyName": null,
+        "previousCompanyName": null,
+        "incorporationNumber": null,
+        "doi": null,
+        "incorporationCountry": null,
+        "mergeFlag": false,
+        "score": 0,
+        "candidates": null,
+        "nationalities": null,
+        "sourceSystems": null,
+        "identities": null,
+        "addresses": null,
+        "contacts": null,
+        "linkages": null,
+        "wfHist": null,
+        "fatcaflag": null,
+        "pepflag": null
+      },
+      "client": {
+        "clientId": 0,
+        "srcClientId": "11208119",
+        "sourceSystem": {
+          "code": 0,
+          "description": "eCDD+"
+        },
+        "clientStatus": null,
+        "clientType": {
+          "code": 0,
+          "description": "Partnership"
+        },
+        "riskRating": null,
+        "cddCaseNumber": null,
+        "cddCaseVersion": 0,
+        "cddCountry": null,
+        "cddCaseStatus": null,
+        "cddCaseType": null
+      },
+      "rpSourceId": null,
+      "ownershipPercentage": 0,
+      "linkageStatus": null,
+      "relationshipType": {
+        "code": 0,
+        "description": "Directors with Voting Rights"
+      },
+      "linkType": {
+        "code": 0,
+        "description": "LINKED"
+      }
+    },
+    {
+      "linkId": 8800000000655815,
+      "rpMaster": {
+        "rpID": 0,
+        "rpCategory": {
+          "code": 0,
+          "description": "ENTITY"
+        },
+        "rpName": "LONGREACH MANAGEMENT CORPORATION  CAYMAN",
+        "adverseMediaFlag": null,
+        "rpStatus": null,
+        "directorConcentrationFlag": null,
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "fullName": null,
+        "previousName": null,
+        "alias": null,
+        "gender": null,
+        "dob": null,
+        "countryOfBirth": null,
+        "companyName": "LONGREACH MANAGEMENT CORPORATION  CAYMAN",
+        "parentCompanyName": null,
+        "previousCompanyName": null,
+        "incorporationNumber": null,
+        "doi": null,
+        "incorporationCountry": null,
+        "mergeFlag": false,
+        "score": 0,
+        "candidates": null,
+        "nationalities": null,
+        "sourceSystems": null,
+        "identities": null,
+        "addresses": null,
+        "contacts": null,
+        "linkages": null,
+        "wfHist": null,
+        "fatcaflag": null,
+        "pepflag": null
+      },
+      "client": {
+        "clientId": 0,
+        "srcClientId": "11208119",
+        "sourceSystem": {
+          "code": 0,
+          "description": "eCDD+"
+        },
+        "clientStatus": null,
+        "clientType": {
+          "code": 0,
+          "description": "Partnership"
+        },
+        "riskRating": null,
+        "cddCaseNumber": null,
+        "cddCaseVersion": 0,
+        "cddCountry": null,
+        "cddCaseStatus": null,
+        "cddCaseType": null
+      },
+      "rpSourceId": null,
+      "ownershipPercentage": 0,
+      "linkageStatus": null,
+      "relationshipType": {
+        "code": 0,
+        "description": "IndividualCDD"
+      },
+      "linkType": {
+        "code": 0,
+        "description": "LINKED"
+      }
+    },
+    {
+      "linkId": 8800000000685196,
+      "rpMaster": {
+        "rpID": 0,
+        "rpCategory": {
+          "code": 0,
+          "description": "ENTITY"
+        },
+        "rpName": "LASCOMBE  LIMITED",
+        "adverseMediaFlag": null,
+        "rpStatus": null,
+        "directorConcentrationFlag": null,
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "fullName": null,
+        "previousName": null,
+        "alias": null,
+        "gender": null,
+        "dob": null,
+        "countryOfBirth": null,
+        "companyName": "LASCOMBE  LIMITED",
+        "parentCompanyName": null,
+        "previousCompanyName": null,
+        "incorporationNumber": null,
+        "doi": null,
+        "incorporationCountry": null,
+        "mergeFlag": false,
+        "score": 0,
+        "candidates": null,
+        "nationalities": null,
+        "sourceSystems": null,
+        "identities": null,
+        "addresses": null,
+        "contacts": null,
+        "linkages": null,
+        "wfHist": null,
+        "fatcaflag": null,
+        "pepflag": null
+      },
+      "client": {
+        "clientId": 0,
+        "srcClientId": "11189650",
+        "sourceSystem": {
+          "code": 0,
+          "description": "eCDD+"
+        },
+        "clientStatus": null,
+        "clientType": {
+          "code": 0,
+          "description": "Private Company"
+        },
+        "riskRating": null,
+        "cddCaseNumber": null,
+        "cddCaseVersion": 0,
+        "cddCountry": null,
+        "cddCaseStatus": null,
+        "cddCaseType": null
+      },
+      "rpSourceId": null,
+      "ownershipPercentage": 0,
+      "linkageStatus": null,
+      "relationshipType": {
+        "code": 0,
+        "description": "IndividualCDD"
+      },
+      "linkType": {
+        "code": 0,
+        "description": "LINKED"
+      }
+    },
+    {
+      "linkId": 8800000000675904,
+      "rpMaster": {
+        "rpID": 0,
+        "rpCategory": {
+          "code": 0,
+          "description": "ENTITY"
+        },
+        "rpName": "BASMINE BELL  LIMITED",
+        "adverseMediaFlag": null,
+        "rpStatus": null,
+        "directorConcentrationFlag": null,
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "fullName": null,
+        "previousName": null,
+        "alias": null,
+        "gender": null,
+        "dob": null,
+        "countryOfBirth": null,
+        "companyName": "BASMINE BELL  LIMITED",
+        "parentCompanyName": null,
+        "previousCompanyName": null,
+        "incorporationNumber": null,
+        "doi": null,
+        "incorporationCountry": null,
+        "mergeFlag": false,
+        "score": 0,
+        "candidates": null,
+        "nationalities": null,
+        "sourceSystems": null,
+        "identities": null,
+        "addresses": null,
+        "contacts": null,
+        "linkages": null,
+        "wfHist": null,
+        "fatcaflag": null,
+        "pepflag": null
+      },
+      "client": {
+        "clientId": 0,
+        "srcClientId": "11297999",
+        "sourceSystem": {
+          "code": 0,
+          "description": "eCDD+"
+        },
+        "clientStatus": null,
+        "clientType": {
+          "code": 0,
+          "description": "Private Company"
+        },
+        "riskRating": null,
+        "cddCaseNumber": null,
+        "cddCaseVersion": 0,
+        "cddCountry": null,
+        "cddCaseStatus": null,
+        "cddCaseType": null
+      },
+      "rpSourceId": null,
+      "ownershipPercentage": 0,
+      "linkageStatus": null,
+      "relationshipType": {
+        "code": 0,
+        "description": "Directors with Voting Rights"
+      },
+      "linkType": {
+        "code": 0,
+        "description": "LINKED"
+      }
+    },
+    {
+      "linkId": 8800000000716573,
+      "rpMaster": {
+        "rpID": 0,
+        "rpCategory": {
+          "code": 0,
+          "description": "INDIVIDUAL"
+        },
+        "rpName": "AI LIAN  TAN",
+        "adverseMediaFlag": null,
+        "rpStatus": null,
+        "directorConcentrationFlag": null,
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "fullName": "AI LIAN  TAN",
+        "previousName": null,
+        "alias": null,
+        "gender": null,
+        "dob": null,
+        "countryOfBirth": null,
+        "companyName": null,
+        "parentCompanyName": null,
+        "previousCompanyName": null,
+        "incorporationNumber": null,
+        "doi": null,
+        "incorporationCountry": null,
+        "mergeFlag": false,
+        "score": 0,
+        "candidates": null,
+        "nationalities": null,
+        "sourceSystems": null,
+        "identities": null,
+        "addresses": null,
+        "contacts": null,
+        "linkages": null,
+        "wfHist": null,
+        "fatcaflag": null,
+        "pepflag": null
+      },
+      "client": {
+        "clientId": 0,
+        "srcClientId": "13575780",
+        "sourceSystem": {
+          "code": 0,
+          "description": "eCDD+"
+        },
+        "clientStatus": null,
+        "clientType": {
+          "code": 0,
+          "description": "Private Company"
+        },
+        "riskRating": null,
+        "cddCaseNumber": null,
+        "cddCaseVersion": 0,
+        "cddCountry": null,
+        "cddCaseStatus": null,
+        "cddCaseType": null
+      },
+      "rpSourceId": null,
+      "ownershipPercentage": 0,
+      "linkageStatus": null,
+      "relationshipType": {
+        "code": 0,
+        "description": "IndividualCDD"
+      },
+      "linkType": {
+        "code": 0,
+        "description": "LINKED"
+      }
+    },
+    {
+      "linkId": 8800000000706372,
+      "rpMaster": {
+        "rpID": 0,
+        "rpCategory": {
+          "code": 0,
+          "description": "INDIVIDUAL"
+        },
+        "rpName": "CECILIA  DALLMAYR",
+        "adverseMediaFlag": null,
+        "rpStatus": null,
+        "directorConcentrationFlag": null,
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "fullName": "CECILIA  DALLMAYR",
+        "previousName": null,
+        "alias": null,
+        "gender": null,
+        "dob": null,
+        "countryOfBirth": null,
+        "companyName": null,
+        "parentCompanyName": null,
+        "previousCompanyName": null,
+        "incorporationNumber": null,
+        "doi": null,
+        "incorporationCountry": null,
+        "mergeFlag": false,
+        "score": 0,
+        "candidates": null,
+        "nationalities": null,
+        "sourceSystems": null,
+        "identities": null,
+        "addresses": null,
+        "contacts": null,
+        "linkages": null,
+        "wfHist": null,
+        "fatcaflag": null,
+        "pepflag": null
+      },
+      "client": {
+        "clientId": 0,
+        "srcClientId": "13097128",
+        "sourceSystem": {
+          "code": 0,
+          "description": "eCDD+"
+        },
+        "clientStatus": null,
+        "clientType": {
+          "code": 0,
+          "description": "Private Company"
+        },
+        "riskRating": null,
+        "cddCaseNumber": null,
+        "cddCaseVersion": 0,
+        "cddCountry": null,
+        "cddCaseStatus": null,
+        "cddCaseType": null
+      },
+      "rpSourceId": null,
+      "ownershipPercentage": 0,
+      "linkageStatus": null,
+      "relationshipType": {
+        "code": 0,
+        "description": "All Authorised Signatories"
+      },
+      "linkType": {
+        "code": 0,
+        "description": "LINKED"
+      }
+    },
+    {
+      "linkId": 8800000000698058,
+      "rpMaster": {
+        "rpID": 0,
+        "rpCategory": {
+          "code": 0,
+          "description": "ENTITY"
+        },
+        "rpName": "ABAGTHA  LIMITED",
+        "adverseMediaFlag": null,
+        "rpStatus": null,
+        "directorConcentrationFlag": null,
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "fullName": null,
+        "previousName": null,
+        "alias": null,
+        "gender": null,
+        "dob": null,
+        "countryOfBirth": null,
+        "companyName": "ABAGTHA  LIMITED",
+        "parentCompanyName": null,
+        "previousCompanyName": null,
+        "incorporationNumber": null,
+        "doi": null,
+        "incorporationCountry": null,
+        "mergeFlag": false,
+        "score": 0,
+        "candidates": null,
+        "nationalities": null,
+        "sourceSystems": null,
+        "identities": null,
+        "addresses": null,
+        "contacts": null,
+        "linkages": null,
+        "wfHist": null,
+        "fatcaflag": null,
+        "pepflag": null
+      },
+      "client": {
+        "clientId": 0,
+        "srcClientId": "11030145",
+        "sourceSystem": {
+          "code": 0,
+          "description": "eCDD+"
+        },
+        "clientStatus": null,
+        "clientType": {
+          "code": 0,
+          "description": "Private Company"
+        },
+        "riskRating": null,
+        "cddCaseNumber": null,
+        "cddCaseVersion": 0,
+        "cddCountry": null,
+        "cddCaseStatus": null,
+        "cddCaseType": null
+      },
+      "rpSourceId": null,
+      "ownershipPercentage": 0,
+      "linkageStatus": null,
+      "relationshipType": {
+        "code": 0,
+        "description": "Controlling Directors Including Managing Director"
+      },
+      "linkType": {
+        "code": 0,
+        "description": "LINKED"
+      }
+    },
+    {
+      "linkId": 8800000000179653,
+      "rpMaster": {
+        "rpID": 0,
+        "rpCategory": {
+          "code": 0,
+          "description": "ENTITY"
+        },
+        "rpName": "BASMINE BELL  LIMITED",
+        "adverseMediaFlag": null,
+        "rpStatus": null,
+        "directorConcentrationFlag": null,
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "fullName": null,
+        "previousName": null,
+        "alias": null,
+        "gender": null,
+        "dob": null,
+        "countryOfBirth": null,
+        "companyName": "BASMINE BELL  LIMITED",
+        "parentCompanyName": null,
+        "previousCompanyName": null,
+        "incorporationNumber": null,
+        "doi": null,
+        "incorporationCountry": null,
+        "mergeFlag": false,
+        "score": 0,
+        "candidates": null,
+        "nationalities": null,
+        "sourceSystems": null,
+        "identities": null,
+        "addresses": null,
+        "contacts": null,
+        "linkages": null,
+        "wfHist": null,
+        "fatcaflag": null,
+        "pepflag": null
+      },
+      "client": {
+        "clientId": 0,
+        "srcClientId": "11297999",
+        "sourceSystem": {
+          "code": 0,
+          "description": "eCDD+"
+        },
+        "clientStatus": null,
+        "clientType": {
+          "code": 0,
+          "description": "Private Company"
+        },
+        "riskRating": null,
+        "cddCaseNumber": null,
+        "cddCaseVersion": 0,
+        "cddCountry": null,
+        "cddCaseStatus": null,
+        "cddCaseType": null
+      },
+      "rpSourceId": null,
+      "ownershipPercentage": 0,
+      "linkageStatus": null,
+      "relationshipType": {
+        "code": 0,
+        "description": "Beneficial Owners"
+      },
+      "linkType": {
+        "code": 0,
+        "description": "LINKED"
+      }
+    },
+    {
+      "linkId": 8800000000018692,
+      "rpMaster": {
+        "rpID": 0,
+        "rpCategory": {
+          "code": 0,
+          "description": "ENTITY"
+        },
+        "rpName": "BASMINE BELL  LIMITED",
+        "adverseMediaFlag": null,
+        "rpStatus": null,
+        "directorConcentrationFlag": null,
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "fullName": null,
+        "previousName": null,
+        "alias": null,
+        "gender": null,
+        "dob": null,
+        "countryOfBirth": null,
+        "companyName": "BASMINE BELL  LIMITED",
+        "parentCompanyName": null,
+        "previousCompanyName": null,
+        "incorporationNumber": null,
+        "doi": null,
+        "incorporationCountry": null,
+        "mergeFlag": false,
+        "score": 0,
+        "candidates": null,
+        "nationalities": null,
+        "sourceSystems": null,
+        "identities": null,
+        "addresses": null,
+        "contacts": null,
+        "linkages": null,
+        "wfHist": null,
+        "fatcaflag": null,
+        "pepflag": null
+      },
+      "client": {
+        "clientId": 0,
+        "srcClientId": "11229781",
+        "sourceSystem": {
+          "code": 0,
+          "description": "eCDD+"
+        },
+        "clientStatus": null,
+        "clientType": {
+          "code": 0,
+          "description": "Private Company"
+        },
+        "riskRating": null,
+        "cddCaseNumber": null,
+        "cddCaseVersion": 0,
+        "cddCountry": null,
+        "cddCaseStatus": null,
+        "cddCaseType": null
+      },
+      "rpSourceId": null,
+      "ownershipPercentage": 0,
+      "linkageStatus": null,
+      "relationshipType": {
+        "code": 0,
+        "description": "Directors with Voting Rights"
+      },
+      "linkType": {
+        "code": 0,
+        "description": "LINKED"
+      }
+    },
+    {
+      "linkId": 8800000000038926,
+      "rpMaster": {
+        "rpID": 0,
+        "rpCategory": {
+          "code": 0,
+          "description": "ENTITY"
+        },
+        "rpName": "EUROPE SERVICES  LIMITED",
+        "adverseMediaFlag": null,
+        "rpStatus": null,
+        "directorConcentrationFlag": null,
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "fullName": null,
+        "previousName": null,
+        "alias": null,
+        "gender": null,
+        "dob": null,
+        "countryOfBirth": null,
+        "companyName": "EUROPE SERVICES  LIMITED",
+        "parentCompanyName": null,
+        "previousCompanyName": null,
+        "incorporationNumber": null,
+        "doi": null,
+        "incorporationCountry": null,
+        "mergeFlag": false,
+        "score": 0,
+        "candidates": null,
+        "nationalities": null,
+        "sourceSystems": null,
+        "identities": null,
+        "addresses": null,
+        "contacts": null,
+        "linkages": null,
+        "wfHist": null,
+        "fatcaflag": null,
+        "pepflag": null
+      },
+      "client": {
+        "clientId": 0,
+        "srcClientId": "11284897",
+        "sourceSystem": {
+          "code": 0,
+          "description": "eCDD+"
+        },
+        "clientStatus": null,
+        "clientType": {
+          "code": 0,
+          "description": "Private Company"
+        },
+        "riskRating": null,
+        "cddCaseNumber": null,
+        "cddCaseVersion": 0,
+        "cddCountry": null,
+        "cddCaseStatus": null,
+        "cddCaseType": null
+      },
+      "rpSourceId": null,
+      "ownershipPercentage": 0,
+      "linkageStatus": null,
+      "relationshipType": {
+        "code": 0,
+        "description": "Beneficial Owners"
+      },
+      "linkType": {
+        "code": 0,
+        "description": "LINKED"
+      }
+    },
+    {
+      "linkId": 8800000000074641,
+      "rpMaster": {
+        "rpID": 0,
+        "rpCategory": {
+          "code": 0,
+          "description": "ENTITY"
+        },
+        "rpName": "EUROPE SERVICES  LIMITED",
+        "adverseMediaFlag": null,
+        "rpStatus": null,
+        "directorConcentrationFlag": null,
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "fullName": null,
+        "previousName": null,
+        "alias": null,
+        "gender": null,
+        "dob": null,
+        "countryOfBirth": null,
+        "companyName": "EUROPE SERVICES  LIMITED",
+        "parentCompanyName": null,
+        "previousCompanyName": null,
+        "incorporationNumber": null,
+        "doi": null,
+        "incorporationCountry": null,
+        "mergeFlag": false,
+        "score": 0,
+        "candidates": null,
+        "nationalities": null,
+        "sourceSystems": null,
+        "identities": null,
+        "addresses": null,
+        "contacts": null,
+        "linkages": null,
+        "wfHist": null,
+        "fatcaflag": null,
+        "pepflag": null
+      },
+      "client": {
+        "clientId": 0,
+        "srcClientId": "11284897",
+        "sourceSystem": {
+          "code": 0,
+          "description": "eCDD+"
+        },
+        "clientStatus": null,
+        "clientType": {
+          "code": 0,
+          "description": "Private Company"
+        },
+        "riskRating": null,
+        "cddCaseNumber": null,
+        "cddCaseVersion": 0,
+        "cddCountry": null,
+        "cddCaseStatus": null,
+        "cddCaseType": null
+      },
+      "rpSourceId": null,
+      "ownershipPercentage": 0,
+      "linkageStatus": null,
+      "relationshipType": {
+        "code": 0,
+        "description": "All Authorised Signatories"
+      },
+      "linkType": {
+        "code": 0,
+        "description": "LINKED"
+      }
+    },
+    {
+      "linkId": 8800000000095407,
+      "rpMaster": {
+        "rpID": 0,
+        "rpCategory": {
+          "code": 0,
+          "description": "ENTITY"
+        },
+        "rpName": "LONGREACH MANAGEMENT CORPORATION  CAYMAN",
+        "adverseMediaFlag": null,
+        "rpStatus": null,
+        "directorConcentrationFlag": null,
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "fullName": null,
+        "previousName": null,
+        "alias": null,
+        "gender": null,
+        "dob": null,
+        "countryOfBirth": null,
+        "companyName": "LONGREACH MANAGEMENT CORPORATION  CAYMAN",
+        "parentCompanyName": null,
+        "previousCompanyName": null,
+        "incorporationNumber": null,
+        "doi": null,
+        "incorporationCountry": null,
+        "mergeFlag": false,
+        "score": 0,
+        "candidates": null,
+        "nationalities": null,
+        "sourceSystems": null,
+        "identities": null,
+        "addresses": null,
+        "contacts": null,
+        "linkages": null,
+        "wfHist": null,
+        "fatcaflag": null,
+        "pepflag": null
+      },
+      "client": {
+        "clientId": 0,
+        "srcClientId": "11208114",
+        "sourceSystem": {
+          "code": 0,
+          "description": "eCDD+"
+        },
+        "clientStatus": null,
+        "clientType": {
+          "code": 0,
+          "description": "Partnership"
+        },
+        "riskRating": null,
+        "cddCaseNumber": null,
+        "cddCaseVersion": 0,
+        "cddCountry": null,
+        "cddCaseStatus": null,
+        "cddCaseType": null
+      },
+      "rpSourceId": null,
+      "ownershipPercentage": 0,
+      "linkageStatus": null,
+      "relationshipType": {
+        "code": 0,
+        "description": "Beneficial Owners"
+      },
+      "linkType": {
+        "code": 0,
+        "description": "LINKED"
+      }
+    },
+    {
+      "linkId": 8800000000094117,
+      "rpMaster": {
+        "rpID": 0,
+        "rpCategory": {
+          "code": 0,
+          "description": "ENTITY"
+        },
+        "rpName": "BASMINE BELL  LIMITED",
+        "adverseMediaFlag": null,
+        "rpStatus": null,
+        "directorConcentrationFlag": null,
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "fullName": null,
+        "previousName": null,
+        "alias": null,
+        "gender": null,
+        "dob": null,
+        "countryOfBirth": null,
+        "companyName": "BASMINE BELL  LIMITED",
+        "parentCompanyName": null,
+        "previousCompanyName": null,
+        "incorporationNumber": null,
+        "doi": null,
+        "incorporationCountry": null,
+        "mergeFlag": false,
+        "score": 0,
+        "candidates": null,
+        "nationalities": null,
+        "sourceSystems": null,
+        "identities": null,
+        "addresses": null,
+        "contacts": null,
+        "linkages": null,
+        "wfHist": null,
+        "fatcaflag": null,
+        "pepflag": null
+      },
+      "client": {
+        "clientId": 0,
+        "srcClientId": "11229781",
+        "sourceSystem": {
+          "code": 0,
+          "description": "eCDD+"
+        },
+        "clientStatus": null,
+        "clientType": {
+          "code": 0,
+          "description": "Private Company"
+        },
+        "riskRating": null,
+        "cddCaseNumber": null,
+        "cddCaseVersion": 0,
+        "cddCountry": null,
+        "cddCaseStatus": null,
+        "cddCaseType": null
+      },
+      "rpSourceId": null,
+      "ownershipPercentage": 0,
+      "linkageStatus": null,
+      "relationshipType": {
+        "code": 0,
+        "description": "IndividualCDD"
+      },
+      "linkType": {
+        "code": 0,
+        "description": "LINKED"
+      }
+    },
+    {
+      "linkId": 8800000000109041,
+      "rpMaster": {
+        "rpID": 0,
+        "rpCategory": {
+          "code": 0,
+          "description": "ENTITY"
+        },
+        "rpName": "ABAGTHA  LIMITED",
+        "adverseMediaFlag": null,
+        "rpStatus": null,
+        "directorConcentrationFlag": null,
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "fullName": null,
+        "previousName": null,
+        "alias": null,
+        "gender": null,
+        "dob": null,
+        "countryOfBirth": null,
+        "companyName": "ABAGTHA  LIMITED",
+        "parentCompanyName": null,
+        "previousCompanyName": null,
+        "incorporationNumber": null,
+        "doi": null,
+        "incorporationCountry": null,
+        "mergeFlag": false,
+        "score": 0,
+        "candidates": null,
+        "nationalities": null,
+        "sourceSystems": null,
+        "identities": null,
+        "addresses": null,
+        "contacts": null,
+        "linkages": null,
+        "wfHist": null,
+        "fatcaflag": null,
+        "pepflag": null
+      },
+      "client": {
+        "clientId": 0,
+        "srcClientId": "11185174",
+        "sourceSystem": {
+          "code": 0,
+          "description": "eCDD+"
+        },
+        "clientStatus": null,
+        "clientType": {
+          "code": 0,
+          "description": "Private Company"
+        },
+        "riskRating": null,
+        "cddCaseNumber": null,
+        "cddCaseVersion": 0,
+        "cddCountry": null,
+        "cddCaseStatus": null,
+        "cddCaseType": null
+      },
+      "rpSourceId": null,
+      "ownershipPercentage": 0,
+      "linkageStatus": null,
+      "relationshipType": {
+        "code": 0,
+        "description": "IndividualCDD"
+      },
+      "linkType": {
+        "code": 0,
+        "description": "LINKED"
+      }
+    },
+    {
+      "linkId": 8800000000113473,
+      "rpMaster": {
+        "rpID": 0,
+        "rpCategory": {
+          "code": 0,
+          "description": "ENTITY"
+        },
+        "rpName": "AVENTINE  LIMITED",
+        "adverseMediaFlag": null,
+        "rpStatus": null,
+        "directorConcentrationFlag": null,
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "fullName": null,
+        "previousName": null,
+        "alias": null,
+        "gender": null,
+        "dob": null,
+        "countryOfBirth": null,
+        "companyName": "AVENTINE  LIMITED",
+        "parentCompanyName": null,
+        "previousCompanyName": null,
+        "incorporationNumber": null,
+        "doi": null,
+        "incorporationCountry": null,
+        "mergeFlag": false,
+        "score": 0,
+        "candidates": null,
+        "nationalities": null,
+        "sourceSystems": null,
+        "identities": null,
+        "addresses": null,
+        "contacts": null,
+        "linkages": null,
+        "wfHist": null,
+        "fatcaflag": null,
+        "pepflag": null
+      },
+      "client": {
+        "clientId": 0,
+        "srcClientId": "11096375",
+        "sourceSystem": {
+          "code": 0,
+          "description": "eCDD+"
+        },
+        "clientStatus": null,
+        "clientType": {
+          "code": 0,
+          "description": "Private Company"
+        },
+        "riskRating": null,
+        "cddCaseNumber": null,
+        "cddCaseVersion": 0,
+        "cddCountry": null,
+        "cddCaseStatus": null,
+        "cddCaseType": null
+      },
+      "rpSourceId": null,
+      "ownershipPercentage": 0,
+      "linkageStatus": null,
+      "relationshipType": {
+        "code": 0,
+        "description": "All Authorised Signatories"
+      },
+      "linkType": {
+        "code": 0,
+        "description": "LINKED"
+      }
+    },
+    {
+      "linkId": 8800000000130762,
+      "rpMaster": {
+        "rpID": 0,
+        "rpCategory": {
+          "code": 0,
+          "description": "ENTITY"
+        },
+        "rpName": "LASCOMBE  LIMITED",
+        "adverseMediaFlag": null,
+        "rpStatus": null,
+        "directorConcentrationFlag": null,
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "fullName": null,
+        "previousName": null,
+        "alias": null,
+        "gender": null,
+        "dob": null,
+        "countryOfBirth": null,
+        "companyName": "LASCOMBE  LIMITED",
+        "parentCompanyName": null,
+        "previousCompanyName": null,
+        "incorporationNumber": null,
+        "doi": null,
+        "incorporationCountry": null,
+        "mergeFlag": false,
+        "score": 0,
+        "candidates": null,
+        "nationalities": null,
+        "sourceSystems": null,
+        "identities": null,
+        "addresses": null,
+        "contacts": null,
+        "linkages": null,
+        "wfHist": null,
+        "fatcaflag": null,
+        "pepflag": null
+      },
+      "client": {
+        "clientId": 0,
+        "srcClientId": "11029617",
+        "sourceSystem": {
+          "code": 0,
+          "description": "eCDD+"
+        },
+        "clientStatus": null,
+        "clientType": {
+          "code": 0,
+          "description": "Private Company"
+        },
+        "riskRating": null,
+        "cddCaseNumber": null,
+        "cddCaseVersion": 0,
+        "cddCountry": null,
+        "cddCaseStatus": null,
+        "cddCaseType": null
+      },
+      "rpSourceId": null,
+      "ownershipPercentage": 0,
+      "linkageStatus": null,
+      "relationshipType": {
+        "code": 0,
+        "description": "Beneficial Owners"
+      },
+      "linkType": {
+        "code": 0,
+        "description": "LINKED"
+      }
+    },
+    {
+      "linkId": 8800000000131983,
+      "rpMaster": {
+        "rpID": 0,
+        "rpCategory": {
+          "code": 0,
+          "description": "INDIVIDUAL"
+        },
+        "rpName": "AI LIAN  TAN",
+        "adverseMediaFlag": null,
+        "rpStatus": null,
+        "directorConcentrationFlag": null,
+        "firstName": null,
+        "middleName": null,
+        "lastName": null,
+        "fullName": "AI LIAN  TAN",
+        "previousName": null,
+        "alias": null,
+        "gender": null,
+        "dob": null,
+        "countryOfBirth": null,
+        "companyName": null,
+        "parentCompanyName": null,
+        "previousCompanyName": null,
+        "incorporationNumber": null,
+        "doi": null,
+        "incorporationCountry": null,
+        "mergeFlag": false,
+        "score": 0,
+        "candidates": null,
+        "nationalities": null,
+        "sourceSystems": null,
+        "identities": null,
+        "addresses": null,
+        "contacts": null,
+        "linkages": null,
+        "wfHist": null,
+        "fatcaflag": null,
+        "pepflag": null
+      },
+      "client": {
+        "clientId": 0,
+        "srcClientId": "13479681",
+        "sourceSystem": {
+          "code": 0,
+          "description": "eCDD+"
+        },
+        "clientStatus": null,
+        "clientType": {
+          "code": 0,
+          "description": "Private Company"
+        },
+        "riskRating": null,
+        "cddCaseNumber": null,
+        "cddCaseVersion": 0,
+        "cddCountry": null,
+        "cddCaseStatus": null,
+        "cddCaseType": null
+      },
+      "rpSourceId": null,
+      "ownershipPercentage": 0,
+      "linkageStatus": null,
+      "relationshipType": {
+        "code": 0,
+        "description": "All Authorised Signatories"
+      },
+      "linkType": {
+        "code": 0,
+        "description": "LINKED"
+      }
+    }
+  ]
+}

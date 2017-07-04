@@ -1,0 +1,14 @@
+{
+        "dealCharts": [
+    {
+        "id": 1,
+        "category": "My Referrals",
+        "value": 80,
+        "color": "#B3CDDE"
+    }, {
+        "id": 2,
+        "category": "Referrals to Me",
+        "value": 10,
+        "color": "#98D18C"
+    }]
+}

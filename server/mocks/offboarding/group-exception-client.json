@@ -1,0 +1,38 @@
+{
+	"offboarding/groupExceptionClients": [{
+		"entityId": "11075505",
+		"entityName": "L NAME 11075505",
+		"region": "ASEAN",
+		"domicileCountry": "MALAYSIA",
+		"segment": "Global Corporate",
+		"segmentCode": "K",
+		"subSegmentCode": "K1",
+		"subSegment": "Global Corporates",
+		"exception": "BORROWING_CLIENT",
+		"id": "BORROWING_CLIENT11075505"
+	}, {
+		"entityId": "11191607",
+		"entityName": "L NAME 11191607",
+		"region": "ASEAN",
+		"domicileCountry": "MALAYSIA",
+		"segment": "Global Corporate",
+		"segmentCode": "K",
+		"subSegmentCode": "K1",
+		"subSegment": "Global Corporates",
+		"exception": "BORROWING_CLIENT",
+		"id": "BORROWING_CLIENT11191607"
+	}, {
+		"entityId": "13448210",
+		"entityName": "L NAME 13448210",
+		"region": "ASEAN",
+		"domicileCountry": "SINGAPORE",
+		"segment": "Global Corporate",
+		"segmentCode": "K",
+		"subSegmentCode": "K3",
+		"subSegment": "Network Clients",
+		"exception": "BORROWING_CLIENT",
+		"id": "BORROWING_CLIENT13448210"
+	}],
+	"uiServiceTokenID": "1439",
+	"success": true
+}

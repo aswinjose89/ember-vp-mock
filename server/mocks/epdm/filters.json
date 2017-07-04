@@ -1,0 +1,230 @@
+{
+   "filters":[
+      {
+         "id":1,
+         "filterName":"12345678901234567890123456789012345678901234567890",
+         "oldFilterName":"12345678901234567890123456789012345678901234567890",
+         "newFilterName":"12345678901234567890123456789012345678901234567890",
+         "defaultFilter":true,
+         "filterData":{
+            "id":1,
+            "page":0,
+            "size":0,
+            "preFacto":"true",
+            "postFacto":"false",
+            "savedOnly":"true",
+            "filterOptions":{
+               "armCodes":[
+                  {
+                     "code":"G03",
+                     "name":"Khalid,Muhammad Rehan",
+                     "country":"PAKISTAN",
+                     "description":"",
+                     "entityType":null,
+                     "id":"G03",
+                     "text":null,
+                     "segmentCode":null
+                  }
+               ],
+               "clientManagers":[
+
+               ],
+               "groupsClients":[
+
+               ],
+               "prodNameCode":[
+
+               ],
+               "gam":[
+
+               ],
+               "accountType":{
+                  "coreBanking":"false",
+                  "lending":"true",
+                  "trade":"false",
+                  "id":1
+               },
+               "segment":[
+
+               ],
+               "subSegment":[
+
+               ],
+               "status":"",
+               "excessPastDueFilter":"",
+               "reports":null,
+               "bookingEntity":null,
+               "firCountry":null,
+               "reportCty":null,
+               "id":1,
+               "clientFiltersEmpty":false
+            }
+         }
+      },
+      {
+         "id":2,
+         "filterName":"12345678901234567890123456789012345678901234560000",
+         "oldFilterName":"12345678901234567890123456789012345678901234560000",
+         "newFilterName":"12345678901234567890123456789012345678901234560000",
+         "defaultFilter":false,
+         "filterData":{
+            "id":2,
+            "page":0,
+            "size":0,
+            "preFacto":"false",
+            "postFacto":"false",
+            "savedOnly":"false",
+            "filterOptions":{
+               "armCodes":[
+
+               ],
+               "clientManagers":[
+
+               ],
+               "groupsClients":[
+
+               ],
+               "prodNameCode":[
+
+               ],
+               "gam":[
+
+               ],
+               "accountType":{
+                  "coreBanking":"true",
+                  "lending":"true",
+                  "trade":"false",
+                  "id":2
+               },
+               "segment":[
+
+               ],
+               "subSegment":[
+
+               ],
+               "status":"openBA",
+               "excessPastDueFilter":"",
+               "reports":null,
+               "bookingEntity":null,
+               "firCountry":null,
+               "reportCty":null,
+               "id":2,
+               "clientFiltersEmpty":true
+            }
+         }
+      },
+      {
+         "id":3,
+         "filterName":"Core Banking",
+         "oldFilterName":"",
+         "newFilterName":"Core Banking",
+         "defaultFilter":false,
+         "filterData":{
+            "id":3,
+            "page":0,
+            "size":0,
+            "preFacto":"false",
+            "postFacto":"false",
+            "savedOnly":"false",
+            "filterOptions":{
+               "armCodes":[
+
+               ],
+               "clientManagers":[
+
+               ],
+               "groupsClients":[
+
+               ],
+               "prodNameCode":[
+
+               ],
+               "gam":[
+
+               ],
+               "accountType":{
+                  "coreBanking":"true",
+                  "lending":"true",
+                  "trade":"true",
+                  "id":3
+               },
+               "segment":[
+
+               ],
+               "subSegment":[
+
+               ],
+               "status":"All",
+               "excessPastDueFilter":"",
+               "reports":"",
+               "bookingEntity":"",
+               "firCountry":"",
+               "reportCty":null,
+               "id":3,
+               "clientFiltersEmpty":true
+            }
+         }
+      },
+      {
+         "id":4,
+         "filterName":"Attibank",
+         "oldFilterName":"",
+         "newFilterName":"Attibank",
+         "defaultFilter":false,
+         "filterData":{
+            "id":4,
+            "page":0,
+            "size":0,
+            "preFacto":"false",
+            "postFacto":"false",
+            "savedOnly":"false",
+            "filterOptions":{
+               "armCodes":[
+
+               ],
+               "clientManagers":[
+
+               ],
+               "groupsClients":[
+                  {
+                     "code":"11044808",
+                     "name":"ATTIJARIWAFA BANK",
+                     "country":"FRANCE",
+                     "description":null,
+                     "entityType":"C",
+                     "id":null,
+                     "text":null,
+                     "segmentCode":null
+                  }
+               ],
+               "prodNameCode":[
+
+               ],
+               "gam":[
+
+               ],
+               "accountType":{
+                  "coreBanking":"false",
+                  "lending":"false",
+                  "trade":"false",
+                  "id":4
+               },
+               "segment":[
+
+               ],
+               "subSegment":[
+
+               ],
+               "status":"",
+               "excessPastDueFilter":"",
+               "reports":"",
+               "bookingEntity":"",
+               "firCountry":"",
+               "reportCty":null,
+               "id":4,
+               "clientFiltersEmpty":false
+            }
+         }
+      }
+   ]
+}

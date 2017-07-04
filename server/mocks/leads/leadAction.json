@@ -1,0 +1,36 @@
+{
+  "leadAction": [
+    {
+      "leadProcess": {
+        "id": "3908",
+        "statusCode": "100",
+        "statusMessage": "Disqualify Successfully "
+      }
+    },
+    {
+      "leadProcess": {
+        "id": "3908",
+        "statusCode": "101",
+        "statusMessage": "failure"
+      }
+    },
+    {
+      "leadProcess": {
+        "id": "3908",
+        "statusCode": "102",
+        "statusMessage": "some Exception"
+      }
+    },
+    {
+      "errors": [
+        {
+          "id": "07af600c-0d8e-4855-9445-357e79cf5dc0",
+          "status": "400",
+          "code": "LEADS-1006",
+          "title": "Cannot ReAssign The Lead to the Person",
+          "detail": "Cannot reassign one of the leads to a person, who is  not in CCT members list"
+        }
+      ]
+    }
+  ]
+}

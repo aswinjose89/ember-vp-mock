@@ -1,0 +1,30 @@
+{
+  "leadPriorityMappings": {
+    "leadType": "ALERT",
+    "segment": "CB",
+    "id": 1,
+    "priorities": [{
+        "id": 1,
+        "priorityGroup": "Low",
+        "isExpEmail": "Y",
+        "expNotificationType": "Action",
+        "expiryDays": 60,
+        "isRemEmail": "N",
+        "remNotificationType": "Y",
+        "reminderDays": 60,
+        "isUpdated": false
+      },
+      {
+        "id": 2,
+        "priorityGroup": "High",
+        "isExpEmail": "N",
+        "expNotificationType": "Notification",
+        "expiryDays": 60,
+        "isRemEmail": "Y",
+        "remNotificationType": "N",
+        "reminderDays": 60,
+        "isUpdated": false
+      }
+    ]
+  }
+}

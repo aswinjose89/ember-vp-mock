@@ -1,0 +1,605 @@
+{
+  "esraPicklist": {
+    "id": 1,
+    "dlplAccess": [
+      {
+        "id": 56,
+        "code": "0096",
+        "description": "Edit",
+        "longDescription": "Edit",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 57,
+        "code": "0097",
+        "description": "View Only",
+        "longDescription": "View Only",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 51,
+        "code": "0098",
+        "description": "No Access",
+        "longDescription": "No Access",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      }
+    ],
+    "signOffRepeat": [
+      {
+        "id": 6,
+        "code": "0001",
+        "description": "Monthly",
+        "longDescription": "Monthly",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 7,
+        "code": "0002",
+        "description": "Quarterly",
+        "longDescription": "Quarterly",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 8,
+        "code": "0003",
+        "description": "Half Yearly",
+        "longDescription": "Half Yearly",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 9,
+        "code": "0004",
+        "description": "Yearly",
+        "longDescription": "Yearly",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 9,
+        "code": "0000",
+        "description": "Select Repeat",
+        "longDescription": "Select Repeat",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      }
+    ],
+    "approvalRouteType": [
+      {
+        "id": 39,
+        "code": "0001",
+        "description": "DTL",
+        "longDescription": "Deal Team Leader",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 40,
+        "code": "0002",
+        "description": "ESRM",
+        "longDescription": "ESRM",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      }
+    ],
+    "statusType": [
+      {
+        "id": 10,
+        "code": "0001",
+        "description": "Draft",
+        "longDescription": "Draft",
+        "param1": "gray",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 11,
+        "code": "0002",
+        "description": "Under Review - DTL",
+        "longDescription": "Under Review - DTL",
+        "param1": "cyan",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 12,
+        "code": "0003",
+        "description": "Under Review - ESRM",
+        "longDescription": "Under Review - ESRM",
+        "param1": "orange",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 13,
+        "code": "0004",
+        "description": "Queried",
+        "longDescription": "Queried",
+        "param1": "blue",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 14,
+        "code": "0005",
+        "description": "Completed",
+        "longDescription": "Completed",
+        "param1": "green",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 15,
+        "code": "0006",
+        "description": "Reopened",
+        "longDescription": "Reopened",
+        "param1": "gray",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 16,
+        "code": "0007",
+        "description": "Withdrawn",
+        "longDescription": "Withdrawn",
+        "param1": "deep-orange",
+        "param2": "*",
+        "param3": "*"
+      }
+    ],
+    "sectorType": [
+      {
+        "id": 23,
+        "code": "0001",
+        "description": "Agribusiness",
+        "longDescription": "Agribusiness",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 24,
+        "code": "0002",
+        "description": "BioFuels",
+        "longDescription": "Bio Fuels",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 25,
+        "code": "0003",
+        "description": "ChemManuf",
+        "longDescription": "Chemical Manufacturing",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 26,
+        "code": "0004",
+        "description": "Dams & Hydropower",
+        "longDescription": "Dams & Hydropower",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 27,
+        "code": "0005",
+        "description": "Fisheries",
+        "longDescription": "Fisheries",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 28,
+        "code": "0006",
+        "description": "Forestry",
+        "longDescription": "Forestry",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 29,
+        "code": "0007",
+        "description": "Fossil Fuel Power",
+        "longDescription": "Fossil Fuel Power",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 30,
+        "code": "0008",
+        "description": "InfraTrans",
+        "longDescription": "InfraTrans",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 31,
+        "code": "0009",
+        "description": "Mining Metals",
+        "longDescription": "Mining Metals",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 32,
+        "code": "0010",
+        "description": "Nuclear",
+        "longDescription": "Nuclear",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 33,
+        "code": "0011",
+        "description": "Oil and Gas",
+        "longDescription": "Oil and Gas",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 34,
+        "code": "0012",
+        "description": "Palm Oil",
+        "longDescription": "Palm Oil",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 35,
+        "code": "0013",
+        "description": "Renewables",
+        "longDescription": "Renewables",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 36,
+        "code": "0014",
+        "description": "Ship Breaking",
+        "longDescription": "Ship Breaking",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 37,
+        "code": "0015",
+        "description": "Tobacco",
+        "longDescription": "Tobacco",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 38,
+        "code": "0016",
+        "description": "Others",
+        "longDescription": "Others",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      }
+    ],
+    "signOffStatusType": [
+      {
+        "id": 1,
+        "code": "0001",
+        "description": "Closed - Transferred to CreditMate",
+        "longDescription": "Closed - Transferred to CreditMate",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 2,
+        "code": "0002",
+        "description": "Closed - Completed",
+        "longDescription": "Closed - Completed",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 3,
+        "code": "0003",
+        "description": "Open - Tracked via WorkBench Action Tasks",
+        "longDescription": "Open - Tracked via WorkBench Action Tasks",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      }
+    ],
+    "actionType": [
+      {
+        "id": 41,
+        "code": "0001",
+        "description": "Submit",
+        "longDescription": "Submit",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 42,
+        "code": "0002",
+        "description": "Recall",
+        "longDescription": "Recall",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 43,
+        "code": "0003",
+        "description": "Refer Back",
+        "longDescription": "Refer Back",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 44,
+        "code": "0004",
+        "description": "Approve",
+        "longDescription": "Approve",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 45,
+        "code": "0005",
+        "description": "Reject",
+        "longDescription": "Reject",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 46,
+        "code": "0006",
+        "description": "Reopen",
+        "longDescription": "Reopen",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 47,
+        "code": "0007",
+        "description": "Withdraw",
+        "longDescription": "Withdraw",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 48,
+        "code": "0008",
+        "description": "Refer to ESRM",
+        "longDescription": "Refer to ESRM",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      }
+    ],
+    "decisionType": [
+      {
+        "id": 49,
+        "code": "0001",
+        "description": "Approved",
+        "longDescription": "Approved",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 50,
+        "code": "0002",
+        "description": "Rejected",
+        "longDescription": "Rejected",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      }
+    ],
+    "signOffActivityStatusType": [
+      {
+        "id": 58,
+        "code": "0001",
+        "description": "Assigned",
+        "longDescription": "Assigned",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 59,
+        "code": "0002",
+        "description": "Completed",
+        "longDescription": "Completed",
+        "param1": "green",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 60,
+        "code": "0003",
+        "description": "Under Review - ESRM",
+        "longDescription": "Under Review - ESRM",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 61,
+        "code": "0004",
+        "description": "Recalled",
+        "longDescription": "Recalled",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 62,
+        "code": "0005",
+        "description": "Overdue",
+        "longDescription": "Overdue",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 82,
+        "code": "0006",
+        "description": "Approved",
+        "longDescription": "Approved",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      }
+    ],
+    "outcomeType": [
+      {
+        "id": 17,
+        "code": "0001",
+        "description": "Transaction ESRA Not Required",
+        "longDescription": "Transaction ESRA Not Required",
+        "param1": "green",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 18,
+        "code": "0002",
+        "description": "Compliant",
+        "longDescription": "Compliant",
+        "param1": "green",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 19,
+        "code": "0003",
+        "description": "Near Compliant",
+        "longDescription": "Near Compliant",
+        "param1": "orange",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 20,
+        "code": "0004",
+        "description": "Non Compliant",
+        "longDescription": "Non Compliant",
+        "param1": "deep-orange",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 21,
+        "code": "0005",
+        "description": "EP Referral",
+        "longDescription": "EP Referral",
+        "param1": "blue-gray",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 22,
+        "code": "0006",
+        "description": "Refer to ESRM",
+        "longDescription": "Refer to ESRM",
+        "param1": "blue-gray",
+        "param2": "*",
+        "param3": "*"
+      }
+    ],
+    "dlplTeamRole": [
+      {
+        "id": 53,
+        "code": "0092",
+        "description": "Deal Team Leader",
+        "longDescription": "Deal Team Leader",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 54,
+        "code": "0093",
+        "description": "Deal Team Member",
+        "longDescription": "Deal Team Member",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 55,
+        "code": "0094",
+        "description": "Insider",
+        "longDescription": "Insider",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 52,
+        "code": "0095",
+        "description": "Wall Crosser",
+        "longDescription": "Wall Crosser",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      }
+    ],
+    "signOffType": [
+      {
+        "id": 4,
+        "code": "0001",
+        "description": "Credit",
+        "longDescription": "Credit",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      },
+      {
+        "id": 5,
+        "code": "0002",
+        "description": "Non Credit",
+        "longDescription": "Non Credit",
+        "param1": "*",
+        "param2": "*",
+        "param3": "*"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "additionalCodes": [
+    {
+      "code": "Y",
+      "description": "YES"
+    },
+    {
+      "code": "E",
+      "description": "EXEMPTION"
+    },
+    {
+      "code": "N",
+      "description": "NO"
+    },
+    {
+      "code": "FCR",
+      "description": "FCR"
+    },
+    {
+      "code": "NA",
+      "description": "NA"
+    }
+  ]
+}

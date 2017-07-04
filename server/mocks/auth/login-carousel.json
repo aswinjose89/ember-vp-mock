@@ -1,0 +1,40 @@
+{
+    "loginCarousel": [
+        {
+            "id": 30100,
+            "title": "Frequently Asked Questions",
+            "content": "For questions please refer to the FAQs on The <a onclick=\"window.open(this.href, '_blank')\" href=\"http://thebridge.zone1.scb.net/community/cib-coo/client-engagement-effectiveness/workbench/blog/2016/08/08/frequently-asked-question-and-tips\"> Bridge </a>",
+            "icon": "icon-128 announcement"
+        },
+        {
+            "id": 29050,
+            "title": "CIB Client Briefing Note",
+            "content": "A new standardised Client Briefing Note for all CIB RMs has been implemented to use when briefing senior managers ahead of their interactions with clients. Click on the following link to download and access:   ",
+            "icon": "icon-128 announcement"
+        },
+        {
+            "id": 3053,
+            "title": "WorkBench Training ",
+            "content": "User guides across all functionalities in the WorkBench can be found at our <a onclick=\"window.open(this.href, '_blank')\" href=\"http://thebridge.zone1.scb.net/docs/DOC-128824\"><b>WorkBench Training site</b></a>.   <p>For more information contact <a onclick=\"window.open(this.href, '_blank')\" href=\"mailto:WorkBenchBusiness.SupportTeam@sc.com\"><b>WorkBench</b></a></p>",
+            "icon": "icon-128 social"
+        },
+        {
+            "id": 7050,
+            "title": "Requesting WorkBench / eCDD+ access",
+            "content": "Please ensure that when requesting access to WorkBench or eCDD+ via RMS, kindly ensure you utilise the following RMS requests:    <p>- For WorkBench ID Access: RMS no. 7196</p>  <p>- For eCDD+ ID Access: RMS no. 7054</br>  <br><p><STRONG>For guidance, please refer to the <a onclick=\"window.open(this.href, '_blank')\" href=\"http://teamsitesuk.zone1.scb.net/sites/WB/occ/oneCLIENT/Training%20and%20Communications/2.0%20Training/2.2%20User%20Guides/RMWB/Workbench/WorkBench%20-%20Access%20User%20Guide.pdf\">Access User Guide</a></STRONG>",
+            "icon": "icon-128 announcement"
+        },
+        {
+            "id": 501,
+            "title": "Clients - August revenue data from PMI & CCMI is now available",
+            "content": "Login and check out your current portfolio dashboard. We are pleased to announce that the August revenue data from PMI & CCMI is now available in the RMWB. <br/><br/> Besides your dashboard, you can view relevant data for the Groups and Clients that you cover in a visual, interactive manner.",
+            "icon": "icon-128 obl"
+        },
+        {
+            "id": 30050,
+            "title": "Are you a SalesPoint user? ",
+            "content": "Created as a one-stop shop, SalesPoint provides users with quick access to up-to-date client facing TB content, as well as a broad range of templates and toolkits for building customised content.    All content has been prepared in collaboration with subject matter experts and has been designed to the highest of professional standards. Visit <a onclick=\"window.open(this.href, '_blank')\"href=\"http://teamsiteshk.zone1.scb.net/sites/wb/tb/sales/SalesPoint/default.aspx \"><b>SalesPoint</b></a> now.",
+            "icon": "icon-128 announcement"
+        }
+    ]
+}

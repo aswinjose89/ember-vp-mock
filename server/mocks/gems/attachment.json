@@ -1,0 +1,26 @@
+{
+  "attachment": {
+      "id": "12",
+      "totalRecords": 5,
+      "files": [
+        {
+          "fileName": {
+            "name": "Joseph PP.pdf",
+            "type": "pdf"
+          },
+          "uploadedBy": "1181483",
+          "deleted":false,
+          "id": "2015062910086368511"
+        },
+        {
+          "fileName": {
+            "name": "Second PP.pdf",
+            "type": "pdf"
+          },
+          "uploadedBy": "1181483",
+          "deleted":false,
+          "id": "2015062910086368512"
+        }
+      ]
+  }
+}

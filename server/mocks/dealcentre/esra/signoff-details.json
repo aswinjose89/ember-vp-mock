@@ -1,0 +1,217 @@
+{
+  "signoffRequirement": {
+    "details": [
+      {
+        "id": 2916,
+        "signoffId": 34,
+        "signoffVersion": 12,
+        "deleted": false,
+        "requirements": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries but also the leap into electronic typesetting remaining essentially unchanged. It was popularised in the with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Contrary to popular belief, Lorem Ipsum is not simp Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Contrary to popular belief, Lorem Ipsum is not simp",
+        "type": "0002",
+        "status": "0003",
+        "dueDate": 1527696000000,
+        "repeat":"0000",
+        "followupTasks": [
+          {
+            "id": 54,
+            "actionRequired": "Sign off action 1 edit",
+            "dueDate": 1527696000000,
+            "repeat": "0000",
+            "endRepeat": null,
+            "assignedBy": "1191361-Bagri,Rajan",
+            "createdBy": "1191361-Bagri,Rajan",
+            "assignedDate": 1495002937000,
+            "taskStatus": "0002",
+            "completedDate": "1497342686969",
+            "completedBy": "1193293-Carol.Karungi",
+            "completionComments": "Test",
+            "aoCompletedBy": "1193293-Carol.Karungi@sc.com",
+            "aoCompletionComments": "Test aoCompletionComments",
+            "aoCompletionDate": "1497342686969",
+            "referredToEsrmComments": "Test",
+            "referredToEsrmDate": "1497342686969",
+            "referredToEsrmBy": "1193293-Carol.Karungi@sc.com",
+            "esrmApprovedComments": "Test",
+            "esrmApprovedDate": "1497342686969",
+            "esrmApprovedBy": "1193293-Carol.Karungi@sc.com",
+            "confirmedByEsrm": null,
+            "emailReminderEnabled": "N",
+            "emailReminderDate": "1497342686969",
+            "deleted": false,
+            "calendarTaskId": "WB_395046",
+            "esraApprovers": [
+              "1444777"
+            ],
+            "assignedToEsrm": 1,
+            "assignees": [
+              {
+                "id": "73",
+                "name": "Karungi,Carol",
+                "psId": "1183119",
+                "emailId": "Carol.Karungi@sc.com"
+              },
+              {
+                "id": "74",
+                "name": "Lu,Tom Jin",
+                "psId": "1325951",
+                "emailId": "Tom.Lu@sc.com"
+              }
+            ],
+            "documents": [
+              {
+                "docId": "20170515100753018"
+              }
+            ]
+          },
+          {
+            "id": 55,
+            "actionRequired": "Sign off action 1 edit",
+            "dueDate": 1527696000000,
+            "repeat": "0001",
+            "endRepeat": null,
+            "assignedBy": "1191361-Bagri,Rajan",
+            "createdBy": "1191361-Bagri,Rajan",
+            "assignedDate": 1495002937000,
+            "taskStatus": "0001",
+            "completedDate": "1497342686969",
+            "completedBy": "1193293-Carol.Karungi",
+            "completionComments": "Test",
+            "aoCompletedBy": "1193293-Carol.Karungi@sc.com",
+            "aoCompletionComments": "Test aoCompletionComments",
+            "aoCompletionDate": "1497342686969",
+            "referredToEsrmComments": "Test",
+            "referredToEsrmDate": "1497342686969",
+            "referredToEsrmBy": "1193291-Carol.Karungi@sc.com",
+            "esrmApprovedComments": "Test",
+            "esrmApprovedDate": "1497342686969",
+            "esrmApprovedBy": "1193290-Carol.Karungi@sc.com",
+            "confirmedByEsrm": null,
+            "emailReminderEnabled": "N",
+            "emailReminderDate": "1497342686969",
+            "deleted": false,
+            "calendarTaskId": "WB_395046",
+            "esraApprovers": [
+              "1444777"
+            ],
+            "assignedToEsrm": 1,
+            "assignees": [
+              {
+                "id": "73",
+                "name": "Karungi,Carol",
+                "psId": "1183119",
+                "emailId": "Carol.Karungi@sc.com"
+              },
+              {
+                "id": "74",
+                "name": "Lu,Tom Jin",
+                "psId": "1325951",
+                "emailId": "Tom.Lu@sc.com"
+              }
+            ],
+            "documents": [
+              {
+                "fileName": {
+                  "name": "00001072.xlsx",
+                  "type": "xlsx"
+                },
+                "docId": "20170515100753018"
+              },
+              {
+                "fileName": {
+                  "name": "DealPipeline (2).pdf",
+                  "type": "pdf"
+                },
+                "docId": "20170509100752865"
+              },
+              {
+                "fileName": {
+                  "name": "DealPipeline change (1).pdf",
+                  "type": "pdf"
+                },
+                "docId": "20170509100752866"
+              }
+            ]
+          },
+          {
+            "id": 58,
+            "actionRequired": "Sign off action 1 edit",
+            "dueDate": 1527696000000,
+            "repeat": "0001",
+            "endRepeat": null,
+            "assignedBy": "1191361-Bagri,Rajan",
+            "createdBy": "1191361-Bagri,Rajan",
+            "assignedDate": 1495002937000,
+            "taskStatus": "0001",
+            "completedDate": "1497342686969",
+            "completedBy": "1193293-Carol.Karungi",
+            "completionComments": "Test",
+            "aoCompletedBy": "1193293-Carol.Karungi@sc.com",
+            "aoCompletionComments": "Test aoCompletionComments",
+            "aoCompletionDate": "1497342686969",
+            "referredToEsrmComments": "Test",
+            "referredToEsrmDate": "1497342686969",
+            "referredToEsrmBy": "1193291-Carol.Karungi@sc.com",
+            "esrmApprovedComments": "Test",
+            "esrmApprovedDate": "1497342686969",
+            "esrmApprovedBy": "1193290-Carol.Karungi@sc.com",
+            "confirmedByEsrm": null,
+            "emailReminderEnabled": "N",
+            "emailReminderDate": "1497342686969",
+            "deleted": false,
+            "calendarTaskId": "WB_395046",
+            "esraApprovers": [
+              "1444777"
+            ],
+            "assignedToEsrm": 1,
+            "assignees": [
+            ],
+            "documents": [
+              {
+                "fileName": {
+                  "name": "00001072.xlsx",
+                  "type": "xlsx"
+                },
+                "docId": "20170515100753018"
+              },
+              {
+                "fileName": {
+                  "name": "DealPipeline (2).pdf",
+                  "type": "pdf"
+                },
+                "docId": "20170509100752865"
+              },
+              {
+                "fileName": {
+                  "name": "DealPipeline change (1).pdf",
+                  "type": "pdf"
+                },
+                "docId": "20170509100752866"
+              }
+            ]
+          }
+        ],
+        "esraActivity": null
+      }
+    ],
+    "id": "20150629100863685",
+    "signoffActivity": {
+      "id": "20150629100863685",
+      "version": 1,
+      "roleDesc": "Deal_Team",
+      "signoffReqReadonly": "E",
+      "signoffTaskReadonly": "E",
+      "saveEnabled": "E",
+      "createSignoffReqEnabled": "E",
+      "editSignoffReqEnabled": "E",
+      "deleteSignoffReqEnabled": "E",
+      "createSignoffTaskEnabled": "E",
+      "editSignoffTaskEnabled": "E",
+      "deleteSignoffTaskEnabled": "E",
+      "requirementStatusEnabled": "E",
+      "referToESRMEnabled": "E",
+      "approveEnabled": "N",
+      "referBackEnabled": "N",
+      "recallEnabled": "N"
+    }
+  }
+}

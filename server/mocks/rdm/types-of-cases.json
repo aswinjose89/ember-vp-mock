@@ -1,0 +1,35 @@
+{
+  "typesOfCases": [{
+    "id": "1",
+    "code": "CDD FI",
+    "description": "CDD FI"
+  }, {
+    "id": "2",
+    "code": "CDD CO",
+    "description": "CDD CO"
+  }, {
+    "id": "3",
+    "code": "BBA FI",
+    "description": "BBA FI"
+  }, {
+    "id": "4",
+    "code": "BBA CO",
+    "description": "BBA CO"
+  }, {
+    "id": "5",
+    "code": "GIC FI",
+    "description": "GIC FI"
+  }, {
+    "id": "6",
+    "code": "GIC CO",
+    "description": "GIC CO"
+  }, {
+    "id": "7",
+    "code": "GA FI",
+    "description": "GA FI"
+  }, {
+    "id": "8",
+    "code": "GA CO",
+    "description": "GA CO"
+  }]
+}

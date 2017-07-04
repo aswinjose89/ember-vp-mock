@@ -1,0 +1,25 @@
+{
+  "subsidiaries": [
+    {
+    	"id": 1,
+		"clientId": 11000033,
+	    "clientName": "HANA BANK",
+	    "clientSubProfileId": "10",
+	    "favourite": "N"
+    },
+    {
+    	"id": 2,
+    	"clientId": 11005853,
+	    "clientName": "KOREA EXCHANGE BANK",
+	    "clientSubProfileId": "8",
+	    "favourite": "Y"
+    },
+    {
+    	"id": 3,
+    	"clientId": 11005853,
+	    "clientName": "KOREA EXCHANGE BANK",
+	    "clientSubProfileId": "8",
+	    "favourite": "N"
+    }
+  ]
+}

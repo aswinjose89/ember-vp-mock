@@ -1,0 +1,194 @@
+{
+    "recents":[        
+        {
+        "id": 1,
+        "activityCode" : "CLIENT_OFF_BOARDING",
+        "entityName": "Coca Cola Group",
+        "entityId": "1",
+        "entityType": "C",
+        "activityId": "1",
+        "version": "1",
+        "params": [
+            {
+                "code": "1",
+                  "description": "Test",
+                  "longDescription": null,
+                  "param1": "",
+                  "param2": "",
+                  "param3": ""
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "activityCode" : "CREDIT",
+        "entityName": "Coca Cola Group",
+        "entityId": "2",
+        "entityType": "G",
+        "activityId": "2",
+        "version": "1",
+        "params": [
+            {
+              "code": "1",
+              "description": "Test",
+              "longDescription": null,
+              "param1": "",
+              "param2": "",
+              "param3": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "activityCode" : "",
+        "entityName": "Coca Cola Group",
+        "entityId": "3",
+        "entityType": "C",
+        "activityId": "3",
+        "version": "1",
+        "params": [
+            {
+              "code": "1",
+              "description": "Test",
+              "longDescription": null,
+              "param1": "",
+              "param2": "",
+              "param3": ""
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "activityCode" : "CLIENT_OFF_BOARDING",
+        "entityName": "Coca Cola Group",
+        "entityId": "4",
+        "entityType": "C",
+        "activityId": "4",
+        "version": "1",
+        "params": [
+            {
+              "code": "1",
+              "description": "Test",
+              "longDescription": null,
+              "param1": "",
+              "param2": "",
+              "param3": ""
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "activityCode" : "CLIENT_OFF_BOARDING",
+        "entityName": "Coca Cola Group",
+        "entityId": "5",
+        "entityType": "C",
+        "activityId": "5",
+        "version": "1",
+        "params": [
+            {
+              "code": "1",
+              "description": "Test",
+              "longDescription": null,
+              "param1": "",
+              "param2": "",
+              "param3": ""
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "activityCode" : "CLIENT_OFF_BOARDING",
+        "entityName": "Coca Cola Group",
+        "entityId": "6",
+        "entityType": "C",
+        "activityId": "6",
+        "version": "1",
+        "params": [
+            {
+              "code": "1",
+              "description": "Test",
+              "longDescription": null,
+              "param1": "",
+              "param2": "",
+              "param3": ""
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "activityCode" : "CLIENT_OFF_BOARDING",
+        "entityName": "Coca Cola Group",
+        "entityId": "7",
+        "entityType": "C",
+        "activityId": "7",
+        "version": "1",
+        "params": [
+            {
+              "code": "1",
+              "description": "Test",
+              "longDescription": null,
+              "param1": "",
+              "param2": "",
+              "param3": ""
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "activityCode" : "CLIENT_OFF_BOARDING",
+        "entityName": "Coca Cola Group",
+        "entityId": "8",
+        "entityType": "C",
+        "activityId": "8",
+        "version": "1",
+        "params": [
+            {
+              "code": "1",
+              "description": "Test",
+              "longDescription": null,
+              "param1": "",
+              "param2": "",
+              "param3": ""
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "activityCode" : "DEAL_PIPELINE",
+        "entityName": "Coca Cola Group",
+        "entityId": "9",
+        "entityType": "P",
+        "activityId": "9",
+        "version": "1",
+        "params": [
+            {
+              "code": "1",
+              "description": "Test",
+              "longDescription": null,
+              "param1": "",
+              "param2": "",
+              "param3": ""
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "activityCode" : "DEAL_PIPELINE",
+        "entityName": "Coca Cola Group",
+        "entityId": "10",
+        "entityType": "P",
+        "activityId": "10",
+        "version": "1",
+        "params": [
+            {
+              "code": "1",
+              "description": "Test",
+              "longDescription": null,
+              "param1": "",
+              "param2": "",
+              "param3": ""
+            }
+        ]
+    }
+    ]
+}

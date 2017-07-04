@@ -1,0 +1,77 @@
+{
+    "id": 1,
+    "offboarding/locationCaseInfo": null,
+    "offboarding/clientAccounts": [{
+        "accountUniqueId": "45741",
+        "changeKey": "1110",
+        "activityId": "6001",
+        "tpSystem": "EBBS",
+        "tpGroup": "Core Banking",
+        "tpAccountNo": "9663118",
+        "tpAccountName": "CUST NAME 28050905",
+        "id": "4574111106001EBBS"
+    }, {
+        "accountUniqueId": "45740",
+        "changeKey": "1110",
+        "activityId": "6001",
+        "tpSystem": "EBBS",
+        "tpGroup": "Core Banking",
+        "tpAccountNo": "9663118",
+        "tpAccountName": "CUST NAME 28050905",
+        "id": "4574011106001EBBS"
+    }, {
+        "accountUniqueId": "45743",
+        "changeKey": "1110",
+        "activityId": "6001",
+        "tpSystem": "EBBS",
+        "tpGroup": "Core Banking",
+        "tpAccountNo": "9663118",
+        "tpAccountName": "CUST NAME 28050905",
+        "id": "4574311106001EBBS"
+    }, {
+        "accountUniqueId": "45746",
+        "changeKey": "1110",
+        "activityId": "6001",
+        "tpSystem": "EBBS",
+        "tpGroup": "Core Banking",
+        "tpAccountNo": "9663118",
+        "tpAccountName": "CUST NAME 28050905",
+        "id": "4574611106001EBBS"
+    }, {
+        "accountUniqueId": "45744",
+        "changeKey": "1110",
+        "activityId": "6001",
+        "tpSystem": "WISE",
+        "tpGroup": "S2B",
+        "tpAccountNo": "28050905",
+        "tpAccountName": "CUST NAME 31927402",
+        "id": "4574411106001WISE"
+    }, {
+        "accountUniqueId": "45742",
+        "changeKey": "1110",
+        "activityId": "6001",
+        "tpSystem": "WISE",
+        "tpGroup": "S2B",
+        "tpAccountNo": "28050905",
+        "tpAccountName": "CUST NAME 31927402",
+        "id": "4574211106001WISE"
+    }, {
+        "accountUniqueId": "45739",
+        "changeKey": "1110",
+        "activityId": "6001",
+        "tpSystem": "WISE",
+        "tpGroup": "S2B",
+        "tpAccountNo": "28050905",
+        "tpAccountName": "CUST NAME 31927402",
+        "id": "4573911106001WISE"
+    }, {
+        "accountUniqueId": "45745",
+        "changeKey": "1110",
+        "activityId": "6001",
+        "tpSystem": "WISE",
+        "tpGroup": "S2B",
+        "tpAccountNo": "28050905",
+        "tpAccountName": "CUST NAME 31927402",
+        "id": "4574511106001WISE"
+    }]
+}

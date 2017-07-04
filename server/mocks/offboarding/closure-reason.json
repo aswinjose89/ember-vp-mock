@@ -1,0 +1,12 @@
+{
+	"offboarding/closureReasons": [{
+		"id": 34,
+		"reasonId": 66,
+		"reason": "something reason 1"
+	},
+	{
+		"id": 35,
+		"reasonId": 67,
+		"reason": "something reason 2"
+	}]
+}

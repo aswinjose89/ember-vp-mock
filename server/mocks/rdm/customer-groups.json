@@ -1,0 +1,268 @@
+{
+  "customerGroups": [
+    {
+      "id": "1",
+      "customerTypeCode": "1",
+      "customerDescription": "Private Company",
+      "customerGroup": "CO",
+      "customerGroupCode": "CO",
+      "regulatedStatus": "Non Mitigant"
+    },
+    {
+      "id": "2",
+      "customerTypeCode": "2",
+      "customerDescription": "Partnership",
+      "customerGroup": "CO",
+      "customerGroupCode": "CO",
+      "regulatedStatus": "Non Mitigant"
+    },
+    {
+      "id": "3",
+      "customerTypeCode": "3",
+      "customerDescription": "Unincorporated Business",
+      "customerGroup": "CO",
+      "customerGroupCode": "CO",
+      "regulatedStatus": "Non Mitigant"
+    },
+    {
+      "id": "4",
+      "customerTypeCode": "4",
+      "customerDescription": "Publicly quoted company on a recognised exchange as listed in Appendix G",
+      "customerGroup": "CO",
+      "customerGroupCode": "CO",
+      "regulatedStatus": "Mitigant"
+    },
+    {
+      "id": "5",
+      "customerTypeCode": "5",
+      "customerDescription": "Majority Owned Subsidiary of a Publicly quoted company on a recognised exchange as listed in Appendix G",
+      "customerGroup": "CO",
+      "customerGroupCode": "CO",
+      "regulatedStatus": "Mitigant"
+    },
+    {
+      "id": "6",
+      "customerTypeCode": "6",
+      "customerDescription": "Company subject to statutory licensiing and regulation of their industry (from low / medium risk jurisdictions)",
+      "customerGroup": "CO",
+      "customerGroupCode": "CO",
+      "regulatedStatus": "Non Mitigant"
+    },
+    {
+      "id": "7",
+      "customerTypeCode": "7",
+      "customerDescription": "Government",
+      "customerGroup": "CO",
+      "customerGroupCode": "CO",
+      "regulatedStatus": "Mitigant"
+    },
+    {
+      "id": "8",
+      "customerTypeCode": "8",
+      "customerDescription": "Public Sector Body",
+      "customerGroup": "CO",
+      "customerGroupCode": "CO",
+      "regulatedStatus": "Mitigant"
+    },
+    {
+      "id": "9",
+      "customerTypeCode": "9",
+      "customerDescription": "Statutory Corporation",
+      "customerGroup": "CO",
+      "customerGroupCode": "CO",
+      "regulatedStatus": "Mitigant"
+    },
+    {
+      "id": "10",
+      "customerTypeCode": "10",
+      "customerDescription": "State Owned Company",
+      "customerGroup": "CO",
+      "customerGroupCode": "CO",
+      "regulatedStatus": "Mitigant"
+    },
+    {
+      "id": "11",
+      "customerTypeCode": "11",
+      "customerDescription": "Majority Owned Subsidiary of State Owned Company",
+      "customerGroup": "CO",
+      "customerGroupCode": "CO",
+      "regulatedStatus": "Mitigant"
+    },
+    {
+      "id": "12",
+      "customerTypeCode": "12",
+      "customerDescription": "Central Bank",
+      "customerGroup": "CO",
+      "customerGroupCode": "CO",
+      "regulatedStatus": "Mitigant"
+    },
+    {
+      "id": "13",
+      "customerTypeCode": "13",
+      "customerDescription": "Supra-National include development organisations",
+      "customerGroup": "CO",
+      "customerGroupCode": "CO",
+      "regulatedStatus": "Mitigant"
+    },
+    {
+      "id": "14",
+      "customerTypeCode": "14",
+      "customerDescription": "Significant and well established private entity",
+      "customerGroup": "CO",
+      "customerGroupCode": "CO",
+      "regulatedStatus": "Non Mitigant"
+    },
+    {
+      "id": "15",
+      "customerTypeCode": "15",
+      "customerDescription": "Majority Owned Subsidiary of Significant and well-established Private Entity",
+      "customerGroup": "CO",
+      "customerGroupCode": "CO",
+      "regulatedStatus": "Non Mitigant"
+    },
+    {
+      "id": "16",
+      "customerTypeCode": "16",
+      "customerDescription": "Trust, Foundation, or similar entity",
+      "customerGroup": "CO",
+      "customerGroupCode": "CO",
+      "regulatedStatus": "Non Mitigant"
+    },
+    {
+      "id": "17",
+      "customerTypeCode": "17",
+      "customerDescription": "Registered Non-Government Organizations / Charities including Religious bodies and places of worship",
+      "customerGroup": "CO",
+      "customerGroupCode": "CO",
+      "regulatedStatus": "Non Mitigant"
+    },
+    {
+      "id": "18",
+      "customerTypeCode": "18",
+      "customerDescription": "Unregistered Non-Government Organizations / Charities (Private Company) including Religious bodies and places of worship",
+      "customerGroup": "CO",
+      "customerGroupCode": "CO",
+      "regulatedStatus": "Non Mitigant"
+    },
+    {
+      "id": "19",
+      "customerTypeCode": "20",
+      "customerDescription": "Unregistered Non-Government Organizations / Charities (Trust) including Religious bodies and places of worship",
+      "customerGroup": "CO",
+      "customerGroupCode": "CO",
+      "regulatedStatus": "Non Mitigant"
+    },
+    {
+      "id": "20",
+      "customerTypeCode": "21",
+      "customerDescription": "Unregistered Non-Government Organizations / Charities (Clubs / Society) including Religious bodies and places of worship",
+      "customerGroup": "CO",
+      "customerGroupCode": "CO",
+      "regulatedStatus": "Non Mitigant"
+    },
+    {
+      "id": "21",
+      "customerTypeCode": "22",
+      "customerDescription": "Religious Body or Place of Worship",
+      "customerGroup": "CO",
+      "customerGroupCode": "CO",
+      "regulatedStatus": "Non Mitigant"
+    },
+    {
+      "id": "22",
+      "customerTypeCode": "23",
+      "customerDescription": "Club or Society",
+      "customerGroup": "CO",
+      "customerGroupCode": "CO",
+      "regulatedStatus": "Non Mitigant"
+    },
+    {
+      "id": "23",
+      "customerTypeCode": "1",
+      "customerDescription": "Bank",
+      "customerGroup": "FI",
+      "customerGroupCode": "FI",
+      "regulatedStatus": "Mitigant"
+    },
+    {
+      "id": "24",
+      "customerTypeCode": "2",
+      "customerDescription": "Investment Fund",
+      "customerGroup": "FI",
+      "customerGroupCode": "FI",
+      "regulatedStatus": "Non Mitigant"
+    },
+    {
+      "id": "25",
+      "customerTypeCode": "3",
+      "customerDescription": "Insurance Company",
+      "customerGroup": "FI",
+      "customerGroupCode": "FI",
+      "regulatedStatus": "Mitigant"
+    },
+    {
+      "id": "26",
+      "customerTypeCode": "4",
+      "customerDescription": "Regulated Fund Manager",
+      "customerGroup": "FI",
+      "customerGroupCode": "FI",
+      "regulatedStatus": "Mitigant"
+    },
+    {
+      "id": "27",
+      "customerTypeCode": "5",
+      "customerDescription": "Broker, Dealer",
+      "customerGroup": "FI",
+      "customerGroupCode": "FI",
+      "regulatedStatus": "Mitigant"
+    },
+    {
+      "id": "28",
+      "customerTypeCode": "6",
+      "customerDescription": "Finance Company",
+      "customerGroup": "FI",
+      "customerGroupCode": "FI",
+      "regulatedStatus": "Non Mitigant"
+    },
+    {
+      "id": "29",
+      "customerTypeCode": "8",
+      "customerDescription": "Regulated Fund",
+      "customerGroup": "FI",
+      "customerGroupCode": "FI",
+      "regulatedStatus": "Mitigant"
+    },
+    {
+      "id": "30",
+      "customerTypeCode": "9",
+      "customerDescription": "Unregulated Fund",
+      "customerGroup": "FI",
+      "customerGroupCode": "FI",
+      "regulatedStatus": "Non Mitigant"
+    },
+    {
+      "id": "31",
+      "customerTypeCode": "24",
+      "customerDescription": "Others",
+      "customerGroup": "CO",
+      "customerGroupCode": "CO",
+      "regulatedStatus": "Non Mitigant"
+    },
+    {
+      "id": "32",
+      "customerTypeCode": "7",
+      "customerDescription": "Others",
+      "customerGroup": "FI",
+      "customerGroupCode": "FI",
+      "regulatedStatus": "Non Mitigant"
+    },
+    {
+      "id": "33",
+      "customerTypeCode": "25",
+      "customerDescription": "Publicly quoted companies with significant private ownership  on a recognized exchange as listed in Appendix Gâ€™",
+      "customerGroup": "CO",
+      "customerGroupCode": "CO",
+      "regulatedStatus": "Mitigant"
+    }
+  ]
+}

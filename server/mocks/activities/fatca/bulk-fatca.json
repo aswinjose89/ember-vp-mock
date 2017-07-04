@@ -1,0 +1,23 @@
+{
+	"meta": {
+		"totalCount": 30,
+		"message": "FATCA Bulk Clients info retrieved successfully.",
+		"success": true
+	},
+	"bulkFatcaList": [{
+		"id": 11173776,
+		"taskId": 3039553,
+		"giinStatus": "",
+		"caseVersion": 4,
+		"fatcaId": 177700,
+		"initialStartOn": 1212121212,
+		"caseId": "FATCA00002120",
+		"leId": 11173776,
+		"reportToIrs": "No",
+		"assignedOn": 12121212,
+		"clientName": "L NAME 11173776",
+		"fatcaStatus": "US Person - exempt from reporting",
+		"documentCategory": "W-9",
+		"entityType": "C"
+	}]
+}

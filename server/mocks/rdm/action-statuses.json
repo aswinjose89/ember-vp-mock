@@ -1,0 +1,24 @@
+{
+  "actionStatuses": [
+    {
+      "code": "1",
+      "description": "Pending for docs from Vendor"
+    },
+    {
+      "code": "2",
+      "description": "Pending for docs from RM / document collection"
+    },
+    {
+      "code": "3",
+      "description": "WIP with CET"
+    },
+    {
+      "code": "4",
+      "description": "Pending for Closure (with / without SCI)"
+    },
+    {
+      "code": "5",
+      "description": "Pending for System Issue"
+    }
+  ]
+}

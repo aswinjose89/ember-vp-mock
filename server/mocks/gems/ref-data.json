@@ -1,0 +1,89 @@
+{
+  "refDatas": {
+    "id": 1,
+    "products": [
+      {
+        "label": "Cash Management",
+          "action":"updateProducts"
+      },
+      {
+        "label": "Channels",
+          "action":"updateProducts"
+      },
+      {
+        "label": "Corporate Finance",
+          "action":"updateProducts"
+      },
+      {
+        "label": "Financial Markets",
+          "action":"updateProducts"
+      }
+    ],
+    "subProducts": [
+      {
+        "label": "Account Services"
+      },
+      {
+        "label": "Clearing"
+      },
+      {
+        "label": "Collections"
+      },
+      {
+        "label": "Liquidity Management"
+      }
+    ],
+    "segments": [
+      {
+        "code": "BUSCLIENTS",
+        "label": "Business Clients",
+          "action":"updateSegments"
+      },
+      {
+        "code": "MIDMARK",
+        "label": "Middle Market",
+          "action":"updateSegments"
+      },
+      {
+        "code": "LOCCORP",
+        "label": "Local Corporate",
+          "action":"updateSegments"
+      },
+      {
+        "code": "FININS",
+        "label": "Financial Institution",
+          "action":"updateSegments"
+      }
+    ],
+    "subSegments": [
+      {
+        "code": "CR",
+        "label": "SALES GROUPING"
+      },
+      {
+        "code": "RISK",
+        "label": "RISK HIERARCHY"
+      },
+      {
+        "code": "IND",
+        "label": "Industries group"
+      },
+      {
+        "code": "VPPG",
+        "label": "Vendor Prepayment Programme Group"
+      }
+    ],
+    "viewTypes": [
+      {
+        "code": "QC",
+        "label": "Query Classification",
+          "action":"updateGrid"
+      },
+      {
+        "code": "SI",
+        "label": "SLA Indicator",
+          "action":"updateGrid"
+      }
+    ]
+  }
+}

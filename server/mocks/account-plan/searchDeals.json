@@ -1,0 +1,52 @@
+{
+	"dealList": [{
+		"id": "12376123451235417354",
+		"operation": null,
+		"sequence": 2197057092989164,
+		"revenue": 1,
+		"productGroup": "TB Client",
+		"status": "Won - Mandated",
+		"wonLostDate": 1407240387000,
+		"reason": "Pricing Won",
+		"dealType": "PUBLIC",
+		"product": null,
+		"val": "201405301002234635",
+		"topDeal": null,
+		"hasDealAccess": true,
+		"name": "New HKD CASA",
+		"enableEditor": true
+	}, {
+		"id": "12376123451235417355",
+		"operation": null,
+		"sequence": 2197057092989164,
+		"revenue": 2,
+		"productGroup": "TB Client One",
+		"status": "Won - Mandated",
+		"wonLostDate": 1407240387000,
+		"reason": "Pricing Won",
+		"dealType": "PUBLIC",
+		"product": null,
+		"val": "201405301002234635",
+		"topDeal": null,
+		"hasDealAccess": true,
+		"name": "New HKD CASA",
+		"enableEditor": true
+	}, {
+		"id": "12376123451235417356",
+		"operation": null,
+		"sequence": 2197057092989164,
+		"revenue": 3,
+		"productGroup": "TB Client Two",
+		"status": "Won - Mandated",
+		"wonLostDate": 1407240387000,
+		"reason": "Pricing Won",
+		"dealType": "PUBLIC",
+		"product": null,
+		"val": "201405301002234635",
+		"topDeal": null,
+		"hasDealAccess": true,
+		"name": "New HKD CASA",
+		"enableEditor": true
+	}]
+
+}

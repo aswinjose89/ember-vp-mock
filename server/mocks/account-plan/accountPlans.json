@@ -1,0 +1,101 @@
+{
+  "accountPlanLists": [
+    {
+      "accountPlanName": "GRP NAME 990037006_JUL_2015",
+      "createdBy": "1297014",
+      "createdByName": " Sean Robert Wallace",
+      "createdDate": 1418572800000,
+      "status": "Draft",
+      "statusCode": "0001",
+      "lastModifiedDate": 1444040569000,
+      "approvedDate": null,
+      "approvedBy": null,
+      "approvedByName": null,
+      "clientId": null,
+      "clientName": null,
+      "groupId": null,
+      "groupName": null,
+      "template": "FI Banks",
+      "id": "20141215100681391",
+      "version": "TXN201507150102286391258193491",
+      "entitlement": {
+        "view": false,
+        "edit": false,
+        "abort": false,
+        "unlock": false,
+        "submit": false,
+        "hasPrivateDealAccess": false,
+        "id": "E20141215100681391"
+      },
+      "accountPlanType": "FI Banks",
+      "apfSchedule": true,
+      "apfScheduleDate": 1443974400000,
+      "apfCompletionDate": 1443974400000,
+      "apEntitlement": "E20141215100681391"
+    }, {
+      "accountPlanName": "GRP NAME 990037006_MAR_2015",
+      "createdBy": "1001049",
+      "createdByName": null,
+      "createdDate": 1419868800000,
+      "status": "In Progress",
+      "statusCode": "0002",
+      "lastModifiedDate": 1425571200000,
+      "approvedDate": null,
+      "approvedBy": null,
+      "approvedByName": null,
+      "clientId": null,
+      "clientName": null,
+      "groupId": null,
+      "groupName": null,
+      "template": "FI Funds",
+      "id": "20141230100737855",
+      "version": "TXN201503061949143611264273463",
+      "entitlement": {
+        "view": false,
+        "edit": false,
+        "abort": false,
+        "unlock": false,
+        "submit": false,
+        "hasPrivateDealAccess": false,
+        "id": "E20141230100737855"
+      },
+      "accountPlanType": "FI Funds",
+      "apfSchedule": null,
+      "apfScheduleDate": 1419868800000,
+      "apfCompletionDate": 1419868800000,
+      "apEntitlement": "E20141230100737855"
+    }
+  ],
+  "apEntitlements": [
+    {
+      "view": true,
+      "edit": true,
+      "abort": true,
+      "unlock": true,
+      "submit": true,
+      "hasPrivateDealAccess": true,
+      "id": "E20141215100681391"
+    },
+    {
+      "view": false,
+      "edit": false,
+      "abort": false,
+      "unlock": false,
+      "submit": false,
+      "hasPrivateDealAccess": false,
+      "id": "E20141230100737855"
+    }
+  ],
+  "meta": {
+    "paginationDetails": {
+      "spgno": 1,
+      "reccount": 50,
+      "lastPage": true,
+      "totalRecords": 0
+    },
+    "tooltipApLite": true,
+    "tooltipApUltraLite": true,
+    "createMM": true,
+    "create": true
+  }
+}

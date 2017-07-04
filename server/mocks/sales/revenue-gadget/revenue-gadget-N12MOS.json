@@ -1,0 +1,100 @@
+{
+    "revenueMetric": [
+        {
+            "revenueAmount": -4,
+            "id": 1,
+            "productAreaCode": "Pipeline",
+            "totalDeals": "12",
+            "valueColor": "#2E2EFE",
+            "monthId": "201510"
+        }, 
+        {
+            "revenueAmount": 5,
+            "id": 2,
+            "productAreaCode": "Pipeline",
+            "totalDeals": "122",
+            "valueColor": "#2E2EFE",
+            "monthId": "201511"
+        }, 
+        {
+            "revenueAmount": 6,
+            "id": 3,
+            "productAreaCode": "Pipeline",
+            "totalDeals": "233",
+            "valueColor": "#2E2EFE",
+            "monthId": "201512"
+        }, 
+        {
+            "revenueAmount": 7,
+            "id": 4,
+            "productAreaCode": "Pipeline",
+            "totalDeals": "112",
+            "valueColor": "#2E2EFE",
+            "monthId": "201601"
+        }, 
+        {
+            "revenueAmount": 8,
+            "id": 5,
+            "productAreaCode": "Pipeline",
+            "totalDeals": "788",
+            "valueColor": "#2E2EFE",
+            "monthId": "201602"
+        }, 
+        {
+            "revenueAmount": 9,
+            "id": 6,
+            "productAreaCode": "Pipeline",
+            "totalDeals": "312",
+            "valueColor": "#2E2EFE",
+            "monthId": "201603"
+        }, 
+        {
+            "revenueAmount": 6,
+            "id": 7,
+            "productAreaCode": "Pipeline",
+            "totalDeals": "312",
+            "valueColor": "#2E2EFE",
+            "monthId": "201604"
+        }, 
+        {
+            "revenueAmount": 7,
+            "id": 8,
+            "productAreaCode": "Pipeline",
+            "totalDeals": "102",
+            "valueColor": "#2E2EFE",
+            "monthId": "201605"
+        }, 
+        {
+            "revenueAmount": 5,
+            "id": 9,
+            "productAreaCode": "Pipeline",
+            "totalDeals": "33",
+            "valueColor": "#2E2EFE",
+            "monthId": "201606"
+        }, 
+        {
+            "revenueAmount": 8,
+            "id": 10,
+            "productAreaCode": "Pipeline",
+            "totalDeals": "44",
+            "valueColor": "#2E2EFE",
+            "monthId": "201607"
+        }, 
+        {
+            "revenueAmount": 4,
+            "id": 11,
+            "productAreaCode": "Pipeline",
+            "totalDeals": "55",
+            "valueColor": "#2E2EFE",
+            "monthId": "201608"
+        }, 
+        {
+            "revenueAmount": 8,
+            "id": 12,
+            "productAreaCode": "Pipeline",
+            "totalDeals": "11",
+            "valueColor": "#2E2EFE",
+            "monthId": "201609"
+        }
+    ]
+}

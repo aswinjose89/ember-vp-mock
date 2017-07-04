@@ -1,0 +1,602 @@
+{
+  "addressTypes": [
+    {
+      "code": 10011,
+      "description": "RESIDENTIAL"
+    },
+    {
+      "code": 10012,
+      "description": "REGISTERED"
+    }
+  ],
+  "caseStatuses": [
+    {
+      "code": 10123,
+      "description": "INPROGRESS-INITIATED"
+    },
+    {
+      "code": 10139,
+      "description": "PENDING-INITIATION"
+    },
+    {
+      "code": 10141,
+      "description": "INPROGRESS-MADE"
+    },
+    {
+      "code": 10142,
+      "description": "INPROGRESS-REJECTED"
+    },
+    {
+      "code": 10143,
+      "description": "APPROVED-APPROVED"
+    }
+  ],
+  "caseTypes": [
+    {
+      "code": 10157,
+      "description": "DATAENRICHMENT"
+    },
+    {
+      "code": 10158,
+      "description": "ADDRP"
+    },
+    {
+      "code": 10159,
+      "description": "EDITRP"
+    },
+    {
+      "code": 10160,
+      "description": "CLIENTLINKAGE"
+    }
+  ],
+  "cddCaseStatuses": [
+    {
+      "code": 10028,
+      "description": "Declined"
+    },
+    {
+      "code": 10029,
+      "description": "Overdue For Review"
+    },
+    {
+      "code": 10030,
+      "description": "Under Review"
+    },
+    {
+      "code": 10031,
+      "description": "In Progress-On Hold"
+    },
+    {
+      "code": 10032,
+      "description": "Exempted"
+    },
+    {
+      "code": 10033,
+      "description": "In Progress  "
+    },
+    {
+      "code": 10034,
+      "description": "Under Review-On Hold"
+    },
+    {
+      "code": 10035,
+      "description": "EXITED - Approved"
+    },
+    {
+      "code": 10036,
+      "description": "EXITED - Overdue For Review"
+    },
+    {
+      "code": 10037,
+      "description": "Draft"
+    },
+    {
+      "code": 10038,
+      "description": "Rejected"
+    },
+    {
+      "code": 10039,
+      "description": "Closed"
+    },
+    {
+      "code": 10040,
+      "description": "Approved"
+    },
+    {
+      "code": 10041,
+      "description": "Rejected On Demand"
+    }
+  ],
+  "cddCaseTypes": [
+    {
+      "code": 10121,
+      "description": "CDD"
+    },
+    {
+      "code": 10122,
+      "description": "GIC"
+    },
+    {
+      "code": 10130,
+      "description": "GA"
+    },
+    {
+      "code": 10131,
+      "description": "BBA"
+    }
+  ],
+  "clientStatuses": [
+    {
+      "code": 10153,
+      "description": "ACTIVE"
+    },
+    {
+      "code": 10154,
+      "description": "IN-ACTIVE"
+    },
+    {
+      "code": 10155,
+      "description": "DRAFT"
+    }
+  ],
+  "customerTypes": [
+    {
+      "code": 10127,
+      "description": "Others"
+    },
+    {
+      "code": 10128,
+      "description": "then Unregistered Non-Government Organizations / Charities (Private Company) including Religious bodies and places of worship"
+    },
+    {
+      "code": 10129,
+      "description": "then Unregistered Non-Government Organizations / Charities (Trust) including Religious bodies and places of worship"
+    },
+    {
+      "code": 10042,
+      "description": "Private Company"
+    },
+    {
+      "code": 10043,
+      "description": "Partnership"
+    },
+    {
+      "code": 10044,
+      "description": "Unincorporated Business"
+    },
+    {
+      "code": 10045,
+      "description": "Publicly quoted company on a recognised exchange as listed in Appendix G"
+    },
+    {
+      "code": 10046,
+      "description": "Majority Owned Subsidiary of a Publicly quoted company on a recognised exchange as listed in Appendix G"
+    },
+    {
+      "code": 10047,
+      "description": "Company subject to statutory licensiing and regulation of their industry (from low / medium risk jurisdictions)"
+    },
+    {
+      "code": 10048,
+      "description": "Government"
+    },
+    {
+      "code": 10049,
+      "description": "Public Sector Body"
+    },
+    {
+      "code": 10050,
+      "description": "Statutory Corporation"
+    },
+    {
+      "code": 10051,
+      "description": "State Owned Company"
+    },
+    {
+      "code": 10052,
+      "description": "Majority Owned Subsidiary of State Owned Company"
+    },
+    {
+      "code": 10053,
+      "description": "Central Bank"
+    },
+    {
+      "code": 10054,
+      "description": "Supra-National include development organisations"
+    },
+    {
+      "code": 10055,
+      "description": "Significant and well established private entity"
+    },
+    {
+      "code": 10056,
+      "description": "Majority Owned Subsidiary of Significant and well-established Private Entity"
+    },
+    {
+      "code": 10057,
+      "description": "Trust, Foundation, or similar entity"
+    },
+    {
+      "code": 10058,
+      "description": "Registered Non-Government Organizations / Charities including Religious bodies and places of worship"
+    },
+    {
+      "code": 10059,
+      "description": "Unregistered Non-Government Organizations / Charities (Private Company) including Religious bodies and places of worship"
+    },
+    {
+      "code": 10060,
+      "description": "Unregistered Non-Government Organizations / Charities (Trust) including Religious bodies and places of worship"
+    },
+    {
+      "code": 10061,
+      "description": "Unregistered Non-Government Organizations / Charities (Clubs / Society) including Religious bodies and places of worship"
+    },
+    {
+      "code": 10062,
+      "description": "Religious Body or Place of Worship"
+    },
+    {
+      "code": 10063,
+      "description": "Club or Society"
+    },
+    {
+      "code": 10064,
+      "description": "Bank"
+    },
+    {
+      "code": 10065,
+      "description": "Investment Fund"
+    },
+    {
+      "code": 10066,
+      "description": "Insurance Company"
+    },
+    {
+      "code": 10067,
+      "description": "Regulated Fund Manager"
+    },
+    {
+      "code": 10068,
+      "description": "Broker, Dealer"
+    },
+    {
+      "code": 10069,
+      "description": "Finance Company"
+    },
+    {
+      "code": 10070,
+      "description": "Regulated Fund"
+    },
+    {
+      "code": 10071,
+      "description": "Unregulated Fund"
+    },
+    {
+      "code": 10072,
+      "description": "Publicly quoted companies with significant private ownership  on a recognized exchange as listed in Appendix G"
+    },
+    {
+      "code": 10073,
+      "description": "Individual"
+    }
+  ],
+  "genderTypes": [
+    {
+      "code": 10132,
+      "description": "MALE"
+    },
+    {
+      "code": 10133,
+      "description": "FEMALE"
+    }
+  ],
+  "contactTypes": [
+    {
+      "code": 10018,
+      "description": "Home phone"
+    },
+    {
+      "code": 10019,
+      "description": "Office phone"
+    },
+    {
+      "code": 10020,
+      "description": "Mobile Phone"
+    },
+    {
+      "code": 10021,
+      "description": "Fax"
+    },
+    {
+      "code": 10022,
+      "description": "email "
+    }
+  ],
+  "documentTypes": [
+    {
+      "code": 10013,
+      "description": "PASSPORT"
+    },
+    {
+      "code": 10014,
+      "description": "DRIVING LICENSE"
+    },
+    {
+      "code": 10015,
+      "description": "NATIONAL IDENTITY CARD"
+    },
+    {
+      "code": 10016,
+      "description": "ID CARD ISSUED BY ELECTORAL OFFICE"
+    },
+    {
+      "code": 10017,
+      "description": "OTHER RELIABLE SOURCE"
+    }
+  ],
+  "linkStatuses": [
+    {
+      "code": 10149,
+      "description": "ACTIVE"
+    },
+    {
+      "code": 10150,
+      "description": "IN-ACTIVE"
+    },
+    {
+      "code": 10152,
+      "description": "DELINKED"
+    },
+    {
+      "code": 10156,
+      "description": "DRAFT"
+    }
+  ],
+  "linkTypes": [
+    {
+      "code": 10009,
+      "description": "LINKED"
+    },
+    {
+      "code": 10010,
+      "description": "SELF"
+    }
+  ],
+  "rpRelationshipTypes": [
+    {
+      "code": 10087,
+      "description": "Beneficial Owners"
+    },
+    {
+      "code": 10088,
+      "description": "ShareHolders with Voting rights"
+    },
+    {
+      "code": 10089,
+      "description": "Trustees or Settlers"
+    },
+    {
+      "code": 10090,
+      "description": "Trustees and class of beneficiaries"
+    },
+    {
+      "code": 10091,
+      "description": "Significant owners"
+    },
+    {
+      "code": 10092,
+      "description": "Name for CBR evaluations"
+    },
+    {
+      "code": 10093,
+      "description": "Name for MSB evaluations"
+    },
+    {
+      "code": 10094,
+      "description": "Partners"
+    },
+    {
+      "code": 10095,
+      "description": "Share Holders"
+    },
+    {
+      "code": 10096,
+      "description": "Lead Sponsors"
+    },
+    {
+      "code": 10097,
+      "description": "IndividualGIC"
+    },
+    {
+      "code": 10098,
+      "description": "IndividualCDD"
+    },
+    {
+      "code": 10085,
+      "description": "Authorized Signators"
+    },
+    {
+      "code": 10086,
+      "description": "Screenable Names"
+    },
+    {
+      "code": 10099,
+      "description": "PEP By Virtue"
+    },
+    {
+      "code": 10100,
+      "description": "PEP By Represenative or Appointee"
+    },
+    {
+      "code": 10101,
+      "description": "Individual Operating Accounts"
+    },
+    {
+      "code": 10102,
+      "description": "Officers for Identity Verification"
+    },
+    {
+      "code": 10103,
+      "description": "Trustees, Settlors and Beneficiaries Id Verification"
+    },
+    {
+      "code": 10104,
+      "description": "Directors with Voting Rights"
+    },
+    {
+      "code": 10105,
+      "description": "Controlling Directors with Voting Rights"
+    },
+    {
+      "code": 10106,
+      "description": "Account Operating Trustees"
+    },
+    {
+      "code": 10107,
+      "description": "Controlling Directors Including Managing Director"
+    },
+    {
+      "code": 10108,
+      "description": "Related Parties"
+    },
+    {
+      "code": 10109,
+      "description": "All Beneficial Owners"
+    },
+    {
+      "code": 10110,
+      "description": "All Shareholders With Share10 Capital Voting Rights"
+    },
+    {
+      "code": 10111,
+      "description": "All Shareholders With Share10 Voting Rights"
+    },
+    {
+      "code": 10112,
+      "description": "All Minority Shareholders With Share25 Capital Voting Rights"
+    },
+    {
+      "code": 10113,
+      "description": "All Minority Shareholders With Share10 Capital Voting Rights"
+    },
+    {
+      "code": 10114,
+      "description": "All Beneficial Owners With Minority Shareholders"
+    },
+    {
+      "code": 10115,
+      "description": "All Customer AML Officer Name"
+    },
+    {
+      "code": 10116,
+      "description": "All Beneficial Owners Doc Attach"
+    },
+    {
+      "code": 10117,
+      "description": "All Verification Selector Beneficiaries Doc Attach"
+    },
+    {
+      "code": 10118,
+      "description": "All Shareholders and Beneficiary Owners to 10% level"
+    },
+    {
+      "code": 10119,
+      "description": "Director or a member of Executive Management"
+    },
+    {
+      "code": 10120,
+      "description": "Names of shareholders and beneficial owners to 25% level"
+    },
+    {
+      "code": 10074,
+      "description": "All Authorised Signatories"
+    },
+    {
+      "code": 10075,
+      "description": "Shareholders and Beneficial Owners"
+    },
+    {
+      "code": 10076,
+      "description": "Minority Shareholders and Beneficial Owners"
+    },
+    {
+      "code": 10077,
+      "description": "Directors"
+    },
+    {
+      "code": 10078,
+      "description": "Executive Management"
+    },
+    {
+      "code": 10079,
+      "description": "Shareholders and Beneficial Owners of Private Ownership"
+    },
+    {
+      "code": 10080,
+      "description": "Shareholders of Private Ownership"
+    },
+    {
+      "code": 10081,
+      "description": "ActualPEP"
+    },
+    {
+      "code": 10082,
+      "description": "RelatedPEP"
+    },
+    {
+      "code": 10083,
+      "description": "Officers"
+    },
+    {
+      "code": 10084,
+      "description": "Protectors"
+    }
+  ],
+  "rpCategories": [
+    {
+      "code": 10001,
+      "description": "INDIVIDUAL"
+    },
+    {
+      "code": 10002,
+      "description": "ENTITY"
+    }
+  ],
+  "rpStatuses": [
+    {
+      "code": 10003,
+      "description": "ACTIVE"
+    },
+    {
+      "code": 10004,
+      "description": "FOR ENRICHMENT"
+    },
+    {
+      "code": 10005,
+      "description": "IN-ACTIVE"
+    },
+    {
+      "code": 10134,
+      "description": "DRAFT"
+    }
+  ],
+  "sourceSystems": [
+    {
+      "code": 10006,
+      "description": "eCDD+"
+    },
+    {
+      "code": 10007,
+      "description": "iCDD"
+    },
+    {
+      "code": 10008,
+      "description": "CUPID"
+    },
+    {
+      "code": 10148,
+      "description": "RPDM"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+     "rmUsers": [{
+          "id":1,
+          "empName": "Syed Abdul Hasib ",
+          "empPsId": "1519456",
+          "empCode": "432",
+          "empBookingLocation": "MY/SCMY"
+     }, {
+          "id": 2,
+          "empName": "Prasad Bhaskar",
+          "empPsId": "1536297",
+          "empCode": "22",
+          "empBookingLocation": "MY/SCMY"
+     }],
+     "meta": {
+          "totalRecords": 99
+     }
+}

@@ -1,0 +1,120 @@
+{
+    "serviceRequest": {
+        "id": "asdf-23sd-sde7-wei0",
+        "xAxis": [
+            "AUG-15",
+            "SEP-15",
+            "OCT-15",
+            "NOV-16",
+            "DEC-16",
+            "JAN-16",
+            "FEB-16",
+            "MAR-16",
+            "APR-16",
+            "MAY-16",
+            "JUN-16",
+            "JUL-16"
+        ],
+        "series": [{
+                "name": "Overdue",
+                "data": [
+                    20,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    24,
+                    23,
+                    0,
+                    0,
+                    18,
+                    5
+                ]
+            },
+            {
+                "name": "Reaching Expiry",
+                "data": [
+                    27,
+                    27,
+                    27,
+                    27,
+                    27,
+                    27,
+                    2,
+                    3,
+                    26,
+                    26,
+                    2,
+                    0
+                ]
+            },
+            {
+                "name": "On Track",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    24,
+                    23,
+                    0,
+                    0,
+                    18,
+                    5
+                ]
+            }
+        ],
+        "metadata": {
+            "open": 1,
+            "completed": 1,
+            "all": 2,
+            "totalRecords": 2
+        },
+        "cases": [{
+            "id": 1,
+            "caseReference": "SR-SG-20131018-1",
+            "clientName": "Gracey Brandons",
+            "clientID": "12801000/10",
+            "subProfileId": 1,
+            "originatingCountry": "SINGAPORE",
+            "productGroup": "Securities Services",
+            "businessSegment": "Business Clients",
+            "tbSegment": "",
+            "classification": "Enquiry",
+            "status": "Overdue",
+            "currentOwnerNameAndPSID": "15433311",
+            "currentOwnerPhoneAndEmail": "Jaslin.Low@abc.com",
+            "clientContactName": "",
+            "clientContactPhoneAndEmail": "",
+            "created": "",
+            "deadline": "",
+            "FAM": "",
+            "GAM": "",
+            "description": ""
+        }, {
+            "id": 2,
+            "caseReference": "SR-SG-20131018-2",
+            "clientName": "Rosse Borne",
+            "clientID": "12801001/5",
+            "subProfileId": 2,
+            "originatingCountry": "SINGAPORE",
+            "productGroup": "Trade",
+            "businessSegment": "Middle Market",
+            "tbSegment": "",
+            "classification": "Enquiry",
+            "status": "Resolved",
+            "currentOwnerNameAndPSID": "15433311",
+            "currentOwnerPhoneAndEmail": "Jaslin.Low@abc.com",
+            "clientContactName": "",
+            "clientContactPhoneAndEmail": "",
+            "created": "",
+            "deadline": "",
+            "FAM": "",
+            "GAM": "",
+            "description": ""
+        }]
+    }
+}

@@ -1,0 +1,38 @@
+{
+  "assignedUsers": [
+    {
+      "psID": "1116288",
+      "name": "Briien",
+      "email": "",
+      "country": "SG"
+    },
+    {
+      "psID": "1245981",
+      "name": "Raman",
+      "email": "",
+      "country": "SG"
+    },
+{
+      
+      "psID": "1245982",
+      "name": "Bhasker Trident",
+      "email": "",
+      "country": "SG"
+    },
+{
+      
+      "psID": "1245983",
+      "name": "Sriram Trident",
+      "email": "",
+      "country": "SG"
+    },
+{
+      
+      "psID": "1245985",
+      "name": "Vinay Pandey",
+      "email": "",
+      "country": "SG"
+    }
+  ],
+  "role":"CCM"
+}

@@ -1,0 +1,7 @@
+{
+	"searchEntities": {
+		"id": 1,
+		"isException": true,
+		"message": "2 group have inflight cases & 3 group have exposure."
+	}
+}

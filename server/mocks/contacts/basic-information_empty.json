@@ -1,0 +1,41 @@
+{
+      "contact": {
+            "headerData":{
+                  
+               },
+            "basicInformations": {
+                 "contactAddresses": [{
+                          "type": "",
+                          "addressL1": "Building 2080, Road 2825,",
+                          "addressL2": "AL SEEF 428, P.O. BOX 2820,",
+                          "country": {"id": "AD",
+                                    "name": "ANDORRA",
+                                    "shortDesc": "ANDORRA"},
+                          "city": "MANAMA",
+                          "postCode": 600117,
+                          "phone": 12121,
+                          "addressCode": "Y",
+                          "isActive": "N",
+                          "contactId": 1234566667777777777,
+                          "id": "20151203180948174019030",
+                          "operation": "",
+                          "contactChildId": 20151203180948174019031
+                        },
+                        {
+                          "type": "Others"
+                        }]             
+                  },
+            "personalInformations": {
+                 
+           },
+           "socials":[
+          ],
+          "associatedGrids": [],
+          "callReports":[],
+          "interests":{
+            "events":[]
+          },
+          "newNotes":[]
+      }
+}
+

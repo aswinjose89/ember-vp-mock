@@ -1,0 +1,91 @@
+{
+  "signoff": {
+    "id": 11211111111178,
+    "createdBy": "1445466",
+    "createdByName":"1511257 - Saravanan Kannan ",
+    "createdDate":1475487886000,
+    "totalLimit":"123123131",
+    "modifiedBy": "1445466",
+    "modifiedByName": "McCarthy,James 1445466",
+    "modifiedDate":1482410635000,
+    "isModuleRuleMatched":false,
+    "isSignatory":true,
+    "actions":[{
+                "val": "SEAE",
+                "name": "Self Approve",
+                "status": false
+               },
+               {
+                "val": "RCAL",
+                "name": "Recall",
+                "status": false
+               },
+               {
+                "val": "FSO",
+                "name": "Final Sign Off",
+                "status": true
+               },
+               {
+                "val": "RBFA",
+                "name": "Refer Back for Amendment",
+                "status": true
+               },
+               {
+                "val": "SGOF",
+                "name": "Sign Off and Forward",
+                "status": true
+    }],
+    "signOffDetails":[
+      {
+        "id":76576576576567567233,
+        "signOffActionDate": "1482410635000",
+        "userName": "Frank Palmer",
+        "signOffStatus": "Signoff and Forward",
+        "pending":false,
+        "signOffComments":"Test Comments",
+        "signatory": {
+          "x_alias": "1412110",
+          "x_first_name": "Laxana",
+          "x_last_name":"Nezreena",
+          "psId": "1183038",
+          "firstName": "Tan",
+          "lastName": "Boon Hwa",
+          "email": "Tan.Boon-Hwa@sc.com",
+          "operation": null,
+          "displayName": "1183038 - Tan,Boon Hwa"
+        },
+        "alternateSignatory": {
+          "x_alias": "1412111",
+          "x_first_name": "Test",
+          "x_last_name":"User1",
+          "psId": "1183048",
+          "firstName": "Test",
+          "lastName": "User1",
+          "email": "Tan.Boon-Hwa@sc.com",
+          "operation": null,
+          "displayName": "1183048 - Test,User1"
+        },
+        "ccRecipients": [{
+          "x_alias": "1412110",
+          "x_first_name": "Laxana",
+          "x_last_name":"Nezreena",
+          "psId": "1183038",
+          "firstName": "Tan",
+          "lastName": "Boon Hwa",
+          "email": "Tan.Boon-Hwa@sc.com",
+          "operation": null,
+          "displayName": "1183038 - Tan,Boon Hwa"
+        },{
+          "x_alias": "1412111",
+          "x_first_name": "Test",
+          "x_last_name":"User1",
+          "psId": "1183048",
+          "firstName": "Test",
+          "lastName": "User1",
+          "email": "Tan.Boon-Hwa@sc.com",
+          "operation": null,
+          "displayName": "1183048 - Test,User1"
+        }]
+        }]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "status": "success",
+  "cddReasonCodes": [
+    {
+      "commentsRequired": true,
+      "reason": "Current assignee out of office",
+      "role": "RM",
+      "reasonCode": "RC042",
+      "actionType": "ReleaseOrDelegateTask"
+    },
+    {
+      "commentsRequired": true,
+      "reason": "Document upload required",
+      "role": "RM",
+      "reasonCode": "RC043",
+      "actionType": "ReleaseOrDelegateTask"
+    },
+    {
+      "commentsRequired": true,
+      "reason": "Requested by Owner RM",
+      "role": "RM",
+      "reasonCode": "RC044",
+      "actionType": "ReleaseOrDelegateTask"
+    },
+    {
+      "commentsRequired": true,
+      "reason": "Requested by Line Manager",
+      "role": "RM",
+      "reasonCode": "RC045",
+      "actionType": "ReleaseOrDelegateTask"
+    },
+    {
+      "commentsRequired": true,
+      "reason": "Requested by CDD Risk Manager",
+      "role": "RM",
+      "reasonCode": "RC046",
+      "actionType": "ReleaseOrDelegateTask"
+    },
+    {
+      "commentsRequired": true,
+      "reason": "Other (Please Specify)",
+      "role": "RM",
+      "reasonCode": "RC047",
+      "actionType": "ReleaseOrDelegateTask"
+    }
+  ]
+}

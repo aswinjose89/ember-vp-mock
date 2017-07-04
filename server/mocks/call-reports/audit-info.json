@@ -1,0 +1,42 @@
+{"auditInfo": [
+      {
+         "fieldName": "CallSubject",
+         "oldValue": "call subject create - update 2",
+         "newValue": "call subject create - update 3",
+         "updatedBy": "1241479",
+         "updatedOn": 1478837781528,
+         "fieldEntityId": "20161111121340345",
+         "discussionPointType": null,
+         "id":1
+      },
+      {
+      "fieldName": "InteractionType",
+      "oldValue": "001",
+      "newValue": "002",
+      "updatedBy": "1241479",
+      "updatedOn": 1478837733454,
+      "fieldEntityId": "20161111121340345",
+      "discussionPointType": null,
+      "id":2
+   },
+      {
+      "fieldName": "CallDate",
+      "oldValue": "1120665600000",
+      "newValue": "1122134400000",
+      "updatedBy": "1241479",
+      "updatedOn": 1478837781528,
+      "fieldEntityId": "20161111121340345",
+      "discussionPointType": null,
+      "id":3
+   },
+      {
+      "fieldName": "ScbEvent",
+      "oldValue": null,
+      "newValue": "20141063",
+      "updatedBy": "1241479",
+      "updatedOn": 1478837713426,
+      "fieldEntityId": "20161111121340345",
+      "discussionPointType": null,
+      "id":4
+   }
+]}

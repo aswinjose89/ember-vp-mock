@@ -1,0 +1,38 @@
+{
+  "leadPriorityMappings": {
+    "leadType": "ETB",
+    "segment": "CB",
+    "id": 1,
+    "priorities": [{
+      "id": 1,
+      "priorityGroup": "0001",
+      "isExpEmail": "Yes",
+      "expNotificationType": "1",
+      "expiryDays": "60",
+      "isRemEmail": "No",
+      "remNotificationType": "1",
+      "reminderDays": "60",
+      "isUpdated": false
+    }, {
+      "id": 2,
+      "priorityGroup": "0001",
+      "isExpEmail": "Yes",
+      "expNotificationType": "1",
+      "expiryDays": "60",
+      "isRemEmail": "No",
+      "remNotificationType": "1",
+      "reminderDays": "60",
+      "isUpdated": false
+    }, {
+      "id": 3,
+      "priorityGroup": "0002",
+      "isExpEmail": "Yes",
+      "expNotificationType": "1",
+      "expiryDays": "60",
+      "isRemEmail": "No",
+      "remNotificationType": "1",
+      "reminderDays": "60",
+      "isUpdated": false
+    }]
+  }
+}

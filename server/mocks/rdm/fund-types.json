@@ -1,0 +1,16 @@
+{
+  "fundTypes": [
+    {
+      "code": "F1",
+      "description": "Fund1"
+    },
+    {
+      "code": "F2",
+      "description": "Fund2"
+    },
+    {
+      "code": "F3",
+      "description": "Fund3"
+    }
+  ]
+}

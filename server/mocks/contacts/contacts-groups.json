@@ -1,0 +1,37 @@
+{
+      "searchQuery": "999",
+      "searchEntity": "entitysearch",
+      "groups": {
+            "startIndex": 0,
+            "numFound": 815,
+            "rows": 300,
+            "records": [{
+                  "name": "KORONE LIMITED",
+                  "groupName": "KCS CLIENT",
+                  "entityId": "13509811",
+                  "clientGroupIdent": "11029996 TEST CUSTOMER CSDM1 990043973 KCS CLIENT",
+                  "clientIdent": "13509811 TEST CUSTOMER CSDM1",
+                  "groupId": "990043973"
+            }, {
+                  "groupName": "CJP (HK) LTD 12 356190",
+                  "entityId": "11032999",
+                  "clientGroupIdent": "11032999 EAGERACT COMPANY 990002802 CJP (HK) LTD 12 356190",
+                  "clientIdent": "11032999 EAGERACT COMPANY",
+                  "groupId": "990002802"
+            }, {
+                  "groupName": "JAIKAWMUM",
+                  "name": "JAIKA MOTORS LIMITED",
+                  "entityId": "11257075",
+                  "clientGroupIdent": "11257075 JAIKA MOTORS LIMITED 990000022 JAIKAWMUM",
+                  "clientIdent": "11257075 JAIKA MOTORS LIMITED",
+                  "groupId": "990000022"
+            }, {
+                  "groupName": "HON HAI GROUP",
+                  "entityId": "11148999",
+                  "name": "GLOBAL HIGH GROWTH VENTURE CAPITAL LIMITED",
+                  "clientIdent": "11148999 GLOBAL HIGH GROWTH VENTURE CAPITAL LIMITED",
+                  "groupId": "990004072",
+                  "crmId": "11148999"
+            }]
+      }
+}

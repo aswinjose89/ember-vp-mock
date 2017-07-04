@@ -1,0 +1,24 @@
+{
+  "idDocumentTypes": [
+    {
+      "code": "001",
+      "description": "Passport"
+    },
+    {
+      "code": "002",
+      "description": "Driving License"
+    },
+    {
+      "code": "003",
+      "description": "National Identity Card"
+    },
+    {
+      "code": "004",
+      "description": "ID card issued by Electoral Office"
+    },
+    {
+      "code": "005",
+      "description": "Other Reliable Source"
+    }
+  ]
+}

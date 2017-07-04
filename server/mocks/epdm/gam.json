@@ -1,0 +1,28 @@
+{
+	"gams":[
+		{
+			"id": 0,
+			"code": "432",
+			"name": "Isabel Rhodes",
+			"country": "Malaysia"
+		},
+		{
+			"id": 1,
+			"code": "433",
+			"name": "Mark Murphy",
+			"country": "Sinapore"
+		},
+		{
+			"id": 2,
+			"code": "434",
+			"name": "Della Parks",
+			"country": "UK"
+		},
+		{
+			"id": 3,
+			"code": "435",
+			"name": "Mitchell Benson",
+			"country": "Thailand"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"crmList": [{
+		"id": 1,
+		"name": "AA00033256 - MASHREQ BANK PSC",
+		"crmId": "AA00033256"
+	}, {
+		"id": 2,
+		"name": "AA00106455 - MASHREQ BANK PSC",
+		"crmId": "AA00106455"
+	}, {
+		"id": 3,
+		"name": "AA00033255- MASHREQ BANK PSC",
+		"crmId": "AA00033255"
+	}, {
+		"id": 4,
+		"name": "AA00033257 - MASHREQ BANK PSC",
+		"crmId": "AA00033257"
+	}, {
+		"id": 5,
+		"name": "AA00033258 - MASHREQ BANK PSC",
+		"crmId": "AA00033258"
+	}]
+}

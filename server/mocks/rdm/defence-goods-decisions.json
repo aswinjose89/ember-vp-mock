@@ -1,0 +1,16 @@
+{
+  "defenceGoodsDecisions": [
+    {
+      "code": "06",
+      "description": "Further Information Required"
+    },
+    {
+      "code": "09",
+      "description": "Approved"
+    },
+    {
+      "code": "10",
+      "description": "Declined"
+    }
+  ]
+}

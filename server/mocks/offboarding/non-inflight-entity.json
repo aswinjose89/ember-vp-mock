@@ -1,0 +1,36 @@
+{
+	"offboarding/nonInflightEntity": [{
+			"entityName": "GRP Test",
+			"entityId": "23232",
+			"region": "Africa",
+			"domicileCountry": "Zambia",
+			"id": 23,
+			"segment": "Global Corporate",
+			"segmentCode": "K",
+			"subSegment": "null",
+			"subSegmentCode": "6",
+			"action": "Group Exit",
+			"exception": "BORROWING_CLIENTS_GROUPS"
+
+		},{
+			"entityName": "GRP Test",
+			"entityId": "23232",
+			"region": "Africa",
+			"domicileCountry": "Zambia",
+			"id": 24,
+			"segment": "Global Corporate",
+			"segmentCode": "K",
+			"subSegment": "null",
+			"subSegmentCode": "6",
+			"action": "groupExit",
+			"exception": "BORROWING_CLIENTS_GROUPS"
+
+		}],
+	"meta": {
+		"nonInflightTotalCount": 20,
+		"count": {
+			"total": 8
+		},
+		"totalRecords": 100
+	}
+}

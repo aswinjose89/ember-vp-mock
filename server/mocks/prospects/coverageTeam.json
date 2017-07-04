@@ -1,0 +1,21 @@
+{
+    "coverageTeam" : {
+        "id" : "11658141233",
+        "groupCoverageTeams": [{
+             "id" : "1165814",
+             "psId": "1165814",
+             "name": "1165814, Elaine Ho,Mei Hua",
+             "jobTitle": "Mr.",
+             "department": "TB",
+             "country": "MALAYSIA"
+        }],
+        "otherTeamMembers": [{
+           "id": "0089966",
+           "psId": "0089966",
+           "name": "0089966, ",
+           "jobTitle": null,
+           "department": "RB_CP",
+           "country": null
+        }]
+    }
+}

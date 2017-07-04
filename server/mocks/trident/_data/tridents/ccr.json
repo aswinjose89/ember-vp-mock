@@ -1,0 +1,730 @@
+[
+  {
+    "bookingLocation": "AESCBL",
+    "countryCode": "AE",
+    "description": "AE/SCBL UNITED ARAB EMIRATES",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534919
+  },
+  {
+    "bookingLocation": "AESCDF",
+    "countryCode": "AE",
+    "description": "AE/SCDF UNITED ARAB EMIRATES",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534985
+  },
+  {
+    "bookingLocation": "AFSCBL",
+    "countryCode": "AF",
+    "description": "AF/SCBL AFGHANISTAN",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286535006
+  },
+  {
+    "bookingLocation": "AOSCAO",
+    "countryCode": "AO",
+    "description": "AO/SCAO Angola",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1387771161396
+  },
+  {
+    "bookingLocation": "ARSCBL",
+    "countryCode": "AR",
+    "description": "AR/SCBL ARGENTINA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534920
+  },
+  {
+    "bookingLocation": "AUSCBL",
+    "countryCode": "AU",
+    "description": "AU/SCBL AUSTRALIA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534938
+  },
+  {
+    "bookingLocation": "BDSCBL",
+    "countryCode": "BD",
+    "description": "BD/SCBL BANGLADESH",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534939
+  },
+  {
+    "bookingLocation": "BHSCBL",
+    "countryCode": "BH",
+    "description": "BH/SCBL BAHRAIN",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534941
+  },
+  {
+    "bookingLocation": "BNSCBL",
+    "countryCode": "BN",
+    "description": "BN/SCBL BRUNEI DARUSSALAM",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534942
+  },
+  {
+    "bookingLocation": "BNSCBN",
+    "countryCode": "BN",
+    "description": "BN/SCBN BRUNEI DARUSSALAM",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534943
+  },
+  {
+    "bookingLocation": "BNSCCS",
+    "countryCode": "BN",
+    "description": "BN/SCCS BRUNEI DARUSSALAM",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534944
+  },
+  {
+    "bookingLocation": "BRSCBL",
+    "countryCode": "BR",
+    "description": "BR/SCBL BRAZIL",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534945
+  },
+  {
+    "bookingLocation": "BRSCBR",
+    "countryCode": "BR",
+    "description": "BR/SCBR BRAZIL",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286535007
+  },
+  {
+    "bookingLocation": "BSSCBS",
+    "countryCode": "BS",
+    "description": "BS/SCBS BAHAMAS",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534946
+  },
+  {
+    "bookingLocation": "BWSCBW",
+    "countryCode": "BW",
+    "description": "BW/SCBW BOTSWANA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534947
+  },
+  {
+    "bookingLocation": "CHSCBL",
+    "countryCode": "CH",
+    "description": "CH/SCBL SWITZERLAND",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534948
+  },
+  {
+    "bookingLocation": "CISCCI",
+    "countryCode": "CI",
+    "description": "CI/SCCI COTE D'IVOIRE",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534949
+  },
+  {
+    "bookingLocation": "CLSCBL",
+    "countryCode": "CL",
+    "description": "CL/SCBL CHILE",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286535008
+  },
+  {
+    "bookingLocation": "CMSCCM",
+    "countryCode": "CM",
+    "description": "CM/SCCM CAMEROON",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534950
+  },
+  {
+    "bookingLocation": "CNSCCN",
+    "countryCode": "CN",
+    "description": "CN/SCCN CHINA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534951
+  },
+  {
+    "bookingLocation": "CNSCTS",
+    "countryCode": "CN",
+    "description": "CN/SCTS China",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534914
+  },
+  {
+    "bookingLocation": "COSCBA",
+    "countryCode": "CO",
+    "description": "CO/SCBA COLOMBIA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286535003
+  },
+  {
+    "bookingLocation": "COSCBC",
+    "countryCode": "CO",
+    "description": "CO/SCBC COLOMBIA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534952
+  },
+  {
+    "bookingLocation": "DESCBL",
+    "countryCode": "DE",
+    "description": "DE/SCBL GERMANY",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286535013
+  },
+  {
+    "bookingLocation": "FKSCBL",
+    "countryCode": "FK",
+    "description": "FK/SCBL FALKLAND ISLANDS",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534953
+  },
+  {
+    "bookingLocation": "GBSCBL",
+    "countryCode": "GB",
+    "description": "GB/SCBL UNITED KINGDOM",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534954
+  },
+  {
+    "bookingLocation": "GBSCIH",
+    "countryCode": "GB",
+    "description": "GB/SCIH London",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1387771161396
+  },
+  {
+    "bookingLocation": "GBSCPLC",
+    "countryCode": "GB",
+    "description": "GB/SCPLC UNITED KINGDOM",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1387389692886
+  },
+  {
+    "bookingLocation": "GHSCGH",
+    "countryCode": "GH",
+    "description": "GH/SCGH GHANA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534955
+  },
+  {
+    "bookingLocation": "GMSCGM",
+    "countryCode": "GM",
+    "description": "GM/SCGM GAMBIA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534956
+  },
+  {
+    "bookingLocation": "GRSCBL",
+    "countryCode": "GR",
+    "description": "GR/SCBL GREECE",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534957
+  },
+  {
+    "bookingLocation": "HKSCHK",
+    "countryCode": "HK",
+    "description": "HK/SCHK HONG KONG",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534958
+  },
+  {
+    "bookingLocation": "HKSCSS",
+    "countryCode": "HK",
+    "description": "HK/SCSS HONG KONG",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286535010
+  },
+  {
+    "bookingLocation": "HKSCTSL",
+    "countryCode": "HK",
+    "description": "HK/SCTSL HONG KONG",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534918
+  },
+  {
+    "bookingLocation": "IDSCBL",
+    "countryCode": "ID",
+    "description": "ID/SCBL INDONESIA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534959
+  },
+  {
+    "bookingLocation": "ILSCBL",
+    "countryCode": "IL",
+    "description": "IL/SCBL ISRAEL",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534960
+  },
+  {
+    "bookingLocation": "INSCBL",
+    "countryCode": "IN",
+    "description": "IN/SCBL INDIA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534961
+  },
+  {
+    "bookingLocation": "INSCILL",
+    "countryCode": "IN",
+    "description": "IN/SCILL INDIA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286535004
+  },
+  {
+    "bookingLocation": "IQSCIQ",
+    "countryCode": "IQ",
+    "description": "IQ/SCIQ Iraq",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1387771161396
+  },
+  {
+    "bookingLocation": "IRSCBL",
+    "countryCode": "IR",
+    "description": "IR/SCBL IRAN",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534962
+  },
+  {
+    "bookingLocation": "JOSCBL",
+    "countryCode": "JO",
+    "description": "JO/SCBL JORDAN",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534963
+  },
+  {
+    "bookingLocation": "JPSCBL",
+    "countryCode": "JP",
+    "description": "JP/SCBL JAPAN",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534964
+  },
+  {
+    "bookingLocation": "JPSCSJ",
+    "countryCode": "JP",
+    "description": "JP/SCSJ JAPAN",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1458324011270
+  },
+  {
+    "bookingLocation": "KESCKE",
+    "countryCode": "KE",
+    "description": "KE/SCKE KENYA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534965
+  },
+  {
+    "bookingLocation": "KHSCBL",
+    "countryCode": "KH",
+    "description": "KH/SCBL CAMBODIA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534967
+  },
+  {
+    "bookingLocation": "KRSCFB",
+    "countryCode": "KR",
+    "description": "KR/SCFB KOREA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534968
+  },
+  {
+    "bookingLocation": "KRSCSK",
+    "countryCode": "KR",
+    "description": "KR/SCSK KOREA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286535014
+  },
+  {
+    "bookingLocation": "KYSCNB",
+    "countryCode": "KY",
+    "description": "KY/SCNB CAYMAN ISLANDS",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534969
+  },
+  {
+    "bookingLocation": "LASCBL",
+    "countryCode": "LA",
+    "description": "LA/SCBL LAO",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534970
+  },
+  {
+    "bookingLocation": "LBSCLB",
+    "countryCode": "LB",
+    "description": "LB/SCLB LEBANON",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534971
+  },
+  {
+    "bookingLocation": "LKSCBL",
+    "countryCode": "LK",
+    "description": "LK/SCBL SRI LANKA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534972
+  },
+  {
+    "bookingLocation": "MMSCBL",
+    "countryCode": "MM",
+    "description": "MM/SCBL MYANMAR",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534974
+  },
+  {
+    "bookingLocation": "MOSCBL",
+    "countryCode": "MO",
+    "description": "MO/SCBL MACAO",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534975
+  },
+  {
+    "bookingLocation": "MUSCMU",
+    "countryCode": "MU",
+    "description": "MU/SCMU MAURITIUS",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286535005
+  },
+  {
+    "bookingLocation": "MXSCBL",
+    "countryCode": "MX",
+    "description": "MX/SCBL MEXICO",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534976
+  },
+  {
+    "bookingLocation": "MYSCMY",
+    "countryCode": "MY",
+    "description": "MY/SCMY MALAYSIA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534977
+  },
+  {
+    "bookingLocation": "MYSCOL",
+    "countryCode": "MY",
+    "description": "MY/SCOL MALAYSIA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534978
+  },
+  {
+    "bookingLocation": "MYSCSB",
+    "countryCode": "MY",
+    "description": "MY/SCSB MALAYSIA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534966
+  },
+  {
+    "bookingLocation": "MZSCBL",
+    "countryCode": "MZ",
+    "description": "MZ/SCBL MOZAMBIQUE",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1392660012084
+  },
+  {
+    "bookingLocation": "NGSCNG",
+    "countryCode": "NG",
+    "description": "NG/SCNG NIGERIA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534979
+  },
+  {
+    "bookingLocation": "NPSCNL",
+    "countryCode": "NP",
+    "description": "NP/SCNL NEPAL",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534980
+  },
+  {
+    "bookingLocation": "OMSCBL",
+    "countryCode": "OM",
+    "description": "OM/SCBL OMAN",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534982
+  },
+  {
+    "bookingLocation": "PESCBA",
+    "countryCode": "PE",
+    "description": "PE/SCBA PERU",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534983
+  },
+  {
+    "bookingLocation": "PESCBL",
+    "countryCode": "PE",
+    "description": "PE/SCBL PERU",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534984
+  },
+  {
+    "bookingLocation": "PHSCBL",
+    "countryCode": "PH",
+    "description": "PH/SCBL PHILIPPINES",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534986
+  },
+  {
+    "bookingLocation": "PKSCPK",
+    "countryCode": "PK",
+    "description": "PK/SCPK PAKISTAN",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534987
+  },
+  {
+    "bookingLocation": "QASCBL",
+    "countryCode": "QA",
+    "description": "QA/SCBL QATAR",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534989
+  },
+  {
+    "bookingLocation": "SASCSA",
+    "countryCode": "SA",
+    "description": "SA/SCSA SAUDI ARABIA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534917
+  },
+  {
+    "bookingLocation": "SESCBL",
+    "countryCode": "SE",
+    "description": "SE/SCBL SWEDEN",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1387771594750
+  },
+  {
+    "bookingLocation": "SGSCBL",
+    "countryCode": "SG",
+    "description": "SG/SCBL SINGAPORE",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534990
+  },
+  {
+    "bookingLocation": "SGSCSP",
+    "countryCode": "SG",
+    "description": "SG/SCSP SINGAPORE",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286535015
+  },
+  {
+    "bookingLocation": "SGSCSS",
+    "countryCode": "SG",
+    "description": "SG/SCSS SINGAPORE",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286535011
+  },
+  {
+    "bookingLocation": "SLSCSL",
+    "countryCode": "SL",
+    "description": "SL/SCSL SIERRA LEONE",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534991
+  },
+  {
+    "bookingLocation": "THSCBL",
+    "countryCode": "TH",
+    "description": "TH/SCBL THAILAND",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534992
+  },
+  {
+    "bookingLocation": "THSCBT",
+    "countryCode": "TH",
+    "description": "TH/SCBT THAILAND",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534973
+  },
+  {
+    "bookingLocation": "THSCNB",
+    "countryCode": "TH",
+    "description": "TH/SCNB THAILAND",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534993
+  },
+  {
+    "bookingLocation": "THSCTAM",
+    "countryCode": "TH",
+    "description": "TH/SCTAM THAILAND",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534940
+  },
+  {
+    "bookingLocation": "THSCTH",
+    "countryCode": "TH",
+    "description": "TH/SCTH THAILAND",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1397498414199
+  },
+  {
+    "bookingLocation": "TRSCTR",
+    "countryCode": "TR",
+    "description": "TR/SCTR TURKEY",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534911
+  },
+  {
+    "bookingLocation": "TWSCBL",
+    "countryCode": "TW",
+    "description": "TW/SCBL TAIWAN",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286535012
+  },
+  {
+    "bookingLocation": "TWSCTW",
+    "countryCode": "TW",
+    "description": "TW/SCTW TAIWAN",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534994
+  },
+  {
+    "bookingLocation": "TZSCTZ",
+    "countryCode": "TZ",
+    "description": "TZ/SCTZ TANZANIA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534995
+  },
+  {
+    "bookingLocation": "UGSCUG",
+    "countryCode": "UG",
+    "description": "UG/SCUG UGANDA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534996
+  },
+  {
+    "bookingLocation": "USSCBL",
+    "countryCode": "US",
+    "description": "US/SCBL UNITED STATES",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534997
+  },
+  {
+    "bookingLocation": "USSCTSC",
+    "countryCode": "US",
+    "description": "US/SCTSC UNITED STATES",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534916
+  },
+  {
+    "bookingLocation": "VESCBA",
+    "countryCode": "VE",
+    "description": "VE/SCBA VENEZUELA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534998
+  },
+  {
+    "bookingLocation": "VNSCBL",
+    "countryCode": "VN",
+    "description": "VN/SCBL VIETNAM",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534915
+  },
+  {
+    "bookingLocation": "VNSCVN",
+    "countryCode": "VN",
+    "description": "VN/SCVN VIETNAM",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286534999
+  },
+  {
+    "bookingLocation": "ZASCBL",
+    "countryCode": "ZA",
+    "description": "ZA/SCBL SOUTH AFRICA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286535000
+  },
+  {
+    "bookingLocation": "ZMSCZM",
+    "countryCode": "ZM",
+    "description": "ZM/SCZM ZAMBIA",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286535001
+  },
+  {
+    "bookingLocation": "ZWSCZW",
+    "countryCode": "ZW",
+    "description": "ZW/SCZW ZIMBABWE",
+    "status": "A",
+    "updatedBy": "SYSTEM-A",
+    "updatedDate": 1374286535002
+  }
+]

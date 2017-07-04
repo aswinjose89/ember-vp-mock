@@ -1,0 +1,64 @@
+{
+    
+  "inlineRmClientLists": [
+    {
+      "groupId": "990001522",
+      "clientId": "11000075",
+      "groupName": "GRP NAME 990001522",
+      "clientName": "L NAME 11000075",
+      "hasException": false,
+	  "existingCoverageLocations": ["FI","RE"],
+      "coverageLocations": []
+    },
+    {
+      "groupId": "990001522",
+      "clientId": "11000076",
+      "groupName": "GRP NAME 990001522",
+      "clientName": "L NAME 11000076",
+      "hasException": false,
+      "coverageLocations": [
+        
+      ]
+    },
+    {
+      "groupId": "990001522",
+      "clientId": "11002222",
+      "groupName": "GRP NAME 990001522",
+      "clientName": "L NAME 11002222",
+      "hasException": false,
+      "coverageLocations": [
+        
+      ]
+    },
+    {
+      "groupId": "990000303",
+      "clientId": "11002497",
+      "groupName": "GRP NAME 990000303",
+      "clientName": "L NAME 11002497",
+      "hasException": false,
+      "coverageLocations": [
+        
+      ]
+    },
+    {
+      "groupId": "990001522",
+      "clientId": "11002729",
+      "groupName": "GRP NAME 990001522",
+      "clientName": "L NAME 11002729",
+      "hasException": false,
+      "coverageLocations": [
+        
+      ]
+    },
+    {
+      "groupId": "990000303",
+      "clientId": "11004565",
+      "groupName": "GRP NAME 990000303",
+      "clientName": "L NAME 11004565",
+      "hasException": false,
+      "coverageLocations": [
+        
+      ]
+    }
+  ]
+}

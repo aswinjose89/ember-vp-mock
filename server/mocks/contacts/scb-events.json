@@ -1,0 +1,15 @@
+{
+	"scbEventPicklist":{
+	"scbEvents": [{
+				"code": "20150196",
+				"description": "EPL - LFC v Leicester [H]",
+				"startDate": "832703400000",
+				"endDate": "833221800000"
+			}, {
+				"code": "20150197",
+				"description": "EPL - Sunderland v LFC [A]",
+				"startDate": "830975400000",
+				"endDate": "833221800000"
+			}]	
+	}
+}

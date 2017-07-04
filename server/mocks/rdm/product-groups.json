@@ -1,0 +1,24 @@
+{
+  "productGroups": [
+    {
+      "productGroupCode": "1",
+      "productGroup": "Financial Markets"
+    },
+    {
+      "productGroupCode": "3",
+      "productGroup": "OCC Lending"
+    },
+    {
+      "productGroupCode": "4",
+      "productGroup": "Corporate Finance"
+    },
+    {
+      "productGroupCode": "2",
+      "productGroup": "Transaction Banking"
+    },
+    {
+      "productGroupCode": "0",
+      "productGroup": "Accounts"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "auditTrail": [
+    {
+      "id": "1",
+      "fieldName": "Prospect Status",
+      "oldValue": "Lead",
+      "newValue": "Disqualified",
+      "lastUpdatedBy": "User 1",
+      "lastUpdatedDate": "1484906520050",
+      "tabName": "PROSPECT_DETAIL",
+      "idObjMaster": "201612231001297028"
+    },
+    {
+      "id": "2",
+      "fieldName": "Disqualified Reason",
+      "oldValue": "",
+      "newValue": "Declined - Off-Strategy",
+      "lastUpdatedBy": "User 1",
+      "lastUpdatedDate": "1484906520050",
+      "tabName": "PROSPECT_DETAIL",
+      "idObjMaster": "201612231001297028"
+    },
+    {
+      "id": "3",
+      "fieldName": "Prospect Transaction Id",
+      "oldValue": "TXN20170120180147654825582643",
+      "newValue": "TXN201701201802000501647796582",
+      "lastUpdatedBy": "User 1",
+      "lastUpdatedDate": "1484906520050",
+      "tabName": "PROSPECT_DETAIL",
+      "idObjMaster": "201612231001297028"
+    }
+  ]
+}

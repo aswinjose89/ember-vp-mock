@@ -1,0 +1,1265 @@
+{
+  "meta": {
+    "totalCount": 175
+  },
+  "rps": [
+    {
+      "rpID": 10000000254703,
+      "rpCategory": {
+        "code": 0,
+        "description": "INDIVIDUAL"
+      },
+      "rpName": null,
+      "adverseMediaFlag": null,
+      "rpStatus": null,
+      "directorConcentrationFlag": null,
+      "firstName": "AI LIAN",
+      "middleName": null,
+      "lastName": "TAN",
+      "fullName": null,
+      "previousName": null,
+      "alias": "CHEN AILIAN",
+      "gender": null,
+      "dob": "15-Sep-1971",
+      "countryOfBirth": null,
+      "companyName": null,
+      "parentCompanyName": null,
+      "previousCompanyName": null,
+      "incorporationNumber": null,
+      "doi": null,
+      "incorporationCountry": null,
+      "mergeFlag": false,
+      "score": 0,
+      "candidates": null,
+      "nationalities": [
+        {
+          "code": "",
+          "description": "SINGAPORE",
+          "vat": "",
+          "region": "",
+          "type": ""
+        }
+      ],
+      "sourceSystems": [
+        {
+          "sourceID": 0,
+          "rpID": 0,
+          "rpSourceID": null,
+          "sourceRPCreatedDt": null,
+          "sourceSystem": {
+            "code": 0,
+            "description": "RPDM"
+          },
+          "clusterID": null
+        }
+      ],
+      "identities": [
+        {
+          "docID": 0,
+          "rpID": 0,
+          "identityDocumentType": {
+            "code": 0,
+            "description": "NATIONAL IDENTITY CARD"
+          },
+          "identificationNumber": "S7131987C",
+          "validFrom": null,
+          "validTo": null,
+          "issuingAuthorityCountry": null,
+          "deletedFlag": null
+        }
+      ],
+      "addresses": [
+        {
+          "addressID": 0,
+          "rpID": 0,
+          "addressType": null,
+          "fullAddress": null,
+          "add1": null,
+          "add2": null,
+          "add3": null,
+          "city": null,
+          "state": null,
+          "postalCode": "078878",
+          "country": {
+            "code": "",
+            "description": "SINGAPORE",
+            "vat": "",
+            "region": "",
+            "type": ""
+          },
+          "deletedFlag": null
+        }
+      ],
+      "contacts": null,
+      "linkages": [
+        {
+          "linkId": 8800000000716573,
+          "rpMaster": null,
+          "client": {
+            "clientId": 7700000000002793,
+            "srcClientId": "13575780",
+            "sourceSystem": {
+              "code": 10006,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "clientType": {
+              "code": 10042,
+              "description": "Private Company"
+            },
+            "riskRating": {
+              "code": -1,
+              "description": "NULL"
+            },
+            "cddCaseNumber": "CDD00038899",
+            "cddCaseVersion": 1,
+            "cddCountry": {
+              "code": "SG",
+              "description": "SINGAPORE",
+              "vat": null,
+              "region": "ASEAN",
+              "type": null
+            },
+            "cddCaseStatus": {
+              "code": 10040,
+              "description": "Approved"
+            },
+            "cddCaseType": {
+              "code": 10121,
+              "description": "CDD"
+            }
+          },
+          "rpSourceId": "62ad180c-9d3a-4a6f-a3e5-d6ff841545a5",
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": {
+            "code": 10098,
+            "description": "IndividualCDD"
+          },
+          "linkType": {
+            "code": 10009,
+            "description": "LINKED"
+          }
+        },
+        {
+          "linkId": 8800000000137823,
+          "rpMaster": null,
+          "client": {
+            "clientId": 7700000000010111,
+            "srcClientId": "13479681",
+            "sourceSystem": {
+              "code": 10006,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "clientType": {
+              "code": 10042,
+              "description": "Private Company"
+            },
+            "riskRating": {
+              "code": -1,
+              "description": "NULL"
+            },
+            "cddCaseNumber": "CDD00021668",
+            "cddCaseVersion": 2,
+            "cddCountry": {
+              "code": "SG",
+              "description": "SINGAPORE",
+              "vat": null,
+              "region": "ASEAN",
+              "type": null
+            },
+            "cddCaseStatus": {
+              "code": 10040,
+              "description": "Approved"
+            },
+            "cddCaseType": {
+              "code": 10121,
+              "description": "CDD"
+            }
+          },
+          "rpSourceId": "a01183af-15d8-403d-b50d-37711aa1bb1e",
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": {
+            "code": 10098,
+            "description": "IndividualCDD"
+          },
+          "linkType": {
+            "code": 10009,
+            "description": "LINKED"
+          }
+        },
+        {
+          "linkId": 8800000000919634,
+          "rpMaster": null,
+          "client": {
+            "clientId": 7700000000002793,
+            "srcClientId": "13575780",
+            "sourceSystem": {
+              "code": 10006,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "clientType": {
+              "code": 10042,
+              "description": "Private Company"
+            },
+            "riskRating": {
+              "code": -1,
+              "description": "NULL"
+            },
+            "cddCaseNumber": "CDD00038899",
+            "cddCaseVersion": 1,
+            "cddCountry": {
+              "code": "SG",
+              "description": "SINGAPORE",
+              "vat": null,
+              "region": "ASEAN",
+              "type": null
+            },
+            "cddCaseStatus": {
+              "code": 10040,
+              "description": "Approved"
+            },
+            "cddCaseType": {
+              "code": 10121,
+              "description": "CDD"
+            }
+          },
+          "rpSourceId": "62ad180c-9d3a-4a6f-a3e5-d6ff841545a5",
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": {
+            "code": 10074,
+            "description": "All Authorised Signatories"
+          },
+          "linkType": {
+            "code": 10009,
+            "description": "LINKED"
+          }
+        },
+        {
+          "linkId": 8800000000131983,
+          "rpMaster": null,
+          "client": {
+            "clientId": 7700000000010111,
+            "srcClientId": "13479681",
+            "sourceSystem": {
+              "code": 10006,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "clientType": {
+              "code": 10042,
+              "description": "Private Company"
+            },
+            "riskRating": {
+              "code": -1,
+              "description": "NULL"
+            },
+            "cddCaseNumber": "CDD00021668",
+            "cddCaseVersion": 2,
+            "cddCountry": {
+              "code": "SG",
+              "description": "SINGAPORE",
+              "vat": null,
+              "region": "ASEAN",
+              "type": null
+            },
+            "cddCaseStatus": {
+              "code": 10040,
+              "description": "Approved"
+            },
+            "cddCaseType": {
+              "code": 10121,
+              "description": "CDD"
+            }
+          },
+          "rpSourceId": "a01183af-15d8-403d-b50d-37711aa1bb1e",
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": {
+            "code": 10074,
+            "description": "All Authorised Signatories"
+          },
+          "linkType": {
+            "code": 10009,
+            "description": "LINKED"
+          }
+        }
+      ],
+      "wfHist": null,
+      "fatcaflag": null,
+      "pepflag": null
+    },
+    {
+      "rpID": 10000000491122,
+      "rpCategory": {
+        "code": 0,
+        "description": "INDIVIDUAL"
+      },
+      "rpName": null,
+      "adverseMediaFlag": null,
+      "rpStatus": null,
+      "directorConcentrationFlag": null,
+      "firstName": "POK YEN",
+      "middleName": null,
+      "lastName": "LOI",
+      "fullName": null,
+      "previousName": null,
+      "alias": null,
+      "gender": null,
+      "dob": "21-Jan-1970",
+      "countryOfBirth": null,
+      "companyName": null,
+      "parentCompanyName": null,
+      "previousCompanyName": null,
+      "incorporationNumber": null,
+      "doi": null,
+      "incorporationCountry": null,
+      "mergeFlag": false,
+      "score": 0,
+      "candidates": null,
+      "nationalities": [
+        {
+          "code": "",
+          "description": "SINGAPORE",
+          "vat": "",
+          "region": "",
+          "type": ""
+        }
+      ],
+      "sourceSystems": [
+        {
+          "sourceID": 0,
+          "rpID": 0,
+          "rpSourceID": null,
+          "sourceRPCreatedDt": null,
+          "sourceSystem": {
+            "code": 0,
+            "description": "RPDM"
+          },
+          "clusterID": null
+        }
+      ],
+      "identities": [
+        {
+          "docID": 0,
+          "rpID": 0,
+          "identityDocumentType": {
+            "code": 0,
+            "description": "NATIONAL IDENTITY CARD"
+          },
+          "identificationNumber": "S7005894D",
+          "validFrom": null,
+          "validTo": null,
+          "issuingAuthorityCountry": null,
+          "deletedFlag": null
+        }
+      ],
+      "addresses": [
+        {
+          "addressID": 0,
+          "rpID": 0,
+          "addressType": null,
+          "fullAddress": null,
+          "add1": null,
+          "add2": null,
+          "add3": null,
+          "city": null,
+          "state": null,
+          "postalCode": "258472",
+          "country": {
+            "code": "",
+            "description": "SINGAPORE",
+            "vat": "",
+            "region": "",
+            "type": ""
+          },
+          "deletedFlag": null
+        }
+      ],
+      "contacts": null,
+      "linkages": [
+        {
+          "linkId": 8800000000921271,
+          "rpMaster": null,
+          "client": {
+            "clientId": 7700000000046571,
+            "srcClientId": "11363479",
+            "sourceSystem": {
+              "code": 10006,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "clientType": {
+              "code": 10068,
+              "description": "Broker, Dealer"
+            },
+            "riskRating": {
+              "code": -1,
+              "description": "NULL"
+            },
+            "cddCaseNumber": "CDD00042098",
+            "cddCaseVersion": 1,
+            "cddCountry": {
+              "code": "SG",
+              "description": "SINGAPORE",
+              "vat": null,
+              "region": "ASEAN",
+              "type": null
+            },
+            "cddCaseStatus": {
+              "code": 10040,
+              "description": "Approved"
+            },
+            "cddCaseType": {
+              "code": 10121,
+              "description": "CDD"
+            }
+          },
+          "rpSourceId": "2886eb79-8f8e-4a73-9a2f-e73386cce722",
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": {
+            "code": 10098,
+            "description": "IndividualCDD"
+          },
+          "linkType": {
+            "code": 10009,
+            "description": "LINKED"
+          }
+        },
+        {
+          "linkId": 8800000000212407,
+          "rpMaster": null,
+          "client": {
+            "clientId": 7700000000046571,
+            "srcClientId": "11363479",
+            "sourceSystem": {
+              "code": 10006,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "clientType": {
+              "code": 10068,
+              "description": "Broker, Dealer"
+            },
+            "riskRating": {
+              "code": -1,
+              "description": "NULL"
+            },
+            "cddCaseNumber": "CDD00042098",
+            "cddCaseVersion": 1,
+            "cddCountry": {
+              "code": "SG",
+              "description": "SINGAPORE",
+              "vat": null,
+              "region": "ASEAN",
+              "type": null
+            },
+            "cddCaseStatus": {
+              "code": 10040,
+              "description": "Approved"
+            },
+            "cddCaseType": {
+              "code": 10121,
+              "description": "CDD"
+            }
+          },
+          "rpSourceId": "2886eb79-8f8e-4a73-9a2f-e73386cce722",
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": {
+            "code": 10086,
+            "description": "Screenable Names"
+          },
+          "linkType": {
+            "code": 10009,
+            "description": "LINKED"
+          }
+        },
+        {
+          "linkId": 8800000000512654,
+          "rpMaster": null,
+          "client": {
+            "clientId": 7700000000056625,
+            "srcClientId": "11331845",
+            "sourceSystem": {
+              "code": 10006,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "clientType": {
+              "code": 10042,
+              "description": "Private Company"
+            },
+            "riskRating": {
+              "code": -1,
+              "description": "NULL"
+            },
+            "cddCaseNumber": "262985",
+            "cddCaseVersion": 2,
+            "cddCountry": {
+              "code": "SG",
+              "description": "SINGAPORE",
+              "vat": null,
+              "region": "ASEAN",
+              "type": null
+            },
+            "cddCaseStatus": {
+              "code": 10040,
+              "description": "Approved"
+            },
+            "cddCaseType": {
+              "code": 10121,
+              "description": "CDD"
+            }
+          },
+          "rpSourceId": "acfb4c2d-53eb-4114-97c4-28e4675fcae2",
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": {
+            "code": 10098,
+            "description": "IndividualCDD"
+          },
+          "linkType": {
+            "code": 10009,
+            "description": "LINKED"
+          }
+        },
+        {
+          "linkId": 8800000000330791,
+          "rpMaster": null,
+          "client": {
+            "clientId": 7700000000056625,
+            "srcClientId": "11331845",
+            "sourceSystem": {
+              "code": 10006,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "clientType": {
+              "code": 10042,
+              "description": "Private Company"
+            },
+            "riskRating": {
+              "code": -1,
+              "description": "NULL"
+            },
+            "cddCaseNumber": "262985",
+            "cddCaseVersion": 2,
+            "cddCountry": {
+              "code": "SG",
+              "description": "SINGAPORE",
+              "vat": null,
+              "region": "ASEAN",
+              "type": null
+            },
+            "cddCaseStatus": {
+              "code": 10040,
+              "description": "Approved"
+            },
+            "cddCaseType": {
+              "code": 10121,
+              "description": "CDD"
+            }
+          },
+          "rpSourceId": "acfb4c2d-53eb-4114-97c4-28e4675fcae2",
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": {
+            "code": 10074,
+            "description": "All Authorised Signatories"
+          },
+          "linkType": {
+            "code": 10009,
+            "description": "LINKED"
+          }
+        }
+      ],
+      "wfHist": null,
+      "fatcaflag": null,
+      "pepflag": null
+    },
+    {
+      "rpID": 10000000612088,
+      "rpCategory": {
+        "code": 0,
+        "description": "INDIVIDUAL"
+      },
+      "rpName": null,
+      "adverseMediaFlag": null,
+      "rpStatus": null,
+      "directorConcentrationFlag": null,
+      "firstName": "CECILIA",
+      "middleName": null,
+      "lastName": "DALLMAYR",
+      "fullName": null,
+      "previousName": null,
+      "alias": null,
+      "gender": null,
+      "dob": "26-Apr-1976",
+      "countryOfBirth": null,
+      "companyName": null,
+      "parentCompanyName": null,
+      "previousCompanyName": null,
+      "incorporationNumber": null,
+      "doi": null,
+      "incorporationCountry": null,
+      "mergeFlag": false,
+      "score": 0,
+      "candidates": null,
+      "nationalities": [
+        {
+          "code": "",
+          "description": "SWITZERLAND",
+          "vat": "",
+          "region": "",
+          "type": ""
+        }
+      ],
+      "sourceSystems": [
+        {
+          "sourceID": 0,
+          "rpID": 0,
+          "rpSourceID": null,
+          "sourceRPCreatedDt": null,
+          "sourceSystem": {
+            "code": 0,
+            "description": "eCDD+"
+          },
+          "clusterID": null
+        }
+      ],
+      "identities": [
+        {
+          "docID": 0,
+          "rpID": 0,
+          "identityDocumentType": {
+            "code": 0,
+            "description": "PASSPORT"
+          },
+          "identificationNumber": "F3518644",
+          "validFrom": null,
+          "validTo": null,
+          "issuingAuthorityCountry": null,
+          "deletedFlag": null
+        }
+      ],
+      "addresses": [
+        {
+          "addressID": 0,
+          "rpID": 0,
+          "addressType": null,
+          "fullAddress": null,
+          "add1": null,
+          "add2": null,
+          "add3": null,
+          "city": null,
+          "state": null,
+          "postalCode": null,
+          "country": {
+            "code": "",
+            "description": "DEFAULT_VAL",
+            "vat": "",
+            "region": "",
+            "type": ""
+          },
+          "deletedFlag": null
+        }
+      ],
+      "contacts": null,
+      "linkages": [
+        {
+          "linkId": 8800000000245172,
+          "rpMaster": null,
+          "client": {
+            "clientId": 7700000000002835,
+            "srcClientId": "13097128",
+            "sourceSystem": {
+              "code": 10006,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "clientType": {
+              "code": 10042,
+              "description": "Private Company"
+            },
+            "riskRating": {
+              "code": -1,
+              "description": "NULL"
+            },
+            "cddCaseNumber": "CDD00009378",
+            "cddCaseVersion": 3,
+            "cddCountry": {
+              "code": "SG",
+              "description": "SINGAPORE",
+              "vat": null,
+              "region": "ASEAN",
+              "type": null
+            },
+            "cddCaseStatus": {
+              "code": 10040,
+              "description": "Approved"
+            },
+            "cddCaseType": {
+              "code": 10121,
+              "description": "CDD"
+            }
+          },
+          "rpSourceId": "dc16c333-1d95-4e90-9af1-e7dec60abf78",
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": {
+            "code": 10098,
+            "description": "IndividualCDD"
+          },
+          "linkType": {
+            "code": 10009,
+            "description": "LINKED"
+          }
+        },
+        {
+          "linkId": 8800000000388320,
+          "rpMaster": null,
+          "client": {
+            "clientId": 7700000000065504,
+            "srcClientId": "13097129",
+            "sourceSystem": {
+              "code": 10006,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "clientType": {
+              "code": 10042,
+              "description": "Private Company"
+            },
+            "riskRating": {
+              "code": -1,
+              "description": "NULL"
+            },
+            "cddCaseNumber": "CDD00009381",
+            "cddCaseVersion": 3,
+            "cddCountry": {
+              "code": "SG",
+              "description": "SINGAPORE",
+              "vat": null,
+              "region": "ASEAN",
+              "type": null
+            },
+            "cddCaseStatus": {
+              "code": 10040,
+              "description": "Approved"
+            },
+            "cddCaseType": {
+              "code": 10121,
+              "description": "CDD"
+            }
+          },
+          "rpSourceId": "e6e57c17-f498-4178-b3e2-970c07b8615f",
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": {
+            "code": 10098,
+            "description": "IndividualCDD"
+          },
+          "linkType": {
+            "code": 10009,
+            "description": "LINKED"
+          }
+        },
+        {
+          "linkId": 8800000000530099,
+          "rpMaster": null,
+          "client": {
+            "clientId": 7700000000065504,
+            "srcClientId": "13097129",
+            "sourceSystem": {
+              "code": 10006,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "clientType": {
+              "code": 10042,
+              "description": "Private Company"
+            },
+            "riskRating": {
+              "code": -1,
+              "description": "NULL"
+            },
+            "cddCaseNumber": "CDD00009381",
+            "cddCaseVersion": 3,
+            "cddCountry": {
+              "code": "SG",
+              "description": "SINGAPORE",
+              "vat": null,
+              "region": "ASEAN",
+              "type": null
+            },
+            "cddCaseStatus": {
+              "code": 10040,
+              "description": "Approved"
+            },
+            "cddCaseType": {
+              "code": 10121,
+              "description": "CDD"
+            }
+          },
+          "rpSourceId": "e6e57c17-f498-4178-b3e2-970c07b8615f",
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": {
+            "code": 10074,
+            "description": "All Authorised Signatories"
+          },
+          "linkType": {
+            "code": 10009,
+            "description": "LINKED"
+          }
+        },
+        {
+          "linkId": 8800000000706372,
+          "rpMaster": null,
+          "client": {
+            "clientId": 7700000000002835,
+            "srcClientId": "13097128",
+            "sourceSystem": {
+              "code": 10006,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "clientType": {
+              "code": 10042,
+              "description": "Private Company"
+            },
+            "riskRating": {
+              "code": -1,
+              "description": "NULL"
+            },
+            "cddCaseNumber": "CDD00009378",
+            "cddCaseVersion": 3,
+            "cddCountry": {
+              "code": "SG",
+              "description": "SINGAPORE",
+              "vat": null,
+              "region": "ASEAN",
+              "type": null
+            },
+            "cddCaseStatus": {
+              "code": 10040,
+              "description": "Approved"
+            },
+            "cddCaseType": {
+              "code": 10121,
+              "description": "CDD"
+            }
+          },
+          "rpSourceId": "dc16c333-1d95-4e90-9af1-e7dec60abf78",
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": {
+            "code": 10074,
+            "description": "All Authorised Signatories"
+          },
+          "linkType": {
+            "code": 10009,
+            "description": "LINKED"
+          }
+        }
+      ],
+      "wfHist": null,
+      "fatcaflag": null,
+      "pepflag": null
+    },
+    {
+      "rpID": 10000000297913,
+      "rpCategory": {
+        "code": 0,
+        "description": "INDIVIDUAL"
+      },
+      "rpName": null,
+      "adverseMediaFlag": null,
+      "rpStatus": null,
+      "directorConcentrationFlag": null,
+      "firstName": "KWOK WAH",
+      "middleName": null,
+      "lastName": "LOH",
+      "fullName": null,
+      "previousName": null,
+      "alias": null,
+      "gender": null,
+      "dob": "29-Dec-1978",
+      "countryOfBirth": null,
+      "companyName": null,
+      "parentCompanyName": null,
+      "previousCompanyName": null,
+      "incorporationNumber": null,
+      "doi": null,
+      "incorporationCountry": null,
+      "mergeFlag": false,
+      "score": 0,
+      "candidates": null,
+      "nationalities": [
+        {
+          "code": "",
+          "description": "MALAYSIA",
+          "vat": "",
+          "region": "",
+          "type": ""
+        }
+      ],
+      "sourceSystems": [
+        {
+          "sourceID": 0,
+          "rpID": 0,
+          "rpSourceID": null,
+          "sourceRPCreatedDt": null,
+          "sourceSystem": {
+            "code": 0,
+            "description": "eCDD+"
+          },
+          "clusterID": null
+        }
+      ],
+      "identities": [
+        {
+          "docID": 0,
+          "rpID": 0,
+          "identityDocumentType": {
+            "code": 0,
+            "description": "NATIONAL IDENTITY CARD"
+          },
+          "identificationNumber": "S7882944C",
+          "validFrom": null,
+          "validTo": null,
+          "issuingAuthorityCountry": null,
+          "deletedFlag": null
+        }
+      ],
+      "addresses": [
+        {
+          "addressID": 0,
+          "rpID": 0,
+          "addressType": null,
+          "fullAddress": null,
+          "add1": null,
+          "add2": null,
+          "add3": null,
+          "city": null,
+          "state": null,
+          "postalCode": "425774",
+          "country": {
+            "code": "",
+            "description": "SINGAPORE",
+            "vat": "",
+            "region": "",
+            "type": ""
+          },
+          "deletedFlag": null
+        }
+      ],
+      "contacts": null,
+      "linkages": [
+        {
+          "linkId": 8800000000389735,
+          "rpMaster": null,
+          "client": {
+            "clientId": 7700000000014037,
+            "srcClientId": "11004842",
+            "sourceSystem": {
+              "code": 10006,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "clientType": {
+              "code": 10046,
+              "description": "Majority Owned Subsidiary of a Publicly quoted company on a recognised exchange as listed in Appendix G"
+            },
+            "riskRating": {
+              "code": -1,
+              "description": "NULL"
+            },
+            "cddCaseNumber": "136727",
+            "cddCaseVersion": 2,
+            "cddCountry": {
+              "code": "SG",
+              "description": "SINGAPORE",
+              "vat": null,
+              "region": "ASEAN",
+              "type": null
+            },
+            "cddCaseStatus": {
+              "code": 10040,
+              "description": "Approved"
+            },
+            "cddCaseType": {
+              "code": 10121,
+              "description": "CDD"
+            }
+          },
+          "rpSourceId": "ecce532d-f209-41fb-a9b7-bd0b49bc80a9",
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": {
+            "code": 10098,
+            "description": "IndividualCDD"
+          },
+          "linkType": {
+            "code": 10009,
+            "description": "LINKED"
+          }
+        },
+        {
+          "linkId": 8800000000457005,
+          "rpMaster": null,
+          "client": {
+            "clientId": 7700000000001413,
+            "srcClientId": "11211572",
+            "sourceSystem": {
+              "code": 10006,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "clientType": {
+              "code": 10046,
+              "description": "Majority Owned Subsidiary of a Publicly quoted company on a recognised exchange as listed in Appendix G"
+            },
+            "riskRating": {
+              "code": -1,
+              "description": "NULL"
+            },
+            "cddCaseNumber": "138309",
+            "cddCaseVersion": 2,
+            "cddCountry": {
+              "code": "SG",
+              "description": "SINGAPORE",
+              "vat": null,
+              "region": "ASEAN",
+              "type": null
+            },
+            "cddCaseStatus": {
+              "code": 10040,
+              "description": "Approved"
+            },
+            "cddCaseType": {
+              "code": 10121,
+              "description": "CDD"
+            }
+          },
+          "rpSourceId": "b271c6f1-07da-481b-b561-2fdc5b44059d",
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": {
+            "code": 10098,
+            "description": "IndividualCDD"
+          },
+          "linkType": {
+            "code": 10009,
+            "description": "LINKED"
+          }
+        },
+        {
+          "linkId": 8800000000922066,
+          "rpMaster": null,
+          "client": {
+            "clientId": 7700000000032059,
+            "srcClientId": "11169089",
+            "sourceSystem": {
+              "code": 10006,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "clientType": {
+              "code": 10046,
+              "description": "Majority Owned Subsidiary of a Publicly quoted company on a recognised exchange as listed in Appendix G"
+            },
+            "riskRating": {
+              "code": -1,
+              "description": "NULL"
+            },
+            "cddCaseNumber": "140055",
+            "cddCaseVersion": 2,
+            "cddCountry": {
+              "code": "SG",
+              "description": "SINGAPORE",
+              "vat": null,
+              "region": "ASEAN",
+              "type": null
+            },
+            "cddCaseStatus": {
+              "code": 10040,
+              "description": "Approved"
+            },
+            "cddCaseType": {
+              "code": 10121,
+              "description": "CDD"
+            }
+          },
+          "rpSourceId": "7367cf4f-29b0-420d-9e92-5672aa602110",
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": {
+            "code": 10098,
+            "description": "IndividualCDD"
+          },
+          "linkType": {
+            "code": 10009,
+            "description": "LINKED"
+          }
+        },
+        {
+          "linkId": 8800000000387006,
+          "rpMaster": null,
+          "client": {
+            "clientId": 7700000000001413,
+            "srcClientId": "11211572",
+            "sourceSystem": {
+              "code": 10006,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "clientType": {
+              "code": 10046,
+              "description": "Majority Owned Subsidiary of a Publicly quoted company on a recognised exchange as listed in Appendix G"
+            },
+            "riskRating": {
+              "code": -1,
+              "description": "NULL"
+            },
+            "cddCaseNumber": "138309",
+            "cddCaseVersion": 2,
+            "cddCountry": {
+              "code": "SG",
+              "description": "SINGAPORE",
+              "vat": null,
+              "region": "ASEAN",
+              "type": null
+            },
+            "cddCaseStatus": {
+              "code": 10040,
+              "description": "Approved"
+            },
+            "cddCaseType": {
+              "code": 10121,
+              "description": "CDD"
+            }
+          },
+          "rpSourceId": "b271c6f1-07da-481b-b561-2fdc5b44059d",
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": {
+            "code": 10086,
+            "description": "Screenable Names"
+          },
+          "linkType": {
+            "code": 10009,
+            "description": "LINKED"
+          }
+        },
+        {
+          "linkId": 8800000000459601,
+          "rpMaster": null,
+          "client": {
+            "clientId": 7700000000014037,
+            "srcClientId": "11004842",
+            "sourceSystem": {
+              "code": 10006,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "clientType": {
+              "code": 10046,
+              "description": "Majority Owned Subsidiary of a Publicly quoted company on a recognised exchange as listed in Appendix G"
+            },
+            "riskRating": {
+              "code": -1,
+              "description": "NULL"
+            },
+            "cddCaseNumber": "136727",
+            "cddCaseVersion": 2,
+            "cddCountry": {
+              "code": "SG",
+              "description": "SINGAPORE",
+              "vat": null,
+              "region": "ASEAN",
+              "type": null
+            },
+            "cddCaseStatus": {
+              "code": 10040,
+              "description": "Approved"
+            },
+            "cddCaseType": {
+              "code": 10121,
+              "description": "CDD"
+            }
+          },
+          "rpSourceId": "ecce532d-f209-41fb-a9b7-bd0b49bc80a9",
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": {
+            "code": 10086,
+            "description": "Screenable Names"
+          },
+          "linkType": {
+            "code": 10009,
+            "description": "LINKED"
+          }
+        },
+        {
+          "linkId": 8800000000277812,
+          "rpMaster": null,
+          "client": {
+            "clientId": 7700000000032059,
+            "srcClientId": "11169089",
+            "sourceSystem": {
+              "code": 10006,
+              "description": "eCDD+"
+            },
+            "clientStatus": null,
+            "clientType": {
+              "code": 10046,
+              "description": "Majority Owned Subsidiary of a Publicly quoted company on a recognised exchange as listed in Appendix G"
+            },
+            "riskRating": {
+              "code": -1,
+              "description": "NULL"
+            },
+            "cddCaseNumber": "140055",
+            "cddCaseVersion": 2,
+            "cddCountry": {
+              "code": "SG",
+              "description": "SINGAPORE",
+              "vat": null,
+              "region": "ASEAN",
+              "type": null
+            },
+            "cddCaseStatus": {
+              "code": 10040,
+              "description": "Approved"
+            },
+            "cddCaseType": {
+              "code": 10121,
+              "description": "CDD"
+            }
+          },
+          "rpSourceId": "7367cf4f-29b0-420d-9e92-5672aa602110",
+          "ownershipPercentage": 0,
+          "linkageStatus": null,
+          "relationshipType": {
+            "code": 10086,
+            "description": "Screenable Names"
+          },
+          "linkType": {
+            "code": 10009,
+            "description": "LINKED"
+          }
+        }
+      ],
+      "wfHist": null,
+      "fatcaflag": null,
+      "pepflag": null
+    }
+  ]
+}

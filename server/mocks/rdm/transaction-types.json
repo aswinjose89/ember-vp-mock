@@ -1,0 +1,48 @@
+{
+  "transactionTypes": [
+    {
+      "code": "Loans",
+      "description": "Loans"
+    },
+    {
+      "code": "Others",
+      "description": "Others"
+    },
+    {
+      "code": "Cash",
+      "description": "Cash"
+    },
+    {
+      "code": "Cheque",
+      "description": "Cheque"
+    },
+    {
+      "code": "OTT",
+      "description": "OTT"
+    },
+    {
+      "code": "ITT",
+      "description": "ITT"
+    },
+    {
+      "code": "Drafts",
+      "description": "Drafts"
+    },
+    {
+      "code": "LC",
+      "description": "LC"
+    },
+    {
+      "code": "Guarantees",
+      "description": "Guarantees"
+    },
+    {
+      "code": "Managers Chq",
+      "description": "Managers Chq"
+    },
+    {
+      "code": "Equity",
+      "description": "Equity"
+    }
+  ]
+}

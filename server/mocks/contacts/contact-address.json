@@ -1,0 +1,18 @@
+{
+  "contactAddresses": [{
+      "type": "Other",
+      "addressL1": "",
+      "addressL2": "",
+      "country": {
+                "id": "213",
+                "name": "",
+                "shortDesc": ""
+              },
+      "city": "",
+      "postCode": "",
+      "isActive": "",
+      "operation": null,
+      "idObjChild": ""
+    }]
+
+}

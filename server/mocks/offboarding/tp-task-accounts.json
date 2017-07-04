@@ -1,0 +1,38 @@
+{
+  "offboarding/accountInfos": [
+    {
+      "id": 4,
+      "tpProcessGroup": "IMEX(Trade)",
+      "clientName": "sfgsg",
+      "region": "AFRICA",
+      "domicileCountry": "dsfdf",
+      "accountNo": "4353453",
+      "accountName": "fhdfhdfh",
+      "processingTeam": "fgdsffdgfgf",
+      "accountStatus": "Active",
+      "segment": "sdfsgsgs",
+      "subSegment": "sdfsgsgs",
+      "exitType": "fgdhd",
+      "status": "COMPLETED"
+    },
+    {
+      "id": 6,
+      "tpProcessGroup": "IMEX(Trade)",
+      "clientName": "sfgsg",
+      "accountNo": "4353453",
+      "region": "ASIA",
+      "domicileCountry": "dsfdf",
+      "accountName": "fhdfhdfh",
+      "processingTeam": "fgdsffdgfgf",
+      "accountStatus": "Active",
+      "segment": "sdfsgsgs",
+      "subSegment": "sdfsgsgs",
+      "exitType": "fgdhd",
+      "status": "COMPLETED"
+    }
+  ],
+  "meta": {
+    "totalRecords": 10
+  }
+}
+

@@ -1,0 +1,34 @@
+{
+	"clients": {
+		"groupId": null,
+		"groupName": null,
+		"records": [{
+			"pId": "11164171",
+			"prospect": false,
+			"name": "L NAME 11164171",
+			"groupId": "990040858",
+			"clientId": null,
+			"masterId": null,
+			"contactId": null,
+			"groupName": "GRP NAME 990040858",
+			"clientName": null,
+			"subProfileId": "1",
+			"privateUser": null,
+			"combinedId": "11164171 - L NAME 11164171/1"
+		},
+    {
+			"pId": "11164172",
+			"prospect": false,
+			"name": "L NAME 11164172",
+			"groupId": "990040859",
+			"clientId": null,
+			"masterId": null,
+			"contactId": null,
+			"groupName": "GRP NAME 990040859",
+			"clientName": null,
+			"subProfileId": "1",
+			"privateUser": null,
+			"combinedId": "11164172 - L NAME 11164172/1"
+		}]
+	}
+}

@@ -1,0 +1,198 @@
+{
+  "clientComplaint": {
+    "complaintId": "1490841260939",
+    "id": "1",
+    "recordStatus": "DRAFT",
+    "caseStatus": "New",
+    "complaintLoggerCountry": "Singapore",
+    "clientSciId": "11000175",
+    "subProfileId": "1",
+    "clientName": "Yi Xuan Lv",
+    "clientContactFirstName": null,
+    "clientContactLastName": null,
+    "clientContactCountry": {
+      "id": null,
+      "code": null,
+      "label": null,
+      "description": null,
+      "shortDescription": null,
+      "longDescription": null,
+      "param1": null,
+      "param2": null,
+      "param3": null
+    },
+    "clientContactEmail": null,
+    "clientContactWorkPhone": null,
+    "clientContactCntryCd": null,
+    "clientContactAreaCd": null,
+    "clientContactExtn": null,
+    "clientContactWorkNO": null,
+    "productGroup": {
+      "id": "1",
+      "code": "1",
+      "label": "Cash Management",
+      "description": "Cash Management",
+      "shortDescription": null,
+      "longDescription": null,
+      "param1": null,
+      "param2": null,
+      "param3": null
+    },
+    "subProductGroup": {
+      "id": "1",
+      "code": "1",
+      "label": "Account Services",
+      "description": "Account Services",
+      "shortDescription": null,
+      "longDescription": null,
+      "param1": null,
+      "param2": null,
+      "param3": null
+    },
+    "productsServices": {
+      "id": "4",
+      "code": "4",
+      "label": "General Banking Services",
+      "description": "General Banking Services",
+      "shortDescription": null,
+      "longDescription": null,
+      "param1": null,
+      "param2": null,
+      "param3": null
+    },
+    "queryType": {
+      "id": null,
+      "code": null,
+      "label": null,
+      "description": null,
+      "shortDescription": null,
+      "longDescription": null,
+      "param1": null,
+      "param2": null,
+      "param3": null
+    },
+    "complaintCategory": {
+      "id": null,
+      "code": null,
+      "label": null,
+      "description": null,
+      "shortDescription": null,
+      "longDescription": null,
+      "param1": null,
+      "param2": null,
+      "param3": null
+    },
+    "complaintType": {
+      "id": null,
+      "code": null,
+      "label": null,
+      "description": null,
+      "shortDescription": null,
+      "longDescription": null,
+      "param1": null,
+      "param2": null,
+      "param3": null
+    },
+    "eligibleComplainant": "Yes",
+    "complaintDetails": null,
+    "resolutionProvided": null,
+    "finalRootCause": {
+      "id": null,
+      "code": null,
+      "label": null,
+      "description": null,
+      "shortDescription": null,
+      "longDescription": null,
+      "param1": null,
+      "param2": null,
+      "param3": null
+    },
+    "finalAccountableUnit": {
+      "id": null,
+      "code": null,
+      "label": null,
+      "description": null,
+      "shortDescription": null,
+      "longDescription": null,
+      "param1": null,
+      "param2": null,
+      "param3": null
+    },
+    "finalPreventiveAction": null,
+    "complaintAnalysis": null,
+    "facilityBookingLocation": {
+      "id": null,
+      "code": null,
+      "label": null,
+      "description": null,
+      "shortDescription": null,
+      "longDescription": null,
+      "param1": null,
+      "param2": null,
+      "param3": null
+    },
+    "source": {
+      "id": null,
+      "code": null,
+      "label": null,
+      "description": null,
+      "shortDescription": null,
+      "longDescription": null,
+      "param1": null,
+      "param2": null,
+      "param3": null
+    },
+    "status": "Open",
+    "justifiedComplaint": "Yes",
+    "loggerDepartment": {
+      "id": null,
+      "code": null,
+      "label": null,
+      "description": null,
+      "shortDescription": null,
+      "longDescription": null,
+      "param1": null,
+      "param2": null,
+      "param3": null
+    },
+    "loggerPSID": "1325951",
+    "loggerFirstName": "James, Courtenay",
+    "loggerLastName": "Courtenay",
+    "loggedInUserEmail": "1325951@sc1.com",
+    "complaintHandlerEmailID": null,
+    "complaintHandlerDepartment": {
+      "id": null,
+      "code": null,
+      "label": null,
+      "description": null,
+      "shortDescription": null,
+      "longDescription": null,
+      "param1": null,
+      "param2": null,
+      "param3": null
+    },
+    "loggingSource": "WorkBench",
+    "notificationEmailID": "Vee.Chiasakul@sc.com",
+    "createDate": 1490841260939,
+    "updateDate": 1491654920793,
+    "attachmentAvailable": true,
+    "attachmentFiles": {
+      "id": "1491654973820",
+      "totalRecords": "1",
+      "files": [
+        {
+          "id": "ClientServiceDashBoard#_1484211105757 (1) (2).pdf",
+          "description": null,
+          "uploadedBy": "1325951",
+          "categoryType": null,
+          "fileName": {
+            "type": "pdf",
+            "name": "ClientServiceDashBoard#_1484211105757 (1) (2).pdf"
+          },
+          "deleted": false
+        }
+      ]
+    },
+    "attachmentFileMap": null
+  }
+}

@@ -1,0 +1,21 @@
+{
+	"companyProfileInfo": {
+		"id": "20178242864286486244",
+		"details": [{
+			"id": "23224",
+			"moduleName": "Client Information",
+			"updatedBy": "Vikram Mosali Reddy",
+			"updatedDate": 1477477465833
+		}, {
+			"id": "232124",
+			"moduleName": "Network",
+			"updatedBy": "Bill Winters",
+			"updatedDate": 1477477465833
+		}, {
+			"id": "2345224",
+			"moduleName": "Operating Structure",
+			"updatedBy": "Raman Sankaran",
+			"updatedDate": 1477477465833
+		}]
+	}
+}

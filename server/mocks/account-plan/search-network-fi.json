@@ -1,0 +1,19 @@
+{
+	"search-network-fi": [{
+    "id": "20170110011934382000728",
+		"entityId": "20150324153613163",
+		"entityName" : "ABS Company Ltd",
+    "type" : "NAME"
+	}, {
+    "id": "1018",
+		"entityId": "1018",
+    "entityName" : "Practor and Gamble",
+    "type" : "NAME"
+	}, {
+    "id": "1003",
+		"entityId": "1003",
+    "entityName": "A to Z Business India Pvt Ltd.",
+    "type" : "NAME"
+	}]
+
+}

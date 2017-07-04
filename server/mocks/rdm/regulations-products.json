@@ -1,0 +1,60 @@
+{
+    "regulationsProducts": [
+        {
+            "productId": "CERTIFICATEOFDEPOSIT",
+            "productName": "Certificates of Deposit"
+        },
+        {
+            "productId": "CREDITDERIVATIVES",
+            "productName": "Credit Derivatives"
+        },
+        {
+            "productId": "EXCHANGETRADEOPTIONS",
+            "productName": "Exchange Traded Options"
+        },
+        {
+            "productId": "FXOPTIONS",
+            "productName": "FX Options"
+        },
+        {
+            "productId": "FIDUCIARYORESCROWDEPOSIT",
+            "productName": "Fiduciary/Escrow  Deposits"
+        },
+        {
+            "productId": "INTERESTRATEDERIVATIVES",
+            "productName": "Interest Rate Derivatives"
+        },
+        {
+            "productId": "INTERESTRATEFUTURES",
+            "productName": "Interest Rate Futures"
+        },
+        {
+            "productId": "INTERESTRATESWAP",
+            "productName": "Interest Rate Swaps"
+        },
+        {
+            "productId": "OTHERS",
+            "productName": "Others"
+        },
+        {
+            "productId": "SECONDARYLOANTRADING",
+            "productName": "Secondary Loan Trading"
+        },
+        {
+            "productId": "ISSPOTORFORWARDFX",
+            "productName": "Spot and/or Forward FX"
+        },
+        {
+            "productId": "SYNDICATIONS",
+            "productName": "Syndications"
+        },
+        {
+            "productId": "TRIPARTYREPOS",
+            "productName": "Tri-Party Repos"
+        },
+        {
+            "productId": "USTREASURIES",
+            "productName": "US Treasuries (Bills, Notes, Bonds)"
+        }
+    ]
+}

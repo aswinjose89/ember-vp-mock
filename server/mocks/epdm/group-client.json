@@ -1,0 +1,28 @@
+{
+	"groupClients":[
+		{
+			"code": "432",
+			"name": "Isabel Rhodes",
+			"country": "Malaysia",
+			"entityType": "C"
+		},
+		{
+			"code": "433",
+			"name": "Mark Murphy",
+			"country": "Sinapore",
+			"entityType": "G"
+		},
+		{
+			"code": "434",
+			"name": "Della Parks",
+			"country": "UK",
+			"entityType": "C"
+		},
+		{
+			"code": "435",
+			"name": "Mitchell Bensonj",
+			"country": "Thailand",
+			"entityType": "G"
+		}
+	]
+}

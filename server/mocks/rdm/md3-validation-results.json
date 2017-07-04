@@ -1,0 +1,84 @@
+{
+  "md3ValidationResults": [
+    {
+      "code": "3",
+      "validationResult": "Valid - No Treaty"
+    },
+    {
+      "code": "7",
+      "validationResult": "Certified - Not U.S. source FDAP"
+    },
+    {
+      "code": "1",
+      "validationResult": "Valid"
+    },
+    {
+      "code": "2",
+      "validationResult": "Not Valid"
+    },
+    {
+      "code": "4",
+      "validationResult": "Valid - Private Foundation"
+    },
+    {
+      "code": "5",
+      "validationResult": "Valid - Exempt Recipient"
+    },
+    {
+      "code": "6",
+      "validationResult": "Certified (Valid for Chp. 4 only)"
+    },
+    {
+      "code": "8",
+      "validationResult": "Uncertified"
+    },
+    {
+      "code": "9",
+      "validationResult": "Valid Incomplete Form"
+    },
+    {
+      "code": "10",
+      "validationResult": "Valid Incomplete Form - Backup withholding applies"
+    },
+    {
+      "code": "11",
+      "validationResult": "Valid - Special Rate Claim"
+    },
+    {
+      "code": "12",
+      "validationResult": "Valid - Restricted Funds Only"
+    },
+    {
+      "code": "13",
+      "validationResult": "Valid - Hybrid Treaty Claim"
+    },
+    {
+      "code": "14",
+      "validationResult": "Valid - QI with no withholding responsibility - QSL "
+    },
+    {
+      "code": "15",
+      "validationResult": "Valid - QI with Chp. 3 & 4 responsibility only - QSL"
+    },
+    {
+      "code": "16",
+      "validationResult": "Valid - QI with 1099 responsibility only - QSL"
+    },
+    {
+      "code": "17",
+      "validationResult": "Valid - QI with 1099 and Chp. 3 & 4 responsibility - QSL"
+    },
+    {
+      "code": "18",
+      "validationResult": "Valid - US Person"
+    },
+    {
+      "code": "19",
+      "validationResult": "Valid - QSL"
+    },
+    {
+      "code": "20",
+      "validationResult": "Valid - Treat as W-8BEN (Not tax exempt)"
+    }
+  ]
+}

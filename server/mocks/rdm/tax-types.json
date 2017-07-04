@@ -1,0 +1,36 @@
+{
+  "taxTypes": [
+    {
+      "description": "Employer Identification Number",
+      "taxIdType": "EIN"
+    },
+    {
+      "description": "Global Intermediary Identification Number",
+      "taxIdType": "GIIN"
+    },
+    {
+      "description": "Sponsoring Global Intermediary Identification Number",
+      "taxIdType": "Sponsoring GIIN"
+    },
+    {
+      "description": "Foreign Taxpayer Identification Number",
+      "taxIdType": "Foreign TIN"
+    },
+    {
+      "description": "Qualified Intermediary Employer Identification Number",
+      "taxIdType": "QI-EIN"
+    },
+    {
+      "description": "Withholding Foreign Partnership Employer Identification Number",
+      "taxIdType": "WP-EIN"
+    },
+    {
+      "description": "Withholding Foreign Trust Employer Identification Number",
+      "taxIdType": "WT-EIN"
+    },
+    {
+      "description": "Social Security Number or Individual Taxpayer Identification Number",
+      "taxIdType": "SSN or ITIN"
+    }
+  ]
+}

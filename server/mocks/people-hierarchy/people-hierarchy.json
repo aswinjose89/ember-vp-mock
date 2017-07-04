@@ -1,0 +1,380 @@
+{
+    "peopleHierarchies": [{
+        "x_alias": "1297014",
+        "x_first_name": "Sunny Sun Yu",
+        "x_last_name": "Leung",
+        "x_manager_alias": "1102424",
+        "email": "Sunny.SY.Leung@sc.com",
+        "title": "Branch Manager",
+        "department": "BB Branch Managers",
+        "country": "Hong Kong",
+        "role": "RM",
+        "breadcrums": "/1001049/1302275/1428867/1102441/1134875/1339211/1102424/1297014",
+        "office": "+65 6530 3326",
+        "mobile": "+65 9711 2868",
+        "address": null, 
+        "hasNodes": true,
+        "isFirstLevel": true,
+        "imageLink": "/api/core/users/profileInfo/image/1297014",
+        "childNodes": ["1324521", "1421482", "1101847", "1104297", "1281876", "1445326", "1336916", "1450271"],
+        "data": null
+        
+    }, {
+        "x_alias": "1324521",
+        "x_first_name": "Kong Sang",
+        "x_last_name": "Tsui",
+        "x_manager_alias": "1297014",
+        "email": "Steven-Kong-Sang.Tsui@sc.com",
+        "title": "Relationship Manager, Priority Banking",
+        "department": "BB RM, PrB Mei Foo Stage I Br",
+        "country": "Hong Kong",
+        "role": null,
+        "hasNodes": false,
+        "breadcrums": "/1001049/1302275/1428867/1102441/1134875/1339211/1102424/1297014/1324521",
+        "office": null,
+        "mobile": null,
+        "address": null, 
+  
+        "isFirstLevel": false,
+        "imageLink": "/api/core/users/profileInfo/image/1324521",
+        "childNodes": [],"hasNodes": false,
+        "data": null
+        
+    }, {
+        "x_alias": "1421482",
+        "x_first_name": "Pui Man",
+        "x_last_name": "Tse",
+        "x_manager_alias": "1297014",
+        "email": "Joyce-PM.Tse@sc.com",
+        "title": "Relationship Manager, Priority Banking",
+        "department": "BB RM, PrB Mei Foo Stage I Br",
+        "country": "Hong Kong",
+        "role": null,
+        
+        "breadcrums": "/1001049/1302275/1428867/1102441/1134875/1339211/1102424/1297014/1421482",
+        "office": null,
+        "mobile": null,
+        "address": null, 
+  
+        "isFirstLevel": false,
+        "imageLink": "/api/core/users/profileInfo/image/1421482",
+        "childNodes": [],"hasNodes": false,
+        "data": null
+        
+    }, {
+        "x_alias": "1101847",
+        "x_first_name": "Virginia Yin Fong",
+        "x_last_name": "Ng",
+        "x_manager_alias": "1297014",
+        "email": "Virginia.Ng@sc.com",
+        "title": "Senior Branch Services Manager",
+        "department": "BB Mei Foo Stage I Br",
+        "country": "Hong Kong",
+        "role": null,
+        
+        "breadcrums": "/1001049/1302275/1428867/1102441/1134875/1339211/1102424/1297014/1101847",
+        "office": null,
+        "mobile": null,
+        "address": null, 
+        "hasNodes": true,
+        "isFirstLevel": false,
+        "imageLink": "/api/core/users/profileInfo/image/1101847",
+        "childNodes": ["1276972", "1216801", "1383585", "1424841", "1469635", "1238315", "1152974", "1446164", "1103626"],
+        "data": null
+        
+    }, {
+        "x_alias": "1104297",
+        "x_first_name": "Kwun Hei",
+        "x_last_name": "Choi",
+        "x_manager_alias": "1297014",
+        "email": "Steven.Choi@sc.com",
+        "title": "Relationship Manager, Preferred Banking",
+        "department": "BB RM, PfB Mei Foo Stage I Br",
+        "country": "Hong Kong",
+        "role": null,
+        
+        "breadcrums": "/1001049/1302275/1428867/1102441/1134875/1339211/1102424/1297014/1104297",
+        "office": null,
+        "mobile": null,
+        "address": null, 
+  
+        "isFirstLevel": false,
+        "imageLink": "/api/core/users/profileInfo/image/1104297",
+        "childNodes": [],"hasNodes": false,
+        "data": null
+        
+    }, {
+        "x_alias": "1281876",
+        "x_first_name": "Ho Yan",
+        "x_last_name": "Chan",
+        "x_manager_alias": "1297014",
+        "email": "Danny-Ho-Yan.Chan@sc.com",
+        "title": "Deposit & Mortgage Manager",
+        "department": "BB Deposit & Mort Sales Mgr",
+        "country": "Hong Kong",
+        "role": null,
+        
+        "breadcrums": "/1001049/1302275/1428867/1102441/1134875/1339211/1102424/1297014/1281876",
+        "office": null,
+        "mobile": null,
+        "address": null, 
+  
+        "isFirstLevel": false,
+        "imageLink": "/api/core/users/profileInfo/image/1281876",
+        "childNodes": [],"hasNodes": false,
+        "data": null
+        
+    }, {
+        "x_alias": "1445326",
+        "x_first_name": "Pui Kwan",
+        "x_last_name": "Lai",
+        "x_manager_alias": "1297014",
+        "email": "Pui-Kwan-Kanas.Lai@sc.com",
+        "title": "Relationship Manager, Priority Banking",
+        "department": "BB RM, PrB Mei Foo Stage I Br",
+        "country": "Hong Kong",
+        "role": null,
+        
+        "breadcrums": "/1001049/1302275/1428867/1102441/1134875/1339211/1102424/1297014/1445326",
+        "office": null,
+        "mobile": null,
+        "address": null, 
+  
+        "isFirstLevel": false,
+        "imageLink": "/api/core/users/profileInfo/image/1445326",
+        "childNodes": [],"hasNodes": false,
+        "data": null
+        
+    }, {
+        "x_alias": "1336916",
+        "x_first_name": "Erica Wai Man",
+        "x_last_name": "Cheung",
+        "x_manager_alias": "1297014",
+        "email": "Erica.Cheung@sc.com",
+        "title": "Senior Relationship Manager, Priority Banking",
+        "department": "BB RM, PrB Mei Foo Stage I Br",
+        "country": "Hong Kong",
+        "role": null,
+        
+        "breadcrums": "/1001049/1302275/1428867/1102441/1134875/1339211/1102424/1297014/1336916",
+        "office": null,
+        "mobile": null,
+        "address": null, 
+  
+        "isFirstLevel": false,
+        "imageLink": "/api/core/users/profileInfo/image/1336916",
+        "childNodes": [],"hasNodes": false,
+        "data": null
+        
+    }, {
+        "x_alias": "1450271",
+        "x_first_name": "Lai Yeung Angela",
+        "x_last_name": "Li",
+        "x_manager_alias": "1297014",
+        "email": "Lai-Yeung-Angela.Li@sc.com",
+        "title": "Wealth Planning Manager",
+        "department": "BB Wealth Planning Manager",
+        "country": "Hong Kong",
+        "role": null,
+        
+        "breadcrums": "/1001049/1302275/1428867/1102441/1134875/1339211/1102424/1297014/1450271",
+        "office": null,
+        "mobile": null,
+        "address": null, 
+  
+        "isFirstLevel": false,
+        "imageLink": "/api/core/users/profileInfo/image/1450271",
+        "childNodes": [],"hasNodes": false,
+        "data": null
+        
+    }, {
+        "x_alias": "1276972",
+        "x_first_name": "Kit Yi",
+        "x_last_name": "Sham",
+        "x_manager_alias": "1101847",
+        "email": "Sam.Sham@sc.com",
+        "title": "Senior Customer Service Ambassador",
+        "department": "BB Mei Foo Stage I Br",
+        "country": "Hong Kong",
+        "role": null,
+        
+        "breadcrums": "/1001049/1302275/1428867/1102441/1134875/1339211/1102424/1297014/1101847/1276972",
+        "office": null,
+        "mobile": null,
+        "address": null, 
+  
+        "isFirstLevel": false,
+        "imageLink": "/api/core/users/profileInfo/image/1276972",
+        "childNodes": [],"hasNodes": false,
+        "data": null
+        
+    }, {
+        "x_alias": "1216801",
+        "x_first_name": "Lai Ki",
+        "x_last_name": "Wong",
+        "x_manager_alias": "1101847",
+        "email": "Icarus.Wong@sc.com",
+        "title": "Customer Service Ambassador",
+        "department": "BB Mei Foo Stage I Br",
+        "country": "Hong Kong",
+        "role": null,
+        
+        "breadcrums": "/1001049/1302275/1428867/1102441/1134875/1339211/1102424/1297014/1101847/1216801",
+        "office": null,
+        "mobile": null,
+        "address": null, 
+  
+        "isFirstLevel": false,
+        "imageLink": "/api/core/users/profileInfo/image/1216801",
+        "childNodes": [],"hasNodes": false,
+        "data": null
+        
+    }, {
+        "x_alias": "1383585",
+        "x_first_name": "Pui Chu",
+        "x_last_name": "Wong",
+        "x_manager_alias": "1101847",
+        "email": "Polly.Wong@sc.com",
+        "title": "Customer Service Ambassador",
+        "department": "BB Mei Foo Stage I Br",
+        "country": "Hong Kong",
+        "role": null,
+        
+        "breadcrums": "/1001049/1302275/1428867/1102441/1134875/1339211/1102424/1297014/1101847/1383585",
+        "office": null,
+        "mobile": null,
+        "address": null, 
+  
+        "isFirstLevel": false,
+        "imageLink": "/api/core/users/profileInfo/image/1383585",
+        "childNodes": [],"hasNodes": false,
+        "data": null
+        
+    }, {
+        "x_alias": "1424841",
+        "x_first_name": "Wai Lung",
+        "x_last_name": "Chan",
+        "x_manager_alias": "1101847",
+        "email": "Wai-Lung.Chan@sc.com",
+        "title": "Customer Service Ambassador",
+        "department": "BB Mei Foo Stage I Br",
+        "country": "Hong Kong",
+        "role": null,
+        
+        "breadcrums": "/1001049/1302275/1428867/1102441/1134875/1339211/1102424/1297014/1101847/1424841",
+        "office": null,
+        "mobile": null,
+        "address": null, 
+  
+        "isFirstLevel": false,
+        "imageLink": "/api/core/users/profileInfo/image/1424841",
+        "childNodes": [],"hasNodes": false,
+        "data": null
+        
+    }, {
+        "x_alias": "1469635",
+        "x_first_name": "Chun Yin",
+        "x_last_name": "Wong",
+        "x_manager_alias": "1101847",
+        "email": "Chun-Yin.Wong@sc.com",
+        "title": "Customer Service Ambassador",
+        "department": "BB Mei Foo Stage I Br",
+        "country": "Hong Kong",
+        "role": null,
+        
+        "breadcrums": "/1001049/1302275/1428867/1102441/1134875/1339211/1102424/1297014/1101847/1469635",
+        "office": null,
+        "mobile": null,
+        "address": null, 
+  
+        "isFirstLevel": false,
+        "imageLink": "/api/core/users/profileInfo/image/1469635",
+        "childNodes": [],"hasNodes": false,
+        "data": null
+        
+    }, {
+        "x_alias": "1238315",
+        "x_first_name": "Kin Hang",
+        "x_last_name": "Lee",
+        "x_manager_alias": "1101847",
+        "email": "Kevin-Kin-Hang.Lee@sc.com",
+        "title": "Senior Customer Service Ambassador",
+        "department": "BB Mei Foo Stage I Br",
+        "country": "Hong Kong",
+        "role": null,
+        
+        "breadcrums": "/1001049/1302275/1428867/1102441/1134875/1339211/1102424/1297014/1101847/1238315",
+        "office": null,
+        "mobile": null,
+        "address": null, 
+  
+        "isFirstLevel": false,
+        "imageLink": "/api/core/users/profileInfo/image/1238315",
+        "childNodes": [],"hasNodes": false,
+        "data": null
+        
+    }, {
+        "x_alias": "1152974",
+        "x_first_name": "Yuet Ting",
+        "x_last_name": "Lam",
+        "x_manager_alias": "1101847",
+        "email": "Maggie.YT.Lam@sc.com",
+        "title": "Branch Services Manager",
+        "department": "BB Mei Foo Stage I Br",
+        "country": "Hong Kong",
+        "role": null,
+        
+        "breadcrums": "/1001049/1302275/1428867/1102441/1134875/1339211/1102424/1297014/1101847/1152974",
+        "office": null,
+        "mobile": null,
+        "address": null, 
+  
+        "isFirstLevel": false,
+        "imageLink": "/api/core/users/profileInfo/image/1152974",
+        "childNodes": [],"hasNodes": false,
+        "data": null
+        
+    }, {
+        "x_alias": "1446164",
+        "x_first_name": "Chui Shan",
+        "x_last_name": "Fok",
+        "x_manager_alias": "1101847",
+        "email": "Chui-Shan.Fok@sc.com",
+        "title": "Customer Service Ambassador",
+        "department": "BB Mei Foo Stage I Br",
+        "country": "Hong Kong",
+        "role": null,
+        
+        "breadcrums": "/1001049/1302275/1428867/1102441/1134875/1339211/1102424/1297014/1101847/1446164",
+        "office": null,
+        "mobile": null,
+        "address": null, 
+  
+        "isFirstLevel": false,
+        "imageLink": "/api/core/users/profileInfo/image/1446164",
+        "childNodes": [],"hasNodes": false,
+        "data": null
+        
+    }, {
+        "x_alias": "1103626",
+        "x_first_name": "Shuk Yee",
+        "x_last_name": "Lung",
+        "x_manager_alias": "1101847",
+        "email": "Cuby.Lung@sc.com",
+        "title": "Customer Service Manager",
+        "department": "BB Mei Foo Stage I Br",
+        "country": "Hong Kong",
+        "role": null,
+        
+        "breadcrums": "/1001049/1302275/1428867/1102441/1134875/1339211/1102424/1297014/1101847/1103626",
+        "office": null,
+        "mobile": null,
+        "address": null, 
+  
+        "isFirstLevel": false,
+        "imageLink": "/api/core/users/profileInfo/image/1103626",
+        "childNodes": [],"hasNodes": false,
+        "data": null
+        
+    }]
+}

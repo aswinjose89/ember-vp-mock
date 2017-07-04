@@ -1,0 +1,40 @@
+{
+  "globalSearch": {
+    "id": "1444027975093DEAL",
+    "searchQuery": "Test",
+    "filterType": "deals",
+    "dealSearchResult": 5
+  },
+  "dealSearch": [
+    {
+      "category": "deals",
+      "startIndex": 5,
+      "rows": 3,
+      "numFound": 99,
+      "children": [
+        "20140423100190391",
+        "1444027975219DEALS5",
+        "1444027975219DEALS6"
+      ]
+    }
+  ],
+  "searchEntities": [
+    {
+        "id": "20140423100190391",
+        "name": "Working Deal",
+        "entityId": "990079266",
+        "entityName": "SHANGHAI SIMS TRADING CO LTD",
+        "entityType": "G"
+    },
+    {
+      "id": "1444027975219DEALS5",
+      "name": "Test BLA Regression",
+      "entityName": "MALVINDER & SHIVINDER GROUP"
+    },
+    {
+      "id": "1444027975219DEALS6",
+      "name": "Test BLA Regression",
+      "entityName": "MALVINDER & SHIVINDER GROUP"
+    }
+  ]
+}

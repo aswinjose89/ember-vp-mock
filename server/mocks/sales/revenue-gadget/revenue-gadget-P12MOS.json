@@ -1,0 +1,3462 @@
+{
+    "revenueMetric": [{
+        "id": "1",
+        "monthId": "201507",
+        "productAreaCode": "Non TP Balances",
+        "productAreaAbbreviation": "NTB",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#87DCB8"
+    }, {
+        "id": "80",
+        "monthId": "201508",
+        "productAreaCode": "Non TP Balances",
+        "productAreaAbbreviation": "NTB",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#87DCB8"
+    }, {
+        "id": "161",
+        "monthId": "201509",
+        "productAreaCode": "Non TP Balances",
+        "productAreaAbbreviation": "NTB",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#87DCB8"
+    }, {
+        "id": "242",
+        "monthId": "201510",
+        "productAreaCode": "Non TP Balances",
+        "productAreaAbbreviation": "NTB",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#87DCB8"
+    }, {
+        "id": "323",
+        "monthId": "201511",
+        "productAreaCode": "Non TP Balances",
+        "productAreaAbbreviation": "NTB",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#87DCB8"
+    }, {
+        "id": "404",
+        "monthId": "201512",
+        "productAreaCode": "Non TP Balances",
+        "productAreaAbbreviation": "NTB",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#87DCB8"
+    }, {
+        "id": "485",
+        "monthId": "201601",
+        "productAreaCode": "Non TP Balances",
+        "productAreaAbbreviation": "NTB",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#87DCB8"
+    }, {
+        "id": "568",
+        "monthId": "201602",
+        "productAreaCode": "Non TP Balances",
+        "productAreaAbbreviation": "NTB",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#87DCB8"
+    }, {
+        "id": "652",
+        "monthId": "201603",
+        "productAreaCode": "Non TP Balances",
+        "productAreaAbbreviation": "NTB",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#87DCB8"
+    }, {
+        "id": "664",
+        "monthId": "201604",
+        "productAreaCode": "Non TP Balances",
+        "productAreaAbbreviation": "NTB",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#87DCB8"
+    }, {
+        "id": "676",
+        "monthId": "201605",
+        "productAreaCode": "Non TP Balances",
+        "productAreaAbbreviation": "NTB",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#87DCB8"
+    }, {
+        "id": "688",
+        "monthId": "201606",
+        "productAreaCode": "Non TP Balances",
+        "productAreaAbbreviation": "NTB",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#87DCB8"
+    }, {
+        "id": "2",
+        "monthId": "201507",
+        "productAreaCode": "P13",
+        "productAreaAbbreviation": "UNKNOWN",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#9B9B9B"
+    }, {
+        "id": "81",
+        "monthId": "201508",
+        "productAreaCode": "P13",
+        "productAreaAbbreviation": "UNKNOWN",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#9B9B9B"
+    }, {
+        "id": "162",
+        "monthId": "201509",
+        "productAreaCode": "P13",
+        "productAreaAbbreviation": "UNKNOWN",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#9B9B9B"
+    }, {
+        "id": "244",
+        "monthId": "201510",
+        "productAreaCode": "P13",
+        "productAreaAbbreviation": "UNKNOWN",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#9B9B9B"
+    }, {
+        "id": "325",
+        "monthId": "201511",
+        "productAreaCode": "P13",
+        "productAreaAbbreviation": "UNKNOWN",
+        "clientSegments": [{
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 30,
+            "abbreviation": "FI"
+        }],
+        "revenueAmount": 30,
+        "totalDeals": 0,
+        "valueColor": "#9B9B9B"
+    }, {
+        "id": "405",
+        "monthId": "201512",
+        "productAreaCode": "P13",
+        "productAreaAbbreviation": "UNKNOWN",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#9B9B9B"
+    }, {
+        "id": "487",
+        "monthId": "201601",
+        "productAreaCode": "P13",
+        "productAreaAbbreviation": "UNKNOWN",
+        "clientSegments": [{
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 2590.19414,
+            "abbreviation": "CTA"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 2974.42582,
+            "abbreviation": "OA"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 179427.43466,
+            "abbreviation": "FI"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 16.33542,
+            "abbreviation": "MM"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 9132.57974,
+            "abbreviation": "GC"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 5352.75957,
+            "abbreviation": "LC"
+        }],
+        "revenueAmount": 199493.72935,
+        "totalDeals": 0,
+        "valueColor": "#9B9B9B"
+    }, {
+        "id": "570",
+        "monthId": "201602",
+        "productAreaCode": "P13",
+        "productAreaAbbreviation": "UNKNOWN",
+        "clientSegments": [{
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 1309.90743,
+            "abbreviation": "CTA"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 32.67084,
+            "abbreviation": "MM"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 221.01008,
+            "abbreviation": "GC"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 240.25874,
+            "abbreviation": "FI"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 926.92278,
+            "abbreviation": "LC"
+        }],
+        "revenueAmount": 2730.76987,
+        "totalDeals": 0,
+        "valueColor": "#9B9B9B"
+    }, {
+        "id": "653",
+        "monthId": "201603",
+        "productAreaCode": "P13",
+        "productAreaAbbreviation": "UNKNOWN",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#9B9B9B"
+    }, {
+        "id": "665",
+        "monthId": "201604",
+        "productAreaCode": "P13",
+        "productAreaAbbreviation": "UNKNOWN",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#9B9B9B"
+    }, {
+        "id": "677",
+        "monthId": "201605",
+        "productAreaCode": "P13",
+        "productAreaAbbreviation": "UNKNOWN",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#9B9B9B"
+    }, {
+        "id": "689",
+        "monthId": "201606",
+        "productAreaCode": "P13",
+        "productAreaAbbreviation": "UNKNOWN",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#9B9B9B"
+    }, {
+        "id": "9",
+        "monthId": "201507",
+        "productAreaCode": "PSEGCF",
+        "productAreaAbbreviation": "CF",
+        "clientSegments": [{
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 91192.34445,
+            "abbreviation": "MM"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 14168500.65566,
+            "abbreviation": "FI"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 138825208.45681,
+            "abbreviation": "GC"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 25731.87878,
+            "abbreviation": "ME"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 6576900.31648,
+            "abbreviation": "CTA"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 12793487.38022,
+            "abbreviation": "LC"
+        }],
+        "revenueAmount": 172481021.0324,
+        "totalDeals": 0,
+        "valueColor": "#42A5F5"
+    }, {
+        "id": "92",
+        "monthId": "201508",
+        "productAreaCode": "PSEGCF",
+        "productAreaAbbreviation": "CF",
+        "clientSegments": [{
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 88833.14857,
+            "abbreviation": "OA"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 9163806.82534,
+            "abbreviation": "FI"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 749954.1019,
+            "abbreviation": "MM"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 143169.68203,
+            "abbreviation": "ME"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 124976238.7196,
+            "abbreviation": "GC"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 6096890.78708,
+            "abbreviation": "CTA"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 7736630.24404,
+            "abbreviation": "LC"
+        }],
+        "revenueAmount": 148955523.50856,
+        "totalDeals": 0,
+        "valueColor": "#42A5F5"
+    }, {
+        "id": "166",
+        "monthId": "201509",
+        "productAreaCode": "PSEGCF",
+        "productAreaAbbreviation": "CF",
+        "clientSegments": [{
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 6423278.19729,
+            "abbreviation": "CTA"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 14554646.69938,
+            "abbreviation": "LC"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 141282594.32511,
+            "abbreviation": "GC"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 1091.73195,
+            "abbreviation": "ME"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 1017785.87203,
+            "abbreviation": "MM"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 1505793.5885,
+            "abbreviation": "OA"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 17007752.95982,
+            "abbreviation": "FI"
+        }],
+        "revenueAmount": 181792943.37408,
+        "totalDeals": 0,
+        "valueColor": "#42A5F5"
+    }, {
+        "id": "254",
+        "monthId": "201510",
+        "productAreaCode": "PSEGCF",
+        "productAreaAbbreviation": "CF",
+        "clientSegments": [{
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 170989.22241,
+            "abbreviation": "OA"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 12556624.4768,
+            "abbreviation": "FI"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 1068069.00343,
+            "abbreviation": "MM"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 137975316.43716,
+            "abbreviation": "GC"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 1077.5862,
+            "abbreviation": "ME"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 6896523.79359,
+            "abbreviation": "CTA"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 7491365.29317,
+            "abbreviation": "LC"
+        }],
+        "revenueAmount": 166159965.81276,
+        "totalDeals": 0,
+        "valueColor": "#42A5F5"
+    }, {
+        "id": "334",
+        "monthId": "201511",
+        "productAreaCode": "PSEGCF",
+        "productAreaAbbreviation": "CF",
+        "clientSegments": [{
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 365050.28639,
+            "abbreviation": "OA"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 12080598.65432,
+            "abbreviation": "FI"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 1161811.3112,
+            "abbreviation": "MM"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 1065.53354,
+            "abbreviation": "ME"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 4574185.73075,
+            "abbreviation": "LC"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 7559876.35929,
+            "abbreviation": "CTA"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 120693543.23305,
+            "abbreviation": "GC"
+        }],
+        "revenueAmount": 146436131.10854,
+        "totalDeals": 0,
+        "valueColor": "#42A5F5"
+    }, {
+        "id": "411",
+        "monthId": "201512",
+        "productAreaCode": "PSEGCF",
+        "productAreaAbbreviation": "CF",
+        "clientSegments": [{
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 138252148.38283,
+            "abbreviation": "GC"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 1346.36463,
+            "abbreviation": "ME"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 638644.54444,
+            "abbreviation": "MM"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 22350929.93851,
+            "abbreviation": "FI"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 9703957.20345,
+            "abbreviation": "LC"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 9018544.25559,
+            "abbreviation": "CTA"
+        }],
+        "revenueAmount": 179965570.68945,
+        "totalDeals": 0,
+        "valueColor": "#42A5F5"
+    }, {
+        "id": "493",
+        "monthId": "201601",
+        "productAreaCode": "PSEGCF",
+        "productAreaAbbreviation": "CF",
+        "clientSegments": [{
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 10103144.27364,
+            "abbreviation": "LC"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 6727619.12897,
+            "abbreviation": "CTA"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 17602603.74721,
+            "abbreviation": "FI"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 1380706.33776,
+            "abbreviation": "MM"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 265.77,
+            "abbreviation": "ME"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 121927343.86696,
+            "abbreviation": "GC"
+        }],
+        "revenueAmount": 157741683.12454,
+        "totalDeals": 0,
+        "valueColor": "#42A5F5"
+    }, {
+        "id": "581",
+        "monthId": "201602",
+        "productAreaCode": "PSEGCF",
+        "productAreaAbbreviation": "CF",
+        "clientSegments": [{
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 15604031.59511,
+            "abbreviation": "FI"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 3167373.36498,
+            "abbreviation": "OA"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 5861345.07224,
+            "abbreviation": "LC"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 4516211.68471,
+            "abbreviation": "CTA"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 544009.41974,
+            "abbreviation": "MM"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 110717956.79859,
+            "abbreviation": "GC"
+        }],
+        "revenueAmount": 140410927.93537,
+        "totalDeals": 0,
+        "valueColor": "#42A5F5"
+    }, {
+        "id": "654",
+        "monthId": "201603",
+        "productAreaCode": "PSEGCF",
+        "productAreaAbbreviation": "CF",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#42A5F5"
+    }, {
+        "id": "666",
+        "monthId": "201604",
+        "productAreaCode": "PSEGCF",
+        "productAreaAbbreviation": "CF",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#42A5F5"
+    }, {
+        "id": "678",
+        "monthId": "201605",
+        "productAreaCode": "PSEGCF",
+        "productAreaAbbreviation": "CF",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#42A5F5"
+    }, {
+        "id": "690",
+        "monthId": "201606",
+        "productAreaCode": "PSEGCF",
+        "productAreaAbbreviation": "CF",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#42A5F5"
+    }, {
+        "id": "21",
+        "monthId": "201507",
+        "productAreaCode": "PSEGFM",
+        "productAreaAbbreviation": "FM",
+        "clientSegments": [{
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 4638850.48616,
+            "abbreviation": "OA"
+        }, {
+            "code": "30",
+            "description": "SMALL AND MEDIUM ENTERPRISES",
+            "amount": 1321.93285,
+            "abbreviation": "SME"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 20355702.35663,
+            "abbreviation": "LC"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 8666405.75767,
+            "abbreviation": "CTA"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 2643427.90972,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 53613694.78854,
+            "abbreviation": "GC"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 5873198.34163,
+            "abbreviation": "ME"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 13212364.59464,
+            "abbreviation": "MM"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 104783196.2756,
+            "abbreviation": "FI"
+        }],
+        "revenueAmount": 213788162.44344,
+        "totalDeals": 0,
+        "valueColor": "#50C5AB"
+    }, {
+        "id": "93",
+        "monthId": "201508",
+        "productAreaCode": "PSEGFM",
+        "productAreaAbbreviation": "FM",
+        "clientSegments": [{
+            "code": "30",
+            "description": "SMALL AND MEDIUM ENTERPRISES",
+            "amount": 835.98706,
+            "abbreviation": "SME"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 6621870.58193,
+            "abbreviation": "LC"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 12105272.58392,
+            "abbreviation": "CTA"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 1400439.85096,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 2931563.78109,
+            "abbreviation": "ME"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 2790610.51075,
+            "abbreviation": "MM"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 118427177.27816,
+            "abbreviation": "FI"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 3761630.81927,
+            "abbreviation": "OA"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 43911564.78549,
+            "abbreviation": "GC"
+        }],
+        "revenueAmount": 191950966.17863,
+        "totalDeals": 0,
+        "valueColor": "#50C5AB"
+    }, {
+        "id": "181",
+        "monthId": "201509",
+        "productAreaCode": "PSEGFM",
+        "productAreaAbbreviation": "FM",
+        "clientSegments": [{
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 92557918.64985,
+            "abbreviation": "FI"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 6367473.53704,
+            "abbreviation": "OA"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 4774900.81765,
+            "abbreviation": "MM"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 5699701.05569,
+            "abbreviation": "ME"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 55008761.35792,
+            "abbreviation": "GC"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 2081620.8702,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 13243032.26943,
+            "abbreviation": "CTA"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 13568354.07533,
+            "abbreviation": "LC"
+        }, {
+            "code": "30",
+            "description": "SMALL AND MEDIUM ENTERPRISES",
+            "amount": 3890.11397,
+            "abbreviation": "SME"
+        }],
+        "revenueAmount": 193305652.74708,
+        "totalDeals": 0,
+        "valueColor": "#50C5AB"
+    }, {
+        "id": "260",
+        "monthId": "201510",
+        "productAreaCode": "PSEGFM",
+        "productAreaAbbreviation": "FM",
+        "clientSegments": [{
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 2042642.04673,
+            "abbreviation": "ME"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 6021254.78601,
+            "abbreviation": "MM"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 101358477.77185,
+            "abbreviation": "FI"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 11371524.57356,
+            "abbreviation": "LC"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 9329156.3715,
+            "abbreviation": "CTA"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 1888434.68642,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 42003549.9502,
+            "abbreviation": "GC"
+        }, {
+            "code": "30",
+            "description": "SMALL AND MEDIUM ENTERPRISES",
+            "amount": 732.67851,
+            "abbreviation": "SME"
+        }],
+        "revenueAmount": 174015772.86478,
+        "totalDeals": 0,
+        "valueColor": "#50C5AB"
+    }, {
+        "id": "344",
+        "monthId": "201511",
+        "productAreaCode": "PSEGFM",
+        "productAreaAbbreviation": "FM",
+        "clientSegments": [{
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 2811390.49893,
+            "abbreviation": "OA"
+        }, {
+            "code": "30",
+            "description": "SMALL AND MEDIUM ENTERPRISES",
+            "amount": 1002.99212,
+            "abbreviation": "SME"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 9977557.84988,
+            "abbreviation": "LC"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 8413043.10826,
+            "abbreviation": "CTA"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 1547349.95961,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 40426561.63306,
+            "abbreviation": "GC"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 2357106.84223,
+            "abbreviation": "ME"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 4183053.85802,
+            "abbreviation": "MM"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 91635187.63945,
+            "abbreviation": "FI"
+        }],
+        "revenueAmount": 161352254.38156,
+        "totalDeals": 0,
+        "valueColor": "#50C5AB"
+    }, {
+        "id": "423",
+        "monthId": "201512",
+        "productAreaCode": "PSEGFM",
+        "productAreaAbbreviation": "FM",
+        "clientSegments": [{
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 2370386.78589,
+            "abbreviation": "MM"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 2297308.08807,
+            "abbreviation": "ME"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 46625969.82327,
+            "abbreviation": "GC"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 1220119.88391,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 101951611.62215,
+            "abbreviation": "FI"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 10581646.31889,
+            "abbreviation": "LC"
+        }, {
+            "code": "30",
+            "description": "SMALL AND MEDIUM ENTERPRISES",
+            "amount": 1164.23444,
+            "abbreviation": "SME"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 6022152.82171,
+            "abbreviation": "OA"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 7193128.34467,
+            "abbreviation": "CTA"
+        }],
+        "revenueAmount": 178263487.923,
+        "totalDeals": 0,
+        "valueColor": "#50C5AB"
+    }, {
+        "id": "501",
+        "monthId": "201601",
+        "productAreaCode": "PSEGFM",
+        "productAreaAbbreviation": "FM",
+        "clientSegments": [{
+            "code": "30",
+            "description": "SMALL AND MEDIUM ENTERPRISES",
+            "amount": 37.61,
+            "abbreviation": "SME"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 10502818.37487,
+            "abbreviation": "LC"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 13129253.00484,
+            "abbreviation": "CTA"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 2977.22242,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 56222925.28804,
+            "abbreviation": "GC"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 15397.5117,
+            "abbreviation": "ME"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 9782936.76076,
+            "abbreviation": "MM"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 99780224.88664,
+            "abbreviation": "FI"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 4033253.1737,
+            "abbreviation": "OA"
+        }],
+        "revenueAmount": 193469823.83297,
+        "totalDeals": 0,
+        "valueColor": "#50C5AB"
+    }, {
+        "id": "584",
+        "monthId": "201602",
+        "productAreaCode": "PSEGFM",
+        "productAreaAbbreviation": "FM",
+        "clientSegments": [{
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 11061878.0439,
+            "abbreviation": "LC"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 7104711.17657,
+            "abbreviation": "CTA"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 7033.33664,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 54775648.6705,
+            "abbreviation": "GC"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 47331.61551,
+            "abbreviation": "ME"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 7734571.8537,
+            "abbreviation": "MM"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 81093776.46721,
+            "abbreviation": "FI"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 3802644.56997,
+            "abbreviation": "OA"
+        }],
+        "revenueAmount": 165627595.734,
+        "totalDeals": 0,
+        "valueColor": "#50C5AB"
+    }, {
+        "id": "655",
+        "monthId": "201603",
+        "productAreaCode": "PSEGFM",
+        "productAreaAbbreviation": "FM",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#50C5AB"
+    }, {
+        "id": "667",
+        "monthId": "201604",
+        "productAreaCode": "PSEGFM",
+        "productAreaAbbreviation": "FM",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#50C5AB"
+    }, {
+        "id": "679",
+        "monthId": "201605",
+        "productAreaCode": "PSEGFM",
+        "productAreaAbbreviation": "FM",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#50C5AB"
+    }, {
+        "id": "691",
+        "monthId": "201606",
+        "productAreaCode": "PSEGFM",
+        "productAreaAbbreviation": "FM",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#50C5AB"
+    }, {
+        "id": "23",
+        "monthId": "201507",
+        "productAreaCode": "PSEGLEND",
+        "productAreaAbbreviation": "LEND",
+        "clientSegments": [{
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 10069828.53212,
+            "abbreviation": "LC"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 814411.5991,
+            "abbreviation": "OA"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 21865408.36661,
+            "abbreviation": "FI"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 3471358.58645,
+            "abbreviation": "MM"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 10107227.63831,
+            "abbreviation": "ME"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 29585494.60156,
+            "abbreviation": "GC"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 211397.77895,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 3556637.58428,
+            "abbreviation": "CTA"
+        }],
+        "revenueAmount": 79681764.68738,
+        "totalDeals": 0,
+        "valueColor": "#EC6C61"
+    }, {
+        "id": "103",
+        "monthId": "201508",
+        "productAreaCode": "PSEGLEND",
+        "productAreaAbbreviation": "LEND",
+        "clientSegments": [{
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 482869.85122,
+            "abbreviation": "OA"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 13418274.94979,
+            "abbreviation": "FI"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 3356077.65604,
+            "abbreviation": "MM"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 32523784.42271,
+            "abbreviation": "GC"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 1317200.86211,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 3291821.46319,
+            "abbreviation": "CTA"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 10921930.09654,
+            "abbreviation": "LC"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 9227675.28503,
+            "abbreviation": "ME"
+        }],
+        "revenueAmount": 74539634.58663,
+        "totalDeals": 0,
+        "valueColor": "#EC6C61"
+    }, {
+        "id": "186",
+        "monthId": "201509",
+        "productAreaCode": "PSEGLEND",
+        "productAreaAbbreviation": "LEND",
+        "clientSegments": [{
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 3185071.31501,
+            "abbreviation": "CTA"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 1268596.14616,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 30873391.67753,
+            "abbreviation": "GC"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 8594310.52638,
+            "abbreviation": "ME"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 3378520.5066,
+            "abbreviation": "MM"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 9693717.56502,
+            "abbreviation": "FI"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 1547767.06854,
+            "abbreviation": "OA"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 10582953.69701,
+            "abbreviation": "LC"
+        }],
+        "revenueAmount": 69124328.50225,
+        "totalDeals": 0,
+        "valueColor": "#EC6C61"
+    }, {
+        "id": "274",
+        "monthId": "201510",
+        "productAreaCode": "PSEGLEND",
+        "productAreaAbbreviation": "LEND",
+        "clientSegments": [{
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 209129.56039,
+            "abbreviation": "OA"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 8897006.54368,
+            "abbreviation": "FI"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 3002848.36664,
+            "abbreviation": "MM"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 33281087.00732,
+            "abbreviation": "GC"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 1139548.69892,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 3398810.03882,
+            "abbreviation": "CTA"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 10896016.64809,
+            "abbreviation": "LC"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 7389195.86514,
+            "abbreviation": "ME"
+        }],
+        "revenueAmount": 68213642.729,
+        "totalDeals": 0,
+        "valueColor": "#EC6C61"
+    }, {
+        "id": "355",
+        "monthId": "201511",
+        "productAreaCode": "PSEGLEND",
+        "productAreaAbbreviation": "LEND",
+        "clientSegments": [{
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 3364164.51341,
+            "abbreviation": "ME"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 30140452.29083,
+            "abbreviation": "GC"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 876189.75261,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 2875469.62503,
+            "abbreviation": "CTA"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 9801243.08813,
+            "abbreviation": "LC"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 3000238.55563,
+            "abbreviation": "MM"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 6668658.86264,
+            "abbreviation": "FI"
+        }],
+        "revenueAmount": 56726416.68828,
+        "totalDeals": 0,
+        "valueColor": "#EC6C61"
+    }, {
+        "id": "436",
+        "monthId": "201512",
+        "productAreaCode": "PSEGLEND",
+        "productAreaAbbreviation": "LEND",
+        "clientSegments": [{
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 773976.5733,
+            "abbreviation": "OA"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 9317569.04743,
+            "abbreviation": "FI"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 2788055.94285,
+            "abbreviation": "MM"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 26325504.61958,
+            "abbreviation": "GC"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 1101681.54395,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 8928575.37743,
+            "abbreviation": "LC"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 10103943.05957,
+            "abbreviation": "ME"
+        }],
+        "revenueAmount": 59339306.16411,
+        "totalDeals": 0,
+        "valueColor": "#EC6C61"
+    }, {
+        "id": "519",
+        "monthId": "201601",
+        "productAreaCode": "PSEGLEND",
+        "productAreaAbbreviation": "LEND",
+        "clientSegments": [{
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 588363.55529,
+            "abbreviation": "OA"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 7798495.28634,
+            "abbreviation": "FI"
+        }, {
+            "code": "30",
+            "description": "SMALL AND MEDIUM ENTERPRISES",
+            "amount": 1574.21104,
+            "abbreviation": "SME"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 10922014.30952,
+            "abbreviation": "LC"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 2710156.92962,
+            "abbreviation": "CTA"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 3992.06446,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 30832569.64558,
+            "abbreviation": "GC"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 26709.65586,
+            "abbreviation": "ME"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 2874746.17231,
+            "abbreviation": "MM"
+        }],
+        "revenueAmount": 55758621.83002,
+        "totalDeals": 0,
+        "valueColor": "#EC6C61"
+    }, {
+        "id": "597",
+        "monthId": "201602",
+        "productAreaCode": "PSEGLEND",
+        "productAreaAbbreviation": "LEND",
+        "clientSegments": [{
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 7017.20118,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 1631554.64593,
+            "abbreviation": "CTA"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 9909222.25034,
+            "abbreviation": "LC"
+        }, {
+            "code": "30",
+            "description": "SMALL AND MEDIUM ENTERPRISES",
+            "amount": 1356.65994,
+            "abbreviation": "SME"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 30964785.62304,
+            "abbreviation": "GC"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 20841.54031,
+            "abbreviation": "ME"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 2579315.05221,
+            "abbreviation": "MM"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 539739.66283,
+            "abbreviation": "OA"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 7902713.59788,
+            "abbreviation": "FI"
+        }],
+        "revenueAmount": 53556546.23366,
+        "totalDeals": 0,
+        "valueColor": "#EC6C61"
+    }, {
+        "id": "656",
+        "monthId": "201603",
+        "productAreaCode": "PSEGLEND",
+        "productAreaAbbreviation": "LEND",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#EC6C61"
+    }, {
+        "id": "668",
+        "monthId": "201604",
+        "productAreaCode": "PSEGLEND",
+        "productAreaAbbreviation": "LEND",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#EC6C61"
+    }, {
+        "id": "680",
+        "monthId": "201605",
+        "productAreaCode": "PSEGLEND",
+        "productAreaAbbreviation": "LEND",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#EC6C61"
+    }, {
+        "id": "692",
+        "monthId": "201606",
+        "productAreaCode": "PSEGLEND",
+        "productAreaAbbreviation": "LEND",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#EC6C61"
+    }, {
+        "id": "40",
+        "monthId": "201507",
+        "productAreaCode": "PSEGPF",
+        "productAreaAbbreviation": "PF",
+        "clientSegments": [{
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 1022648.70194,
+            "abbreviation": "FI"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 2748350,
+            "abbreviation": "MM"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 384010.3289,
+            "abbreviation": "LC"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 12859260.17382,
+            "abbreviation": "GC"
+        }],
+        "revenueAmount": 17014269.20466,
+        "totalDeals": 0,
+        "valueColor": "#FFCD32"
+    }, {
+        "id": "113",
+        "monthId": "201508",
+        "productAreaCode": "PSEGPF",
+        "productAreaAbbreviation": "PF",
+        "clientSegments": [{
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 1328110.62813,
+            "abbreviation": "LC"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 52760.46902,
+            "abbreviation": "CTA"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 10792974.29318,
+            "abbreviation": "GC"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 4133288,
+            "abbreviation": "MM"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 1804726.36961,
+            "abbreviation": "FI"
+        }],
+        "revenueAmount": 18111859.75994,
+        "totalDeals": 0,
+        "valueColor": "#FFCD32"
+    }, {
+        "id": "195",
+        "monthId": "201509",
+        "productAreaCode": "PSEGPF",
+        "productAreaAbbreviation": "PF",
+        "clientSegments": [{
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 3676108.40991,
+            "abbreviation": "LC"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 7739014.58613,
+            "abbreviation": "FI"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 1675571,
+            "abbreviation": "MM"
+        }],
+        "revenueAmount": 13090693.99604,
+        "totalDeals": 0,
+        "valueColor": "#FFCD32"
+    }, {
+        "id": "282",
+        "monthId": "201510",
+        "productAreaCode": "PSEGPF",
+        "productAreaAbbreviation": "PF",
+        "clientSegments": [{
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 37668.57035,
+            "abbreviation": "OA"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 3653021.45333,
+            "abbreviation": "FI"
+        }],
+        "revenueAmount": 3690690.02368,
+        "totalDeals": 0,
+        "valueColor": "#FFCD32"
+    }, {
+        "id": "364",
+        "monthId": "201511",
+        "productAreaCode": "PSEGPF",
+        "productAreaAbbreviation": "PF",
+        "clientSegments": [{
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 409732,
+            "abbreviation": "MM"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 495335.39378,
+            "abbreviation": "FI"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 16182.80668,
+            "abbreviation": "OA"
+        }],
+        "revenueAmount": 921250.20046,
+        "totalDeals": 0,
+        "valueColor": "#FFCD32"
+    }, {
+        "id": "445",
+        "monthId": "201512",
+        "productAreaCode": "PSEGPF",
+        "productAreaAbbreviation": "PF",
+        "clientSegments": [{
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 215047.59069,
+            "abbreviation": "CTA"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 5065489.23639,
+            "abbreviation": "OA"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 343.01643,
+            "abbreviation": "ME"
+        }],
+        "revenueAmount": 5280879.84351,
+        "totalDeals": 0,
+        "valueColor": "#FFCD32"
+    }, {
+        "id": "521",
+        "monthId": "201601",
+        "productAreaCode": "PSEGPF",
+        "productAreaAbbreviation": "PF",
+        "clientSegments": [{
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 2141634.89074,
+            "abbreviation": "LC"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 64.11633,
+            "abbreviation": "ME"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 932058,
+            "abbreviation": "MM"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 10091.81276,
+            "abbreviation": "OA"
+        }],
+        "revenueAmount": 3083848.81983,
+        "totalDeals": 0,
+        "valueColor": "#FFCD32"
+    }, {
+        "id": "608",
+        "monthId": "201602",
+        "productAreaCode": "PSEGPF",
+        "productAreaAbbreviation": "PF",
+        "clientSegments": [{
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 987674,
+            "abbreviation": "MM"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 580631.26,
+            "abbreviation": "FI"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 9341799.64364,
+            "abbreviation": "GC"
+        }],
+        "revenueAmount": 10910104.90364,
+        "totalDeals": 0,
+        "valueColor": "#FFCD32"
+    }, {
+        "id": "657",
+        "monthId": "201603",
+        "productAreaCode": "PSEGPF",
+        "productAreaAbbreviation": "PF",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#FFCD32"
+    }, {
+        "id": "669",
+        "monthId": "201604",
+        "productAreaCode": "PSEGPF",
+        "productAreaAbbreviation": "PF",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#FFCD32"
+    }, {
+        "id": "681",
+        "monthId": "201605",
+        "productAreaCode": "PSEGPF",
+        "productAreaAbbreviation": "PF",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#FFCD32"
+    }, {
+        "id": "693",
+        "monthId": "201606",
+        "productAreaCode": "PSEGPF",
+        "productAreaAbbreviation": "PF",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#FFCD32"
+    }, {
+        "id": "43",
+        "monthId": "201507",
+        "productAreaCode": "PSEGRET",
+        "productAreaAbbreviation": "RP",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#8ECAE3"
+    }, {
+        "id": "122",
+        "monthId": "201508",
+        "productAreaCode": "PSEGRET",
+        "productAreaAbbreviation": "RP",
+        "clientSegments": [{
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 20.53567,
+            "abbreviation": "LC"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 1403.65108,
+            "abbreviation": "GC"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 807.91754,
+            "abbreviation": "MM"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 5913.68331,
+            "abbreviation": "FI"
+        }],
+        "revenueAmount": 8145.7876,
+        "totalDeals": 0,
+        "valueColor": "#8ECAE3"
+    }, {
+        "id": "210",
+        "monthId": "201509",
+        "productAreaCode": "PSEGRET",
+        "productAreaAbbreviation": "RP",
+        "clientSegments": [{
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 1720.72849,
+            "abbreviation": "OA"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 33545.28101,
+            "abbreviation": "FI"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 2790.47939,
+            "abbreviation": "MM"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 262.28978,
+            "abbreviation": "ME"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 46448.08525,
+            "abbreviation": "GC"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 11341.05113,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 1111.7886,
+            "abbreviation": "CTA"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 26373.6386,
+            "abbreviation": "LC"
+        }],
+        "revenueAmount": 123593.34225,
+        "totalDeals": 0,
+        "valueColor": "#8ECAE3"
+    }, {
+        "id": "292",
+        "monthId": "201510",
+        "productAreaCode": "PSEGRET",
+        "productAreaAbbreviation": "RP",
+        "clientSegments": [{
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 277.56971,
+            "abbreviation": "LC"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 2763.99679,
+            "abbreviation": "GC"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 728.52108,
+            "abbreviation": "MM"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 6049.68293,
+            "abbreviation": "FI"
+        }],
+        "revenueAmount": 9819.77051,
+        "totalDeals": 0,
+        "valueColor": "#8ECAE3"
+    }, {
+        "id": "365",
+        "monthId": "201511",
+        "productAreaCode": "PSEGRET",
+        "productAreaAbbreviation": "RP",
+        "clientSegments": [{
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 96.7957,
+            "abbreviation": "LC"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 670.03754,
+            "abbreviation": "OA"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 12688.25639,
+            "abbreviation": "FI"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 613.13072,
+            "abbreviation": "MM"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 1256.36462,
+            "abbreviation": "GC"
+        }],
+        "revenueAmount": 15324.58497,
+        "totalDeals": 0,
+        "valueColor": "#8ECAE3"
+    }, {
+        "id": "446",
+        "monthId": "201512",
+        "productAreaCode": "PSEGRET",
+        "productAreaAbbreviation": "RP",
+        "clientSegments": [{
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 264.06439,
+            "abbreviation": "LC"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 4333.15848,
+            "abbreviation": "GC"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 432.83286,
+            "abbreviation": "MM"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 17012.76127,
+            "abbreviation": "FI"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 650.60576,
+            "abbreviation": "OA"
+        }],
+        "revenueAmount": 22693.42276,
+        "totalDeals": 0,
+        "valueColor": "#8ECAE3"
+    }, {
+        "id": "532",
+        "monthId": "201601",
+        "productAreaCode": "PSEGRET",
+        "productAreaAbbreviation": "RP",
+        "clientSegments": [{
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 645.25,
+            "abbreviation": "GC"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 417.29096,
+            "abbreviation": "LC"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 762.50258,
+            "abbreviation": "MM"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 3046.19757,
+            "abbreviation": "FI"
+        }],
+        "revenueAmount": 4871.24111,
+        "totalDeals": 0,
+        "valueColor": "#8ECAE3"
+    }, {
+        "id": "620",
+        "monthId": "201602",
+        "productAreaCode": "PSEGRET",
+        "productAreaAbbreviation": "RP",
+        "clientSegments": [{
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 7007.28586,
+            "abbreviation": "FI"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 555.22383,
+            "abbreviation": "MM"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 2244.21977,
+            "abbreviation": "GC"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 355.12736,
+            "abbreviation": "LC"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 111.0939,
+            "abbreviation": "CTA"
+        }],
+        "revenueAmount": 10272.95072,
+        "totalDeals": 0,
+        "valueColor": "#8ECAE3"
+    }, {
+        "id": "658",
+        "monthId": "201603",
+        "productAreaCode": "PSEGRET",
+        "productAreaAbbreviation": "RP",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#8ECAE3"
+    }, {
+        "id": "670",
+        "monthId": "201604",
+        "productAreaCode": "PSEGRET",
+        "productAreaAbbreviation": "RP",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#8ECAE3"
+    }, {
+        "id": "682",
+        "monthId": "201605",
+        "productAreaCode": "PSEGRET",
+        "productAreaAbbreviation": "RP",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#8ECAE3"
+    }, {
+        "id": "694",
+        "monthId": "201606",
+        "productAreaCode": "PSEGRET",
+        "productAreaAbbreviation": "RP",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#8ECAE3"
+    }, {
+        "id": "53",
+        "monthId": "201507",
+        "productAreaCode": "PSEGTB",
+        "productAreaAbbreviation": "TB",
+        "clientSegments": [{
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 15497229.3444,
+            "abbreviation": "CTA"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 4571559.32735,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 79971208.3809,
+            "abbreviation": "GC"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 13410607.89452,
+            "abbreviation": "ME"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 23864633.4475,
+            "abbreviation": "MM"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 100926997.01295,
+            "abbreviation": "FI"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 16253822.55247,
+            "abbreviation": "OA"
+        }, {
+            "code": "30",
+            "description": "SMALL AND MEDIUM ENTERPRISES",
+            "amount": 95972.49389,
+            "abbreviation": "SME"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 28177456.08738,
+            "abbreviation": "LC"
+        }],
+        "revenueAmount": 282769486.54136,
+        "totalDeals": 0,
+        "valueColor": "#AFA08A"
+    }, {
+        "id": "132",
+        "monthId": "201508",
+        "productAreaCode": "PSEGTB",
+        "productAreaAbbreviation": "TB",
+        "clientSegments": [{
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 28180667.80171,
+            "abbreviation": "LC"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 15139224.65347,
+            "abbreviation": "CTA"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 5381248.06573,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 14493650.74343,
+            "abbreviation": "ME"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 13380113.81943,
+            "abbreviation": "MM"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 106515706.1856,
+            "abbreviation": "FI"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 18927077.77722,
+            "abbreviation": "OA"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 72274296.29156,
+            "abbreviation": "GC"
+        }],
+        "revenueAmount": 274291985.33815,
+        "totalDeals": 0,
+        "valueColor": "#AFA08A"
+    }, {
+        "id": "213",
+        "monthId": "201509",
+        "productAreaCode": "PSEGTB",
+        "productAreaAbbreviation": "TB",
+        "clientSegments": [{
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 25815217.54386,
+            "abbreviation": "LC"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 75958370.59974,
+            "abbreviation": "GC"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 14523433.19238,
+            "abbreviation": "OA"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 92412327.22077,
+            "abbreviation": "FI"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 1412816.45672,
+            "abbreviation": "MM"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 13417281.56144,
+            "abbreviation": "ME"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 4665360.18354,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 13616944.57837,
+            "abbreviation": "CTA"
+        }],
+        "revenueAmount": 241821751.33682,
+        "totalDeals": 0,
+        "valueColor": "#AFA08A"
+    }, {
+        "id": "301",
+        "monthId": "201510",
+        "productAreaCode": "PSEGTB",
+        "productAreaAbbreviation": "TB",
+        "clientSegments": [{
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 14117683.34575,
+            "abbreviation": "OA"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 102448566.64776,
+            "abbreviation": "FI"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 12844751.84677,
+            "abbreviation": "MM"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 12850546.32294,
+            "abbreviation": "ME"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 4557463.88872,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 14900747.77119,
+            "abbreviation": "CTA"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 28216394.71442,
+            "abbreviation": "LC"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 75028462.24207,
+            "abbreviation": "GC"
+        }],
+        "revenueAmount": 264964616.77962,
+        "totalDeals": 0,
+        "valueColor": "#AFA08A"
+    }, {
+        "id": "382",
+        "monthId": "201511",
+        "productAreaCode": "PSEGTB",
+        "productAreaAbbreviation": "TB",
+        "clientSegments": [{
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 13772779.66229,
+            "abbreviation": "OA"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 26557763.48715,
+            "abbreviation": "LC"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 10992525.19378,
+            "abbreviation": "CTA"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 4141175.85285,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 69488317.20801,
+            "abbreviation": "GC"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 11581664.30974,
+            "abbreviation": "ME"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 87637225.67371,
+            "abbreviation": "FI"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 12006704.92312,
+            "abbreviation": "MM"
+        }],
+        "revenueAmount": 236178156.31065,
+        "totalDeals": 0,
+        "valueColor": "#AFA08A"
+    }, {
+        "id": "456",
+        "monthId": "201512",
+        "productAreaCode": "PSEGTB",
+        "productAreaAbbreviation": "TB",
+        "clientSegments": [{
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 26685125.54451,
+            "abbreviation": "LC"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 9448422.56339,
+            "abbreviation": "CTA"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 4245919.64931,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 70345033.43474,
+            "abbreviation": "GC"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 12902296.69269,
+            "abbreviation": "ME"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 11545358.07362,
+            "abbreviation": "MM"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 93444886.02339,
+            "abbreviation": "FI"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 13522042.88658,
+            "abbreviation": "OA"
+        }],
+        "revenueAmount": 242139084.86823,
+        "totalDeals": 0,
+        "valueColor": "#AFA08A"
+    }, {
+        "id": "542",
+        "monthId": "201601",
+        "productAreaCode": "PSEGTB",
+        "productAreaAbbreviation": "TB",
+        "clientSegments": [{
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 72711616.94665,
+            "abbreviation": "GC"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 47274.47457,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 12509909.04306,
+            "abbreviation": "CTA"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 25746302.14769,
+            "abbreviation": "LC"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 49525.66087,
+            "abbreviation": "ME"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 12479383.98883,
+            "abbreviation": "MM"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 89840656.46145,
+            "abbreviation": "FI"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 15005076.15308,
+            "abbreviation": "OA"
+        }, {
+            "code": "30",
+            "description": "SMALL AND MEDIUM ENTERPRISES",
+            "amount": 964.5468,
+            "abbreviation": "SME"
+        }],
+        "revenueAmount": 228390709.423,
+        "totalDeals": 0,
+        "valueColor": "#AFA08A"
+    }, {
+        "id": "630",
+        "monthId": "201602",
+        "productAreaCode": "PSEGTB",
+        "productAreaAbbreviation": "TB",
+        "clientSegments": [{
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 9930678.33809,
+            "abbreviation": "OA"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 86078885.50946,
+            "abbreviation": "FI"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 11640599.95908,
+            "abbreviation": "MM"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 46681.58973,
+            "abbreviation": "ME"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 63711614.08167,
+            "abbreviation": "GC"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 66747.33383,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 11618736.69499,
+            "abbreviation": "CTA"
+        }, {
+            "code": "30",
+            "description": "SMALL AND MEDIUM ENTERPRISES",
+            "amount": 869.22855,
+            "abbreviation": "SME"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 25274634.34646,
+            "abbreviation": "LC"
+        }],
+        "revenueAmount": 208369447.08186,
+        "totalDeals": 0,
+        "valueColor": "#AFA08A"
+    }, {
+        "id": "659",
+        "monthId": "201603",
+        "productAreaCode": "PSEGTB",
+        "productAreaAbbreviation": "TB",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#AFA08A"
+    }, {
+        "id": "671",
+        "monthId": "201604",
+        "productAreaCode": "PSEGTB",
+        "productAreaAbbreviation": "TB",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#AFA08A"
+    }, {
+        "id": "683",
+        "monthId": "201605",
+        "productAreaCode": "PSEGTB",
+        "productAreaAbbreviation": "TB",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#AFA08A"
+    }, {
+        "id": "695",
+        "monthId": "201606",
+        "productAreaCode": "PSEGTB",
+        "productAreaAbbreviation": "TB",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#AFA08A"
+    }, {
+        "id": "61",
+        "monthId": "201507",
+        "productAreaCode": "PSEGWEA",
+        "productAreaAbbreviation": "WM",
+        "clientSegments": [{
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 55148.6416,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 139109.82295,
+            "abbreviation": "ME"
+        }],
+        "revenueAmount": 194258.46455,
+        "totalDeals": 0,
+        "valueColor": "#818ED5"
+    }, {
+        "id": "145",
+        "monthId": "201508",
+        "productAreaCode": "PSEGWEA",
+        "productAreaAbbreviation": "WM",
+        "clientSegments": [{
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 5008.85517,
+            "abbreviation": "MM"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 29363.31293,
+            "abbreviation": "FI"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 159.3127,
+            "abbreviation": "OA"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 2.39425,
+            "abbreviation": "LC"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 81489.80554,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 327842.93245,
+            "abbreviation": "ME"
+        }],
+        "revenueAmount": 443866.61304,
+        "totalDeals": 0,
+        "valueColor": "#818ED5"
+    }, {
+        "id": "222",
+        "monthId": "201509",
+        "productAreaCode": "PSEGWEA",
+        "productAreaAbbreviation": "WM",
+        "clientSegments": [{
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 0.11093,
+            "abbreviation": "LC"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 26895.19803,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 3738.32988,
+            "abbreviation": "MM"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 6071.62349,
+            "abbreviation": "FI"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 499.51404,
+            "abbreviation": "OA"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 41130.76507,
+            "abbreviation": "ME"
+        }],
+        "revenueAmount": 78335.54144,
+        "totalDeals": 0,
+        "valueColor": "#818ED5"
+    }, {
+        "id": "307",
+        "monthId": "201510",
+        "productAreaCode": "PSEGWEA",
+        "productAreaAbbreviation": "WM",
+        "clientSegments": [{
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 943.42229,
+            "abbreviation": "MM"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 0.03664,
+            "abbreviation": "LC"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 6291.98969,
+            "abbreviation": "FI"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 66756.8913,
+            "abbreviation": "ME"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 23145.29166,
+            "abbreviation": "HVSB"
+        }],
+        "revenueAmount": 97137.63158,
+        "totalDeals": 0,
+        "valueColor": "#818ED5"
+    }, {
+        "id": "390",
+        "monthId": "201511",
+        "productAreaCode": "PSEGWEA",
+        "productAreaAbbreviation": "WM",
+        "clientSegments": [{
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 3989.36185,
+            "abbreviation": "OA"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 26200.90636,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 10272.04926,
+            "abbreviation": "FI"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 22075.52914,
+            "abbreviation": "MM"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 73526.40385,
+            "abbreviation": "ME"
+        }],
+        "revenueAmount": 136064.25046,
+        "totalDeals": 0,
+        "valueColor": "#818ED5"
+    }, {
+        "id": "471",
+        "monthId": "201512",
+        "productAreaCode": "PSEGWEA",
+        "productAreaAbbreviation": "WM",
+        "clientSegments": [{
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 3150.82276,
+            "abbreviation": "OA"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 9294.07402,
+            "abbreviation": "FI"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 14943.12953,
+            "abbreviation": "MM"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 38288.05875,
+            "abbreviation": "ME"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 18209.0223,
+            "abbreviation": "HVSB"
+        }],
+        "revenueAmount": 83885.10736,
+        "totalDeals": 0,
+        "valueColor": "#818ED5"
+    }, {
+        "id": "553",
+        "monthId": "201601",
+        "productAreaCode": "PSEGWEA",
+        "productAreaAbbreviation": "WM",
+        "clientSegments": [{
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 13019.13524,
+            "abbreviation": "FI"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 11551.99918,
+            "abbreviation": "ME"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 18382.51468,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 32802.18262,
+            "abbreviation": "LC"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 21302.18141,
+            "abbreviation": "MM"
+        }],
+        "revenueAmount": 97058.01313,
+        "totalDeals": 0,
+        "valueColor": "#818ED5"
+    }, {
+        "id": "631",
+        "monthId": "201602",
+        "productAreaCode": "PSEGWEA",
+        "productAreaAbbreviation": "WM",
+        "clientSegments": [{
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 41702.1452,
+            "abbreviation": "LC"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 16466.36069,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 521.82134,
+            "abbreviation": "OA"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 254476.32285,
+            "abbreviation": "FI"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 16044.53185,
+            "abbreviation": "MM"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 6777.63514,
+            "abbreviation": "ME"
+        }],
+        "revenueAmount": 335988.81707,
+        "totalDeals": 0,
+        "valueColor": "#818ED5"
+    }, {
+        "id": "660",
+        "monthId": "201603",
+        "productAreaCode": "PSEGWEA",
+        "productAreaAbbreviation": "WM",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#818ED5"
+    }, {
+        "id": "672",
+        "monthId": "201604",
+        "productAreaCode": "PSEGWEA",
+        "productAreaAbbreviation": "WM",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#818ED5"
+    }, {
+        "id": "684",
+        "monthId": "201605",
+        "productAreaCode": "PSEGWEA",
+        "productAreaAbbreviation": "WM",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#818ED5"
+    }, {
+        "id": "696",
+        "monthId": "201606",
+        "productAreaCode": "PSEGWEA",
+        "productAreaAbbreviation": "WM",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#818ED5"
+    }, {
+        "id": "68",
+        "monthId": "201507",
+        "productAreaCode": "TB-CTD",
+        "productAreaAbbreviation": "TB CTD",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#F2995F"
+    }, {
+        "id": "149",
+        "monthId": "201508",
+        "productAreaCode": "TB-CTD",
+        "productAreaAbbreviation": "TB CTD",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#F2995F"
+    }, {
+        "id": "230",
+        "monthId": "201509",
+        "productAreaCode": "TB-CTD",
+        "productAreaAbbreviation": "TB CTD",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#F2995F"
+    }, {
+        "id": "311",
+        "monthId": "201510",
+        "productAreaCode": "TB-CTD",
+        "productAreaAbbreviation": "TB CTD",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#F2995F"
+    }, {
+        "id": "392",
+        "monthId": "201511",
+        "productAreaCode": "TB-CTD",
+        "productAreaAbbreviation": "TB CTD",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#F2995F"
+    }, {
+        "id": "473",
+        "monthId": "201512",
+        "productAreaCode": "TB-CTD",
+        "productAreaAbbreviation": "TB CTD",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#F2995F"
+    }, {
+        "id": "556",
+        "monthId": "201601",
+        "productAreaCode": "TB-CTD",
+        "productAreaAbbreviation": "TB CTD",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#F2995F"
+    }, {
+        "id": "640",
+        "monthId": "201602",
+        "productAreaCode": "TB-CTD",
+        "productAreaAbbreviation": "TB CTD",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#F2995F"
+    }, {
+        "id": "661",
+        "monthId": "201603",
+        "productAreaCode": "TB-CTD",
+        "productAreaAbbreviation": "TB CTD",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#F2995F"
+    }, {
+        "id": "673",
+        "monthId": "201604",
+        "productAreaCode": "TB-CTD",
+        "productAreaAbbreviation": "TB CTD",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#F2995F"
+    }, {
+        "id": "685",
+        "monthId": "201605",
+        "productAreaCode": "TB-CTD",
+        "productAreaAbbreviation": "TB CTD",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#F2995F"
+    }, {
+        "id": "697",
+        "monthId": "201606",
+        "productAreaCode": "TB-CTD",
+        "productAreaAbbreviation": "TB CTD",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#F2995F"
+    }, {
+        "id": "69",
+        "monthId": "201507",
+        "productAreaCode": "TBFX",
+        "productAreaAbbreviation": "TBFX",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#9468A3"
+    }, {
+        "id": "150",
+        "monthId": "201508",
+        "productAreaCode": "TBFX",
+        "productAreaAbbreviation": "TBFX",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#9468A3"
+    }, {
+        "id": "231",
+        "monthId": "201509",
+        "productAreaCode": "TBFX",
+        "productAreaAbbreviation": "TBFX",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#9468A3"
+    }, {
+        "id": "312",
+        "monthId": "201510",
+        "productAreaCode": "TBFX",
+        "productAreaAbbreviation": "TBFX",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#9468A3"
+    }, {
+        "id": "393",
+        "monthId": "201511",
+        "productAreaCode": "TBFX",
+        "productAreaAbbreviation": "TBFX",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#9468A3"
+    }, {
+        "id": "474",
+        "monthId": "201512",
+        "productAreaCode": "TBFX",
+        "productAreaAbbreviation": "TBFX",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#9468A3"
+    }, {
+        "id": "557",
+        "monthId": "201601",
+        "productAreaCode": "TBFX",
+        "productAreaAbbreviation": "TBFX",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#9468A3"
+    }, {
+        "id": "641",
+        "monthId": "201602",
+        "productAreaCode": "TBFX",
+        "productAreaAbbreviation": "TBFX",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#9468A3"
+    }, {
+        "id": "662",
+        "monthId": "201603",
+        "productAreaCode": "TBFX",
+        "productAreaAbbreviation": "TBFX",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#9468A3"
+    }, {
+        "id": "674",
+        "monthId": "201604",
+        "productAreaCode": "TBFX",
+        "productAreaAbbreviation": "TBFX",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#9468A3"
+    }, {
+        "id": "686",
+        "monthId": "201605",
+        "productAreaCode": "TBFX",
+        "productAreaAbbreviation": "TBFX",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#9468A3"
+    }, {
+        "id": "698",
+        "monthId": "201606",
+        "productAreaCode": "TBFX",
+        "productAreaAbbreviation": "TBFX",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#9468A3"
+    }, {
+        "id": "78",
+        "monthId": "201507",
+        "productAreaCode": "UNMP",
+        "productAreaAbbreviation": "UNMP",
+        "clientSegments": [{
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 12.44381,
+            "abbreviation": "OA"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 13911.05823,
+            "abbreviation": "FI"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 17.21649,
+            "abbreviation": "LC"
+        }, {
+            "code": "E",
+            "description": "COMMODITY TRADERS & AGRICULTURE",
+            "amount": 1.04716,
+            "abbreviation": "CTA"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 1954.94549,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 54545.86712,
+            "abbreviation": "ME"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 0.0399,
+            "abbreviation": "MM"
+        }],
+        "revenueAmount": 70442.6182,
+        "totalDeals": 0,
+        "valueColor": "#E29D5F"
+    }, {
+        "id": "151",
+        "monthId": "201508",
+        "productAreaCode": "UNMP",
+        "productAreaAbbreviation": "UNMP",
+        "clientSegments": [{
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 2084.63688,
+            "abbreviation": "FI"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 68.22401,
+            "abbreviation": "MM"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 4407.39613,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 59622.65372,
+            "abbreviation": "ME"
+        }],
+        "revenueAmount": 66182.91074,
+        "totalDeals": 0,
+        "valueColor": "#E29D5F"
+    }, {
+        "id": "240",
+        "monthId": "201509",
+        "productAreaCode": "UNMP",
+        "productAreaAbbreviation": "UNMP",
+        "clientSegments": [{
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 156.8843,
+            "abbreviation": "OA"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 33000.23647,
+            "abbreviation": "FI"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 68.71642,
+            "abbreviation": "MM"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 59116.26868,
+            "abbreviation": "ME"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 96.8763,
+            "abbreviation": "GC"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 3595.73693,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 11204.8535,
+            "abbreviation": "LC"
+        }],
+        "revenueAmount": 107239.5726,
+        "totalDeals": 0,
+        "valueColor": "#E29D5F"
+    }, {
+        "id": "316",
+        "monthId": "201510",
+        "productAreaCode": "UNMP",
+        "productAreaAbbreviation": "UNMP",
+        "clientSegments": [{
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 4455.7862,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 47560.11693,
+            "abbreviation": "LC"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 57652.5396,
+            "abbreviation": "ME"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 326.82958,
+            "abbreviation": "MM"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 3009.68186,
+            "abbreviation": "FI"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 1052.46524,
+            "abbreviation": "OA"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 260.69432,
+            "abbreviation": "GC"
+        }],
+        "revenueAmount": 114318.11373,
+        "totalDeals": 0,
+        "valueColor": "#E29D5F"
+    }, {
+        "id": "397",
+        "monthId": "201511",
+        "productAreaCode": "UNMP",
+        "productAreaAbbreviation": "UNMP",
+        "clientSegments": [{
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 1845.3714,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 103.15433,
+            "abbreviation": "GC"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 10376.58109,
+            "abbreviation": "OA"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 577.60892,
+            "abbreviation": "FI"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 0.58195,
+            "abbreviation": "MM"
+        }, {
+            "code": "ME",
+            "description": "MEDIUM ENTERPRISE",
+            "amount": 42585.85555,
+            "abbreviation": "ME"
+        }],
+        "revenueAmount": 55489.15324,
+        "totalDeals": 0,
+        "valueColor": "#E29D5F"
+    }, {
+        "id": "475",
+        "monthId": "201512",
+        "productAreaCode": "UNMP",
+        "productAreaAbbreviation": "UNMP",
+        "clientSegments": [{
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 38.26239,
+            "abbreviation": "LC"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 1842.64975,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "MM",
+            "description": "MIDDLE MARKETS",
+            "amount": 0.40944,
+            "abbreviation": "MM"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 1.53837,
+            "abbreviation": "GC"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 820.98537,
+            "abbreviation": "OA"
+        }],
+        "revenueAmount": 2703.84532,
+        "totalDeals": 0,
+        "valueColor": "#E29D5F"
+    }, {
+        "id": "562",
+        "monthId": "201601",
+        "productAreaCode": "UNMP",
+        "productAreaAbbreviation": "UNMP",
+        "clientSegments": [{
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 2793.26457,
+            "abbreviation": "GC"
+        }, {
+            "code": "N",
+            "description": "FINANCIAL INSTITUTIONS",
+            "amount": 7082.2238,
+            "abbreviation": "FI"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 5472.20314,
+            "abbreviation": "OA"
+        }, {
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 65649.86737,
+            "abbreviation": "LC"
+        }],
+        "revenueAmount": 80997.55888,
+        "totalDeals": 0,
+        "valueColor": "#E29D5F"
+    }, {
+        "id": "642",
+        "monthId": "201602",
+        "productAreaCode": "UNMP",
+        "productAreaAbbreviation": "UNMP",
+        "clientSegments": [{
+            "code": "A",
+            "description": "LOCAL CORPORATES",
+            "amount": 9419.09815,
+            "abbreviation": "LC"
+        }, {
+            "code": "HV",
+            "description": "HIGH VALUE SMALL BUSINESS",
+            "amount": 2.26127,
+            "abbreviation": "HVSB"
+        }, {
+            "code": "K",
+            "description": "GLOBAL CORPORATES",
+            "amount": 683472.38142,
+            "abbreviation": "GC"
+        }, {
+            "code": "S",
+            "description": "OWN ACCOUNT",
+            "amount": 93780.90641,
+            "abbreviation": "OA"
+        }],
+        "revenueAmount": 786674.64725,
+        "totalDeals": 0,
+        "valueColor": "#E29D5F"
+    }, {
+        "id": "663",
+        "monthId": "201603",
+        "productAreaCode": "UNMP",
+        "productAreaAbbreviation": "UNMP",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#E29D5F"
+    }, {
+        "id": "675",
+        "monthId": "201604",
+        "productAreaCode": "UNMP",
+        "productAreaAbbreviation": "UNMP",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#E29D5F"
+    }, {
+        "id": "687",
+        "monthId": "201605",
+        "productAreaCode": "UNMP",
+        "productAreaAbbreviation": "UNMP",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#E29D5F"
+    }, {
+        "id": "699",
+        "monthId": "201606",
+        "productAreaCode": "UNMP",
+        "productAreaAbbreviation": "UNMP",
+        "clientSegments": null,
+        "revenueAmount": 0,
+        "totalDeals": 0,
+        "valueColor": "#E29D5F"
+    }, {
+        "id": "SD1",
+        "monthId": "201507",
+        "productAreaCode": "Stale Deals",
+        "productAreaAbbreviation": "Stale Deals",
+        "clientSegments": null,
+        "revenueAmount": 14681.98,
+        "totalDeals": 68,
+        "valueColor": "#FF0000"
+    }, {
+        "id": "SD2",
+        "monthId": "201508",
+        "productAreaCode": "Stale Deals",
+        "productAreaAbbreviation": "Stale Deals",
+        "clientSegments": null,
+        "revenueAmount": 15156.88,
+        "totalDeals": 162,
+        "valueColor": "#FF0000"
+    }, {
+        "id": "SD3",
+        "monthId": "201509",
+        "productAreaCode": "Stale Deals",
+        "productAreaAbbreviation": "Stale Deals",
+        "clientSegments": null,
+        "revenueAmount": 36905.11,
+        "totalDeals": 213,
+        "valueColor": "#FF0000"
+    }, {
+        "id": "SD4",
+        "monthId": "201510",
+        "productAreaCode": "Stale Deals",
+        "productAreaAbbreviation": "Stale Deals",
+        "clientSegments": null,
+        "revenueAmount": 57259.31,
+        "totalDeals": 129,
+        "valueColor": "#FF0000"
+    }, {
+        "id": "SD5",
+        "monthId": "201511",
+        "productAreaCode": "Stale Deals",
+        "productAreaAbbreviation": "Stale Deals",
+        "clientSegments": null,
+        "revenueAmount": 36879.4,
+        "totalDeals": 141,
+        "valueColor": "#FF0000"
+    }, {
+        "id": "SD6",
+        "monthId": "201512",
+        "productAreaCode": "Stale Deals",
+        "productAreaAbbreviation": "Stale Deals",
+        "clientSegments": null,
+        "revenueAmount": 75897.1,
+        "totalDeals": 199,
+        "valueColor": "#FF0000"
+    }, {
+        "id": "SD7",
+        "monthId": "201601",
+        "productAreaCode": "Stale Deals",
+        "productAreaAbbreviation": "Stale Deals",
+        "clientSegments": null,
+        "revenueAmount": 5853.11,
+        "totalDeals": 84,
+        "valueColor": "#FF0000"
+    }, {
+        "id": "SD8",
+        "monthId": "201602",
+        "productAreaCode": "Stale Deals",
+        "productAreaAbbreviation": "Stale Deals",
+        "clientSegments": null,
+        "revenueAmount": 337387.67,
+        "totalDeals": 128,
+        "valueColor": "#FF0000"
+    }, {
+        "id": "SD9",
+        "monthId": "201603",
+        "productAreaCode": "Stale Deals",
+        "productAreaAbbreviation": "Stale Deals",
+        "clientSegments": null,
+        "revenueAmount": 149410.47,
+        "totalDeals": 411,
+        "valueColor": "#FF0000"
+    }, {
+        "id": "SD10",
+        "monthId": "201604",
+        "productAreaCode": "Stale Deals",
+        "productAreaAbbreviation": "Stale Deals",
+        "clientSegments": null,
+        "revenueAmount": 419671.57,
+        "totalDeals": 2312,
+        "valueColor": "#FF0000"
+    }, {
+        "id": "SD11",
+        "monthId": "201605",
+        "productAreaCode": "Stale Deals",
+        "productAreaAbbreviation": "Stale Deals",
+        "clientSegments": null,
+        "revenueAmount": 365461833.16,
+        "totalDeals": 1314,
+        "valueColor": "#FF0000"
+    }, {
+        "id": "SD12",
+        "monthId": "201606",
+        "productAreaCode": "Stale Deals",
+        "productAreaAbbreviation": "Stale Deals",
+        "clientSegments": null,
+        "revenueAmount": 103802259,
+        "totalDeals": 80,
+        "valueColor": "#FF0000"
+    }]
+}

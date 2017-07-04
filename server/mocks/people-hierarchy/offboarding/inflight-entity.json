@@ -1,0 +1,15 @@
+{
+	"inflightEntities": [{
+		"entityName": "entityName Test",
+		"entityId": 123,
+		"activityId": 12345,
+		"id": 23,
+		"initiatedOn": "10 March 2016",
+		"initiatedBy": "VP-2",
+		"action": "Group Exit",
+		"status": "In Progress"
+	}],
+	"meta": {
+		"inflightTotalCount": 20
+	}
+}

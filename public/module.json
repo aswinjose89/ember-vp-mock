@@ -1,0 +1,145 @@
+{
+    "modules": {
+        "wb-ui-call-reports": {
+            "path": "http://localhost:4207/assets/",
+            "contextPath": "callreports"
+        },
+        "wb-ui-offboarding": {
+            "version": "1.0.0",
+            "path": "http://localhost:4556/assets/",
+            "contextPath": "offboarding"
+        },
+        "wb-ui-sdm": {
+            "version": "1.0.0",
+            "path": "http://localhost:4555/assets/",
+            "contextPath": "sdm"
+        },
+        "wb-ui-sales": {
+            "path": "http://localhost:4213/assets/",
+            "contextPath": "sales"
+        },
+        "wb-ui-credit": {
+            "version": "1.0.0",
+            "path": "http://localhost:4220/assets/",
+            "contextPath": "credit"
+        },
+        "wb-ui-contacts": {
+            "version": "1.0.0",
+            "path": "http://localhost:4224/assets/",
+            "contextPath": "contacts"
+        },
+        "wb-ui-trident": {
+            "version": "1.0.0",
+            "path": "http://localhost:4221/assets/",
+            "contextPath": "tridents"
+        },
+        "wb-ui-reports": {
+            "version": "1.0.0",
+            "path": "http://localhost:4221/assets/",
+            "contextPath": "reports"
+        },
+        "wb-ui-dealcentre": {
+            "version": "1.0.0",
+            "path": "http://localhost:4223/assets/",
+            "contextPath": "dealcentre"
+        },
+        "wb-ui-deal-checklist": {
+            "path": "http://localhost:4225/assets/",
+            "load-on-startup": false,
+            "contextPath": "checklist",
+            "version": "1.0.0"
+        },
+        "wb-ui-deal-pipeline": {
+            "path": "http://localhost:4216/assets/",
+            "load-on-startup": false,
+            "contextPath": "dealpipeline",
+            "version": "1.0.0"
+        },
+        "wb-ui-accountplan": {
+            "path": "http://localhost:4208/assets/",
+            "load-on-startup": false,
+            "contextPath": "account-plan",
+            "version": "1.0.0"
+        },
+        "wb-ui-gems": {
+            "path": "http://localhost:4228/assets/",
+            "load-on-startup": false,
+            "contextPath": "gems"
+        },
+        "wb-ui-admin": {
+            "path": "http://localhost:4227/assets/",
+            "load-on-startup": false,
+            "contextPath": "admin"
+        },
+        "wb-ui-leads": {
+            "path": "http://localhost:4229/assets/",
+            "load-on-startup": false,
+            "contextPath": "leads"
+        },
+        "wb-ui-esra": {
+            "path": "http://localhost:4230/assets/",
+            "load-on-startup": false,
+            "contextPath": "esra"
+        },
+        "wb-ui-prospect": {
+            "path": "http://localhost:4231/assets/",
+            "load-on-startup": false,
+            "contextPath": "prospect"
+        }
+    },
+    "appConfig": {
+        "loginConfig": {
+            "helpLink": "mailto:WorkBenchBusiness.SupportTeam@sc.com",
+            "trainingSite": "http://thebridge.zone1.scb.net/docs/DOC-128824",
+            "itsc": "https://thebridge.zone1.scb.net/groups/desk-on-thebridge",
+            "cddPremiumSupport": "mailto:CDDPremiumSupport.GSD@sc.com",
+            "rmwbLink": "https://rmwb.global.standardchartered.com/rmwb/login"
+        },
+        "wb2Integration": {
+            "rcr2Enabled": true,
+            "dealPipeline2Integration": true
+        },
+        "wbSession": {
+            "timeout": 900000,
+            "timeoutWarning": 720000
+        },
+        "ecddConfig": {
+            "baseUrl": "http://10.23.152.91:1080",
+            "rootUrl": "/ecddplus/cdd"
+        },
+        "wbPushConfig": {
+            "enabled": true,
+            "socketConfig": {
+                "url": "https://10.20.189.42:22813",
+                "connectionConfig": {
+                    "path": "/rmwb-push-notification/subscribe",
+                    "transports": [
+                        "websocket",
+                        "polling"
+                    ]
+                }
+            },
+            "headerConfig": {
+                "allMessageTypes": true
+            },
+            "feedConfig": {
+                "feedType": "workbench"
+            }
+        },
+        "urlRewrite": {
+            "rules": [{
+                "patterns": [
+                    "api/auth/",
+                    "api/core/",
+                    "api/rdm/",
+                    "api/prospect/",
+                    "api/notifications/"
+                ],
+                "replaceString": {
+                    "from": "api/",
+                    "to": "api/"
+                }
+            }]
+        }
+    }
+}

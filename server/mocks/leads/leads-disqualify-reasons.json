@@ -1,0 +1,25 @@
+{
+  "leadDisqualifyReasons": {
+    "id": 1,
+    "reasons": [
+      {
+        "id": 1,
+        "code": "0001",
+        "description": "Exited - Client Decisio",
+        "order": "1",
+        "hidden": "N",
+        "isUpdated":  false,
+        "isNew": null
+      },
+      {
+        "id": 2,
+        "code": "0002",
+        "description": "Exited - Compliance Reason",
+        "order": "2",
+        "hidden": "Y",
+        "isUpdated": true,
+        "isNew": null
+      }
+    ]
+  }
+}

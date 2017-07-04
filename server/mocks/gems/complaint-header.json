@@ -1,0 +1,17 @@
+{
+  "complaintHeader": {
+    "id": "SR-AG-00192338529",
+    "groupID": "11000175",
+    "clientId" : "1234",
+    "businessSegment": "50",
+    "incorporationCountry": "Malaysia",
+    "clientContactFullName": "Aswin",
+    "clientContactEmail": "as@gmail.com",
+    "clientContactTelephone": "3333",
+    "clientTier": "false",
+    "clientName": "1907 PENSO FUND LTD123 1907 PENSO FUND LTD123 1907 PENSO FUND LTD123",
+    "entityTags": "CF|FM|TB",
+    "pfam": "ABC",
+    "originatingCountry": "India"
+  }
+}

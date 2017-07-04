@@ -1,0 +1,28 @@
+{
+  "groupSegments": [
+    {
+      "code": "N",
+      "description": "FINANCIAL INSTITUTIONS"
+    },
+    {
+      "code": "A",
+      "description": "LOCAL CORPORATE"
+    },
+    {
+      "code": "K",
+      "description": "GLOBAL CORPORATE"
+    },
+    {
+      "code": "E",
+      "description": "COMMODITY TRADERS AND AGRICULTURE"
+    },
+    {
+      "code": "S",
+      "description": "OWN ACC"
+    },
+    {
+      "code": "30",
+      "description": "SME"
+    }
+  ]
+}

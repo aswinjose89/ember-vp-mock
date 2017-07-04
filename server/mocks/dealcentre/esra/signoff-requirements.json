@@ -1,0 +1,128 @@
+{
+    "signoffRequirement": {
+        "details": [
+            {
+                "id": 2916,
+                "signoffId": 34,
+                "signoffVersion": 12,
+                "deleted": false,
+                "requirements": "Sign off req 1 edit",
+                "type": "0001",
+                "status": "0003",
+                "dueDate": 1527696000000,
+                "repeat": "0002",
+                "followupTasks": [
+                    {
+                        "id": 55,
+                        "actionRequired": "Sign off action 2",
+                        "dueDate": 1527696000000,
+                        "repeat": "0002",
+                        "endRepeat": null,
+                        "assignedBy": "1191361-Bagri,Rajan",
+                        "createdBy": "1191361-Bagri,Rajan",
+                        "assignedDate": 1495094528000,
+                        "taskStatus": "0003",
+                        "completedDate": null,
+                        "completionComments": "Test",
+                        "confirmedByEsrm": null,
+                        "deleted": false,
+                        "calendarTaskId": "WB_395086",
+                        "esraApprovers": [
+                            "1444777"
+                        ],
+                        "assignedToEsrm": 1,
+                        "assignees": [
+                            {
+                                "id": "76",
+                                "name": "Maclean,Spencer",
+                                "psId": "1325911",
+                                "emailId": "Spencer.Maclean@sc.com"
+                            },
+                            {
+                                "id": "77",
+                                "name": "Gonzalez,Rodrigo",
+                                "psId": "1347592",
+                                "emailId": "Rodrigo.Gonzalez@sc.com"
+                            },
+                            {
+                                "id": "78",
+                                "name": "Lu,Tom Jin",
+                                "psId": "1437419",
+                                "emailId": "Tom.Lu@sc.com"
+                            },
+                            {
+                                "id": "79",
+                                "name": "Llewellyn,Morton",
+                                "psId": "1506158",
+                                "emailId": "Morton.Llewellyn@sc.com"
+                            },
+                            {
+                                "id": "75",
+                                "name": "Mourad,Victor",
+                                "psId": "1365266",
+                                "emailId": "Victor.Mourad@sc.com"
+                            }
+                        ],
+                        "documents": []
+                    },
+                    {
+                        "id": 54,
+                        "actionRequired": "Sign off action 1 edit",
+                        "dueDate": 1527696000000,
+                        "repeat": "0002",
+                        "endRepeat": null,
+                        "assignedBy": "1191361-Bagri,Rajan",
+                        "createdBy": "1191361-Bagri,Rajan",
+                        "assignedDate": 1495002937000,
+                        "taskStatus": "0003",
+                        "completedDate": null,
+                        "completionComments": "Test",
+                        "confirmedByEsrm": null,
+                        "deleted": false,
+                        "calendarTaskId": "WB_395046",
+                        "esraApprovers": [
+                            "1444777"
+                        ],
+                        "assignedToEsrm": 1,
+                        "assignees": [
+                            {
+                                "id": "73",
+                                "name": "Karungi,Carol",
+                                "psId": "1193293",
+                                "emailId": "Carol.Karungi@sc.com"
+                            },
+                            {
+                                "id": "74",
+                                "name": "Lu,Tom Jin",
+                                "psId": "1437419",
+                                "emailId": "Tom.Lu@sc.com"
+                            }
+                        ],
+                        "documents": []
+                    }
+                ],
+                "esraActivity": null
+            }
+        ],
+        "id": "20150629100863685",
+        "signoffActivity": {
+            "id": "20150629100863685",
+            "version": 1,
+            "roleDesc": "ESRM_Approver",
+            "signoffReqReadonly": "V",
+            "signoffTaskReadonly": "E",
+            "saveEnabled": "E",
+            "createSignoffReqEnabled": "E",
+            "editSignoffReqEnabled": "E",
+            "deleteSignoffReqEnabled": "V",
+            "createSignoffTaskEnabled": "E",
+            "editSignoffTaskEnabled": "E",
+            "deleteSignoffTaskEnabled": "E",
+            "requirementStatusEnabled": "E",
+            "referToESRMEnabled": "N",
+            "approveEnabled": "N",
+            "referBackEnabled": "N",
+            "recallEnabled": "N"
+        }
+    }
+}

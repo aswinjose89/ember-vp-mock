@@ -1,0 +1,380 @@
+{
+  "businessSubSegments": [
+    {
+      "id": "01",
+      "businessSegmentCode": "01",
+      "subSegmentCode": "B1",
+      "businessSegment": "Local Corporates",
+      "segmentId": "A",
+      "subSegment": "Local Corporates"
+    },
+    {
+      "id": "02",
+      "businessSegmentCode": "01",
+      "subSegmentCode": "A1",
+      "businessSegment": "Local Corporates",
+      "segmentId": "A",
+      "subSegment": "Middle Markets"
+    },
+    {
+      "id": "03",
+      "businessSegmentCode": "02",
+      "subSegmentCode": "K1",
+      "businessSegment": "Global Corporates",
+      "segmentId": "K",
+      "subSegment": "Global Corporates"
+    },
+    {
+      "id": "04",
+      "businessSegmentCode": "03",
+      "subSegmentCode": "G1",
+      "businessSegment": "Commodity Traders & Agribusiness",
+      "segmentId": "E",
+      "subSegment": "Agriculture"
+    },
+    {
+      "id": "05",
+      "businessSegmentCode": "03",
+      "subSegmentCode": "H1",
+      "businessSegment": "Commodity Traders & Agribusiness",
+      "segmentId": "E",
+      "subSegment": "Energy Traders"
+    },
+    {
+      "id": "06",
+      "businessSegmentCode": "03",
+      "subSegmentCode": "H4",
+      "businessSegment": "Commodity Traders & Agribusiness",
+      "segmentId": "E",
+      "subSegment": "Metal Traders"
+    },
+    {
+      "id": "07",
+      "businessSegmentCode": "04",
+      "subSegmentCode": "N2",
+      "businessSegment": "Financial Institutions",
+      "segmentId": "N",
+      "subSegment": "Central Banks"
+    },
+    {
+      "id": "08",
+      "businessSegmentCode": "04",
+      "subSegmentCode": "N3",
+      "businessSegment": "Financial Institutions",
+      "segmentId": "N",
+      "subSegment": "Private Banks"
+    },
+    {
+      "id": "09",
+      "businessSegmentCode": "04",
+      "subSegmentCode": "N4",
+      "businessSegment": "Financial Institutions",
+      "segmentId": "N",
+      "subSegment": "Investment Banks"
+    },
+    {
+      "id": "10",
+      "businessSegmentCode": "04",
+      "subSegmentCode": "N5",
+      "businessSegment": "Financial Institutions",
+      "segmentId": "N",
+      "subSegment": "Local Bank Franchise"
+    },
+    {
+      "id": "11",
+      "businessSegmentCode": "04",
+      "subSegmentCode": "N6",
+      "businessSegment": "Financial Institutions",
+      "segmentId": "N",
+      "subSegment": "Local Bank Non-Franchise"
+    },
+    {
+      "id": "12",
+      "businessSegmentCode": "04",
+      "subSegmentCode": "N7",
+      "businessSegment": "Financial Institutions",
+      "segmentId": "N",
+      "subSegment": "Universal Banks"
+    },
+    {
+      "id": "13",
+      "businessSegmentCode": "04",
+      "subSegmentCode": "O1",
+      "businessSegment": "Financial Institutions",
+      "segmentId": "N",
+      "subSegment": "Development Organisations"
+    },
+    {
+      "id": "14",
+      "businessSegmentCode": "04",
+      "subSegmentCode": "P2",
+      "businessSegment": "Financial Institutions",
+      "segmentId": "N",
+      "subSegment": "Sovereign Wealth Funds"
+    },
+    {
+      "id": "15",
+      "businessSegmentCode": "04",
+      "subSegmentCode": "P3",
+      "businessSegment": "Financial Institutions",
+      "segmentId": "N",
+      "subSegment": "Insurance Companies"
+    },
+    {
+      "id": "16",
+      "businessSegmentCode": "04",
+      "subSegmentCode": "P4",
+      "businessSegment": "Financial Institutions",
+      "segmentId": "N",
+      "subSegment": "Broker Dealers"
+    },
+    {
+      "id": "17",
+      "businessSegmentCode": "04",
+      "subSegmentCode": "P5",
+      "businessSegment": "Financial Institutions",
+      "segmentId": "N",
+      "subSegment": "Hedge Funds"
+    },
+    {
+      "id": "18",
+      "businessSegmentCode": "04",
+      "subSegmentCode": "P6",
+      "businessSegment": "Financial Institutions",
+      "segmentId": "N",
+      "subSegment": "Real Money Funds"
+    },
+    {
+      "id": "19",
+      "businessSegmentCode": "04",
+      "subSegmentCode": "P7",
+      "businessSegment": "Financial Institutions",
+      "segmentId": "N",
+      "subSegment": "Financial Sponsors"
+    },
+    {
+      "id": "20",
+      "businessSegmentCode": "04",
+      "subSegmentCode": "P8",
+      "businessSegment": "Financial Institutions",
+      "segmentId": "N",
+      "subSegment": "Investment Companies"
+    },
+    {
+      "id": "21",
+      "businessSegmentCode": "04",
+      "subSegmentCode": "P9",
+      "businessSegment": "Financial Institutions",
+      "segmentId": "N",
+      "subSegment": "Finance Companies"
+    },
+    {
+      "id": "22",
+      "businessSegmentCode": "04",
+      "subSegmentCode": "P10",
+      "businessSegment": "Financial Institutions",
+      "segmentId": "N",
+      "subSegment": "Others"
+    },
+    {
+      "id": "23",
+      "businessSegmentCode": "02",
+      "subSegmentCode": "K2",
+      "businessSegment": "Global Corporates",
+      "segmentId": "K",
+      "subSegment": "SCCG"
+    },
+    {
+      "id": "24",
+      "businessSegmentCode": "02",
+      "subSegmentCode": "K3",
+      "businessSegment": "Global Corporates",
+      "segmentId": "K",
+      "subSegment": "Network Clients"
+    },
+    {
+      "id": "25",
+      "businessSegmentCode": "04",
+      "subSegmentCode": "M3",
+      "businessSegment": "Financial Institutions",
+      "segmentId": "N",
+      "subSegment": "Local Government"
+    },
+    {
+      "id": "26",
+      "businessSegmentCode": "04",
+      "subSegmentCode": "M4",
+      "businessSegment": "Financial Institutions",
+      "segmentId": "N",
+      "subSegment": "Other Government Entities"
+    },
+    {
+      "id": "27",
+      "businessSegmentCode": "04",
+      "subSegmentCode": "M2",
+      "businessSegment": "Financial Institutions",
+      "segmentId": "N",
+      "subSegment": "Multilaterals"
+    },
+    {
+      "id": "28",
+      "businessSegmentCode": "04",
+      "subSegmentCode": "M1",
+      "businessSegment": "Financial Institutions",
+      "segmentId": "N",
+      "subSegment": "Ministry of Finance"
+    },
+    {
+      "id": "29",
+      "businessSegmentCode": "05",
+      "subSegmentCode": "S1",
+      "businessSegment": "Own Acc",
+      "segmentId": "S",
+      "subSegment": "Banks-Internal"
+    },
+    {
+      "id": "30",
+      "businessSegmentCode": "05",
+      "subSegmentCode": "S2",
+      "businessSegment": "Own Acc",
+      "segmentId": "S",
+      "subSegment": "Broker Dealers-Internal"
+    },
+    {
+      "id": "31",
+      "businessSegmentCode": "05",
+      "subSegmentCode": "S3",
+      "businessSegment": "Own Acc",
+      "segmentId": "S",
+      "subSegment": "Financial Sponsors-Internal"
+    },
+    {
+      "id": "32",
+      "businessSegmentCode": "05",
+      "subSegmentCode": "S4",
+      "businessSegment": "Own Acc",
+      "segmentId": "S",
+      "subSegment": "Finance Companies-Internal"
+    },
+    {
+      "id": "33",
+      "businessSegmentCode": "05",
+      "subSegmentCode": "S5",
+      "businessSegment": "Own Acc",
+      "segmentId": "S",
+      "subSegment": "Other-Financial Institutions-Internal"
+    },
+    {
+      "id": "34",
+      "businessSegmentCode": "05",
+      "subSegmentCode": "S6",
+      "businessSegment": "Own Acc",
+      "segmentId": "S",
+      "subSegment": "Global Corporates-Internal"
+    },
+    {
+      "id": "35",
+      "businessSegmentCode": "05",
+      "subSegmentCode": "S7",
+      "businessSegment": "Own Acc",
+      "segmentId": "S",
+      "subSegment": "Local Corporates-Internal"
+    },
+    {
+      "id": "36",
+      "businessSegmentCode": "05",
+      "subSegmentCode": "S8",
+      "businessSegment": "Own Acc",
+      "segmentId": "S",
+      "subSegment": "CTA-Internal"
+    },
+    {
+      "id": "37",
+      "businessSegmentCode": "06",
+      "subSegmentCode": "03",
+      "businessSegment": "SME",
+      "segmentId": "30",
+      "subSegment": "Medium Enterprise"
+    },
+    {
+      "id": "38",
+      "businessSegmentCode": "06",
+      "subSegmentCode": "09",
+      "businessSegment": "SME",
+      "segmentId": "30",
+      "subSegment": "Small Businesses  "
+    },
+    {
+      "id": "39",
+      "businessSegmentCode": "06",
+      "subSegmentCode": "17",
+      "businessSegment": "SME",
+      "segmentId": "30",
+      "subSegment": "Small Businesses Offshore"
+    },
+    {
+      "id": "40",
+      "businessSegmentCode": "06",
+      "subSegmentCode": "19",
+      "businessSegment": "SME",
+      "segmentId": "30",
+      "subSegment": "Small Business - Self Employed And Professionals"
+    },
+    {
+      "id": "41",
+      "businessSegmentCode": "06",
+      "subSegmentCode": "20",
+      "businessSegment": "SME",
+      "segmentId": "30",
+      "subSegment": "SME Express Trade"
+    },
+    {
+      "id": "42",
+      "businessSegmentCode": "06",
+      "subSegmentCode": "23",
+      "businessSegment": "SME",
+      "segmentId": "30",
+      "subSegment": "Small Business Supply Chain"
+    },
+    {
+      "id": "43",
+      "businessSegmentCode": "06",
+      "subSegmentCode": "24",
+      "businessSegment": "SME",
+      "segmentId": "30",
+      "subSegment": "Medium Enterprise Supply Chain"
+    },
+    {
+      "id": "44",
+      "businessSegmentCode": "01",
+      "subSegmentCode": "A2",
+      "businessSegment": "Local Corporates",
+      "segmentId": "A",
+      "subSegment": "International Corporates"
+    },
+    {
+      "id": "45",
+      "businessSegmentCode": "06",
+      "subSegmentCode": "10",
+      "businessSegment": "SME",
+      "segmentId": "30",
+      "subSegment": "Mass Market Small Business"
+    },
+    {
+      "id": "46",
+      "businessSegmentCode": "06",
+      "subSegmentCode": "95",
+      "businessSegment": "SME",
+      "segmentId": "30",
+      "subSegment": "GSAM NPL  "
+    },
+    {
+      "id": "47",
+      "businessSegmentCode": "04",
+      "subSegmentCode": "P11",
+      "businessSegment": "Financial Institutions",
+      "segmentId": "N",
+      "subSegment": "Public Pension Funds"
+    }
+  ]
+}

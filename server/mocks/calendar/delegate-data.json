@@ -1,0 +1,227 @@
+{
+  "assignToList": [
+    {
+      "name": "1234829 RM",
+      "psid": "1234829"
+    },
+    {
+      "name": "Agarwal,Ajay",
+      "psid": "1268350"
+    },
+    {
+      "name": "Arefeen,Mahmudul",
+      "psid": "1139606"
+    },
+    {
+      "name": "Choo, Vivien",
+      "psid": "1489104"
+    },
+    {
+      "name": "Cumber,Robert William",
+      "psid": "1198581"
+    },
+    {
+      "name": "Dengwani, Michael",
+      "psid": "1184846"
+    },
+    {
+      "name": "Evans,Louise Christina",
+      "psid": "1011185"
+    },
+    {
+      "name": "Farjaud,Xavier",
+      "psid": "1325407"
+    },
+    {
+      "name": "Frenette,Marc-Andre",
+      "psid": "1206527"
+    },
+    {
+      "name": "Govere,Donald Tichawona",
+      "psid": "1019732"
+    },
+    {
+      "name": "Goyal,Anuj",
+      "psid": "1167658"
+    },
+    {
+      "name": "Gupta,Ruby",
+      "psid": "1134894"
+    },
+    {
+      "name": "Hafner,Joachim",
+      "psid": "1290663"
+    },
+    {
+      "name": "Harper,Lesley",
+      "psid": "1268071"
+    },
+    {
+      "name": "Hodder,Chloe",
+      "psid": "1272403"
+    },
+    {
+      "name": "Isarangkoon,Kittiwat",
+      "psid": "1265598"
+    },
+    {
+      "name": "Jain,Neha",
+      "psid": "1325931"
+    },
+    {
+      "name": "Kapoor,Surbhi",
+      "psid": "1287573"
+    },
+    {
+      "name": "Khandelwal,Vipul",
+      "psid": "1317422"
+    },
+    {
+      "name": "Kim,Yoo Hee",
+      "psid": "1137642"
+    },
+    {
+      "name": "Lau,Vivian Wai Yan",
+      "psid": "1267022"
+    },
+    {
+      "name": "Lee,Ya Chi",
+      "psid": "1251013"
+    },
+    {
+      "name": "Lin,Michelle",
+      "psid": "1315777"
+    },
+    {
+      "name": "Louis Lee,Rylan",
+      "psid": "1183769"
+    },
+    {
+      "name": "Migrated155",
+      "psid": "1299347"
+    },
+    {
+      "name": "Msemburi,Ariel Malcom",
+      "psid": "1016868"
+    },
+    {
+      "name": "Palmer,Elaine Angela",
+      "psid": "1000956"
+    },
+    {
+      "name": "Puripunyawanich,Ornicha",
+      "psid": "1137739"
+    },
+    {
+      "name": "Qureshi,Taimur Iqbal",
+      "psid": "1171714"
+    },
+    {
+      "name": "R1, Latha",
+      "psid": "1493511"
+    },
+    {
+      "name": "Rajkumari,Fara Rosalind",
+      "psid": "1290358"
+    },
+    {
+      "name": "Rana,Sandeep",
+      "psid": "1230655"
+    },
+    {
+      "name": "Raval,Hardeep",
+      "psid": "1263851"
+    },
+    {
+      "name": "Razzak,Rozina",
+      "psid": "1149291"
+    },
+    {
+      "name": "Reyes,Carol Arcangel",
+      "psid": "1138562"
+    },
+    {
+      "name": "S,Salma",
+      "psid": "1490798"
+    },
+    {
+      "name": "Sembi,Ruby",
+      "psid": "1261544"
+    },
+    {
+      "name": "Sharma,Sanjay Kumar",
+      "psid": "1166421"
+    },
+    {
+      "name": "Singh,Ranjit",
+      "psid": "1248093"
+    },
+    {
+      "name": "Singhal,Bharat Lal",
+      "psid": "1143673"
+    },
+    {
+      "name": "Tangtanasaith,Oui",
+      "psid": "1155715"
+    },
+    {
+      "name": "Tyrone",
+      "psid": "1207172"
+    },
+    {
+      "name": "Upadhyay,Biswajyoti",
+      "psid": "1143754"
+    },
+    {
+      "name": "Vagrecha,Shruti Popatlal",
+      "psid": "1220645"
+    },
+    {
+      "name": "Van Bakel,Juanita Charmian",
+      "psid": "1196520"
+    },
+    {
+      "name": "Virdi,Shweta",
+      "psid": "1242359"
+    },
+    {
+      "name": "Wong,Yuen Kin",
+      "psid": "1231162"
+    },
+    {
+      "name": "Zhang,Li",
+      "psid": "1282423"
+    },
+    {
+      "name": "de Lara,Joseph",
+      "psid": "1179498"
+    }
+  ],
+  "reasonCodesList": [
+    {
+      "reasonCode": "RC042",
+      "reason": "Current assignee out of office"
+    },
+    {
+      "reasonCode": "RC043",
+      "reason": "Document upload required"
+    },
+    {
+      "reasonCode": "RC044",
+      "reason": "Requested by Owner RM"
+    },
+    {
+      "reasonCode": "RC045",
+      "reason": "Requested by Line Manager"
+    },
+    {
+      "reasonCode": "RC046",
+      "reason": "Requested by CDD Risk Manager"
+    },
+    {
+      "reasonCode": "RC047",
+      "reason": "Other (Please Specify)"
+    }
+  ],
+  "status": "SUCCESS"
+}

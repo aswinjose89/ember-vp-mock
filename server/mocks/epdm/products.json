@@ -1,0 +1,139 @@
+{
+   "productCodes":[
+      {
+         "id":"sdf",
+         "code":"All",
+         "description":"All"
+      },
+      {
+         "id":"4729b8e6-a0ff-4a08-a885-0416b814bbbe",
+         "code":"001",
+         "description":"CURRENT ACCOUNT"
+      },
+      {
+         "id":"817ed752-bd35-4fd8-a1c3-0e601a7d8445",
+         "code":"002",
+         "description":"CALL DEPOSIT"
+      },
+      {
+         "id":"b4b7459c-ee06-469d-93ad-05ee7ee04b30",
+         "code":"225",
+         "description":"Escrow Services"
+      },
+      {
+         "id":"31560886-79d7-40c6-81e5-8af378c1bc74",
+         "code":"306",
+         "description":"INSTALLMENT LOANS - GOLD PRODUCT"
+      },
+      {
+         "id":"52c1d24a-e2c0-4029-857f-a4fada7c0de2",
+         "code":"BDBR",
+         "description":"Bill Discounting Against Buyer Risk"
+      },
+      {
+         "id":"b1592ad0-4251-4674-87fe-967c3ea499ee",
+         "code":"BR",
+         "description":"BILLS RECEIVABLE"
+      },
+      {
+         "id":"2affc27f-eb75-447c-8e56-1f77b8a0742f",
+         "code":"CBC",
+         "description":"CREDIT BILLS ON COLLECT"
+      },
+      {
+         "id":"13659ed1-a06a-4dad-8b02-4451100f7a1e",
+         "code":"CBN",
+         "description":"CREDIT BILLS NEGOTIATED"
+      },
+      {
+         "id":"d07ceb4f-f01c-4ea0-986f-b5b8f550830b",
+         "code":"EBC",
+         "description":"EXP BILLS FOR COLLECTION"
+      },
+      {
+         "id":"e5e2020c-a562-41b5-9d53-af844a3e35ef",
+         "code":"GTBG",
+         "description":"Bonds and Guarantees"
+      },
+      {
+         "id":"7fcd7cd8-4fa4-47fe-8fd1-dcdcad1c2369",
+         "code":"GTSBC",
+         "description":"Commercial SBLC"
+      },
+      {
+         "id":"480c2fca-d606-4fa3-b6b9-14797ffbd6be",
+         "code":"GTSBF",
+         "description":"Financial SBLC"
+      },
+      {
+         "id":"da0024f1-9f03-47fa-b72c-e45c11a0aa1f",
+         "code":"IBC",
+         "description":"IMP BILLS FOR COLLECTION"
+      },
+      {
+         "id":"dd9702ee-0d6e-4196-8a47-d12fc403c7d3",
+         "code":"IFNB",
+         "description":"Invoice Financing Buyer"
+      },
+      {
+         "id":"0ac99eff-4dfa-4498-9fb5-eb41a0c730c5",
+         "code":"IFNS",
+         "description":"Invoice Financing Supplier"
+      },
+      {
+         "id":"cefadd12-2c23-4828-8d76-714c2b37ecc5",
+         "code":"IML",
+         "description":"IMPORT LOANS"
+      },
+      {
+         "id":"8b716944-4c4e-4132-96fb-ac479594a179",
+         "code":"IML",
+         "description":"Other Import Loans"
+      },
+      {
+         "id":"ab51ea03-709b-49d6-9b37-9f96ab14a366",
+         "code":"LATR",
+         "description":"LOANS AGST TRUST RECEIPT"
+      },
+      {
+         "id":"d7591277-3519-4a3b-b851-09347fbdec75",
+         "code":"LBD",
+         "description":"LOCAL BILLS DISCOUNTED"
+      },
+      {
+         "id":"97a0a8ef-6550-4f47-bbc4-88f8dbd6adf5",
+         "code":"LCORS",
+         "description":"Import LCs - Secured"
+      },
+      {
+         "id":"512d1bf3-24b1-4e3e-ae5f-5ca64491e8a1",
+         "code":"LCORU",
+         "description":"Import LCs - Unsecured"
+      },
+      {
+         "id":"ace09f9a-0020-4e5c-872f-c05efe70fcd6",
+         "code":"OB",
+         "description":"OUTWARD BILLS"
+      },
+      {
+         "id":"8dbbc15e-2d33-431c-93a5-71ff670f83d3",
+         "code":"Overall",
+         "description":" "
+      },
+      {
+         "id":"1311d78b-dee1-4cec-8f9d-e6dffb1415ea",
+         "code":"REVOLVING",
+         "description":""
+      },
+      {
+         "id":"53f75386-a59f-4516-ac35-e27fb6111705",
+         "code":"RSRV",
+         "description":"Receivable Services"
+      },
+      {
+         "id":"35478785-f312-46b5-8ca9-7e7677aed1ae",
+         "code":"TERM Facility",
+         "description":""
+      }
+   ]
+}

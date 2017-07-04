@@ -1,0 +1,587 @@
+{
+    "meta": {
+        "totalFavourites": 80,
+        "taggedUser": false
+    },
+    "salesHomes": [
+        {
+            "id": 1,
+            "activities": [
+                {
+                    "id": 1,
+                    "icon": "icon-phone",
+                    "activityName": "Call Reports"
+                },
+                {
+                    "id": 2,
+                    "icon": "icon-check-circle",
+                    "activityName": "Cdd Administration"
+                },
+                {
+                    "id": 3,
+                    "icon": "icon-account",
+                    "activityName": "Client Management"
+                },
+                {
+                    "id": 4,
+                    "icon": "icon-account-plus",
+                    "activityName": "Client Onboarding"
+                },
+                {
+                    "id": 5,
+                    "icon": "icon-account-remove",
+                    "activityName": "Client Offboarding"
+                },
+                {
+                    "id": 6,
+                    "icon": "icon-credit",
+                    "activityName": "Credit"
+                },
+                {
+                    "id": 7,
+                    "icon": "icon-deals",
+                    "activityName": "Deals"
+                },
+                {
+                    "id": 8,
+                    "icon": "icon-fatca",
+                    "activityName": "FATCA"
+                },
+                {
+                    "id": 9,
+                    "icon": "icon-prospects",
+                    "activityName": "Prospects"
+                }
+            ],
+            "favourites": [
+                {
+                    "favClientId": "1",
+                    "clientId": "1",
+                    "subProfileId": "1",
+                    "entityName": "Coca Cola Group",
+                    "entityType": "C",
+                    "entityId": ""
+                },
+                {
+                    "favClientId": "2",
+                    "clientId": "2",
+                    "subProfileId": "1",
+                    "entityName": "Coca Cola Group",
+                    "entityType": "G",
+                    "entityId": ""
+                },
+                {
+                    "favClientId": "3",
+                    "clientId": "3",
+                    "subProfileId": "1",
+                    "entityName": "Coca Cola Group",
+                    "entityType": "P",
+                    "entityId": ""
+                }
+            ],
+            "recents": [
+                {
+                    "id": 1,
+                    "psId": "1196916",
+                    "icon": "icon-document-list",
+                    "activityName": "AccountPlan",
+                    "entityName": "Coca Cola Group",
+                    "appGroup": "AccountPlan",
+                    "crmId": null,
+                    "ledId": null,
+                    "scId": null,
+                    "recentViewParams": [
+                        {
+                            "id": 1,
+                            "paramId": null,
+                            "paramValue": null,
+                            "paramDescription": null,
+                            "recentView": null
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "psId": "1196916",
+                    "icon": "icon-document-list",
+                    "activityName": "AccountPlan",
+                    "entityName": "Coca Cola Group",
+                    "appGroup": "AccountPlan",
+                    "crmId": null,
+                    "ledId": null,
+                    "scId": null,
+                    "recentViewParams": [
+                        {
+                            "id": 1,
+                            "paramId": null,
+                            "paramValue": null,
+                            "paramDescription": null,
+                            "recentView": null
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "psId": "1196916",
+                    "icon": "icon-document-list",
+                    "activityName": "AccountPlan",
+                    "entityName": "Coca Cola Group",
+                    "appGroup": "AccountPlan",
+                    "crmId": null,
+                    "ledId": null,
+                    "scId": null,
+                    "recentViewParams": [
+                        {
+                            "id": 2,
+                            "paramId": null,
+                            "paramValue": null,
+                            "paramDescription": null,
+                            "recentView": null
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "psId": "1196916",
+                    "icon": "icon-document-list",
+                    "activityName": "AccountPlan",
+                    "entityName": "Coca Cola Group",
+                    "appGroup": "AccountPlan",
+                    "crmId": null,
+                    "ledId": null,
+                    "scId": null,
+                    "recentViewParams": [
+                        {
+                            "id": 3,
+                            "paramId": null,
+                            "paramValue": null,
+                            "paramDescription": null,
+                            "recentView": null
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "psId": "1196916",
+                    "icon": "icon-document-list",
+                    "activityName": "AccountPlan",
+                    "entityName": "Coca Cola Group",
+                    "appGroup": "AccountPlan",
+                    "crmId": null,
+                    "ledId": null,
+                    "scId": null,
+                    "recentViewParams": [
+                        {
+                            "id": 4,
+                            "paramId": null,
+                            "paramValue": null,
+                            "paramDescription": null,
+                            "recentView": null
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "psId": "1196916",
+                    "icon": "icon-document-list",
+                    "activityName": "AccountPlan",
+                    "entityName": "Coca Cola Group",
+                    "appGroup": "AccountPlan",
+                    "crmId": null,
+                    "ledId": null,
+                    "scId": null,
+                    "recentViewParams": [
+                        {
+                            "id": 5,
+                            "paramId": null,
+                            "paramValue": null,
+                            "paramDescription": null,
+                            "recentView": null
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "psId": "1196916",
+                    "icon": "icon-document-list",
+                    "activityName": "AccountPlan",
+                    "entityName": "Coca Cola Group",
+                    "appGroup": "AccountPlan",
+                    "crmId": null,
+                    "ledId": null,
+                    "scId": null,
+                    "recentViewParams": [
+                        {
+                            "id": 6,
+                            "paramId": null,
+                            "paramValue": null,
+                            "paramDescription": null,
+                            "recentView": null
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "psId": "1196916",
+                    "icon": "icon-document-list",
+                    "activityName": "AccountPlan",
+                    "entityName": "Coca Cola Group",
+                    "appGroup": "AccountPlan",
+                    "crmId": null,
+                    "ledId": null,
+                    "scId": null,
+                    "recentViewParams": [
+                        {
+                            "id": 7,
+                            "paramId": null,
+                            "paramValue": null,
+                            "paramDescription": null,
+                            "recentView": null
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "psId": "1196916",
+                    "icon": "icon-document-list",
+                    "activityName": "AccountPlan",
+                    "entityName": "Coca Cola Group",
+                    "appGroup": "AccountPlan",
+                    "crmId": null,
+                    "ledId": null,
+                    "scId": null,
+                    "recentViewParams": [
+                        {
+                            "id": 8,
+                            "paramId": null,
+                            "paramValue": null,
+                            "paramDescription": null,
+                            "recentView": null
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "psId": "1196916",
+                    "icon": "icon-document-list",
+                    "activityName": "AccountPlan",
+                    "entityName": "Coca Cola Group",
+                    "appGroup": "AccountPlan",
+                    "crmId": null,
+                    "ledId": null,
+                    "scId": null,
+                    "recentViewParams": [
+                        {
+                            "id": 9,
+                            "paramId": null,
+                            "paramValue": null,
+                            "paramDescription": null,
+                            "recentView": null
+                        }
+                    ]
+                }
+            ],
+            "topClients": [
+                {
+                    "entityName": "JP Morgan Asset Management",
+                    "entityId": "11252468",
+                    "subProfileId": "0",
+                    "entityType": "C",
+                    "quantity": "60",
+                    "indicator": "0",
+                    "filterName": "rev"
+                },
+                {
+                    "entityId": "990000327",
+                    "subProfileId": "0",
+                    "entityName": "Coca Cola Group",
+                    "entityType": "G",
+                    "quantity": "60",
+                    "indicator": "0",
+                    "filterName": "rev"
+                },
+                {
+                    "entityId": "11184321",
+                    "subProfileId": "0",
+                    "entityName": "SamSung Electronics",
+                    "entityType": "C",
+                    "quantity": "0",
+                    "indicator": "0",
+                    "filterName": "rev"
+                }
+            ],
+            "kpis": [
+                {
+                    "id": 1,
+                    "lastCCMIRefreshMonth": "201411",
+                    "lastPMIRefreshMonth": "201501",
+                    "totalMOMRG": "0.974",
+                    "totalPipeline": "123432.123",
+                    "totalRORWA": "38.125",
+                    "totalYOYG": "184.183",
+                    "totalYTD": "123432",
+                    "totalMOMPG": "0.29"
+                }
+            ],
+            "revenueMetric": [
+                {
+                    "revenueAmount": 8,
+                    "totalDeals": 77,
+                    "id": 1,
+                    "clientSegments": [
+                        {
+                            "code": "ME",
+                            "description": "Middle Enterprise",
+                            "amount": 11
+                        },
+                        {
+                            "clientSegmentCode": "HV",
+                            "clientSegmentDesc": "High Value Small Business",
+                            "clientSegmentAmount": 1
+                        }
+                    ],
+                    "productAreaCode": "CF",
+                    "valueColor": "#603813",
+                    "monthId": "201510"
+                },
+                {
+                    "revenueAmount": 8,
+                    "totalDeals": 77,
+                    "id": 2,
+                    "clientSegments": [
+                        {
+                            "code": "ME",
+                            "description": "Middle Enterprise",
+                            "amount": 11
+                        },
+                        {
+                            "clientSegmentCode": "HV",
+                            "clientSegmentDesc": "High Value Small Business",
+                            "clientSegmentAmount": 1
+                        }
+                    ],
+                    "productAreaCode": "CF",
+                    "valueColor": "#603813",
+                    "monthId": "201511"
+                },
+                {
+                    "revenueAmount": 8,
+                    "totalDeals": 77,
+                    "id": 3,
+                    "clientSegments": [
+                        {
+                            "code": "ME",
+                            "description": "Middle Enterprise",
+                            "amount": 11
+                        },
+                        {
+                            "clientSegmentCode": "HV",
+                            "clientSegmentDesc": "High Value Small Business",
+                            "clientSegmentAmount": 1
+                        }
+                    ],
+                    "productAreaCode": "CF",
+                    "valueColor": "#603813",
+                    "monthId": "201512"
+                },
+                {
+                    "revenueAmount": 8,
+                    "totalDeals": 77,
+                    "id": 4,
+                    "clientSegments": [
+                        {
+                            "code": "ME",
+                            "description": "Middle Enterprise",
+                            "amount": 11
+                        },
+                        {
+                            "clientSegmentCode": "HV",
+                            "clientSegmentDesc": "High Value Small Business",
+                            "clientSegmentAmount": 1
+                        }
+                    ],
+                    "productAreaCode": "CF",
+                    "valueColor": "#603813",
+                    "monthId": "201601"
+                }
+            ],
+            "dealMetrics": [
+                {
+                    "id": 1,
+                    "chartCategory": 1,
+                    "dealPhase": "MARKETING",
+                    "dealCount": 10,
+                    "dealRevenue": 50.7,
+                    "valueColor": "#569FCC"
+                },
+                {
+                    "id": 2,
+                    "chartCategory": 1,
+                    "dealCount": 16,
+                    "dealPhase": "MANDATED",
+                    "dealRevenue": 40.2,
+                    "valueColor": "#569FCC"
+                },
+                {
+                    "id": 3,
+                    "chartCategory": 1,
+                    "dealCount": 27,
+                    "dealPhase": "CLOSED",
+                    "dealRevenue": 36.1,
+                    "valueColor": "#569FCC"
+                },
+                {
+                    "id": 4,
+                    "chartCategory": 1,
+                    "dealRevenue": 30.5,
+                    "dealCount": 10,
+                    "dealPhase": "LOST",
+                    "valueColor": "#569FCC"
+                },
+                {
+                    "id": 5,
+                    "chartCategory": 1,
+                    "dealRevenue": 0,
+                    "dealCount": 23,
+                    "dealPhase": "DROPPED",
+                    "valueColor": "#569FCC"
+                },
+                {
+                    "id": 6,
+                    "revenueAchieved": 50.7,
+                    "chartCategory": 2,
+                    "dealPhase": "MARKETING",
+                    "dealCount": 0,
+                    "dealRevenue": 0,
+                    "valueColor": "#b8b8b8"
+                },
+                {
+                    "id": 7,
+                    "revenueAchieved": 40.2,
+                    "chartCategory": 2,
+                    "dealCount": 16,
+                    "dealPhase": "MANDATED",
+                    "dealRevenue": 10.5,
+                    "valueColor": "#b8b8b8"
+                },
+                {
+                    "id": 8,
+                    "revenueAchieved": 36.1,
+                    "chartCategory": 2,
+                    "dealCount": 27,
+                    "dealPhase": "CLOSED",
+                    "dealRevenue": 14.6,
+                    "valueColor": "#b8b8b8"
+                },
+                {
+                    "id": 9,
+                    "revenueAchieved": 30.5,
+                    "chartCategory": 2,
+                    "dealRevenue": 20.2,
+                    "dealCount": 10,
+                    "dealPhase": "LOST",
+                    "valueColor": "#b8b8b8"
+                },
+                {
+                    "id": 10,
+                    "revenueAchieved": 0,
+                    "chartCategory": 2,
+                    "dealRevenue": 50.7,
+                    "dealCount": 23,
+                    "dealPhase": "DROPPED",
+                    "valueColor": "#b8b8b8"
+                }
+            ],
+            "clientMetrics": [
+                {
+                    "id": 1,
+                    "leId": "11125520",
+                    "clientName": "FIRST QUANTUM MINING AND OPERATIONS LIMITED",
+                    "revenueYTD": 8321000.02,
+                    "revenueForecast": 86799914,
+                    "revenueGap": 86791592.98,
+                    "chartCategory": 1,
+                    "valueColor": "#569FCC",
+                    "percentToDisplay": 9.586
+                },
+                {
+                    "id": 2,
+                    "leId": "11002243",
+                    "clientName": "SINGAPORE AIRLINES LIMITED",
+                    "revenueYTD": 12345,
+                    "revenueForecast": 61825,
+                    "revenueGap": 49480,
+                    "chartCategory": 1,
+                    "valueColor": "#569FCC",
+                    "percentToDisplay": 19.967
+                },
+                {
+                    "id": 3,
+                    "leId": "11153358",
+                    "clientName": "STANDARD CHARTERED BANK (HONG KONG) LIMITED",
+                    "revenueYTD": 0,
+                    "revenueForecast": 233,
+                    "revenueGap": 233,
+                    "chartCategory": 1,
+                    "valueColor": "#569FCC",
+                    "percentToDisplay": 0
+                },
+                {
+                    "id": 4,
+                    "leId": "11034140",
+                    "clientName": "AGRICULTURAL BANK OF CHINA LIMITED",
+                    "revenueYTD": 578.53,
+                    "revenueForecast": 1327.63,
+                    "revenueGap": 749.09,
+                    "chartCategory": 1,
+                    "valueColor": "#569FCC",
+                    "percentToDisplay": 43.576
+                },
+                {
+                    "id": 5,
+                    "leId": "11125520",
+                    "clientName": "FIRST QUANTUM MINING AND OPERATIONS LIMITED",
+                    "revenueYTD": 8321000.02,
+                    "revenueForecast": 86799914,
+                    "revenueGap": 86791592.98,
+                    "chartCategory": 2,
+                    "valueColor": "#b8b8b8",
+                    "percentToDisplay": 90.413
+                },
+                {
+                    "id": 6,
+                    "leId": "11002243",
+                    "clientName": "SINGAPORE AIRLINES LIMITED",
+                    "revenueYTD": 12345,
+                    "revenueForecast": 61825,
+                    "revenueGap": 49480,
+                    "chartCategory": 2,
+                    "valueColor": "#b8b8b8",
+                    "percentToDisplay": 80.032
+                },
+                {
+                    "id": 7,
+                    "leId": "11153358",
+                    "clientName": "STANDARD CHARTERED BANK (HONG KONG) LIMITED",
+                    "revenueYTD": 0,
+                    "revenueForecast": 233,
+                    "revenueGap": 233,
+                    "chartCategory": 2,
+                    "valueColor": "#b8b8b8",
+                    "percentToDisplay": 100
+                },
+                {
+                    "id": 8,
+                    "leId": "11034140",
+                    "clientName": "AGRICULTURAL BANK OF CHINA LIMITED",
+                    "revenueYTD": 578.53,
+                    "revenueForecast": 1327.63,
+                    "revenueGap": 749.09,
+                    "chartCategory": 2,
+                    "valueColor": "#b8b8b8",
+                    "percentToDisplay": 56.423
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,225 @@
+{
+  "dealActivitiesPicklist": {
+    "id": "1234",
+    "psrGICStatus": [
+      {
+        "id": "GIC01",
+        "code": "GIC01",
+        "description": "Approved",
+        "longDescription": "Approved",
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      },
+      {
+        "id": "GIC02",
+        "code": "GIC02",
+        "description": "Pending",
+        "longDescription": "Pending",
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      },
+      {
+        "id": "GIC03",
+        "code": "GIC03",
+        "description": "Not Started",
+        "longDescription": "Not Started",
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      },
+      {
+        "id": "GIC04",
+        "code": "GIC04",
+        "description": "Not Required",
+        "longDescription": "Not Required",
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      }
+    ],
+    "psrApprovalType": [
+      {
+        "id": "RH",
+        "code": "RH",
+        "description": "Region Head",
+        "longDescription": "Region Head",
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      },
+      {
+        "id": "PH",
+        "code": "PH",
+        "description": "Product Head",
+        "longDescription": "Product Head",
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      },
+      {
+        "id": "KCFH",
+        "code": "KCFH",
+        "description": "Korea CF Head",
+        "longDescription": "Korea CF Head",
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      }
+    ],
+    "psrApproverAction": [
+      {
+        "id": "PASRA001",
+        "code": "PASRA001",
+        "description": "Approved",
+        "longDescription": "Approved",
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      },
+      {
+        "id": "PASRA002",
+        "code": "PASRA002",
+        "description": "Approved/Supported",
+        "longDescription": "Approved/Supported",
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      },
+      {
+        "id": "PASRA003",
+        "code": "PASRA003",
+        "description": "Rejected",
+        "longDescription": "Rejected",
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      }
+    ],
+    "psrAdditionalApproverAction": [
+      {
+        "id": "PASRA004",
+        "code": "PASRA004",
+        "description": "Complete",
+        "longDescription": "Complete",
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      },
+      {
+        "id": "PASRA005",
+        "code": "PASRA005",
+        "description": "Refer Back",
+        "longDescription": "Refer Back",
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      }
+    ],
+    "dealActivityProductGroup": [
+      {
+        "id": "2218",
+        "code": "LENDING",
+        "description": "Lending",
+        "shortDescription": null,
+        "longDescription": "Lending",
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      },
+      {
+        "id": "2215",
+        "code": "CAPITAL_MARKETS",
+        "description": "Capital Markets",
+        "shortDescription": null,
+        "longDescription": "Capital Markets",
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      },
+      {
+        "id": "2216",
+        "code": "CORPORATE_FINANCE",
+        "description": "Corporate Finance",
+        "shortDescription": null,
+        "longDescription": "Corporate Finance",
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      },
+      {
+        "id": "2217",
+        "code": "FINANCIAL_MARKETS",
+        "description": "Financial Markets",
+        "shortDescription": null,
+        "longDescription": "Financial Markets",
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      },
+      {
+        "id": "2219",
+        "code": "TRANSACTION_BANKING",
+        "description": "Transaction Banking",
+        "shortDescription": null,
+        "longDescription": "Transaction Banking",
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      }
+    ],
+    "attachmentCategories": [
+      {
+        "id": "2218",
+        "code": "AD",
+        "description": "Approval Documents",
+        "shortDescription": null,
+        "longDescription": "Approval Documents",
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      },
+      {
+        "id": "2219",
+        "code": "AWS",
+        "description": "Announcements & Write-ups",
+        "shortDescription": null,
+        "longDescription": "Announcements & Write-ups",
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      },
+      {
+        "id": "2210",
+        "code": "PP",
+        "description": "Pitches/Presentations",
+        "shortDescription": null,
+        "longDescription": "Pitches/Presentations",
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      },
+      {
+        "id": "2211",
+        "code": "TD",
+        "description": "Transaction Documents",
+        "shortDescription": null,
+        "longDescription": "Transaction Documents",
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      },
+      {
+        "id": "2212",
+        "code": "WF",
+        "description": "Working Files",
+        "shortDescription": null,
+        "longDescription": "Working Files",
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      }
+    ]
+  }
+}

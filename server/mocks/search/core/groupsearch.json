@@ -1,0 +1,141 @@
+{
+    "searchEntity": "prospect",
+    "chartDetails": null,
+    "prospect": {
+        "startIndex": 0,
+        "searchResults": [
+            {
+                "groupId": "990209232",
+                "segmentDesc": "FINANCIAL INSTITUTIONS",
+                "groupName": "(CCIIB-CI)",
+                "subProfileId": 0,
+                "subSegmentDesc": null,
+                "segmentId": "N",
+                "userPsid": "1511946",
+                "entityId": "990209232",
+                "subSegmentId": "F3",
+                "entityType": "G",
+                "entityName": "(CCIIB-CI)"
+            },
+            {
+                "groupId": "990222446",
+                "segmentDesc": "FINANCIAL INSTITUTIONS",
+                "groupName": "0THE OPTIONS CLEARING CORPORATION",
+                "subProfileId": 0,
+                "subSegmentDesc": "BROKER DEALERS",
+                "segmentId": "N",
+                "userPsid": "1511946",
+                "entityId": "990222446",
+                "subSegmentId": "P4",
+                "entityType": "G",
+                "entityName": "0THE OPTIONS CLEARING CORPORATION"
+            },
+            {
+                "groupId": "990173051",
+                "segmentDesc": "MEDIUM ENTERPRISE",
+                "groupName": "1 UTOPIA BERHAD (GROUP)",
+                "subProfileId": 0,
+                "subSegmentDesc": "MEDIUM ENTERPRISE",
+                "segmentId": "ME",
+                "userPsid": "1511946",
+                "entityId": "990173051",
+                "subSegmentId": "03",
+                "entityType": "G",
+                "entityName": "1 UTOPIA BERHAD (GROUP)"
+            },
+            {
+                "groupId": "990072610",
+                "segmentDesc": "MEDIUM ENTERPRISE",
+                "groupName": "11019KUI FAT YUEN LIMITED 12 2501",
+                "subProfileId": 0,
+                "subSegmentDesc": "MEDIUM ENTERPRISE",
+                "segmentId": "ME",
+                "userPsid": "1511946",
+                "entityId": "990072610",
+                "subSegmentId": "03",
+                "entityType": "G",
+                "entityName": "11019KUI FAT YUEN LIMITED 12 2501"
+            },
+            {
+                "groupId": "990290898",
+                "segmentDesc": "MEDIUM ENTERPRISE",
+                "groupName": "123 STEEL CO LTD",
+                "subProfileId": 0,
+                "subSegmentDesc": "MEDIUM ENTERPRISE",
+                "segmentId": "ME",
+                "userPsid": "1511946",
+                "entityId": "990290898",
+                "subSegmentId": "03",
+                "entityType": "G",
+                "entityName": "123 STEEL CO LTD"
+            },
+            {
+                "groupId": "990279160",
+                "segmentDesc": "HIGH VALUE SMALL BUSINESS",
+                "groupName": "126 RISK MANAGEMENT SDN BHD",
+                "subProfileId": 0,
+                "subSegmentDesc": "SMALL BUSINESS - SELF EMPLOYED & PROFESSIONALS",
+                "segmentId": "HV",
+                "userPsid": "1511946",
+                "entityId": "990279160",
+                "subSegmentId": "19",
+                "entityType": "G",
+                "entityName": "126 RISK MANAGEMENT SDN BHD"
+            },
+            {
+                "groupId": "990269231",
+                "segmentDesc": "MEDIUM ENTERPRISE",
+                "groupName": "139 ENGINEERING",
+                "subProfileId": 0,
+                "subSegmentDesc": "MEDIUM ENTERPRISE",
+                "segmentId": "ME",
+                "userPsid": "1511946",
+                "entityId": "990269231",
+                "subSegmentId": "03",
+                "entityType": "G",
+                "entityName": "139 ENGINEERING"
+            },
+            {
+                "groupId": "990058415",
+                "segmentDesc": "MIDDLE MARKETS",
+                "groupName": "22222STAR PHARMACEUTICAL LIMITED",
+                "subProfileId": 0,
+                "subSegmentDesc": "MIDDLE MARKETS",
+                "segmentId": "MM",
+                "userPsid": "1511946",
+                "entityId": "990058415",
+                "subSegmentId": "A1",
+                "entityType": "G",
+                "entityName": "22222STAR PHARMACEUTICAL LIMITED"
+            },
+            {
+                "groupId": "990256411",
+                "segmentDesc": "FINANCIAL INSTITUTIONS",
+                "groupName": "27ABS - TORRENS SERIES 2014-2 TRUST",
+                "subProfileId": 0,
+                "subSegmentDesc": null,
+                "segmentId": "N",
+                "userPsid": "1511946",
+                "entityId": "990256411",
+                "subSegmentId": null,
+                "entityType": "G",
+                "entityName": "27ABS - TORRENS SERIES 2014-2 TRUST"
+            },
+            {
+                "groupId": "990011739",
+                "segmentDesc": "LOCAL CORPORATES",
+                "groupName": "282SRI INDERAJAYA",
+                "subProfileId": 0,
+                "subSegmentDesc": null,
+                "segmentId": "A",
+                "userPsid": "1511946",
+                "entityId": "990011739",
+                "subSegmentId": null,
+                "entityType": "G",
+                "entityName": "282SRI INDERAJAYA"
+            }
+        ],
+        "numFound": 23298,
+        "rows": 10
+    }
+}

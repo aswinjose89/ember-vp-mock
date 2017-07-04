@@ -1,0 +1,33 @@
+{
+  "searchSuggestions": [{
+    "suggestionId" :"990037118",
+    "name" : "GRP NAME 990012826",
+    "originatingLocation" :"Singapore",
+    "lastUpdatedDate" :"10 May 2016",
+    "type" :"group"
+  }, {
+    "suggestionId" :"990004095",
+    "name" : "GRP NAME 990004095",
+    "originatingLocation" :"INDIA",
+    "lastUpdatedDate" :"10 May 2016",
+    "type" :"group"
+  }, {
+    "suggestionId" :"11192436",
+    "name" : "L NAME 11192436",
+    "originatingLocation" :"THAILAND",
+    "lastUpdatedDate" :"10 May 2016",
+    "type" :"client"
+  }, {
+    "suggestionId" :"703",
+    "name" : "TAISEI CORPORATION",
+    "originatingLocation" :"Singapore",
+    "lastUpdatedDate" :"10 May 2016",
+    "type" :"client"
+  },{
+    "suggestionId" :"11192422",
+    "name" : "Singapore Travel Systems Pvt Ltd",
+    "originatingLocation" :"THAILAND",
+    "lastUpdatedDate" :"10 May 2016",
+    "type" :"prospect"
+  }]
+}

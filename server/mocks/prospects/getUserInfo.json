@@ -1,0 +1,47 @@
+{
+   "userInfoList": [{
+      "sequence": 29001726752393,
+      "userPsId": "1166156",
+      "userName": "Cheng, Marco",
+      "userSupervisorPsId": "1164926",
+      "userDepartment": "CC",
+      "userCountry": "Taiwan",
+      "userJobFunction": "Consumer Banking"
+   }, {
+      "sequence": 29001739730725,
+      "userPsId": "1166167",
+      "userName": "Surti, Kuldeep Hitendra",
+      "userEmail": "Kuldeep.Surti@sc.com",
+      "userSupervisorPsId": "1168576",
+      "userDepartment": "LiabilitySales-North-Surat",
+      "userCountry": "India",
+      "userJobTitle": "Sales Manager",
+      "userJobFunction": "Consumer Banking",
+      "telephone": "02616455204",
+      "mobile": "+91 9825500073"
+   }, {
+      "sequence": 29001739776911,
+      "userPsId": "1166170",
+      "userName": "Javvaji, Kishore Venkata Shyam",
+      "userEmail": "Kishore.Jvs@in.standardchartered.com",
+      "userSupervisorPsId": "1158646",
+      "userDepartment": "GRH",
+      "userCountry": "India",
+      "userJobTitle": "Sr. Officer",
+      "userJobFunction": "Scope & IT365",
+      "telephone": "91 4114 275755,  732",
+      "mobile": "98415 72806"
+    }, {
+       "sequence": 29001739776534,
+       "userPsId": "1166170",
+       "userName": "Jhonen Vasquez",
+       "userEmail": "jhonen@in.standardchartered.com",
+       "userSupervisorPsId": "1158656",
+       "userDepartment": "OCC",
+       "userCountry": "India",
+       "userJobTitle": "Sr. Officer",
+       "userJobFunction": "Scope & IT365",
+       "telephone": "91 4114 275755,  732",
+       "mobile": "98415 72806"
+     }]
+}

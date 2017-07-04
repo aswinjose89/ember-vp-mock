@@ -1,0 +1,24 @@
+{
+    "clientDetails": [{
+        "groupName": "SCB",
+        "groupId": "990000022",
+        "clientId": "10001",
+        "clientLegalName": "L NAME 001",
+        "region": "GREATER CHINA",
+        "domicileCountry": "HONG KONG",
+        "clientSegment": "Medium Enterprise",
+        "clientSubSegment": "Medium Enterprise"
+    }, {
+        "clientId": "10002",
+        "groupName": "SCB",
+        "groupId": "990000022",
+        "clientLegalName": "L NAME 002",
+        "region": "GREATER CHINA",
+        "domicileCountry": "HONG KONG",
+        "clientSegment": "Medium Enterprise",
+        "clientSubSegment": "Medium Enterprise"
+    }],
+    "meta": {
+        "totalRecords": 3
+    }
+}

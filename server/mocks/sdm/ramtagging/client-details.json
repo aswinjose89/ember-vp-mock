@@ -1,0 +1,42 @@
+{
+    "clientDetails": [{
+        "groupName": "SCB",
+        "groupId": "990000022",
+        "clientId": "10001",
+        "clientLegalName": "L NAME 001",
+        "region": "GREATER CHINA",
+        "domicileCountry": "HONG KONG",
+        "clientSegment": "Medium Enterprise",
+        "clientSubSegment": "Medium Enterprise"
+    }, {
+        "clientId": "10002",
+        "groupName": "SCB",
+        "groupId": "990000022",
+        "clientLegalName": "L NAME 002",
+        "region": "GREATER CHINA",
+        "domicileCountry": "HONG KONG",
+        "clientSegment": "Medium Enterprise",
+        "clientSubSegment": "Medium Enterprise"
+    }, {
+        "groupName": "SCB",
+        "groupId": "990000024",
+        "clientId": "10003",
+        "clientLegalName": "L NAME 003",
+        "region": "GREATER CHINA",
+        "domicileCountry": "HONG KONG",
+        "clientSegment": "Medium Enterprise",
+        "clientSubSegment": "Medium Enterprise"
+    }, {
+        "clientId": "10004",
+        "groupName": "SCB",
+        "groupId": "990000024",
+        "clientLegalName": "L NAME 004",
+        "region": "GREATER CHINA",
+        "domicileCountry": "HONG KONG",
+        "clientSegment": "Medium Enterprise",
+        "clientSubSegment": "Medium Enterprise"
+    }],
+    "meta": {
+        "totalRecords": 6
+    }
+}

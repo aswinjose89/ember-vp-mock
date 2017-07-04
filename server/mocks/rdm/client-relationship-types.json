@@ -1,0 +1,58 @@
+{
+  "clientRelationshipTypes": [
+    {
+      "customerTypeGroup": "FI",
+      "relationshipType": "Principal 2 Principal",
+      "customerTypeGroupCode": "FI",
+      "relationshipTypeCode": "RELN01"
+    },
+    {
+      "customerTypeGroup": "SPE",
+      "relationshipType": "Structured",
+      "customerTypeGroupCode": "SPE",
+      "relationshipTypeCode": "RELN03"
+    },
+    {
+      "customerTypeGroup": "SPE",
+      "relationshipType": "Structured Export Finance",
+      "customerTypeGroupCode": "SPE",
+      "relationshipTypeCode": "RELN04"
+    },
+    {
+      "customerTypeGroup": "SPE",
+      "relationshipType": "Structured Trade",
+      "customerTypeGroupCode": "SPE",
+      "relationshipTypeCode": "RELN05"
+    },
+    {
+      "customerTypeGroup": "SPE",
+      "relationshipType": "Project Finance",
+      "customerTypeGroupCode": "SPE",
+      "relationshipTypeCode": "RELN06"
+    },
+    {
+      "customerTypeGroup": "SPE",
+      "relationshipType": "Securitisations",
+      "customerTypeGroupCode": "SPE",
+      "relationshipTypeCode": "RELN07"
+    },
+    {
+      "customerTypeGroup": "SPE",
+      "relationshipType": "Others ",
+      "customerTypeGroupCode": "SPE",
+      "relationshipTypeCode": "RELN08"
+    },
+    {
+      "customerTypeGroup": "FI",
+      "relationshipType": "Principal Transactions and Correspondent Banking Relationships",
+      "customerTypeGroupCode": "FI",
+      "relationshipTypeCode": "RELN09"
+    },
+    {
+      "customerTypeGroup": "FI",
+      "relationshipType": "Correspondent Banking",
+      "customerTypeGroupCode": "FI",
+      "relationshipTypeCode": "RELN02"
+    }
+  ]
+}

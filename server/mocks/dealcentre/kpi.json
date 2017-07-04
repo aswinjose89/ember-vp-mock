@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "noProductAccess": false
+    },
+    "dealKpis": [
+        {
+            "id": 1297014,
+            "totalDeals": 1990,
+            "totalDealsColor": "#7CBF58",
+            "revenue": 301,
+            "revenueColor": "#7CBF58",
+            "assets": 783,
+            "assetsColor": "#7CBF58",
+            "rwa": 483,
+            "rwaColor": "#7CBF58"
+        }
+    ]
+}

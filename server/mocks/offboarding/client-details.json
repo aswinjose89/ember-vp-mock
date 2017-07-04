@@ -1,0 +1,46 @@
+{
+    "clientDetails": [{
+        "id": "13156468",
+        "clientLeId": "13156468",
+        "group": 1,
+        "clientLegalName": "L NAME 13156468",
+        "region": "AFRICA",
+        "domicileCountry": "BOTSWANA",
+        "clientSegmentCode": "K",
+        "clientSegment": "Global Corporate",
+        "clientSubSegmentCode": "K1",
+        "clientSubSegment": "Global Corporates",
+        "gsam": false,
+        "status": "CLIENT_CLOSURE",
+        "transactionId": "123",
+        "borrowing": false,
+        "saved": false,
+        "inflight": true
+    }],
+    "meta": {
+        "totalRecords": 38
+    },
+    "clientDetail": null,
+    "clientLocations": [],
+    "clientGaCaseDetail": null,
+    "clientBbaCaseDetail": null,
+    "clientFatcaCaseDetail": null,
+    "groupDetail": null,
+    "locationCaseDetail": [],
+
+    "offboarding/groupDetails": [{
+        "id": 1,
+        "countOfClients": 12,
+        "groupId": 121222,
+        "groupName": "SCB",
+        "region": "ASIA",
+        "domicileCountry": "UAE",
+        "segment": "N",
+        "subSegment": "sssss",
+        "gamId": "1460959",
+        "gamName": "gam Name1",
+        "gamCountry": "gam country 1",
+        "status": null,
+        "clientDetails": []
+    }]
+}

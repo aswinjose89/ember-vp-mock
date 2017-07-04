@@ -1,0 +1,137 @@
+{
+  "meta" : {
+          "taggedUser": true
+    },
+  "clientMetrics": [
+    {
+    	"id": 1,
+      "leId": "990034552",
+      "clientName": "FIRST QUANTUM MINING AND OPERATIONS LIMITED",
+      "revenueYTD": 8321000.02,
+      "revenueForecast": 86799914,
+      "revenueGap": 86791592.98,
+      "chartCategory": 1,
+      "valueColor": "#54AA4F",
+      "subProfileId": "0",
+      "entityType": "C",
+      "percentToDisplay": 9.586
+    },
+    {
+    	"id": 2,
+      "leId": "11002243",
+      "clientName": "SINGAPORE AIRLINES LIMITED",
+      "revenueYTD": 12345,
+      "revenueForecast": 61825,
+      "revenueGap": 49480,
+      "chartCategory": 1,
+      "valueColor": "#54AA4F",
+      "subProfileId": "0",
+      "entityType": "C",
+      "percentToDisplay": 19.967
+    },
+    {
+    	"id": 3,
+      "leId": "11153358",
+      "clientName": "STANDARD CHARTERED BANK (HONG KONG) LIMITED",
+      "revenueYTD": 0,
+      "revenueForecast": 233,
+      "revenueGap": 233,
+      "chartCategory": 1,
+      "valueColor": "#54AA4F",
+      "subProfileId": "0",
+      "entityType": "C",
+      "percentToDisplay": 0
+    },
+    {
+    	"id": 4,
+      "leId": "11034140",
+      "clientName": "-",
+      "revenueYTD": 0.0,
+      "revenueForecast": 0.0,
+      "revenueGap": 0.0,
+      "chartCategory": 1,
+      "valueColor": "#54AA4F",
+      "subProfileId": "0",
+      "entityType": "C",
+      "percentToDisplay": 0.0
+    },
+    {
+      "id": 5,
+      "leId": "11034140",
+      "clientName": "-",
+      "revenueYTD": 0.0,
+      "revenueForecast": 0.0,
+      "revenueGap": 0.0,
+      "chartCategory": 1,
+      "valueColor": "#54AA4F",
+      "subProfileId": "0",
+      "entityType": "C",
+      "percentToDisplay": 0.0
+    },
+    {
+    	"id": 6,
+      "leId": "990034552",
+      "clientName": "FIRST QUANTUM MINING AND OPERATIONS LIMITED",
+      "revenueYTD": 8321000.02,
+      "revenueForecast": 86799914,
+      "revenueGap": 86791592.98,
+      "chartCategory": 2,
+      "valueColor": "#EEEEEE",
+      "subProfileId": "0",
+      "entityType": "C",
+      "percentToDisplay": 90.413
+    },
+    {
+    	"id": 7,
+      "leId": "11002243",
+      "clientName": "SINGAPORE AIRLINES LIMITED",
+      "revenueYTD": 12345,
+      "revenueForecast": 61825,
+      "revenueGap": 49480,
+      "chartCategory": 2,
+      "valueColor": "#EEEEEE",
+      "subProfileId": "0",
+      "entityType": "G",
+      "percentToDisplay": 80.032
+    },
+    {
+    	"id": 8,
+      "leId": "11153358",
+      "clientName": "STANDARD CHARTERED BANK (HONG KONG) LIMITED",
+      "revenueYTD": 0,
+      "revenueForecast": 233,
+      "revenueGap": 233,
+      "chartCategory": 2,
+      "valueColor": "#EEEEEE",
+      "subProfileId": "0",
+      "entityType": "G",
+      "percentToDisplay": 100
+    },
+    {
+    	"id": 9,
+      "leId": "11034140",
+      "clientName": "-",
+      "revenueYTD": 0.0,
+      "revenueForecast": 0.0,
+      "revenueGap": 0.0,
+      "chartCategory": 2,
+      "valueColor": "#EEEEEE",
+      "subProfileId": "0",
+      "entityType": "C",
+      "percentToDisplay": 0.0
+    },
+    {
+      "id": 10,
+      "leId": "11034140",
+      "clientName": "-",
+      "revenueYTD": 0.0,
+      "revenueForecast": 0.0,
+      "revenueGap": 0.0,
+      "chartCategory": 2,
+      "valueColor": "#EEEEEE",
+      "subProfileId": "0",
+      "entityType": "G",
+      "percentToDisplay": 0.0
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "network": {
+    "id": "20161234567890",
+    "readOnly" : true,
+    "supplierDescription": {
+      "id": "20161130172606977000001",
+      "notes": "Supplier Desc"
+    },
+    "buyerDescription": {
+      "id": "20161130172606977000002",
+      "notes": "Buyer Desc"
+    },
+    "supplier": [{
+      "id": 234,
+      "buyerSupplierName": {
+        "id": "20170110011934382000728",
+        "operation": null,
+        "sequence": 15286756706117596,
+        "transactionId": "20170110011934382000727",
+        "entityId": "20150324153613163",
+        "type": "NAME",
+        "clientId": "ABS comp",
+        "clientName": null,
+        "groupId": null,
+        "clientGroupName": null,
+        "prospectId": null,
+        "prospectName": null,
+        "entityName" : "ABS Company Ltd A to Z Business India Pvt Ltddd. A to Z Business India Pvt Ltddd.",
+        "searchScope": null,
+        "pageSize": null,
+        "scbClient": false,
+        "groupFirstRecord": false
+      },
+      "supplierName": "A to Z Business India Pvt Ltddd.",
+      "name": "AK Enterprises",
+      "buyerSupplierCountry": {
+        "idCode": "ACPL006125",
+        "id": "IND",
+        "name": "INDIA A to Z Business India Pvt Ltddd. ",
+        "val": "INDIA A to Z Business India Pvt Ltddd. A to Z Business India Pvt Ltddd."
+      },
+      "estimatedValue": 10000,
+      "updatedOn": 1477477465833,
+      "supplierDetails": [{
+        "id": 222345,
+        "product": {
+          "idCode": "ACPL016825",
+          "id": "CC",
+          "name": "CopperCathode",
+          "val": "CopperCathode"
+        },
+        "currencyOfPurchase": {
+          "idCode": "ACPL006825",
+          "id": "RS",
+          "name": "Rupees",
+          "val": "Rupees"
+        },
+        "creditTerms": "90",
+        "purchaserName": {
+          "id": "20170110011934383000732",
+          "operation": null,
+          "sequence": 15370202693929634,
+          "transactionId": "20170111002813402000783",
+          "entityId": "11194931",
+          "type": "PURNAME",
+          "clientId": "Practor",
+          "clientName": "L NAME 11194931",
+          "groupId": "990044554",
+          "clientGroupName": "GRP NAME 990044554",
+          "prospectId": null,
+          "prospectName": null,
+          "entityName": "Practor and Gamble",
+          "searchScope": null,
+          "pageSize": null,
+          "scbClient": true,
+          "groupFirstRecord": false
+        },
+        "purchaserName": "GRP NAME 990044554 - L NAME 11194931 ",
+        "purchaserCountry": {
+          "idCode": "ACPL006125",
+          "id": "IND",
+          "name": "INDIA",
+          "val": "INDIA"
+        },
+        "tradeFinance": {
+          "idCode": "ACP10062138426",
+          "id": "doc",
+          "name": "documentary",
+          "val": "documentary"
+        },
+        "scbCapturedSupplier": [{
+          "idCode": "TBCM0020",
+          "id": "TR",
+          "val": "TR",
+          "name": "Trade",
+          "longDescription": "Trade",
+          "status": "A",
+          "appGroup": "TBCM",
+          "displayOrder": 1
+        }]
+      }]
+    }, {
+      "id": 2534,
+      "buyerSupplierName": {
+        "id":"20170110011934382000729",
+        "operation": null,
+        "sequence":15286756706117596,
+        "transactionId":"20170110011934382000727",
+        "entityId":"20150324153613163",
+        "type": "NAME",
+        "clientId": "A to Z Business",
+        "clientName": null,
+        "groupId": null,
+        "clientGroupName": null,
+        "prospectId": null,
+        "prospectName": null,
+        "entityName": "A to Z Business India Pvt Ltd.",
+        "searchScope": null,
+        "pageSize": null,
+        "scbClient": false,
+        "groupFirstRecord":false
+      },
+      "supplierName": "A to Z Business India Pvt Ltwwwwd.",
+      "name": "Allied Oil Ltd.",
+      "buyerSupplierCountry": {
+        "idCode": "ACPL006125",
+        "id": "IND",
+        "name": "INDIA",
+        "val": "INDIA"
+      },
+      "estimatedValue": 5000,
+      "updatedOn": 1477477465833,
+      "supplierDetails": [{
+        "id": 22234,
+        "product": {
+          "idCode": "ACP100618425",
+          "id": "PCB",
+          "name": "PCB",
+          "val": "PCB"
+        },
+				"currencyOfPurchase": {
+					"idCode": "ACPL052192315",
+					"id": "USD",
+					"name": "USDollar",
+					"val": "USDollar"
+				},
+        "creditTerms": "30",
+        "purchaserName": {
+          "id": "20170110011934383000732",
+          "operation": null,
+          "sequence": 15370202693929634,
+          "transactionId": "20170111002813402000783",
+          "entityId": "11194931",
+          "type": "PURNAME",
+          "clientId": "Practor",
+          "clientName": "L NAME 11194931",
+          "groupId": "990044554",
+          "clientGroupName": "GRP NAME 990044554",
+          "prospectId": null,
+          "prospectName": null,
+          "entityName": "Practor and Gamble",
+          "searchScope": null,
+          "pageSize": null,
+          "scbClient": true,
+          "groupFirstRecord": false
+        },
+        "purchaserName":"Allied Oils",
+        "purchaserCountry": {
+          "idCode": "ACPL006125",
+          "id": "IND",
+          "name": "INDIA",
+          "val": "INDIA"
+        },
+        "tradeFinance": {
+          "idCode": "ACP10062138425",
+          "id": "cash",
+          "name": "cash",
+          "val": "cash"
+        },
+        "scbCapturedSupplier": [{
+          "idCode": "TBCM0020",
+          "id": "TR",
+          "val": "TR",
+          "name": "Trade",
+          "longDescription": "Trade",
+          "status": "A",
+          "appGroup": "TBCM",
+          "displayOrder": 1
+        }]
+      }]
+    }],
+
+		"buyer": [{
+		      "id": 2340,
+		      "buyerObj": {
+		        "id": "201701100119343820007248",
+		        "operation": null,
+		        "sequence": 15286756706117596,
+		        "transactionId": "20170110011934382000727",
+		        "entityId": "20150324153613163",
+		        "type": "NAME",
+		        "clientId": null,
+		        "clientName": null,
+		        "groupId": null,
+		        "clientGroupName": null,
+		        "prospectId": null,
+		        "prospectName": null,
+		        "entityName": "A to Z Business India Pvt Ltd.",
+		        "searchScope": null,
+		        "pageSize": null,
+		        "scbClient": false,
+		        "groupFirstRecord": false
+		      },
+		      "buyerName": "A to Z Business India Pvt Ltd.",
+		      "name": "AK Enterprises",
+		      "buyerCountry": {
+		        "idCode": "ACPL006125",
+		        "id": "IND",
+		        "name": "INDIA",
+		        "val": "INDIA"
+		      },
+		      "estimatedValue": 10000,
+		      "updatedOn": 1477477465833,
+		      "buyerDetails": [{
+		        "id": 2223450,
+		        "product": {
+		          "idCode":"ACPL016825",
+		          "id": "CC",
+		          "name":"CopperCathode",
+		          "val":"CopperCathode"
+		        },
+		        "currencyOfPurchase": {
+		          "idCode":"ACPL006825",
+		          "id": "RS",
+		          "name":"Rupees",
+		          "val": "Rupees"
+		        },
+		        "creditTerms": "90",
+		        "supplierObj": {
+		          "id": "20170110011934383000732",
+		          "operation": null,
+		          "sequence": 15370202693929634,
+		          "transactionId": "20170111002813402000783",
+		          "entityId": "11194931",
+		          "type": "PURNAME",
+		          "clientId": "11194931",
+		          "clientName": "L NAME 11194931",
+		          "groupId": "990044554",
+		          "clientGroupName": "GRP NAME 990044554",
+		          "prospectId": null,
+		          "prospectName": null,
+		          "entityName": "GRP NAME 990044554 - L NAME 11194931 ",
+		          "searchScope": null,
+		          "pageSize": null,
+		          "scbClient": true,
+		          "groupFirstRecord": false
+		        },
+		        "supplierName": "AK company ",
+		        "supplierCountry": {
+		          "idCode": "ACPL006125",
+		          "id": "IND",
+		          "name": "INDIA",
+		          "val": "INDIA"
+		        },
+		        "tradeFinance": {
+		          "idCode": "ACP10062138426",
+		          "id": "doc",
+		          "name": "documentary",
+		          "val": "documentary"
+		        },
+		        "scbCapturedSupplier": [{
+		          "idCode": "TBCM0020",
+		          "id": "TR",
+		          "val": "TR",
+		          "name": "Trade",
+		          "longDescription": "Trade",
+		          "status": "A",
+		          "appGroup": "TBCM",
+		          "displayOrder": 1
+		        }]
+		      }]
+		    }, {
+		      "id": 25340,
+		      "buyerObj": {
+		        "id": "201701100119343820007285",
+		        "operation": null,
+		        "sequence": 15286756706117596,
+		        "transactionId": "20170110011934382000727",
+		        "entityId": "20150324153613163",
+		        "type": "NAME",
+		        "clientId": null,
+		        "clientName": null,
+		        "groupId": null,
+		        "clientGroupName": null,
+		        "prospectId": null,
+		        "prospectName": null,
+		        "entityName": "A to Z Business India Pvt Ltd.",
+		        "searchScope": null,
+		        "pageSize": null,
+		        "scbClient": false,
+		        "groupFirstRecord": false
+		      },
+		      "buyerName": "A to Z Business India Pvt Ltd.",
+		      "name": "Allied Oil Ltd.",
+		      "buyerCountry": {
+		        "idCode": "ACPL006125",
+		        "id": "IND",
+		        "name": "INDIA",
+		        "val": "INDIA"
+		      },
+		      "estimatedValue": 5000,
+		      "scbCaptured": "Trade, TB, FX, Cash ",
+		      "updatedOn": 1477477465833,
+		      "buyerDetails": [{
+		        "id": 22234,
+						"currencyOfPurchase": {
+							"idCode": "ACPL052192315",
+							"id": "USD",
+							"name": "USDollar",
+							"val": "USDollar"
+						},
+		        "product": {
+		          "idCode": "ACP100618425",
+		          "id": "PCB",
+		          "name": "PCB",
+		          "val": "PCB"
+		        },
+		        "creditTerms": "30",
+		        "supplierObj": {
+		          "id": "20170110011934383000732",
+		          "operation": null,
+		          "sequence": 15370202693929634,
+		          "transactionId": "20170111002813402000783",
+		          "entityId": "11194931",
+		          "type": "PURNAME",
+		          "clientId": "11194931",
+		          "clientName": "L NAME 11194931",
+		          "groupId": "990044554",
+		          "clientGroupName": "GRP NAME 990044554",
+		          "prospectId": null,
+		          "prospectName": null,
+		          "entityName": "GRP NAME 990044554 - L NAME 11194931 ",
+		          "searchScope": null,
+		          "pageSize": null,
+		          "scbClient": true,
+		          "groupFirstRecord": false
+		        },
+		        "supplierName": "Allied Oils ",
+		        "supplierCountry": {
+		          "idCode": "ACPL006125",
+		          "id": "IND",
+		          "name": "INDIA",
+		          "val": "INDIA"
+		        },
+		        "tradeFinance": {
+		          "idCode": "ACP10062138425",
+		          "id": "cash",
+		          "name": "cash",
+		          "val": "cash"
+		        },
+		        "scbCapturedSupplier": [{
+		          "idCode": "TBCM0020",
+		          "id": "TR",
+		          "val": "TR",
+		          "name": "Trade",
+		          "longDescription": "Trade",
+		          "status": "A",
+		          "appGroup": "TBCM",
+		          "displayOrder": 1
+		        }]
+		      }]
+		    }],
+    "totalPurchaseValue": "10",
+    "totalFlowsListedPurchase": "20",
+    "percentOfPurchaseValue": "30",
+    "totalSaleValue": "15",
+    "totalFlowsListedSale": "25",
+    "percentOfSaleValue": "35",
+    "operation": null
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"fatcaReasons": [{
+		"reason": "FATCA Information Updated",
+		"reasonCode": "RC088"
+	}, {
+		"reason": "FATCA Review Completed",
+		"reasonCode": "RC089"
+	}, {
+		"reason": "FATCA Information Reviewed",
+		"reasonCode": "RC094"
+	}]
+}

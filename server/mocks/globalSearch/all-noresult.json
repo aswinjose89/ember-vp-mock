@@ -1,0 +1,27 @@
+{
+  "globalSearch": {
+    "id": 1489549625163,
+    "filterType": "GS_ALL",
+    "clientSearchResult": 0,
+    "allClientSearchResult": 0
+  },
+  "clientSearch": [
+    {
+      "category": "CLIENTS",
+      "startIndex": 0,
+      "children": [],
+      "numFound": 0,
+      "rows": 10
+    }
+  ],
+  "allClientSearch": [
+    {
+      "category": "ALL_CLIENTS",
+      "startIndex": 0,
+      "children": [],
+      "numFound": 0,
+      "rows": 10
+    }
+  ],
+  "clientSearchEntities": []
+}

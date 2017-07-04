@@ -1,0 +1,26 @@
+{
+	"offboarding/clientTypes": [{
+			"clientLegalName": "NiResource",
+			"clientLeId": "111317064",
+			"region": "Africa",
+			"domicileCountry": "Zambia",
+			"id": 23,
+			"clientSegment": "Global Corporate",
+			"clientSubSegment": "Metal",
+			"borrowing": true,
+			"status": "borrowing"
+		}, {
+			"clientLegalName": "NiResource",
+			"region": "Africa",
+			"clientLeId": "111317069",
+			"domicileCountry": "Zambia",
+			"id": 25,
+			"clientSegment": "Global Corporate",
+			"clientSubSegment": "Metal",
+			"borrowing": false,
+			"status": "closed"
+		}],
+	"meta": {
+		"clientTotalCount": 20
+	}
+}

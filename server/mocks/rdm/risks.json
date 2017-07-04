@@ -1,0 +1,29 @@
+{
+  "risks": [
+    {
+      "riskCode": "S",
+      "risk": "Sanction",
+      "riskWeightage": 100
+    },
+    {
+      "riskCode": "EJ",
+      "risk": "EJ",
+      "riskWeightage": 0
+    },
+    {
+      "riskCode": "L",
+      "risk": "Low",
+      "riskWeightage": 1
+    },
+    {
+      "riskCode": "M",
+      "risk": "Medium",
+      "riskWeightage": 2
+    },
+    {
+      "riskCode": "H",
+      "risk": "High",
+      "riskWeightage": 3
+    }
+  ]
+}

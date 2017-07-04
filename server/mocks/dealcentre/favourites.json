@@ -1,0 +1,24 @@
+{
+  "dealFavourites": [
+    {
+      "id": "12345999",
+      "psId": "1511946",
+      "dealName": "More 1Test Deal1",
+      "dealId": "20160120100389917",
+      "dealRefId": "DEAL-CF-2016-01-389917",
+      "dealStage": "Mandated",
+      "salesStage": "Current",
+      "groupName": "SAN MIGUEL GROUP"
+    },
+    {
+      "id": "123464564564",
+      "psId": "1511946",
+      "dealName": "More 2 Test Deal2",
+      "dealId": "20160120100389987",
+      "dealRefId": "DEAL-CF-2016-01-389987",
+      "dealStage": "Marketing",
+      "salesStage": "Current",
+      "groupName": "TATA GROUP"
+    }
+  ]
+}

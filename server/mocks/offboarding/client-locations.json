@@ -1,0 +1,122 @@
+{
+"offboarding/locationDetails": [{
+                    "bookingLocation": "IN/SCBL",
+                    "armId": 1453479,
+                    "armCode": "IGC",
+                    "armName": "Kumari, Reeta",
+                    "cddCaseDetail": {
+                              "caseType": null,
+                              "bookingLocation": null,
+                              "caseStatus": null,
+                              "locationId": null,
+                              "countryCode": null,
+                              "approvedDate": null,
+                              "version": null,
+                              "nextReviewDate": null,
+                              "riskRating": null,
+                              "country": null,
+                              "subStatusDesc": null,
+                              "statusCode": null,
+                              "cddType": null,
+                              "caseId": null,
+                              "closureStatus": null,
+                              "subStatusCode": null,
+                              "statusDesc": null,
+                              "fatcaCaseDetail": {
+                                        "caseType": null,
+                                        "bookingLocation": null,
+                                        "caseStatus": null,
+                                        "locationId": null,
+                                        "countryCode": null,
+                                        "approvedDate": null,
+                                        "version": null,
+                                        "nextReviewDate": null,
+                                        "riskRating": null,
+                                        "country": null,
+                                        "subStatusDesc": null,
+                                        "statusCode": null,
+                                        "cddType": null,
+                                        "caseId": null,
+                                        "closureStatus": null,
+                                        "subStatusCode": null,
+                                        "statusDesc": null,
+                                        "selected": false
+                              },
+                              "selected": false
+                    },
+                    "accountDetails": [],
+                    "cddBookingLocation": true
+          }, {
+                    "bookingLocation": "SG/SCBL",
+                    "armId": 1510193,
+                    "armCode": "ART",
+                    "armName": "Dunn, Martin",
+                    "cddCaseDetail": null,
+                    "accountDetails": [],
+                    "cddBookingLocation": false
+          }, {
+                    "bookingLocation": "MY/SCBL",
+                    "armId": 1274002,
+                    "armCode": "225",
+                    "armName": "Vojvodich, Alex",
+                    "cddCaseDetail": null,
+                    "accountDetails": [],
+                    "cddBookingLocation": false
+          }, {
+                    "bookingLocation": "GB/SCBL",
+                    "armId": 1442611,
+                    "armCode": "PVB",
+                    "armName": "Ji, Michael Wenjun",
+                    "cddCaseDetail": null,
+                    "accountDetails": [],
+                    "cddBookingLocation": false
+          }, {
+                    "bookingLocation": "HK/SCBL",
+                    "armId": 1484474,
+                    "armCode": "JAU",
+                    "armName": "Ye, Rachel Nan",
+                    "cddCaseDetail": null,
+                    "accountDetails": [],
+                    "cddBookingLocation": false
+          }, {
+                    "bookingLocation": "UK/SCBL",
+                    "armId": 1383436,
+                    "armCode": "AIQ",
+                    "armName": "Shirley, Simon",
+                    "cddCaseDetail": null,
+                    "accountDetails": [],
+                    "cddBookingLocation": false
+          }, {
+                    "bookingLocation": "US/SCBL",
+                    "armId": 1274002,
+                    "armCode": "225",
+                    "armName": "Vojvodich, Alex",
+                    "cddCaseDetail": null,
+                    "accountDetails": [],
+                    "cddBookingLocation": false
+          }, {
+                    "bookingLocation": "PH/SCBL",
+                    "armId": 1498285,
+                    "armCode": "CSN",
+                    "armName": "Nonato, Carlo",
+                    "cddCaseDetail": null,
+                    "accountDetails": [],
+                    "cddBookingLocation": false
+          }, {
+                    "bookingLocation": "ID/SCBL",
+                    "armId": 1377869,
+                    "armCode": "RFH",
+                    "armName": "Sivakumar, Prabu",
+                    "cddCaseDetail": null,
+                    "accountDetails": [],
+                    "cddBookingLocation": false
+          }, {
+                    "bookingLocation": "TH/SCBL",
+                    "armId": 1377921,
+                    "armCode": "UTA",
+                    "armName": "Hongladaromp, Manawika",
+                    "cddCaseDetail": null,
+                    "accountDetails": [],
+                    "cddBookingLocation": false
+          }]
+}

@@ -1,0 +1,157 @@
+{
+  "fsButtons": [
+    {
+      "action": null,
+      "btnType": "SUBMIT",
+      "cssClass": null,
+      "disabled": false,
+      "errorMsg": null,
+      "id": "assessment_0",
+      "message": null,
+      "successMsg": null,
+      "text": "Submit",
+      "visible": true
+    }
+  ],
+  "fsFields": [
+    {
+      "commentCount": 0,
+      "commentable": false,
+      "dataType": "text",
+      "disable": null,
+      "error": null,
+      "fieldAttributes": {
+        "customConfig": "",
+        "componentName": "rdm-client-type-search",
+        "dataEnrichType": "",
+        "listOptions": null
+      },
+      "fsValidations": {
+        "maxLength": ""
+      },
+      "helpText": "",
+      "id": "assessment_0_0",
+      "isOpa": true,
+      "label": "Does the transaction fall into one of the following categories?",
+      "mandatory": true,
+      "name": "in_transaction_categories",
+      "opaObject": null,
+      "readOnly": false,
+      "refreshOnChange": true,
+      "type": "wb-dropdown",
+      "uncertain": false,
+      "value": null,
+      "visible": true
+    }
+  ],
+  "fsForm": {
+    "autoSave": false,
+    "commentCount": 0,
+    "disable": null,
+    "errors": [],
+    "fsHeader": {
+      "consumerPayload": {
+        "sessionId": "1eead0cc-3558-4bd2-b702-3aaa618199f3",
+        "rulebaseName": "ESRA",
+        "rulebaseVersion": "1.1",
+        "userId": "77777777",
+        "module": "ECDD"
+      },
+      "id": "-1"
+    },
+    "fsPages": [
+      "assessment"
+    ],
+    "fsProperties": [
+      
+    ],
+    "id": "assessment",
+    "isOpa": true,
+    "label": "Assessment",
+    "message": {
+      "level": "info",
+      "message": null
+    },
+    "messageData": {},
+    "readOnly": null,
+    "redirectToPage": "",
+    "showValidations": true,
+    "unauthorized": false,
+    "visible": true
+  },
+  "fsPages": [
+    {
+      "commentCount": 0,
+      "commentable": false,
+      "disable": null,
+      "errors": [],
+      "fsButtons": [
+        "assessment_0"
+      ],
+      "fsHeader": {
+        "consumerPayload": {
+          "sessionId": "1eead0cc-3558-4bd2-b702-3aaa618199f3",
+          "rulebaseName": "ESRA",
+          "rulebaseVersion": "1.1",
+          "userId": "77777777",
+          "module": "ECDD"
+        },
+        "id": "-1"
+      },
+      "fsProperties": [
+        {
+          "key": "tooltip_text",
+          "text": ""
+        },
+        {
+          "key": "refresh_reference_data",
+          "text": "False"
+        },
+        {
+          "key": "is_commentable",
+          "text": "True"
+        },
+        {
+          "key": "page_layout",
+          "text": "VERTICAL"
+        },
+        {
+          "key": "page_route",
+          "text": "assessment"
+        },
+        {
+          "key": "refresh_recommend_risk",
+          "text": "False"
+        }
+      ],
+      "fsSections": [
+        "assessment_0"
+      ],
+      "hasErrors": false,
+      "id": "assessment",
+      "isOpa": true,
+      "isPageLoaded": true,
+      "label": "Environmental and Social Risk Assessment",
+      "layout": "vertical",
+      "pageId": "qs$scr_assessment_1$global$global",
+      "readOnly": false,
+      "transition": null,
+      "visible": true
+    }
+  ],
+  "fsSections": [
+    {
+      "commentCount": 0,
+      "disable": null,
+      "fsFields": [
+        "assessment_0_0"
+      ],
+      "id": "assessment_0",
+      "isOpa": true,
+      "label": "",
+      "layout": "vertical",
+      "readOnly": null,
+      "visible": true
+    }
+  ]
+}

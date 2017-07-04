@@ -1,0 +1,16 @@
+{
+  "clients": [
+    {
+      "clientId": "11297763",
+      "mainBorrower": true
+    },
+    {
+      "clientId": "3324",
+      "mainBorrower": false
+    },
+    {
+      "clientId": "11245896",
+      "mainBorrower": true
+    }
+  ]
+}

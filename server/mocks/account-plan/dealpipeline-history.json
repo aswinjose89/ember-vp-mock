@@ -1,0 +1,92 @@
+{
+	"dealpipeline-history":
+	{
+
+    "id": "20161202100000010",
+    "operation": null,
+    "sequence": 112696434542403,
+    "hasPrivateDealAccess": true,
+    "updatedDate": null,
+    "dealPipelineDetails": [{
+        "id": "20141217100079228",
+				"dealId":"201412171000792",
+        "operation": null,
+        "sequence": 112696446394598,
+        "dealName": "Amway Import Tax Payment -- Tunas Nusantara Mandiri",
+        "productGroup": "Transaction Banking",
+        "revenue": "10",
+        "originatingLocation": null,
+        "salesStage": null,
+        "expectedClose": null,
+        "probability": null,
+        "val": null,
+        "dealType": null,
+        "hasAccess": null,
+        "dealStatus": "INDONESIA",
+        "topDeal": null,
+        "wonLostStatus": null,
+        "wonLostDate": "Won - Mandated",
+        "reason": "2014-12-17 00:00:00.0",
+        "hasDealAccess": null,
+				"status": {
+            "label": "Mandated",
+            "color": "green"
+        }
+
+    },{
+        "id": "20141217100079221",
+				"dealId":"201412171000792",
+        "operation": null,
+        "sequence": 112696446394598,
+        "dealName": "Amway Import Tax Payment -- Tunas Nusantara Mandiri",
+        "productGroup": "Transaction Banking",
+        "revenue": "100",
+        "originatingLocation": null,
+        "salesStage": null,
+        "expectedClose": null,
+        "probability": null,
+        "val": null,
+        "dealType": null,
+        "hasAccess": null,
+        "dealStatus": "INDONESIA",
+        "topDeal": null,
+        "wonLostStatus": null,
+        "wonLostDate": "Won - Mandated",
+        "reason": "2014-12-17 00:00:00.0",
+        "hasDealAccess": null,
+				"status": {
+            "label": "Mandated",
+            "color": "green"
+        }
+
+    }],
+    "closedDeals": [{
+        "id": "20141217100079229",
+				"dealId":"201412171000732",
+        "operation": null,
+        "sequence": 112696446781065,
+        "dealName": "Amway Import Tax Payment -- Tunas Nusantara Mandiri",
+        "productGroup": "Transaction Banking",
+        "revenue": "10",
+        "originatingLocation": null,
+        "salesStage": null,
+        "expectedClose": null,
+        "probability": null,
+        "val": null,
+        "dealType": null,
+        "hasAccess": null,
+        "dealStatus": "INDONESIA",
+        "topDeal": null,
+        "wonLostStatus": null,
+        "wonLostDate": "Won - Mandated",
+        "reason": "2014-12-17 00:00:00.0",
+        "hasDealAccess": null,
+				"status": {
+            "label": "Mandated",
+            "color": "none",
+						"circle" : "green"
+        }
+
+    }]
+}
+}

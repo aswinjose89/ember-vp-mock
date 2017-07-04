@@ -1,0 +1,1260 @@
+{
+ "apNetworkFi": {
+  "id": "20161234567890",
+  "operation": "ADD",
+  "corporateClientsDescription": {
+     "id": "20161130172606977000001",
+     "notes": "corporateClientsDescription"
+    },
+    "consumerBankingClientsDescription": {
+     "id": "20161130172606977000002",
+     "notes": "consumerBankingClientsDescription"
+    },
+    "fiClientsDescription": {
+     "id": "20161130172606977000003",
+     "notes": "fiClients desc"
+    },
+    "exchangeDescription":{
+      "id": "201611301726069770000031",
+      "notes": "Buyer Network Exchange desc"
+    },
+    "brokerDealerDescription":{
+      "id": "201611301726069770000032",
+      "notes": " Buyer Network Broker desc"
+    },
+    "globalCustodianDescription":{
+      "id": "201611301726069770000033",
+      "notes": " Buyer Network Broker desc"
+    },
+    "investorDescription":{
+      "id": "201611301726069770000034",
+      "notes": " Buyer Network Investor desc"
+    },
+    "corporateClientTotFlowDesc":10,
+    "corpClientEstTotflows":20,
+    "consumerClientTotFlowDesc":10,
+    "consumerClientEstTotFlow":20,
+    "investorClientPrecDesc": 42,
+    "investorTotalFlowDesc": 33,
+    "investorTotPerm": 32,
+    "corporateClientList":[
+      {
+         "id": "2016113017260697700000311",
+         "operation":"ADD",
+          "clientSegment":{
+            "idCode": "TBCM006202",
+            "id": "GTC022",
+            "val": "GTC022",
+            "name": "Commodities, Traders, Agriculture",
+            "longDescription": "Duzon",
+            "status": "A",
+            "appGroup": "TBCM",
+            "displayOrder": 1
+            },
+          "numberOfClients":2,
+          "estimatedValueAnnual":2400,
+          "mainLocation":[
+            {
+              "idCode": "TBCM0062021",
+              "id": "GTC0222",
+              "val": "CHE22",
+              "name": "Chennai",
+              "longDescription": "Chennai",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBCM0062021",
+              "id": "GTC0221",
+              "val": "VEL01",
+              "name": "Velore",
+              "longDescription": "Velore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "bussinessTo":[
+            {
+              "idCode": "TBCM00620212",
+              "id": "GTC02222",
+              "val": "BAN",
+              "name": "Bangalore",
+              "longDescription": "Bangalore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBCM00620212",
+              "id": "GTC02231",
+              "val": "MYS",
+              "name": "Hosur",
+              "longDescription": "Hosur",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "currencyOfTrade":[
+            {
+              "idCode": "TBCM062021",
+              "id": "GTC022",
+              "val": "CHE22",
+              "name": "Chennai",
+              "longDescription": "Chennai",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBC062021",
+              "id": "GTC0221",
+              "val": "VEL01",
+              "name": "Velore",
+              "longDescription": "Velore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "importExport":{
+              "idCode": "TBCM00620212",
+              "id": "GTC02212",
+              "val": "IMPORT",
+              "name": "Import",
+              "longDescription": "Import",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+          "updatedOn":"12-10-2015"
+      },
+      {
+         "id": "20161130172606977000003112",
+         "operation":"ADD",
+          "clientSegment":{
+            "idCode": "TBCM006202",
+            "id": "GTC022",
+            "val": "GTC022",
+            "name": "Commodities, Traders, Agriculture",
+            "longDescription": "Duzon",
+            "status": "A",
+            "appGroup": "TBCM",
+            "displayOrder": 1
+            },
+          "numberOfClients":2,
+          "estimatedValueAnnual":2400,
+          "mainLocation":[
+            {
+              "idCode": "TBCM0062021",
+              "id": "GTC0222",
+              "val": "CHE22",
+              "name": "Chennai",
+              "longDescription": "Chennai",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBCM0062021",
+              "id": "GTC0221",
+              "val": "VEL01",
+              "name": "Velore",
+              "longDescription": "Velore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "bussinessTo":[
+            {
+              "idCode": "TBCM00620212",
+              "id": "GTC02222",
+              "val": "BAN",
+              "name": "Bangalore",
+              "longDescription": "Bangalore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBCM00620212",
+              "id": "GTC02231",
+              "val": "MYS",
+              "name": "Hosur",
+              "longDescription": "Hosur",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "currencyOfTrade":[
+            {
+              "idCode": "TBCM062021",
+              "id": "GTC022",
+              "val": "CHE22",
+              "name": "Chennai",
+              "longDescription": "Chennai",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBC062021",
+              "id": "GTC0221",
+              "val": "VEL01",
+              "name": "Velore",
+              "longDescription": "Velore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "importExport":{
+              "idCode": "TBCM00620212",
+              "id": "GTC02212",
+              "val": "IMPORT",
+              "name": "Import",
+              "longDescription": "Import",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+          "updatedOn":"12-10-2015"
+      },
+      {
+         "id": "20161130172606977000003113",
+         "operation":"ADD",
+          "clientSegment":{
+            "idCode": "TBCM006202",
+            "id": "GTC022",
+            "val": "GTC022",
+            "name": "Commodities, Traders, Agriculture",
+            "longDescription": "Duzon",
+            "status": "A",
+            "appGroup": "TBCM",
+            "displayOrder": 1
+            },
+          "numberOfClients":2,
+          "estimatedValueAnnual":2400,
+          "mainLocation":[
+            {
+              "idCode": "TBCM0062021",
+              "id": "GTC0222",
+              "val": "CHE22",
+              "name": "Chennai",
+              "longDescription": "Chennai",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBCM0062021",
+              "id": "GTC0221",
+              "val": "VEL01",
+              "name": "Velore",
+              "longDescription": "Velore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "bussinessTo":[
+            {
+              "idCode": "TBCM00620212",
+              "id": "GTC02222",
+              "val": "BAN",
+              "name": "Bangalore",
+              "longDescription": "Bangalore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBCM00620212",
+              "id": "GTC02231",
+              "val": "MYS",
+              "name": "Hosur",
+              "longDescription": "Hosur",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "currencyOfTrade":[
+            {
+              "idCode": "TBCM062021",
+              "id": "GTC022",
+              "val": "CHE22",
+              "name": "Chennai",
+              "longDescription": "Chennai",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBC062021",
+              "id": "GTC0221",
+              "val": "VEL01",
+              "name": "Velore",
+              "longDescription": "Velore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "importExport":{
+              "idCode": "TBCM00620212",
+              "id": "GTC02212",
+              "val": "IMPORT",
+              "name": "Import",
+              "longDescription": "Import",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+          "updatedOn":"12-10-2015"
+      },
+      {
+         "id": "20161130172606977000003114",
+         "operation":"ADD",
+          "clientSegment":{
+            "idCode": "TBCM006202",
+            "id": "GTC022",
+            "val": "GTC022",
+            "name": "Commodities, Traders, Agriculture",
+            "longDescription": "Duzon",
+            "status": "A",
+            "appGroup": "TBCM",
+            "displayOrder": 1
+            },
+          "numberOfClients":2,
+          "estimatedValueAnnual":2400,
+          "mainLocation":[
+            {
+              "idCode": "TBCM0062021",
+              "id": "GTC0222",
+              "val": "CHE22",
+              "name": "Chennai",
+              "longDescription": "Chennai",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBCM0062021",
+              "id": "GTC0221",
+              "val": "VEL01",
+              "name": "Velore",
+              "longDescription": "Velore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "bussinessTo":[
+            {
+              "idCode": "TBCM00620212",
+              "id": "GTC02222",
+              "val": "BAN",
+              "name": "Bangalore",
+              "longDescription": "Bangalore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBCM00620212",
+              "id": "GTC02231",
+              "val": "MYS",
+              "name": "Hosur",
+              "longDescription": "Hosur",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "currencyOfTrade":[
+            {
+              "idCode": "TBCM062021",
+              "id": "GTC022",
+              "val": "CHE22",
+              "name": "Chennai",
+              "longDescription": "Chennai",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBC062021",
+              "id": "GTC0221",
+              "val": "VEL01",
+              "name": "Velore",
+              "longDescription": "Velore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "importExport":{
+              "idCode": "TBCM00620212",
+              "id": "GTC02212",
+              "val": "IMPORT",
+              "name": "Import",
+              "longDescription": "Import",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+          "updatedOn":"12-10-2015"
+      },
+      {
+         "id": "20161130172606977000003115",
+         "operation":"ADD",
+          "clientSegment":{
+            "idCode": "TBCM006202",
+            "id": "GTC022",
+            "val": "GTC022",
+            "name": "Commodities, Traders, Agriculture",
+            "longDescription": "Duzon",
+            "status": "A",
+            "appGroup": "TBCM",
+            "displayOrder": 1
+            },
+          "numberOfClients":2,
+          "estimatedValueAnnual":2400,
+          "mainLocation":[
+            {
+              "idCode": "TBCM0062021",
+              "id": "GTC0222",
+              "val": "CHE22",
+              "name": "Chennai",
+              "longDescription": "Chennai",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBCM0062021",
+              "id": "GTC0221",
+              "val": "VEL01",
+              "name": "Velore",
+              "longDescription": "Velore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "bussinessTo":[
+            {
+              "idCode": "TBCM00620212",
+              "id": "GTC02222",
+              "val": "BAN",
+              "name": "Bangalore",
+              "longDescription": "Bangalore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBCM00620212",
+              "id": "GTC02231",
+              "val": "MYS",
+              "name": "Hosur",
+              "longDescription": "Hosur",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "currencyOfTrade":[
+            {
+              "idCode": "TBCM062021",
+              "id": "GTC022",
+              "val": "CHE22",
+              "name": "Chennai",
+              "longDescription": "Chennai",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBC062021",
+              "id": "GTC0221",
+              "val": "VEL01",
+              "name": "Velore",
+              "longDescription": "Velore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "importExport":{
+              "idCode": "TBCM00620212",
+              "id": "GTC02212",
+              "val": "IMPORT",
+              "name": "Import",
+              "longDescription": "Import",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+          "updatedOn":"12-10-2015"
+      },
+      {
+         "id": "20161130172606977000003116",
+         "operation":"ADD",
+          "clientSegment":{
+            "idCode": "TBCM006202",
+            "id": "GTC022",
+            "val": "GTC022",
+            "name": "Commodities, Traders, Agriculture",
+            "longDescription": "Duzon",
+            "status": "A",
+            "appGroup": "TBCM",
+            "displayOrder": 1
+            },
+          "numberOfClients":2,
+          "estimatedValueAnnual":2400,
+          "mainLocation":[
+            {
+              "idCode": "TBCM0062021",
+              "id": "GTC0222",
+              "val": "CHE22",
+              "name": "Chennai",
+              "longDescription": "Chennai",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBCM0062021",
+              "id": "GTC0221",
+              "val": "VEL01",
+              "name": "Velore",
+              "longDescription": "Velore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "bussinessTo":[
+            {
+              "idCode": "TBCM00620212",
+              "id": "GTC02222",
+              "val": "BAN",
+              "name": "Bangalore",
+              "longDescription": "Bangalore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBCM00620212",
+              "id": "GTC02231",
+              "val": "MYS",
+              "name": "Hosur",
+              "longDescription": "Hosur",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "currencyOfTrade":[
+            {
+              "idCode": "TBCM062021",
+              "id": "GTC022",
+              "val": "CHE22",
+              "name": "Chennai",
+              "longDescription": "Chennai",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBC062021",
+              "id": "GTC0221",
+              "val": "VEL01",
+              "name": "Velore",
+              "longDescription": "Velore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "importExport":{
+              "idCode": "TBCM00620212",
+              "id": "GTC02212",
+              "val": "IMPORT",
+              "name": "Import",
+              "longDescription": "Import",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+          "updatedOn":"12-10-2015"
+      },
+      {
+         "id": "20161130172606977000003117",
+         "operation":"ADD",
+          "clientSegment":{
+            "idCode": "TBCM006202",
+            "id": "GTC022",
+            "val": "GTC022",
+            "name": "Commodities, Traders, Agriculture",
+            "longDescription": "Duzon",
+            "status": "A",
+            "appGroup": "TBCM",
+            "displayOrder": 1
+            },
+          "numberOfClients":2,
+          "estimatedValueAnnual":2400,
+          "mainLocation":[
+            {
+              "idCode": "TBCM0062021",
+              "id": "GTC0222",
+              "val": "CHE22",
+              "name": "Chennai",
+              "longDescription": "Chennai",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBCM0062021",
+              "id": "GTC0221",
+              "val": "VEL01",
+              "name": "Velore",
+              "longDescription": "Velore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "bussinessTo":[
+            {
+              "idCode": "TBCM00620212",
+              "id": "GTC02222",
+              "val": "BAN",
+              "name": "Bangalore",
+              "longDescription": "Bangalore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBCM00620212",
+              "id": "GTC02231",
+              "val": "MYS",
+              "name": "Hosur",
+              "longDescription": "Hosur",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "currencyOfTrade":[
+            {
+              "idCode": "TBCM062021",
+              "id": "GTC022",
+              "val": "CHE22",
+              "name": "Chennai",
+              "longDescription": "Chennai",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBC062021",
+              "id": "GTC0221",
+              "val": "VEL01",
+              "name": "Velore",
+              "longDescription": "Velore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "importExport":{
+              "idCode": "TBCM00620212",
+              "id": "GTC02212",
+              "val": "IMPORT",
+              "name": "Import",
+              "longDescription": "Import",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+          "updatedOn":"12-10-2015"
+      },
+      {
+         "id": "20161130172606977000003118",
+         "operation":"ADD",
+          "clientSegment":{
+            "idCode": "TBCM006202",
+            "id": "GTC022",
+            "val": "GTC022",
+            "name": "Commodities, Traders, Agriculture",
+            "longDescription": "Duzon",
+            "status": "A",
+            "appGroup": "TBCM",
+            "displayOrder": 1
+            },
+          "numberOfClients":2,
+          "estimatedValueAnnual":2400,
+          "mainLocation":[
+            {
+              "idCode": "TBCM0062021",
+              "id": "GTC0222",
+              "val": "CHE22",
+              "name": "Chennai",
+              "longDescription": "Chennai",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBCM0062021",
+              "id": "GTC0221",
+              "val": "VEL01",
+              "name": "Velore",
+              "longDescription": "Velore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "bussinessTo":[
+            {
+              "idCode": "TBCM00620212",
+              "id": "GTC02222",
+              "val": "BAN",
+              "name": "Bangalore",
+              "longDescription": "Bangalore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBCM00620212",
+              "id": "GTC02231",
+              "val": "MYS",
+              "name": "Hosur",
+              "longDescription": "Hosur",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "currencyOfTrade":[
+            {
+              "idCode": "TBCM062021",
+              "id": "GTC022",
+              "val": "CHE22",
+              "name": "Chennai",
+              "longDescription": "Chennai",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBC062021",
+              "id": "GTC0221",
+              "val": "VEL01",
+              "name": "Velore",
+              "longDescription": "Velore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "importExport":{
+              "idCode": "TBCM00620212",
+              "id": "GTC02212",
+              "val": "IMPORT",
+              "name": "Import",
+              "longDescription": "Import",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+          "updatedOn":"12-10-2015"
+      },
+      {
+         "id": "20161130172606977000003119",
+         "operation":"ADD",
+          "clientSegment":{
+            "idCode": "TBCM006202",
+            "id": "GTC022",
+            "val": "GTC022",
+            "name": "Commodities, Traders, Agriculture",
+            "longDescription": "Duzon",
+            "status": "A",
+            "appGroup": "TBCM",
+            "displayOrder": 1
+            },
+          "numberOfClients":2,
+          "estimatedValueAnnual":2400,
+          "mainLocation":[
+            {
+              "idCode": "TBCM0062021",
+              "id": "GTC0222",
+              "val": "CHE22",
+              "name": "Chennai",
+              "longDescription": "Chennai",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBCM0062021",
+              "id": "GTC0221",
+              "val": "VEL01",
+              "name": "Velore",
+              "longDescription": "Velore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "bussinessTo":[
+            {
+              "idCode": "TBCM00620212",
+              "id": "GTC02222",
+              "val": "BAN",
+              "name": "Bangalore",
+              "longDescription": "Bangalore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBCM00620212",
+              "id": "GTC02231",
+              "val": "MYS",
+              "name": "Hosur",
+              "longDescription": "Hosur",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "currencyOfTrade":[
+            {
+              "idCode": "TBCM062021",
+              "id": "GTC022",
+              "val": "CHE22",
+              "name": "Chennai",
+              "longDescription": "Chennai",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBC062021",
+              "id": "GTC0221",
+              "val": "VEL01",
+              "name": "Velore",
+              "longDescription": "Velore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "importExport":{
+              "idCode": "TBCM00620212",
+              "id": "GTC02212",
+              "val": "IMPORT",
+              "name": "Import",
+              "longDescription": "Import",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+          "updatedOn":"12-10-2015"
+      }
+    ],
+    "consumerBankingClientList":[
+      {
+         "id": "20161130172606977000003123",
+         "operation":"ADD",
+          "mainLocation":[
+            {
+              "idCode": "TBCM0062021",
+              "id": "GTC0222",
+              "val": "CHE22",
+              "name": "Chennai",
+              "longDescription": "Chennai",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBCM0062021",
+              "id": "GTC0221",
+              "val": "VEL01",
+              "name": "Velore",
+              "longDescription": "Velore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "currencyOfFlow":[
+            {
+              "idCode": "TBCM00620121",
+              "id": "GTC0222",
+              "val": "CHE22",
+              "name": "A Flow",
+              "longDescription": "Chennai",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+            {
+              "idCode": "TBCM00620211",
+              "id": "GTC0221",
+              "val": "VEL01",
+              "name": "B Flow",
+              "longDescription": "Velore",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            }
+          ],
+          "netWorth":2400,
+          "numberOfCustomer":"2300",
+          "direction":{
+              "idCode": "TBCM3062021",
+              "id": "GTC02222",
+              "val": "Incoming",
+              "name": "A Flow",
+              "longDescription": "Chennai",
+              "status": "A",
+              "appGroup": "TBCM",
+              "displayOrder": 1
+            },
+          "estimatedValueAnnual":3400,
+          "updatedOn":"13-10-2015"
+      }
+    ],
+    "fiClientList":[
+      {
+        "id": "2016113017260697700000313",
+        "headQuarterIn":{
+            "idCode": "TBCM3062021",
+            "id": "GTC02222",
+            "val": "CHE22",
+            "name": "A Flow",
+            "longDescription": "Chennai",
+            "status": "A",
+            "appGroup": "TBCM",
+            "displayOrder": 1
+          },
+        "numberOfClients":23,
+        "presence":{
+            "idCode": "TBCM3062021",
+            "id": "GTC02222",
+            "val": "Global",
+            "name": "A Flow",
+            "longDescription": "Chennai",
+            "status": "A",
+            "appGroup": "TBCM",
+            "displayOrder": 1
+          },
+        "subSegment":[
+          {
+            "idCode": "TBCM30620212",
+            "id": "GTC02222",
+            "val": "CHE22",
+            "name": "Central Banks",
+            "longDescription": "Chennai",
+            "status": "A",
+            "appGroup": "TBCM",
+            "displayOrder": 1
+          },
+          {
+            "idCode": "TBCM30620212",
+            "id": "GTC02222",
+            "val": "CHE22",
+            "name": "Broker Dealers",
+            "longDescription": "Chennai",
+            "status": "A",
+            "appGroup": "TBCM",
+            "displayOrder": 1
+          }
+        ],
+        "services":{
+          "idCode": "TBCM30620212",
+          "id": "GTC02222",
+          "val": "CHE22",
+          "name": "Banking Services",
+          "longDescription": "Chennai",
+          "status": "A",
+          "appGroup": "TBCM",
+          "displayOrder": 1
+        },
+        "updatedOn":"14-10-2015"
+      }
+    ],
+    "exchangeList":[{
+        "id": "20161130172606977000003113",
+        "operation":"Edit",
+        "segments":{
+          "idCode": "TBCM3062021",
+          "id": "GTC02222",
+          "val": "Segments",
+          "name": "Segments",
+          "longDescription": "Segments",
+          "status": "A",
+          "appGroup": "TBCM",
+          "displayOrder": 1
+        },
+        "memberNr":"123",
+        "typeOfMembers":{
+          "idCode": "TBCM3062021",
+          "id": "GTC02222",
+          "val": "MemberType",
+          "name": "MemberType",
+          "longDescription": "MemberType",
+          "status": "A",
+          "appGroup": "TBCM",
+          "displayOrder": 1
+        },
+        "remoteMemberStatus":true,
+        "tpcAllowedStatus":false,
+        "marketCapValue":"2344",
+        "tradingTurnoverVal":"234",
+        "settlementGuaranteeFund":"1400",
+        "settlementBank":[{
+          "idCode": "TBCM3062021",
+          "id": "GTC02222",
+          "val": "IND",
+          "name": "Indian Bank",
+          "longDescription": "Indian Bank",
+          "status": "A",
+          "appGroup": "TBCM",
+          "displayOrder": 1
+         },
+         {
+           "idCode": "TBCM306202221",
+           "id": "GTC02222",
+           "val": "CANAR",
+           "name": "CANARA BANK",
+           "longDescription": "CANARA BANK",
+           "status": "A",
+           "appGroup": "TBCM",
+           "displayOrder": 1
+         }],
+         "scbCaptured":[{
+           "idCode": "TBCM3062021",
+           "id": "GTC02222",
+           "val": "CHE22",
+           "name": "B Flow",
+           "longDescription": "Chennai1",
+           "status": "A",
+           "appGroup": "TBCM",
+           "displayOrder": 1
+           },
+           {
+             "idCode": "TBCM30620221",
+             "id": "GTC022222",
+             "val": "CHE22",
+             "name": "Chennai",
+             "longDescription": "Chennai",
+             "status": "A",
+             "appGroup": "TBCM",
+             "displayOrder": 1
+           }],
+           "updatedOn":"14-10-2015"
+
+    }],
+    "brokers":[{
+      "id": "20161130172606977000003114",
+      "operation":"Edit",
+      "country":[{
+        "idCode": "TBCM3062021",
+        "id": "GTC02222",
+        "val": "CHE22",
+        "name": "B Flow",
+        "longDescription": "Chennai1",
+        "status": "A",
+        "appGroup": "TBCM",
+        "displayOrder": 1
+        },
+        {
+          "idCode": "TBCM30620221",
+          "id": "GTC022222",
+          "val": "CHE22",
+          "name": "Chennai",
+          "longDescription": "Chennai",
+          "status": "A",
+          "appGroup": "TBCM",
+          "displayOrder": 1
+        }],
+      "volumeAnnual":"123",
+      "typeOfClient":{
+        "idCode": "TBCM3062021",
+        "id": "GTC02222",
+        "val": "CHE22sdd",
+        "name": "Type Of Client",
+        "longDescription": "Type of Client",
+        "status": "A",
+        "appGroup": "TBCM",
+        "displayOrder": 1
+      },
+      "scbCaptured":[{
+        "idCode": "TBCM3062021",
+        "id": "GTC02222",
+        "val": "CHE22",
+        "name": "B Flow",
+        "longDescription": "Chennai1",
+        "status": "A",
+        "appGroup": "TBCM",
+        "displayOrder": 1
+        },
+        {
+          "idCode": "TBCM30620221",
+          "id": "GTC022222",
+          "val": "CHE22",
+          "name": "Chennai",
+          "longDescription": "Chennai",
+          "status": "A",
+          "appGroup": "TBCM",
+          "displayOrder": 1
+        }],
+        "updatedOn":"14-10-2015"
+    }],
+    "globalCustodianList":[{
+      "id": "20161130172606977000003115",
+      "operation":"Edit",
+      "country":[{
+        "idCode": "TBCM3062021",
+        "id": "GTC02222",
+        "val": "CHE22",
+        "name": "B Flow",
+        "longDescription": "Chennai1",
+        "status": "A",
+        "appGroup": "TBCM",
+        "displayOrder": 1
+        },
+        {
+          "idCode": "TBCM30620221",
+          "id": "GTC022222",
+          "val": "CHE22",
+          "name": "Chennai",
+          "longDescription": "Chennai",
+          "status": "A",
+          "appGroup": "TBCM",
+          "displayOrder": 1
+        }],
+      "agents":2,
+      "clientTypes":{
+        "idCode": "TBCM3EE2021",
+        "id": "GTC02EE222",
+        "val": "Type",
+        "name": "Type",
+        "longDescription": "Type",
+        "status": "A",
+        "appGroup": "TBCM",
+        "displayOrder": 1
+      },
+      "volume":124,
+      "aua":123,
+      "ownSetup":true,
+      "scbCaptured":[{
+        "idCode": "TBCM3062021",
+        "id": "GTC02222",
+        "val": "CHE22",
+        "name": "B Flow",
+        "longDescription": "Chennai1",
+        "status": "A",
+        "appGroup": "TBCM",
+        "displayOrder": 1
+        },
+        {
+          "idCode": "TBCM30620221",
+          "id": "GTC022222",
+          "val": "CHE22",
+          "name": "Chennai",
+          "longDescription": "Chennai",
+          "status": "A",
+          "appGroup": "TBCM",
+          "displayOrder": 1
+        }],
+        "updatedOn":"14-10-2015"
+    }],
+    "investors":[{
+      "id": "20161130172606977000003115300",
+      "operation":"ADD",
+      "country":[{
+        "idCode": "TBCM3062021",
+        "id": "GTC02222",
+        "val": "CHE22",
+        "name": "B Flow",
+        "longDescription": "Chennai1",
+        "status": "A",
+        "appGroup": "TBCM",
+        "displayOrder": 1
+        },
+        {
+          "idCode": "TBCM30620221",
+          "id": "GTC022222",
+          "val": "CHE22",
+          "name": "Chennai",
+          "longDescription": "Chennai",
+          "status": "A",
+          "appGroup": "TBCM",
+          "displayOrder": 1
+        }
+      ],
+      "channelType":{
+          "idCode": "TBCM30620221",
+          "id": "GTC022222",
+          "val": "CHE22",
+          "name": "Channel Type",
+          "longDescription": "Channel Type",
+          "status": "A",
+          "appGroup": "TBCM",
+          "displayOrder": 1
+      },
+      "numberOfOffices":12,
+      "annualPremiumAbsolute":1500,
+      "premuimPerc":15,
+      "onOffShore":{
+          "idCode": "TBCM30620221",
+          "id": "GTC022222",
+          "val": "CHE22",
+          "name": "OfShore",
+          "longDescription": "OffShore",
+          "status": "A",
+          "appGroup": "TBCM",
+          "displayOrder": 1
+      },
+      "scbCaptured":[{
+          "idCode": "TBCM3062021",
+          "id": "GTC02222",
+          "val": "CHE22",
+          "name": "B Flow",
+          "longDescription": "Chennai1",
+          "status": "A",
+          "appGroup": "TBCM",
+          "displayOrder": 1
+          },
+          {
+            "idCode": "TBCM30620221",
+            "id": "GTC022222",
+            "val": "CHE22",
+            "name": "Chennai",
+            "longDescription": "Chennai",
+            "status": "A",
+            "appGroup": "TBCM",
+            "displayOrder": 1
+          }
+        ],
+      "updatedOn":"14-10-2015"
+    }]
+ }
+}

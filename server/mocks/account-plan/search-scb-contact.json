@@ -1,0 +1,24 @@
+{
+  "search-scb-contact": {
+    "id": "11221",
+    "scbContacts":[{
+    	"id": 11,
+      "operation": "",
+      "name": "1432343 - Chia, Yeong Yeong",
+      "country": "Singapore",
+      "product": "Lending",
+      "jobTitle": "Executive Vice President",
+      "team": "CCT",
+      "isChecked":false
+    }, {
+    	"id": 22,
+      "operation": "",
+      "name": "1501911 - Pusa Venkatesh, VinothKumar",
+      "country": "India",
+      "product": "Corporate Finance",
+      "jobTitle": "Executive Vice President",
+      "team": "Non-CCT",
+      "isChecked":false
+    }]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "validateContacts": {
+    "headerData":{
+          "id":20151203180948,
+          "groupId":"990093031",
+          "clientId":"11575446",
+          "subProfileId":"1",
+          "prospectId":"1232132132",
+          "countryIncorporation":"BH",
+          "groupName":"Singapore Airlines",
+          "clientName":"SG Air",
+          "prospectName":"SG",
+          "entityType":"C",
+          "businessSegment":"ownAccount",
+          "domCountry":"Singapore",
+          "gam":"sd",
+          "gamLocation":"sdsadsa"
+       },
+        "duplicateContacts":[
+        {
+          "contactId": "115557691990000022",
+          "contactName": "Benjamin Sanders",
+          "companyName": "Singapore Airlines",
+          "jobTitle": "Aviation Consultant",
+          "businessFunction": "Consultant",
+          "eMail" : "Benjamin.sanders@avia.sg",
+          "contactNumber" : "+ 65 6223 8888"
+        },
+        {
+          "contactId": "11559834943022",
+          "contactName": "Mathew Sandrows",
+          "companyName": "US Airlines",
+          "jobTitle": "Associate Consultant",
+          "businessFunction": "Consultant",
+          "eMail" : "Mathew.Sandrows@avia.sg",
+          "contactNumber" : "+ 65 6223 8888"
+        }
+      ]
+    }
+}

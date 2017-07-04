@@ -1,0 +1,65 @@
+{
+  "offboarding/task/account": {
+    "id": 1,
+    "accountInfo": [
+      {
+        "id": 1,
+        "tpProcessGroup": "IMEX(Trade)",
+        "clientName": "sfgsg",
+        "region": "AFRICA",
+        "domicileCountry": "dsfdf",
+        "accountNo": "4353453",
+        "accountName": "fhdfhdfh",
+        "processingTeam": "fgdsffdgfgf",
+        "accountStatus": "Active",
+        "segment": "sdfsgsgs",
+        "subSegment": "sdfsgsgs",
+        "uniqueKey": "4353453",
+        "exitType": "fgdhd",
+        "tpXrefStatus": "tp Xref Status",
+        "status": "COMPLETED"
+      },
+      {
+        "id": 2,
+        "tpProcessGroup": "IMEX(Trade)",
+        "clientName": "sfgsg",
+        "accountNo": "4353454",
+        "region": "ASIA",
+        "uniqueKey": "4353454",
+        "domicileCountry": "dsfdf",
+        "accountName": "fhdfhdfh",
+        "processingTeam": "fgdsffdgfgf",
+        "accountStatus": "Active",
+        "segment": "sdfsgsgs",
+        "subSegment": "sdfsgsgs",
+        "exitType": "fgdhd",
+        "tpXrefStatus": "tp Xref Status",
+        "status": "COMPLETED"
+      }
+    ],
+    "taskInfo": {
+      "taskName": "RMA Approval",
+      "hubTaskId": "345435",
+      "clientName": "Sterling Pathway",
+      "clientSegment": "Global Corporate",
+      "clientSubSegment": "Local corporate",
+      "gamName": "William Hughes",
+      "bookingLocation": "IN/SCBL",
+      "id": "132",
+      "taskId": "1",
+      "taskCode": "RMAREFERBACK",
+      "activityId": "2",
+      "initiatedBy": "Tet",
+      "initiatedOn": "Date",
+      "declineTask": false,
+      "taskCompletedFlag": false,
+      "taskStatus": "XYZ",
+      "assignedTo": "1325951"
+    },
+    "meta": {
+      "totalRecords": 10,
+      "accountIds": ["4353453","4353454"]
+    }
+  }
+}
+

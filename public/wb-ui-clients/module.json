@@ -1,0 +1,9 @@
+{
+    "modules": {
+        "wb-ui-accountplans": {
+            "version": "1.0.0",
+            "path": "http://localhost:4208/assets/",
+            "contextPath": "accountplan"
+        }
+    }
+}

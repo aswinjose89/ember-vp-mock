@@ -1,0 +1,87 @@
+{
+  "meta" : {
+          "taggedUser": true
+    },
+    "dealMetrics": [
+        {
+          "id": 1,
+          "chartCategory": 1,
+          "dealPhase": "MARKETING",
+          "dealCount": 510,
+          "dealRevenue": 1010.4,
+          "valueColor": "#569FCC"
+        },
+        {
+            "id": 2,
+            "chartCategory": 1,
+            "dealCount": 16,
+            "dealPhase": "MANDATED",
+            "dealRevenue": 1110101111.4,
+            "valueColor": "#569FCC"
+
+        }, {
+            "id": 3,
+            "chartCategory": 1,
+            "dealCount": 27,
+            "dealPhase": "CLOSED",
+            "dealRevenue": 36.1,
+            "valueColor": "#569FCC"
+        }, {
+            "id": 4,
+            "chartCategory": 1,
+            "dealRevenue": 30.5,
+            "dealCount": 10,
+            "dealPhase": "LOST",
+            "valueColor": "#569FCC"
+        }, {
+            "id": 5,
+            "chartCategory": 1,
+            "dealRevenue": 0,
+            "dealCount": 23,
+            "dealPhase": "DROPPED",
+            "valueColor": "#569FCC"
+        },
+        {
+          "id": 6,
+          "revenueAchieved": 1010.4,
+          "chartCategory": 2,
+          "dealPhase": "MARKETING",
+          "dealCount": 510,
+          "dealRevenue": 0,
+          "valueColor": "#b8b8b8"
+        },{
+            "id": 7,
+            "revenueAchieved": 1110101100.4,
+          "chartCategory": 2,
+            "dealCount": 16,
+            "dealPhase": "MANDATED",
+            "dealRevenue": 10.5,
+            "valueColor": "#b8b8b8"
+
+        }, {
+            "id": 8,
+            "revenueAchieved": 36.1,
+          "chartCategory": 2,
+            "dealCount": 27,
+            "dealPhase": "CLOSED",
+            "dealRevenue": 14.6,
+            "valueColor": "#b8b8b8"
+        }, {
+            "id": 9,
+            "revenueAchieved": 30.5,
+          "chartCategory": 2,
+            "dealRevenue": 20.2,
+            "dealCount": 10,
+            "dealPhase": "LOST",
+            "valueColor": "#b8b8b8"
+        }, {
+            "id": 10,
+            "revenueAchieved": 0.0,
+          "chartCategory": 2,
+            "dealRevenue": 50.7,
+            "dealCount": 23,
+            "dealPhase": "DROPPED",
+            "valueColor": "#b8b8b8"
+        }        
+    ]
+}

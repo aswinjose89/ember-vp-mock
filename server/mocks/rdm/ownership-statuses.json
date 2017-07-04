@@ -1,0 +1,24 @@
+{
+  "ownershipStatuses": [
+    {
+      "code": "1",
+      "description": "privately owned"
+    },
+    {
+      "code": "2",
+      "description": "publicly quoted"
+    },
+    {
+      "code": "3",
+      "description": "majority owned subsidiary of publicly quoted company"
+    },
+    {
+      "code": "4",
+      "description": "publicly quoted with significant private ownership"
+    },
+    {
+      "code": "5",
+      "description": "government"
+    }
+  ]
+}

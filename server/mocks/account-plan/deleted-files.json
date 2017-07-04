@@ -1,0 +1,22 @@
+{
+	"deletedFiles": {
+    "id" : 12341234124,
+		"deletedFiles": [{
+			"id": 234,
+			"fileName": "Conflict clearance form",
+			"description": "when designing onboarding",
+			"uploadedBy": "1002819 - Vikram Mosali Reddy",
+			"uploadedDate": 1477477465833,
+			"deletedBy": "Vikram Mosali Reddy",
+			"deletedDate": 1477477465833
+		},{
+			"id": 235,
+			"fileName": "Conflict clearance form1",
+			"description": "when designing onboarding",
+			"uploadedBy": "1002819 - Vikram Mosali Reddy",
+			"uploadedDate": 1477477465833,
+			"deletedBy": "Tamil",
+			"deletedDate": 1477477465833
+		}]
+	}
+}

@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "totalCount":50
+	},
+	"nameClearanceForm": {
+			"id": 1,
+			"nameClearanceList": ["1","2","3"],
+			"addNameClearanceFormButton": true
+	},
+	"nameClearanceList": [
+		{
+			"id": 1,
+			"nameClearanceId": "DEAL-CM-2016-07-452309-NC1",
+			"activityId": "20160714100452310",
+			"status": "Under Review",
+			"decision": "-",
+			"lastUpdatedDate": 1434623818061,
+			"lastUpdatedBy": "1018884 - Aloupis,Steven Nicholas",
+			"viewEditAction": "Edit"
+		},
+		{
+			"id": 2,
+			"nameClearanceId": "DEAL-CM-2016-07-452309-NC1",
+			"activityId": "20160714100452310",
+			"status": "Under Review",
+			"decision": "-",
+			"lastUpdatedDate": 1434623818061,
+			"lastUpdatedBy": "1018884 - Aloupis,Steven Nicholas",
+			"viewEditAction": "Edit"
+		},
+		{
+			"id": 3,
+			"nameClearanceId": "DEAL-CM-2016-07-452309-NC1",
+			"activityId": "20160714100452310",
+			"status": "Under Review",
+			"decision": "-",
+			"lastUpdatedDate": 1434623818061,
+			"lastUpdatedBy": "1018884 - Aloupis,Steven Nicholas",
+			"viewEditAction": "Edit"
+		}
+	]
+}

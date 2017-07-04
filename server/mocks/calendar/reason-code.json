@@ -1,0 +1,34 @@
+{
+  "reasonCodes": [
+    {
+      "id": 1,
+      "reasonCode": "RC042",
+      "reasonContext": "Current assignee out of office"
+    },
+    {
+      "id": 2,
+      "reasonCode": "RC043",
+      "reasonContext": "Document upload required"
+    },
+    {
+      "id": 3,
+      "reasonCode": "RC044",
+      "reasonContext": "Requested by Owner RM"
+    },
+    {
+      "id": 4,
+      "reasonCode": "RC045",
+      "reasonContext": "Requested by Line Manager"
+    },
+    {
+      "id": 5,
+      "reasonCode": "RC046",
+      "reasonContext": "Requested by CDD Risk Manager"
+    },
+    {
+      "id": 6,
+      "reasonCode": "RC047",
+      "reasonContext": "Other (Please Specify)"
+    }
+  ]
+}

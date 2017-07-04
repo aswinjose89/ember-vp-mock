@@ -1,0 +1,53 @@
+{
+	"offboarding/userGroups": [{
+		"id": 1,
+		"groupId": 990002170,
+		"groupName": "GRP NAME 99000218"
+	},
+	{
+		"id": 2,
+		"groupId": 990002171,
+		"groupName": "GRP NAME 99000218"
+	},{
+		"id": 3,
+		"groupId": 990002172,
+		"groupName": "GRP NAME 99000218"
+	},
+	{
+		"id": 4,
+		"groupId": 990002173,
+		"groupName": "GRP NAME 99000218"
+	},{
+		"id": 5,
+		"groupId": 990002174,
+		"groupName": "GRP NAME 99000218"
+	},{
+		"id": 6,
+		"groupId": 990002175,
+		"groupName": "GRP NAME 99000218"
+	},{
+		"id": 8,
+		"groupId": 990002178,
+		"groupName": "GRP NAME 99000218"
+	},{
+		"id": 9,
+		"groupId": 990002176,
+		"groupName": "GRP NAME 99000218"
+	},{
+		"id": 10,
+		"groupId": 990002181,
+		"groupName": "GRP NAME 99000218"
+	},{
+		"id": 11,
+		"groupId": 990002112,
+		"groupName": "GRP NAME 99000218"
+	},{
+		"id": 13,
+		"groupId": 990002113,
+		"groupName": "GRP NAME 99000218"
+	},{
+		"id": 14,
+		"groupId": 990002114,
+		"groupName": "GRP NAME 99000218"
+	}]
+}

@@ -1,0 +1,60 @@
+{
+    "clientSegments": [
+        {
+            "segmentCode": "20",
+            "segmentDescription": "PreferredClients"
+        },
+        {
+            "segmentCode": "A",
+            "segmentDescription": "LocalCorporate"
+        },
+        {
+            "segmentCode": "S",
+            "segmentDescription": "OwnAccount"
+        },
+        {
+            "segmentCode": "10",
+            "segmentDescription": "PersonalClients"
+        },
+        {
+            "segmentCode": "HV",
+            "segmentDescription": "HighValueSmallBusiness"
+        },
+        {
+            "segmentCode": "K",
+            "segmentDescription": "GlobalCorporate"
+        },
+        {
+            "segmentCode": "MM",
+            "segmentDescription": "MiddleMarket"
+        },
+        {
+            "segmentCode": "ME",
+            "segmentDescription": "MediumEnterprise"
+        },
+        {
+            "segmentCode": "E",
+            "segmentDescription": "CommodityTraders&Agriculture"
+        },
+        {
+            "segmentCode": "50",
+            "segmentDescription": "PrivateBanking"
+        },
+        {
+            "segmentCode": "N",
+            "segmentDescription": "FinancialInstitution"
+        },
+        {
+            "segmentCode": "ZZ",
+            "segmentDescription": "Unmapped"
+        },
+        {
+            "segmentCode": "40",
+            "segmentDescription": "Priority&IntlClients"
+        },
+        {
+            "segmentCode": "30",
+            "segmentDescription": "BusinessClients"
+        }
+    ]
+}

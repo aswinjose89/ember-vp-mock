@@ -1,0 +1,15 @@
+{
+   "isicInfo": [{
+     "id" : "6238",
+      "code" : "6238",
+      "description" : "MAINT",
+      "param1" : "RFGO",
+      "param2" : "*"
+   }, {
+     "id" : "6239",
+      "code" : "6239",
+      "description" : "Activity",
+      "param1" : "",
+      "param2" : "*"
+   }]
+}

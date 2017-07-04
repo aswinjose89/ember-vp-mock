@@ -1,0 +1,14 @@
+{
+	"offboarding/exposureEntities": [{
+		"entityName": "exposure entity 2",
+		"entityId": 444,
+		"region": "ASIA",
+		"id": 4,
+		"domicileCountry": "India",
+		"segment": "segment 2",
+		"subSegment": "subSegment 2"
+	}],
+	"meta": {
+		"exposureTotalCount": 30
+	}
+}

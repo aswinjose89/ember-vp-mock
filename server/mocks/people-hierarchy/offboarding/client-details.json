@@ -1,0 +1,23 @@
+{
+  "clientDetails":  [{
+         "id":11,
+         "groupName": "TATA",
+         "groupId": "7866",
+         "clientName": "Nano",
+         "clientId": "112",
+         "region": "ASIA",
+         "domicileCountry": "SINGAPORE",
+         "segment": "Global Corporate",
+         "subSegment": "Metal Traders",
+		 "clientStatus": "",
+         "isChecked": false
+		 }],
+  "meta": {
+    "count": {
+      "total": 12,
+      "groups": 2,
+      "clients": 2
+    },
+    "totalRecords": 100
+  }
+}

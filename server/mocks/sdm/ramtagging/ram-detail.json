@@ -1,0 +1,70 @@
+{
+  "ramDetail": {
+    "id": "GRP003000",
+    "entityType": "CLIENT",
+    "message": "xyz",
+    "inflight": true,
+    "inflightList":  [{
+          "id":1,
+          "activityId": "50000000123",
+          "taskId": "60456",
+          "action": "Add RAM",
+          "existingValue": "0033 -1325909 Shreya",
+          "newValue": "0033 -1325909 Shreya",
+          "coverageLocation": "India",
+          "subProfileId": "1519456",
+          "initiatedBy": "12345678 Frank",
+          "initiatedOn": "12 MAR 2016"
+        },{
+          "id":2,
+          "activityId": "50000000123",
+          "taskId": "60456",
+          "action": "Add RAM",
+          "existingValue": "0033 -1325909 Shreya",
+          "newValue": "0033 -1325909 Shreya",
+          "coverageLocation": "Singapore",
+          "subProfileId": "1519456",
+          "initiatedBy": "12345678 Frank",
+          "initiatedOn": "12 MAR 2016"
+      }],
+      "taggingList": [{
+          "id":9,
+          "entityType": "CLIENT",
+          "entityId": "9999",
+          "clientRevGroupId": "99000002",
+          "orgType": "SA",
+          "subProfileId": "1",
+          "empRole": "RAM",
+          "empLocation": {"code":"SG/SCBL", "description":"SG/SCBL"},
+          "empCode": "ATX",
+          "empPsId": "1519456",
+          "empName": "Name",
+          "empCoverageLocations": [{
+              "id": "2",
+              "code": "RE",
+              "description": "REUNION"
+          },{
+              "id": "3",
+              "code": "FO",
+              "description": "FAROE ISLANDS"
+          }]
+        },{
+          "id":10,
+          "entityType": "CLIENT",
+          "entityId": "9999",
+          "clientRevGroupId": "99000002",
+          "orgType": "SA",
+          "subProfileId": "1",
+          "empRole": "RAM",
+          "empLocation": {"code":"SG/SCBL", "description":"SG/SCBL"},
+          "empCode": "ATX",
+          "empPsId": "1519456",
+          "empName": "Name",
+          "empCoverageLocations": [{
+              "id": "1",
+              "code": "FI",
+              "description": "FINLAND"
+          }]
+      }]
+    }
+}

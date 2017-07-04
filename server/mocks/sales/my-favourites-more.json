@@ -1,0 +1,31 @@
+{
+    "meta" : {
+          "totalFavourites": 82
+    },
+    "favourites":[        
+        {
+            "id": 4,
+            "favClientId": "1",
+            "clientId" : "4",
+            "subProfileId" : "1",
+            "entityName": "Coca Cola Group",
+            "entityType" : "C"
+        },
+        {
+            "id": 5,
+            "favClientId": "2",
+            "clientId" : "5",
+            "subProfileId" : "1",
+            "entityName": "Coca Cola Group",
+            "entityType" : "G"
+        },
+        {
+            "id" : 6,
+            "favClientId": "3",
+            "clientId" : "6",
+            "subProfileId" : "1",
+            "entityName": "Coca Cola Group",
+            "entityType" : "P"
+        }
+    ]
+}

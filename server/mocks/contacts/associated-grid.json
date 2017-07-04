@@ -1,0 +1,26 @@
+{
+  "associatedGrids": [
+    {
+     "clientId": "11555769",
+     "clientSubProfileId": 1,
+     "clientName": "L NAME 11555769",
+     "clientGroupId": "990000022",
+     "addedBy" : "987631-Joseph Steven",
+     "addedOn" : "18 Jul 2016",
+     "entityType":"C",
+     "operation":null,
+     "contactId":"20150205100849618"
+    },
+    {
+     "clientId": "115512220",
+     "clientSubProfileId": 1,
+     "clientName": "L NAME 115512220",
+     "clientGroupId": "990000022",
+     "addedBy" : "987631-Joseph Steven",
+     "addedOn" : "18 Jul 2016",
+     "entityType":"C",
+     "operation":null,
+     "contactId":"2015020510021212"
+    }
+  ]
+}

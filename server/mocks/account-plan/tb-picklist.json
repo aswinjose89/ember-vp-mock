@@ -1,0 +1,256 @@
+{
+	"tbPicklist": {
+		"clrisaList": [{
+			"val": "C",
+			"name": "Control"
+		}, {
+			"val": "L",
+			"name": "Liquidity"
+		}, {
+			"val": "R",
+			"name": "Risk"
+		}, {
+			"val": "I",
+			"name": "Information"
+		}, {
+			"val": "S",
+			"name": "Settlement"
+		}, {
+			"val": "A",
+			"name": "Access"
+		}],
+		"competitorProduct": [{
+			"val": "LB",
+			"name": "Lead Bank"
+		}, {
+			"val": "CB",
+			"name": "Core Bank"
+		}, {
+			"val": "RB",
+			"name": "Relationship Bank"
+		}, {
+			"val": "LENDER",
+			"name": "Lender"
+		}, {
+			"val": "VENDOR",
+			"name": "Vendor"
+		}],
+		"reasonForRFP": [{
+			"val": "BM",
+			"name": "Bench Marking"
+		}, {
+			"val": "NBO",
+			"name": "New Business opportunities"
+		}, {
+			"val": "MA",
+			"name": "M&A"
+		}],
+		"scopeOfRFP": [{
+			"val": "CA",
+			"name": "Cash"
+		}, {
+			"val": "TR",
+			"name": "Trade"
+		}, {
+			"val": "SS",
+			"name": "Security Services"
+		}],
+		"ctryInScope": [{
+			"val": "CN",
+			"name": "Canada"
+		}, {
+			"val": "IN",
+			"name": "India"
+		}, {
+			"val": "Sg",
+			"name": "Singapore"
+		}],
+		"notingGaps": [{
+			"val": "G1",
+			"name": "Gap1"
+		}, {
+			"val": "G12",
+			"name": "Gap12"
+		}, {
+			"val": "G13",
+			"name": "Gap13"
+		}],
+		"competitorProductSupply": [{
+			"val": "S1",
+			"name": "Supply1"
+		}, {
+			"val": "S12",
+			"name": "Supply12"
+		}, {
+			"val": "S13",
+			"name": "Supply13"
+		}],
+		"rfpOutcomeStatus": [{
+			"val": "RS1",
+			"name": "rfpOutcomeStatus1"
+		}, {
+			"val": "RS12",
+			"name": "rfpOutcomeStatus12"
+		}, {
+			"val": "RS13",
+			"name": "rfpOutcomeStatus12"
+		}],
+		"rfpOutcomeReason": [{
+			"val": "RSR1",
+			"name": "rfpOutcomeReason1"
+		}, {
+			"val": "RSR12",
+			"name": "rfpOutcomeReason12"
+		}, {
+			"val": "RSR13",
+			"name": "rfpOutcomeReason12"
+		}],
+		"productOfferingList": [{
+			"val": "C",
+			"name": "Control"
+		}, {
+			"val": "L",
+			"name": "Liquidity"
+		}, {
+			"val": "R",
+			"name": "Risk"
+		}, {
+			"val": "I",
+			"name": "Information"
+		}, {
+			"val": "S",
+			"name": "Settlement"
+		}, {
+			"val": "A",
+			"name": "Access"
+		}],
+		"subProductList": [{
+			"val": "21",
+			"name": "CF - Advisory & Acquisition Finance",
+			"ext1": "CF",
+			"ext2": "4"
+		}, {
+			"val": "22",
+			"name": "CF - Strategic Finance",
+			"ext1": "CF",
+			"ext2": "4"
+		}, {
+			"val": "10",
+			"name": "CF - Structured Finance",
+			"ext1": "CF",
+			"ext2": "4"
+		}, {
+			"val": "7",
+			"name": "CF - Structured Trade Finance",
+			"ext1": "CF",
+			"ext2": "4"
+		}, {
+			"val": "2",
+			"name": "FM - ALM Sales",
+			"ext1": "FM",
+			"ext2": "2"
+		}, {
+			"val": "17",
+			"name": "FM - Capital Markets",
+			"ext1": "FM",
+			"ext2": "2"
+		}, {
+			"val": "5",
+			"name": "FM - Commodity Sales",
+			"ext1": "FM",
+			"ext2": "2"
+		}, {
+			"val": "15",
+			"name": "FM - Credit Sales",
+			"ext1": "FM",
+			"ext2": "2"
+		}, {
+			"val": "6",
+			"name": "FM - Equity Sales",
+			"ext1": "FM",
+			"ext2": "2"
+		}, {
+			"val": "8",
+			"name": "FM - FX Sales",
+			"ext1": "FM",
+			"ext2": "2"
+		}, {
+			"val": "14",
+			"name": "FM - Rates Sales",
+			"ext1": "FM",
+			"ext2": "2"
+		}, {
+			"val": "23",
+			"name": "Lending - Commercial Mortages",
+			"ext1": "Lending",
+			"ext2": "3"
+		}, {
+			"val": "24",
+			"name": "Lending - Corporate Overdraft",
+			"ext1": "Lending",
+			"ext2": "3"
+		}, {
+			"val": "25",
+			"name": "Lending - Corporate Revolving Term Loan",
+			"ext1": "Lending",
+			"ext2": "3"
+		}, {
+			"val": "26",
+			"name": "Lending - Corporate Short Term Loan",
+			"ext1": "Lending",
+			"ext2": "3"
+		}, {
+			"val": "27",
+			"name": "Lending - Corporate Term Loan",
+			"ext1": "Lending",
+			"ext2": "3"
+		}, {
+			"val": "28",
+			"name": "Lending - Others",
+			"ext1": "Lending",
+			"ext2": "3"
+		}, {
+			"val": "1",
+			"name": "RMB Offering",
+			"ext1": "RMB Offering",
+			"ext2": "6"
+		}, {
+			"val": "11",
+			"name": "TB - Cash",
+			"ext1": "TB",
+			"ext2": "1"
+		}, {
+			"val": "4",
+			"name": "TB - Securities Services",
+			"ext1": "TB",
+			"ext2": "1"
+		}, {
+			"val": "9",
+			"name": "TB - Trade",
+			"ext1": "TB",
+			"ext2": "1"
+		}, {
+			"val": "19",
+			"name": "Other",
+			"ext1": "Other",
+			"ext2": "999"
+		}],
+		"regions": [{
+			"id": "123",
+			"val": "Global"
+		}, {
+			"id": "12323",
+			"val": "Asia"
+		}],
+		"actionPlanPriority": [{
+			"name": "Low",
+			"val": "Low"
+		}, {
+			"name": "Medium",
+			"val": "Medium"
+		}, {
+			"name": "High",
+			"val": "High"
+		}]
+	}
+}

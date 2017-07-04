@@ -1,0 +1,20 @@
+{
+  "message": "SUCCESS",
+  "modelDTO": {
+    "clientId": "11329596",
+    "originatingLocationCode": "SGSCBL",
+    "generateModels": false,
+    "catValue1": 1000000,
+    "catValue2": 2000000,
+    "catValue3": 3000000,
+    "catValue5": 5500000,
+    "catValue5Product": 5000000,
+    "catValue6": 4000000,
+    "limitItemsMap": {},
+    "el": 6000000,
+    "modelId": "339507",
+    "maxTenor": "3",
+    "maxTenorType": "YEAR",
+    "creditGrade": "1B"
+  }
+}

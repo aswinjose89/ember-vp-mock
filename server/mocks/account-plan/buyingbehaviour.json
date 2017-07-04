@@ -1,0 +1,293 @@
+{
+    "buyingbehaviour": {
+        "header": {
+            "id": "20141002100241213",
+            "clientId": null,
+            "groupId": null,
+            "version": null,
+            "template": null,
+            "entitlement": null,
+            "status": "0001",
+            "clientMapYear": 2019,
+            "reviewerChanged": false,
+            "archived": true,
+            "reviewer": null,
+            "dueDate": null,
+            "signOffDate": null
+        },
+        "id": "20161227125948676000001",
+        "name": "buyingBehaviour",
+        "showOnMap": true,
+        "reviewerCommentsEnable": true,
+        "moduleStatusChanged": false,
+        "approvalRequired": false,
+        "moduleStatus": "0001",
+        "competitorLandscapes": [{
+            "id": "20161227130210664000002",
+            "operation": "NO_CHANGE",
+            "competitorDetails": {
+                "id": null,
+                "operation": null,
+                "sequence": null,
+                "entityId": "1018",
+                "type": "COMPETITOR",
+                "clientId": null,
+                "clientName": null,
+                "groupId": null,
+                "clientGroupName": null,
+                "prospectId": null,
+                "prospectName": null,
+                "entityName": "Bank Danamon",
+                "searchScope": null,
+                "pageSize": null,
+                "groupFirstRecord": false,
+                "scbClient": false
+            },
+            "competitorName": "Bank Danamon",
+            "competitorProduct": [{
+                "id": "TBCM0048_SS",
+                "name": "Securities Services",
+                "val": "SS"
+            }],
+            "competitorDescription": {
+                "id": "20161227100000295",
+                "notes": "To stses",
+                "type": "COMPDESC",
+                "operation": null
+            },
+            "competitorDescriptionStr": "To stses",
+            "competitorDescriptionId": "20161227100000295",
+            "competitorId": "1018"
+        }, {
+            "id": "20141002161554127002132",
+            "operation": "NO_CHANGE",
+            "competitorDetails": {
+                "id": null,
+                "operation": null,
+                "sequence": null,
+                "entityId": "1003",
+                "type": "COMPETITOR",
+                "clientId": null,
+                "clientName": null,
+                "groupId": null,
+                "clientGroupName": null,
+                "prospectId": null,
+                "prospectName": null,
+                "entityName": "Axis Bank",
+                "searchScope": null,
+                "pageSize": null,
+                "groupFirstRecord": false,
+                "scbClient": false
+            },
+            "competitorName": "Axis Bank",
+            "competitorProduct": [{
+                "id": "TBCM0048_CA",
+                "name": "Cash",
+                "val": "CA"
+            }, {
+                "id": "TBCM0048_TR",
+                "name": "Trade",
+                "val": "TR"
+            }, {
+                "id": "TBCM0048_SS",
+                "name": "Securities Services",
+                "val": "SS"
+            }],
+            "competitorDescription": {
+                "id": "20161227100000294",
+                "notes": null,
+                "type": "COMPDESC",
+                "operation": null
+            },
+            "competitorDescriptionId": "20161227100000294",
+            "competitorId": "1003"
+        }],
+        "rfps": [{
+            "id": "20141002160506612002074",
+            "operation": "NO_CHANGE",
+            "rfpName": "02 Oct 2014 - Others",
+            "dateOfIssue": 1412217000000,
+            "renewalDate": 1417401000000,
+            "reasonForRFP": [{
+                "id": "TBCM0050_OTH",
+                "name": "Others",
+                "val": "OTH"
+            }],
+            "existingProviders": [{
+                "id": "1_COMPETITOR",
+                "operation": null,
+                "sequence": null,
+                "entityId": "1",
+                "type": "COMPETITOR",
+                "clientId": null,
+                "clientName": null,
+                "groupId": null,
+                "clientGroupName": null,
+                "prospectId": null,
+                "prospectName": null,
+                "entityName": "",
+                "searchScope": null,
+                "pageSize": null,
+                "groupFirstRecord": false,
+                "scbClient": false
+            }],
+            "scbInvolvedInRFP": true,
+            "rfpDeals": [],
+            "rfpOutcomeStatus": {
+                "id": "TBCM0056_O",
+                "name": "Open",
+                "val": "O"
+            },
+            "rfpCount": 0,
+            "renewalDateChanged": true,
+            "rfpWonLostChanged": false
+        }, {
+            "id": "20141002160506613002078",
+            "operation": "NO_CHANGE",
+            "rfpName": "02 Oct 2014 - Routine review",
+            "dateOfIssue": 1412217000000,
+            "renewalDate": 1419993000000,
+            "reasonForRFP": [{
+                "id": "TBCM0050_RR",
+                "name": "Routine review",
+                "val": "RR"
+            }],
+            "existingProviders": [{
+                "id": "1_COMPETITOR",
+                "operation": null,
+                "sequence": null,
+                "entityId": "1",
+                "type": "COMPETITOR",
+                "clientId": null,
+                "clientName": null,
+                "groupId": null,
+                "clientGroupName": null,
+                "prospectId": null,
+                "prospectName": null,
+                "entityName": "",
+                "searchScope": null,
+                "pageSize": null,
+                "groupFirstRecord": false,
+                "scbClient": false
+            }],
+            "scbInvolvedInRFP": true,
+            "rfpDeals": [],
+            "rfpOutcomeStatus": {
+                "id": "TBCM0056_O",
+                "name": "Open",
+                "val": "O"
+            },
+            "rfpCount": 0,
+            "renewalDateChanged": true,
+            "rfpWonLostChanged": false
+        }, {
+            "id": "20141002160506614002082",
+            "operation": "NO_CHANGE",
+            "rfpName": "02 Oct 2014 - SWIFT connectivity",
+            "dateOfIssue": 1412217000000,
+            "renewalDate": 1414636200000,
+            "reasonForRFP": [{
+                "id": "TBCM0050_SWIFT",
+                "name": "SWIFT connectivity",
+                "val": "SWIFT"
+            }],
+            "existingProviders": [{
+                "id": "1_COMPETITOR",
+                "operation": null,
+                "sequence": null,
+                "entityId": "1",
+                "type": "COMPETITOR",
+                "clientId": null,
+                "clientName": null,
+                "groupId": null,
+                "clientGroupName": null,
+                "prospectId": null,
+                "prospectName": null,
+                "entityName": "",
+                "searchScope": null,
+                "pageSize": null,
+                "groupFirstRecord": false,
+                "scbClient": false
+            }],
+            "scbInvolvedInRFP": true,
+            "rfpDeals": [],
+            "rfpOutcomeStatus": {
+                "id": "TBCM0056_O",
+                "name": "Open",
+                "val": "O"
+            },
+            "rfpCount": 0,
+            "renewalDateChanged": true,
+            "rfpWonLostChanged": false
+        }, {
+            "id": "20141002160506611002070",
+            "operation": "NO_CHANGE",
+            "rfpName": "02 Oct 2014 - New ERP",
+            "dateOfIssue": 1412217000000,
+            "renewalDate": 1414895400000,
+            "reasonForRFP": [{
+                "id": "TBCM0050_ERP",
+                "name": "New ERP",
+                "val": "ERP"
+            }],
+            "scopeOfRFP": [{
+                "id": "TBCM0052_CA",
+                "name": "Cash",
+                "val": "CA"
+            }],
+            "countriesInScope": [{
+                "id": "TBCM0082_AF",
+                "name": "AFGHANISTAN",
+                "val": "AF"
+            }, {
+                "id": "TBCM0082_ARO",
+                "name": "AFRICA REGION OTHERS",
+                "val": "ARO"
+            }],
+            "existingProviders": [{
+                "id": "1_COMPETITOR",
+                "operation": null,
+                "sequence": null,
+                "entityId": "1",
+                "type": "COMPETITOR",
+                "clientId": null,
+                "clientName": null,
+                "groupId": null,
+                "clientGroupName": null,
+                "prospectId": null,
+                "prospectName": null,
+                "entityName": "",
+                "searchScope": null,
+                "pageSize": null,
+                "groupFirstRecord": false,
+                "scbClient": false
+            }],
+            "competitorProductSupply": [{
+                "id": "TBCM0048_CA",
+                "name": "Cash",
+                "val": "CA"
+            }],
+            "scbInvolvedInRFP": true,
+            "rfpDeals": [{
+                "id": "20141002161840404002169",
+                "dealName": "My Deal",
+                "dealId": "20141002100241221",
+                "annualRevenue": 1,
+                "targetClosingOn": 1412303400000,
+                "probability": "Medium",
+                "enableEditor": false
+            }],
+            "dateOfOutcome": 1412130600000,
+            "rfpOutcomeStatus": {
+                "id": "TBCM0056_W",
+                "name": "Won",
+                "val": "W"
+            },
+            "rfpCount": 0,
+            "renewalDateChanged": true,
+            "rfpWonLostChanged": true
+        }],
+        "buyBankingServices": true,
+        "tbCurrentYear": "2014"
+    }
+}

@@ -1,0 +1,281 @@
+{
+    "responseHeader": {
+        "status": 0,
+        "QTime": 4,
+        "params": {
+            "q": "*:*",
+            "facet.field": "CREATED_MONTH",
+            "facet.pivot": "CREATED_MONTH,SLA_INDICATOR",
+            "rows": "0",
+            "facet": "true",
+            "wt": "json"
+        }
+    },
+    "response": {
+        "numFound": 365,
+        "start": 0,
+        "docs": []
+    },
+    "facet_counts": {
+        "facet_queries": {},
+        "facet_fields": {
+            "CREATED_MONTH": [
+                "AUG-16",
+                31,
+                "DEC-15",
+                31,
+                "JAN-16",
+                31,
+                "JUL-16",
+                31,
+                "MAR-16",
+                31,
+                "MAY-16",
+                31,
+                "OCT-15",
+                31,
+                "APR-16",
+                30,
+                "JUN-16",
+                30,
+                "NOV-15",
+                30,
+                "FEB-16",
+                29,
+                "SEP-16",
+                23,
+                "SEP-15",
+                6
+            ]
+        },
+        "facet_ranges": {},
+        "facet_intervals": {},
+        "facet_heatmaps": {},
+        "facet_pivot": {
+            "CREATED_MONTH,SLA_INDICATOR": [{
+                    "field": "CREATED_MONTH",
+                    "value": "AUG-16",
+                    "count": 31,
+                    "pivot": [{
+                            "field": "SLA_INDICATOR",
+                            "value": "OVERDUE",
+                            "count": 27
+                        },
+                        {
+                            "field": "SLA_INDICATOR",
+                            "value": "ONTRACK",
+                            "count": 3
+                        }
+                    ]
+                },
+                {
+                    "field": "CREATED_MONTH",
+                    "value": "DEC-15",
+                    "count": 31,
+                    "pivot": [{
+                            "field": "SLA_INDICATOR",
+                            "value": "OVERDUE",
+                            "count": 27
+                        },
+                        {
+                            "field": "SLA_INDICATOR",
+                            "value": "ONTRACK",
+                            "count": 3
+                        }
+                    ]
+                },
+                {
+                    "field": "CREATED_MONTH",
+                    "value": "JAN-16",
+                    "count": 31,
+                    "pivot": [{
+                            "field": "SLA_INDICATOR",
+                            "value": "OVERDUE",
+                            "count": 27
+                        },
+                        {
+                            "field": "SLA_INDICATOR",
+                            "value": "ONTRACK",
+                            "count": 3
+                        }
+                    ]
+                },
+                {
+                    "field": "CREATED_MONTH",
+                    "value": "JUL-16",
+                    "count": 31,
+                    "pivot": [{
+                            "field": "SLA_INDICATOR",
+                            "value": "OVERDUE",
+                            "count": 27
+                        },
+                        {
+                            "field": "SLA_INDICATOR",
+                            "value": "ONTRACK",
+                            "count": 3
+                        }
+                    ]
+                },
+                {
+                    "field": "CREATED_MONTH",
+                    "value": "MAR-16",
+                    "count": 31,
+                    "pivot": [{
+                            "field": "SLA_INDICATOR",
+                            "value": "OVERDUE",
+                            "count": 27
+                        },
+                        {
+                            "field": "SLA_INDICATOR",
+                            "value": "ONTRACK",
+                            "count": 3
+                        }
+                    ]
+                },
+                {
+                    "field": "CREATED_MONTH",
+                    "value": "MAY-16",
+                    "count": 31,
+                    "pivot": [{
+                            "field": "SLA_INDICATOR",
+                            "value": "OVERDUE",
+                            "count": 27
+                        },
+                        {
+                            "field": "SLA_INDICATOR",
+                            "value": "ONTRACK",
+                            "count": 3
+                        }
+                    ]
+                },
+                {
+                    "field": "CREATED_MONTH",
+                    "value": "OCT-15",
+                    "count": 31,
+                    "pivot": [{
+                            "field": "SLA_INDICATOR",
+                            "value": "OVERDUE",
+                            "count": 27
+                        },
+                        {
+                            "field": "SLA_INDICATOR",
+                            "value": "ONTRACK",
+                            "count": 3
+                        }
+                    ]
+                },
+                {
+                    "field": "CREATED_MONTH",
+                    "value": "APR-16",
+                    "count": 30,
+                    "pivot": [{
+                            "field": "SLA_INDICATOR",
+                            "value": "REACHING EXPIRY",
+                            "count": 24
+                        },
+                        {
+                            "field": "SLA_INDICATOR",
+                            "value": "ONTRACK",
+                            "count": 3
+                        },
+                        {
+                            "field": "SLA_INDICATOR",
+                            "value": "OVERDUE",
+                            "count": 2
+                        }
+                    ]
+                },
+                {
+                    "field": "CREATED_MONTH",
+                    "value": "JUN-16",
+                    "count": 30,
+                    "pivot": [{
+                            "field": "SLA_INDICATOR",
+                            "value": "REACHING EXPIRY",
+                            "count": 23
+                        },
+                        {
+                            "field": "SLA_INDICATOR",
+                            "value": "ONTRACK",
+                            "count": 3
+                        },
+                        {
+                            "field": "SLA_INDICATOR",
+                            "value": "OVERDUE",
+                            "count": 3
+                        }
+                    ]
+                },
+                {
+                    "field": "CREATED_MONTH",
+                    "value": "NOV-15",
+                    "count": 30,
+                    "pivot": [{
+                            "field": "SLA_INDICATOR",
+                            "value": "OVERDUE",
+                            "count": 26
+                        },
+                        {
+                            "field": "SLA_INDICATOR",
+                            "value": "ONTRACK",
+                            "count": 3
+                        }
+                    ]
+                },
+                {
+                    "field": "CREATED_MONTH",
+                    "value": "FEB-16",
+                    "count": 29,
+                    "pivot": [{
+                            "field": "SLA_INDICATOR",
+                            "value": "OVERDUE",
+                            "count": 26
+                        },
+                        {
+                            "field": "SLA_INDICATOR",
+                            "value": "ONTRACK",
+                            "count": 2
+                        }
+                    ]
+                },
+                {
+                    "field": "CREATED_MONTH",
+                    "value": "SEP-16",
+                    "count": 23,
+                    "pivot": [{
+                            "field": "SLA_INDICATOR",
+                            "value": "REACHING EXPIRY",
+                            "count": 18
+                        },
+                        {
+                            "field": "SLA_INDICATOR",
+                            "value": "ONTRACK",
+                            "count": 2
+                        },
+                        {
+                            "field": "SLA_INDICATOR",
+                            "value": "OVERDUE",
+                            "count": 2
+                        }
+                    ]
+                },
+                {
+                    "field": "CREATED_MONTH",
+                    "value": "SEP-15",
+                    "count": 6,
+                    "pivot": [{
+                            "field": "SLA_INDICATOR",
+                            "value": "REACHING EXPIRY",
+                            "count": 5
+                        },
+                        {
+                            "field": "SLA_INDICATOR",
+                            "value": "ONTRACK",
+                            "count": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

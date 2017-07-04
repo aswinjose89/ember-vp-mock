@@ -1,0 +1,48 @@
+{
+  "dealCalendar": [
+    {
+      "id": "WB_272",
+      "dealname": null,
+      "dealVersion": null,
+      "eventId": null,
+      "eventDescription": null,
+      "eventDate": null,
+      "lastModifiedDate": null,
+      "lastModifiedBy": null,
+      "actionId": "WB_272",
+      "actionRequestId": "",
+      "description": "New Action 22-Aug-2016",
+      "dueDate": 1471795200000,
+      "assignedTo": [
+        {
+          "psId": "1193293",
+          "firstName": "Carol Karungi",
+          "lastName": ""
+        },
+        {
+          "psId": "1010047",
+          "firstName": "Sapientia Balele",
+          "lastName": ""
+        }
+      ],
+      "delegatedTo": null,
+      "comments": null,
+      "createdById": "1193293",
+      "createdByName": "Carol Karungi",
+      "delegatedById": "",
+      "delegatedByName": "",
+      "createdAt": 1471833086000,
+      "action": "ASSIGNED",
+      "callId": null,
+      "taskId": "WB_272",
+      "actionType": "ASSIGNED",
+      "actionUrl": null,
+      "categoryId": "20150429100191875",
+      "categoryName": "DEAL",
+      "source": null,
+      "acceptedBy": null,
+      "acceptedDate": null,
+      "type": "Action"
+    }
+  ]
+}

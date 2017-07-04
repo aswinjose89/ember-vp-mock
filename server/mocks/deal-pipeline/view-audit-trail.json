@@ -1,0 +1,52 @@
+{"viewAuditTrail": [
+      {
+      "id" : 1,
+      "fieldName": "Deal Access",
+      "oldValue": "",
+      "newValue": "0096",
+      "lastUpdatedBy": "1478048",
+      "lastUpdatedDate": "2014-01-18 00:00:00.0"
+   },
+      {
+        "id" : 2,
+      "fieldName": "Deal Access",
+      "oldValue": "0097",
+      "newValue": "0096",
+      "lastUpdatedBy": "1478048",
+      "lastUpdatedDate": "2014-01-18 00:00:00.0",
+      "memberName": "Carol"
+   },
+      {
+        "id" : 3,
+      "fieldName": "User Name",
+      "oldValue": "",
+      "newValue": "name1",
+      "lastUpdatedBy": "1478048",
+      "lastUpdatedDate": "2014-01-18 00:00:00.0"
+   },
+      {
+        "id" : 4,
+      "fieldName": "Deal Team Role",
+      "oldValue": "",
+      "newValue": "0093",
+      "lastUpdatedBy": "1478048",
+      "lastUpdatedDate": "2014-01-18 00:00:00.0",
+      "memberName":"Carol"
+   },
+      {
+        "id" : 5,
+      "fieldName": "Deal Team Role",
+      "oldValue": "",
+      "newValue": "0092",
+      "lastUpdatedBy": "1478048",
+      "lastUpdatedDate": "2014-01-18 00:00:00.0"
+   },
+      {
+        "id" : 6,
+      "fieldName": "Deal Access",
+      "oldValue": "",
+      "newValue": "0097",
+      "lastUpdatedBy": "1478048",
+      "lastUpdatedDate": "2014-01-18 00:00:00.0"
+   }
+]}

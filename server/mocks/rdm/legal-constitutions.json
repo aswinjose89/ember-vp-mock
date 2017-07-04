@@ -1,0 +1,132 @@
+{
+  "legalConstitutions": [
+    {
+      "code": "07",
+      "description": "Branch Office"
+    },
+    {
+      "code": "08",
+      "description": "Joint Venture"
+    },
+    {
+      "code": "09",
+      "description": "Receivership"
+    },
+    {
+      "code": "10",
+      "description": "Executorship"
+    },
+    {
+      "code": "11",
+      "description": "Trust"
+    },
+    {
+      "code": "12",
+      "description": "Educational Establishment"
+    },
+    {
+      "code": "13",
+      "description": "Religious Establishment"
+    },
+    {
+      "code": "14",
+      "description": "Club, Society or Association"
+    },
+    {
+      "code": "15",
+      "description": "Other Non-Profit Making Entity"
+    },
+    {
+      "code": "16",
+      "description": "Embassy, Consultate, High Commission"
+    },
+    {
+      "code": "17",
+      "description": "Public Sector Entity"
+    },
+    {
+      "code": "18",
+      "description": "Central Government Organization"
+    },
+    {
+      "code": "19",
+      "description": "State Government Organization"
+    },
+    {
+      "code": "20",
+      "description": "Local Government Organization"
+    },
+    {
+      "code": "21",
+      "description": "Standard Chartered Bank Branch"
+    },
+    {
+      "code": "22",
+      "description": "SCB Subsidiary/Associate"
+    },
+    {
+      "code": "23",
+      "description": "Government Controlled Corporation"
+    },
+    {
+      "code": "24",
+      "description": "Statutory Authority (Federal)"
+    },
+    {
+      "code": "25",
+      "description": "Statutory Authority (State)"
+    },
+    {
+      "code": "26",
+      "description": "Private Limited Company - Banks"
+    },
+    {
+      "code": "27",
+      "description": "Public Limited Company - Banks"
+    },
+    {
+      "code": "28",
+      "description": "Private Limited Company - Non Bank Financial Institution"
+    },
+    {
+      "code": "DEFAULTIN",
+      "description": "DEFAULT"
+    },
+    {
+      "code": "04",
+      "description": "Limited Partnership"
+    },
+    {
+      "code": "01",
+      "description": "Natural Person"
+    },
+    {
+      "code": "02",
+      "description": "Sole Proprietor"
+    },
+    {
+      "code": "03",
+      "description": "Partnership"
+    },
+    {
+      "code": "05",
+      "description": "Private Limited Company - Others"
+    },
+    {
+      "code": "06",
+      "description": "Public Limited Company - Others"
+    },
+    {
+      "code": "00",
+      "description": "Non Individual"
+    },
+    {
+      "code": "32",
+      "description": "Development Organisation"
+    },
+    {
+      "code": "29",
+      "description": "Public Limited Company - Non Bank Financial Instituion"
+    }
+  ]
+}

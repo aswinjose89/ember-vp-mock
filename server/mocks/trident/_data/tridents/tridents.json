@@ -1,0 +1,270 @@
+[
+  {
+    "tridentId": "100",
+    "tridentName": "TRIDENT ID 100",
+    "lastUpdatedDate": "10 May 2016",
+    "gamName": "Gam Onee",
+    "groupName": "Group One,Group One",
+    "groupLeId": "2323",
+    "clientCount": "4",
+    "groupCount": "2",
+    "domicileCountry": "India",
+    "unformattedUpdatedDate": 1462854050142,
+    "groupCG": "100A",
+    "wacg": "1A",
+    "accessible": true,
+    "el": "12345.377"
+  },
+  {
+    "tridentId": "113",
+    "tridentName": "TRIDENT ID 113",
+    "wacg": "1A",
+    "groupCG": "3A",
+    "el": "1.377",
+    "lastUpdatedDate": "28 Mar 2016",
+    "creditGrade": "7A",
+    "gamName": "GAM 5",
+    "groupName": "GRP NAME 990004095",
+    "groupLeId": "990004095",
+    "clientCount": "2",
+    "groupCount": "3",
+    "domicileCountry": "INDIA",
+    "unformattedUpdatedDate": 1459126047000,
+    "cat1Cat2Sum": 1244611,
+    "accessible": true
+  },
+  {
+    "tridentId": "102",
+    "tridentName": "TRIDENT ID 102",
+    "wacg": "5A",
+    "groupCG": "6A",
+    "el": "4000.001",
+    "lastUpdatedDate": "28 Mar 2016",
+    "creditGrade": "7A",
+    "gamName": "GAM 5",
+    "groupName": "GRP NAME 990004095",
+    "groupLeId": "990004095",
+    "clientCount": "2",
+    "groupCount": "1",
+    "domicileCountry": "INDIA",
+    "unformattedUpdatedDate": 1459126047000,
+    "cat1Cat2Sum": 1244610,
+    "accessible": true
+  },
+  {
+    "tridentId": "101",
+    "tridentName": "TRIDENT ID 101",
+    "wacg": "2A",
+    "el": ".074",
+    "lastUpdatedDate": "28 Mar 2016",
+    "creditGrade": "5A",
+    "gamName": "GAM 3",
+    "groupName": "GRP NAME 990012826",
+    "groupLeId": "990037118",
+    "clientCount": "2",
+    "groupCount": "1",
+    "domicileCountry": "THAILAND",
+    "unformattedUpdatedDate": 1459126044000,
+    "cat1Cat2Sum": 1244608,
+    "accessible": false,
+    "nonAccessibleEntities": [{
+        "entityName": "xyz",
+        "entityType": "G",
+        "id": "234324324"
+      },{
+        "entityName": "xyz1",
+        "entityType": "C",
+        "id": "234324324"
+      },{
+        "entityName": "pqr1",
+        "entityType": "P",
+        "id": "325234"
+      }]
+  },
+  {
+    "tridentId": "114",
+    "tridentName": "TRIDENT ID 114",
+    "wacg": "3A",
+    "el": "2313.001",
+    "lastUpdatedDate": "28 Mar 2016",
+    "gamName": "GAM1",
+    "groupName": "GROUP_990238712_,GRP NAME 990037118,GRP NAME 990037118,GRP NAME 990037333,GRP NAME 990037333,GRP NAME 990037333,GRP NAME 990037333",
+    "groupLeId": "990238712",
+    "clientCount": "8",
+    "groupCount": "3",
+    "domicileCountry": "PK/SCPK-PAKISTAN",
+    "unformattedUpdatedDate": 1459126041000,
+    "cat1Cat2Sum": 1244609,
+    "accessible": true
+  },
+  {
+    "tridentId": "114",
+    "tridentName": "TRIDENT ID 114",
+    "wacg": "3A",
+    "groupCG": "10A",
+    "el": "2313.001",
+    "lastUpdatedDate": "28 Mar 2016",
+    "gamName": "GAM1",
+    "groupName": "GROUP_990238712_,GRP NAME 990037118,GRP NAME 990037118,GRP NAME 990037333,GRP NAME 990037333,GRP NAME 990037333,GRP NAME 990037333",
+    "groupLeId": "990238712",
+    "clientCount": "1",
+    "groupCount": "0",
+    "domicileCountry": "PK/SCPK-PAKISTAN",
+    "unformattedUpdatedDate": 1459126041000,
+    "cat1Cat2Sum": 1244609,
+    "accessible": false,
+    "nonAccessibleEntities": [{
+        "entityName": "Singapore Global Pte Ltd",
+        "entityType": "G",
+        "id": "2134234"
+      },{
+        "entityName": "Singapore Scoot Pte Ltd",
+        "entityType": "PG",
+        "id": "2134234"
+      },{
+        "entityName": "Singapore Tours & Travel Pte Ltd",
+        "entityType": "C",
+        "id": "2134234"
+      },{
+        "entityName": "Singapore Travel Systems Pte Ltd",
+        "entityType": "P",
+        "id": "2134234"
+      }]
+  },
+  {
+    "tridentId": "199",
+    "tridentName": "TRIDENT ID 199",
+    "wacg": "3A",
+    "groupCG": "10A",
+    "el": "2313.001",
+    "lastUpdatedDate": "28 Mar 2016",
+    "gamName": "GAM1",
+    "groupName": "GROUP_990238712_,GRP NAME 990037118,GRP NAME 990037118,GRP NAME 990037333,GRP NAME 990037333,GRP NAME 990037333,GRP NAME 990037333",
+    "groupLeId": "990238712",
+    "clientCount": "1",
+    "groupCount": "5",
+    "domicileCountry": "PK/SCPK-PAKISTAN",
+    "unformattedUpdatedDate": 1459126041000,
+    "cat1Cat2Sum": 1244609,
+    "accessible": false,
+    "nonAccessibleEntities": [{
+      "entityName": "Singapore Global Pte Ltd",
+      "entityType": "G",
+      "id": "2134234"
+    },{
+      "entityName": "Singapore Scoot Pte Ltd",
+      "entityType": "PG",
+      "id": "2134234"
+    },{
+      "entityName": "Singapore Tours & Travel Pte Ltd",
+      "entityType": "C",
+      "id": "2134234"
+    },{
+      "entityName": "Singapore Travel Systems Pte Ltd",
+      "entityType": "P",
+      "id": "2134234"
+    }]
+  },
+  {
+    "tridentId": "198",
+    "tridentName": "TRIDENT ID 198",
+    "wacg": "3A",
+    "groupCG": "10A",
+    "el": "2313.001",
+    "lastUpdatedDate": "28 Mar 2016",
+    "gamName": "GAM1",
+    "groupName": "GROUP_990238712_,GRP NAME 990037118,GRP NAME 990037118,GRP NAME 990037333,GRP NAME 990037333,GRP NAME 990037333,GRP NAME 990037333",
+    "groupLeId": "990238712",
+    "clientCount": "1",
+    "groupCount": "0",
+    "domicileCountry": "PK/SCPK-PAKISTAN",
+    "unformattedUpdatedDate": 1459126041000,
+    "cat1Cat2Sum": 1244609,
+    "accessible": false,
+    "nonAccessibleEntities": [{
+      "entityName": "Singapore Global Pte Ltd",
+      "entityType": "G",
+      "id": "2134234"
+    },{
+      "entityName": "Singapore Scoot Pte Ltd",
+      "entityType": "PG",
+      "id": "2134234"
+    },{
+      "entityName": "Singapore Tours & Travel Pte Ltd",
+      "entityType": "C",
+      "id": "2134234"
+    },{
+      "entityName": "Singapore Travel Systems Pte Ltd",
+      "entityType": "P",
+      "id": "2134234"
+    }]
+  },
+  {
+    "tridentId": "201",
+    "tridentName": "TRIDENT ID 201",
+    "wacg": "3A",
+    "groupCG": "10A",
+    "el": "2313.001",
+    "lastUpdatedDate": "28 Mar 2016",
+    "gamName": "GAM1",
+    "groupName": "GROUP_990238712_,GRP NAME 990037118,GRP NAME 990037118,GRP NAME 990037333,GRP NAME 990037333,GRP NAME 990037333,GRP NAME 990037333",
+    "groupLeId": "990238712",
+    "clientCount": "1",
+    "groupCount": "0",
+    "domicileCountry": "PK/SCPK-PAKISTAN",
+    "unformattedUpdatedDate": 1459126041000,
+    "cat1Cat2Sum": 1244609,
+    "accessible": false,
+    "nonAccessibleEntities": [{
+      "entityName": "Singapore Global Pte Ltd",
+      "entityType": "G",
+      "id": "2134234"
+    },{
+      "entityName": "Singapore Scoot Pte Ltd",
+      "entityType": "PG",
+      "id": "2134234"
+    },{
+      "entityName": "Singapore Tours & Travel Pte Ltd",
+      "entityType": "C",
+      "id": "2134234"
+    },{
+      "entityName": "Singapore Travel Systems Pte Ltd",
+      "entityType": "P",
+      "id": "2134234"
+    }]
+  },
+  {
+    "tridentId": "205",
+    "tridentName": "TRIDENT ID 205",
+    "wacg": "3A",
+    "groupCG": "10A",
+    "el": "2313.001",
+    "lastUpdatedDate": "28 Mar 2016",
+    "gamName": "GAM1",
+    "groupName": "GROUP_990238712_,GRP NAME 990037118,GRP NAME 990037118,GRP NAME 990037333,GRP NAME 990037333,GRP NAME 990037333,GRP NAME 990037333",
+    "groupLeId": "990238712",
+    "clientCount": "1",
+    "groupCount": "0",
+    "domicileCountry": "PK/SCPK-PAKISTAN",
+    "unformattedUpdatedDate": 1459126041000,
+    "cat1Cat2Sum": 1244609,
+    "accessible": false,
+    "nonAccessibleEntities": [{
+      "entityName": "Singapore Global Pte Ltd",
+      "entityType": "G",
+      "id": "2134234"
+    },{
+      "entityName": "Singapore Scoot Pte Ltd",
+      "entityType": "PG",
+      "id": "2134234"
+    },{
+      "entityName": "Singapore Tours & Travel Pte Ltd",
+      "entityType": "C",
+      "id": "2134234"
+    },{
+      "entityName": "Singapore Travel Systems Pte Ltd",
+      "entityType": "P",
+      "id": "2134234"
+    }]
+  }
+]

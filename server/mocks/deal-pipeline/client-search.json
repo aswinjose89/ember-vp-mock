@@ -1,0 +1,453 @@
+{
+  "dealClients": [{
+    "id": "11046197-1",
+    "entityId": "11046197",
+    "entityType": "CLIENT",
+    "entityName": "HABIBSONS BANK LIMITED",
+    "groupId": "990034477",
+    "groupName": "AGA KHAN FUND FOR ECONOMIC DEVELOPMENT",
+    "subProfileId": 1,
+    "products": []
+  }, {
+    "id": "11000175-1",
+    "entityId": "11000175",
+    "entityType": "CLIENT",
+    "entityName": "ALLIED IRISH BANKS PUBLIC LIMITED COMPANY",
+    "groupId": "990012746",
+    "groupName": "AIB BANK (ALLIED IRISH BANK) GROUP",
+    "subProfileId": 1,
+    "products": []
+  }, {
+    "id": "11000175-2",
+    "entityId": "11000175",
+    "entityType": "CLIENT",
+    "entityName": "ALLIED IRISH BANKS PUBLIC LIMITED COMPANY",
+    "groupId": "990012746",
+    "groupName": "AIB BANK (ALLIED IRISH BANK) GROUP",
+    "subProfileId": 2,
+    "products": []
+  }, {
+    "id": "11000175-3",
+    "entityId": "11000175",
+    "entityType": "CLIENT",
+    "entityName": "ALLIED IRISH BANKS PUBLIC LIMITED COMPANY",
+    "groupId": "990012746",
+    "groupName": "AIB BANK (ALLIED IRISH BANK) GROUP",
+    "subProfileId": 3,
+    "products": ["LEND", "TB", "CF"]
+  }, {
+    "id": "11000175-4",
+    "entityId": "11000175",
+    "entityType": "CLIENT",
+    "entityName": "ALLIED IRISH BANKS PUBLIC LIMITED COMPANY",
+    "groupId": "990012746",
+    "groupName": "AIB BANK (ALLIED IRISH BANK) GROUP",
+    "subProfileId": 4,
+    "products": []
+  }, {
+    "id": "11000175-5",
+    "entityId": "11000175",
+    "entityType": "CLIENT",
+    "entityName": "ALLIED IRISH BANKS PUBLIC LIMITED COMPANY",
+    "groupId": "990012746",
+    "groupName": "AIB BANK (ALLIED IRISH BANK) GROUP",
+    "subProfileId": 5,
+    "products": []
+  }, {
+    "id": "11000175-6",
+    "entityId": "11000175",
+    "entityType": "CLIENT",
+    "entityName": "ALLIED IRISH BANKS PUBLIC LIMITED COMPANY",
+    "groupId": "990012746",
+    "groupName": "AIB BANK (ALLIED IRISH BANK) GROUP",
+    "subProfileId": 6,
+    "products": []
+  }, {
+    "id": "11005482-1",
+    "entityId": "11005482",
+    "entityType": "CLIENT",
+    "entityName": "BTSL/AIB GOVETT (ASIA) LTD",
+    "groupId": "990012746",
+    "groupName": "AIB BANK (ALLIED IRISH BANK) GROUP",
+    "subProfileId": 1,
+    "products": []
+  }, {
+    "id": "11105820-1",
+    "entityId": "11105820",
+    "entityType": "CLIENT",
+    "entityName": "PRACTICAL ACTION",
+    "groupId": "990012746",
+    "groupName": "AIB BANK (ALLIED IRISH BANK) GROUP",
+    "subProfileId": 1,
+    "products": []
+  }, {
+    "id": "11611040-1",
+    "entityId": "11611040",
+    "entityType": "CLIENT",
+    "entityName": "HSBC INSTITUTIONAL TRUST SERV ASIA LTD RCM CHOICE FD RCM BAL FUND",
+    "groupId": "990048314",
+    "groupName": "ALLIANZ SE",
+    "subProfileId": 1,
+    "products": ["LEND"]
+  }, {
+    "id": "11611061-1",
+    "entityId": "11611061",
+    "entityType": "CLIENT",
+    "entityName": "HSBC INSTITUTIONAL TRUST SERV ASIA LTD RCM CHOICE FD RCM GROWTH FD",
+    "groupId": "990048314",
+    "groupName": "ALLIANZ SE",
+    "subProfileId": 1,
+    "products": ["LEND"]
+  }, {
+    "id": "11611060-1",
+    "entityId": "11611060",
+    "entityType": "CLIENT",
+    "entityName": "HSBC INSTITUTIONAL TST SERV ASIA L RCM CHOICE FD RCM CAPITAL STABL FU",
+    "groupId": "990048314",
+    "groupName": "ALLIANZ SE",
+    "subProfileId": 1,
+    "products": ["LEND"]
+  }, {
+    "id": "11044774-1",
+    "entityId": "11044774",
+    "entityType": "CLIENT",
+    "entityName": "BANISTMO S A",
+    "groupId": "990025293",
+    "groupName": "BANCOLOMBIA SA",
+    "subProfileId": 1,
+    "products": ["LEND"]
+  }, {
+    "id": "11018407-1",
+    "entityId": "11018407",
+    "entityType": "CLIENT",
+    "entityName": "BANK HAPOALIM B.M.",
+    "groupId": "990011991",
+    "groupName": "BANK HAPOALIM B.M.",
+    "subProfileId": 1,
+    "products": ["LEND"]
+  }, {
+    "id": "11018473-2",
+    "entityId": "11018473",
+    "entityType": "CLIENT",
+    "entityName": "BANK LEUMI LE-ISRAEL",
+    "groupId": "990003962",
+    "groupName": "BANK LEUMI LE ISRAEL",
+    "subProfileId": 2,
+    "products": ["LEND"]
+  }, {
+    "id": "11062798-1",
+    "entityId": "11062798",
+    "entityType": "CLIENT",
+    "entityName": "BANK AMERICA INTERNATIONAL INVESTMENT CORPORATION, INDIA",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 1,
+    "products": []
+  }, {
+    "id": "11074070-1",
+    "entityId": "11074070",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA MALAYSIA BERHAD",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 1,
+    "products": []
+  }, {
+    "id": "11018414-1",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 1,
+    "products": []
+  }, {
+    "id": "11018414-2",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 2,
+    "products": []
+  }, {
+    "id": "11018414-3",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 3,
+    "products": []
+  }, {
+    "id": "11018414-4",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 4,
+    "products": []
+  }, {
+    "id": "11018414-5",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 5,
+    "products": []
+  }, {
+    "id": "11018414-6",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 6,
+    "products": []
+  }, {
+    "id": "11018414-8",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 8,
+    "products": []
+  }, {
+    "id": "11018414-10",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 10,
+    "products": []
+  }, {
+    "id": "11018414-11",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 11,
+    "products": []
+  }, {
+    "id": "11018414-17",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 17,
+    "products": []
+  }, {
+    "id": "11018414-20",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 20,
+    "products": []
+  }, {
+    "id": "11018414-21",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 21,
+    "products": []
+  }, {
+    "id": "11018414-22",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 22,
+    "products": []
+  }, {
+    "id": "11018414-23",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 23,
+    "products": []
+  }, {
+    "id": "11018414-24",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 24,
+    "products": []
+  }, {
+    "id": "11018414-25",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 25,
+    "products": []
+  }, {
+    "id": "11018414-26",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 26,
+    "products": []
+  }, {
+    "id": "11018414-27",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 27,
+    "products": []
+  }, {
+    "id": "11018414-28",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 28,
+    "products": []
+  }, {
+    "id": "11018414-29",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 29,
+    "products": []
+  }, {
+    "id": "11018414-30",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 30,
+    "products": []
+  }, {
+    "id": "11018414-31",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 31,
+    "products": []
+  }, {
+    "id": "11018414-34",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 34,
+    "products": []
+  }, {
+    "id": "11018414-35",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 35,
+    "products": []
+  }, {
+    "id": "11018414-36",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 36,
+    "products": []
+  }, {
+    "id": "11018414-37",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 37,
+    "products": []
+  }, {
+    "id": "11018414-38",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 38,
+    "products": []
+  }, {
+    "id": "11018414-40",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 40,
+    "products": []
+  }, {
+    "id": "11018414-41",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 41,
+    "products": []
+  }, {
+    "id": "11018414-42",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 42,
+    "products": []
+  }, {
+    "id": "11018414-43",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 43,
+    "products": []
+  }, {
+    "id": "11018414-44",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 44,
+    "products": []
+  }, {
+    "id": "11018414-46",
+    "entityId": "11018414",
+    "entityType": "CLIENT",
+    "entityName": "BANK OF AMERICA NATIONAL ASSOCIATION",
+    "groupId": "990002333",
+    "groupName": "BANK OF AMERICA CORPORATION",
+    "subProfileId": 46,
+    "products": []
+  }]
+}

@@ -1,0 +1,2421 @@
+{
+	"metaDataPayload": {
+		"dealIdRef": "20150703100863971",
+		"checklistSections": [{
+			"sectionCode": "CHKL01",
+			"sectionCodeVal": "009",
+			"sectionDescription": "Internal Approvals / Policies",
+			"sectionId": 1,
+			"checklistItems": [{
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "501",
+				"lineItemDescription": "Name clearance form",
+				"sequenceId": 1,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "502",
+				"lineItemDescription": "Valid CDD in place, or exemption obtained, prior to issuance/drawdown.",
+				"sequenceId": 2,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "001",
+					"optionTypeDescription": "Yes",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "503",
+				"lineItemDescription": "PDR/ Conflicts Clearance approval / updates / closure via Workbench ",
+				"sequenceId": 3,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": true,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": true,
+						"commentsMandatory": true,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "504",
+				"lineItemDescription": "Compliance Approval via Workbench for Onshore/Offshore Pre-Screening (only for deals with linkages to China, India, Indonesia, Korea and Taiwan)",
+				"sequenceId": 4,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "505",
+				"lineItemDescription": "2-year broad-based relationship exemption approval (if applicable)",
+				"sequenceId": 5,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "506",
+				"lineItemDescription": "Secured project folder created ",
+				"sequenceId": 6,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "507",
+				"lineItemDescription": "Project distribution list created",
+				"sequenceId": 7,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "508",
+				"lineItemDescription": "Debt Commitment Committee Approval / Notification  (if applicable)",
+				"sequenceId": 8,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "509",
+				"lineItemDescription": "Underwriting Committee approval obtained (if applicable)",
+				"sequenceId": 9,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "510",
+				"lineItemDescription": "Completed Volcker questionnaire ",
+				"sequenceId": 10,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "511",
+				"lineItemDescription": "Is a Client ESRA held, and (where required) a Transaction ESRA held? Have any issues identified in Client / Transaction ESRA been flagged to the approver /  approving committee (e.g. DCC / UWC), and reflected in the prospectus as appropriate? ",
+				"sequenceId": 11,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "512",
+				"lineItemDescription": "Sign off from FCC in the case of PEP and sanction countries / entities / issues identified (where applicable)",
+				"sequenceId": 12,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}]
+		}, {
+			"sectionCode": "CHKL01",
+			"sectionCodeVal": "010",
+			"sectionDescription": "Client Engagement, Due Diligence and Execution",
+			"sectionId": 2,
+			"checklistItems": [{
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "513",
+				"lineItemDescription": "RFP Response / Indicative Term Sheet / Proposal to client (if any)",
+				"sequenceId": 1,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "514",
+				"lineItemDescription": "Signed NDAs (with client) / Mandate Letter / Backstop Letter/ Underwriting Letter (if any)",
+				"sequenceId": 2,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "515",
+				"lineItemDescription": "Working party list (if any) ",
+				"sequenceId": 3,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "516",
+				"lineItemDescription": "Background checks / investigative due diligence conducted",
+				"sequenceId": 4,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "517",
+				"lineItemDescription": "Record of the dates, venue, times of and participants in each due diligence (\"DD\") meeting/call ",
+				"sequenceId": 5,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "518",
+				"lineItemDescription": "Copy of all relevant DD questionnaires  (for eg. management DD, auditor DD, bring down DD, sanctions DD (if any), etc)",
+				"sequenceId": 6,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "519",
+				"lineItemDescription": "Copy of any file notes on specific DD issues (if any)",
+				"sequenceId": 7,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "520",
+				"lineItemDescription": "Any other regulatory approval / correspondence (if any)",
+				"sequenceId": 8,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "521",
+				"lineItemDescription": "Bloomberg Transaction Announcement, if any",
+				"sequenceId": 9,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "522",
+				"lineItemDescription": "Final written (or email) approval / correspondences from external legal counsel in relation to Bloomberg Transaction Announcement",
+				"sequenceId": 10,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "523",
+				"lineItemDescription": "Confirmation from lawyers or agent that Conditions Precedent have been satisfied",
+				"sequenceId": 11,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "524",
+				"lineItemDescription": "Issuer/Guarantor/Key Borrower is Listed in the UK/EEA ",
+				"sequenceId": 12,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "525",
+				"lineItemDescription": "PoAs executed by Senior SCB PoA Holder (if any)",
+				"sequenceId": 13,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}]
+		}, {
+			"sectionCode": "CHKL01",
+			"sectionCodeVal": "011",
+			"sectionDescription": "Book Building and  Allocation",
+			"sectionId": 3,
+			"checklistItems": [{
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "526",
+				"lineItemDescription": "Final Order Book (including Syndicate comments/rationale against some specific allocations)",
+				"sequenceId": 1,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "527",
+				"lineItemDescription": "Issuer's consent on final allocations (one way notification is sufficient)",
+				"sequenceId": 2,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "528",
+				"lineItemDescription": "Names of Maker and Checker on final allocations in an email from Bond Syndicate",
+				"sequenceId": 3,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}]
+		}, {
+			"sectionCode": "CHKL01",
+			"sectionCodeVal": "012",
+			"sectionDescription": "Annexes-Market Sounding Conducted",
+			"sectionId": 4,
+			"checklistItems": [{
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "529",
+				"lineItemDescription": "Market Sounding Conducted",
+				"sequenceId": 1,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "530",
+				"lineItemDescription": "Wall crossing approval for the personnel conducting the market sounding",
+				"sequenceId": 2,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "531",
+				"lineItemDescription": "Wall crossing approval for investors (for hard sounding only)",
+				"sequenceId": 3,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "532",
+				"lineItemDescription": "Sounding script (for hard sounding only) and Compliance's approval of the script",
+				"sequenceId": 4,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "533",
+				"lineItemDescription": "Market Sounding log- CM To confirm on this question",
+				"sequenceId": 5,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "534",
+				"lineItemDescription": "Non Disclosure Agreement signed by investors for hard sounding",
+				"sequenceId": 6,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}]
+		}, {
+			"sectionCode": "CHKL01",
+			"sectionCodeVal": "013",
+			"sectionDescription": "Annexes-Pre-Deal Research",
+			"sectionId": 5,
+			"checklistItems": [{
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "535",
+				"lineItemDescription": "Pre-Deal Research ",
+				"sequenceId": 1,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "536",
+				"lineItemDescription": "Wall crossing correspondence / script",
+				"sequenceId": 2,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "537",
+				"lineItemDescription": "Research guideline and approvals / guidance from CM Compliance and / or external counsel",
+				"sequenceId": 3,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "538",
+				"lineItemDescription": "Final pre-deal research report",
+				"sequenceId": 4,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "539",
+				"lineItemDescription": "Distribution list of the pre-deal research report",
+				"sequenceId": 5,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}]
+		}, {
+			"sectionCode": "CHKL01",
+			"sectionCodeVal": "014",
+			"sectionDescription": "Annexes-Roadshow(Deal/Non-Deal)",
+			"sectionId": 6,
+			"checklistItems": [{
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "540",
+				"lineItemDescription": "Roadshow (Deal/ Non-Deal)",
+				"sequenceId": 1,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "541",
+				"lineItemDescription": "Non-Deal Roadshow cooling off period observed, if any",
+				"sequenceId": 2,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "542",
+				"lineItemDescription": "Roadshow clearance from Compliance if:",
+				"sequenceId": 3,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "543",
+				"lineItemDescription": "-       Chaperoning required?",
+				"sequenceId": 4,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "544",
+				"lineItemDescription": "-       Licensing required?",
+				"sequenceId": 5,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "545",
+				"lineItemDescription": "Roadshow itinerary (if any)",
+				"sequenceId": 6,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "546",
+				"lineItemDescription": "Roadshow presentation ( if any)",
+				"sequenceId": 7,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}]
+		}, {
+			"sectionCode": "CHKL01",
+			"sectionCodeVal": "015",
+			"sectionDescription": "Annexes-US SEC-Registered Deal",
+			"sectionId": 7,
+			"checklistItems": [{
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "547",
+				"lineItemDescription": "US SEC-Registered Deal",
+				"sequenceId": 1,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "548",
+				"lineItemDescription": "Bona fide Selling Effort Confirmation",
+				"sequenceId": 2,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "549",
+				"lineItemDescription": "Regional CM Head approval ",
+				"sequenceId": 3,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "550",
+				"lineItemDescription": "Master Agreement Among Underwriter (\"MAAU\") and Invite Wire(s) to the extent received",
+				"sequenceId": 4,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "551",
+				"lineItemDescription": "Where an MAAU is used, confirmation of no exceptions to FINRA Questionnaire",
+				"sequenceId": 5,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "552",
+				"lineItemDescription": "Does the selling and distribution section of the offering document contain the best practice language",
+				"sequenceId": 6,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}]
+		}, {
+			"sectionCode": "CHKL01",
+			"sectionCodeVal": "016",
+			"sectionDescription": "Annexes",
+			"sectionId": 8,
+			"checklistItems": [{
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "553",
+				"lineItemDescription": "Contingent Convertible Bonds (CoCo/ CoCo Like) transaction For US SEC registered co-manager CoCo / CoCo-like transactions",
+				"sequenceId": 1,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "554",
+				"lineItemDescription": "For Non-US SEC registered co-manager CoCo / CoCo-like transactions, deal teams should perform “reasonable steps” ",
+				"sequenceId": 2,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}]
+		}, {
+			"sectionCode": "CHKL01",
+			"sectionCodeVal": "017",
+			"sectionDescription": "Post-Execution / Documentation",
+			"sectionId": 9,
+			"checklistItems": [{
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "555",
+				"lineItemDescription": "Legal Sign-offs (where applicable)",
+				"sequenceId": 1,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "556",
+				"lineItemDescription": "Offering Circular / Information Memorandum (if any)",
+				"sequenceId": 2,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "557",
+				"lineItemDescription": "Rating report (if any)",
+				"sequenceId": 3,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "005",
+					"optionTypeDescription": "Yes – NA",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "558",
+				"lineItemDescription": "Final Case Study (if any)",
+				"sequenceId": 4,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "559",
+				"lineItemDescription": "Transaction/Deal Bible/Executed Documents",
+				"sequenceId": 5,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "560",
+				"lineItemDescription": "Deal status and details have been updated in Deal Centre in Workbench upon completion ",
+				"sequenceId": 6,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "561",
+				"lineItemDescription": "Fee Booking Form ",
+				"sequenceId": 7,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "004",
+					"optionTypeDescription": "Yes – No",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "562",
+				"lineItemDescription": "Public Deal Announcement by client (if any) ",
+				"sequenceId": 8,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}, {
+				"lineItemCode": "CHKL02",
+				"lineItemCodeVal": "563",
+				"lineItemDescription": "Client consent has been obtained for use of client name/logo in deal tombstone public advertisements, awards pitches, marketing materials",
+				"sequenceId": 9,
+				"associatedLineItems": null,
+				"guidance": null,
+				"externalAppLink": null,
+				"optionType": {
+					"optionTypeCode": "CHKL03",
+					"optionTypeCodeVal": "006",
+					"optionTypeDescription": "Yes – No – N/A",
+					"optionTypeValidations": [{
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "001",
+						"optionTypeDescription": "Yes",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": true
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "002",
+						"optionTypeDescription": "No",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}, {
+						"optionTypeCode": "CHKL03",
+						"optionTypeCodeVal": "003",
+						"optionTypeDescription": "NA",
+						"manualInputMandatory": false,
+						"commentsMandatory": false,
+						"attachmentsMandatory": false
+					}]
+				},
+				"optionSelected": null,
+				"comment": null,
+				"attachments": null,
+				"dateInputCaptured": null,
+				"autoPopulate": false,
+				"readOnly": false
+			}]
+		}],
+		"attachmentCategories": [{
+			"categoryType": "AD",
+			"description": "Approval Documents"
+		}, {
+			"categoryType": "AWS",
+			"description": "Announcements & Write-ups"
+		}, {
+			"categoryType": "PP",
+			"description": "Pitches/Presentations"
+		}, {
+			"categoryType": "TD",
+			"description": "Transaction Documents "
+		}, {
+			"categoryType": "WF",
+			"description": "Working Files"
+		}]
+	}
+}

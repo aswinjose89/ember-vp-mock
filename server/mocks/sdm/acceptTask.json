@@ -1,0 +1,14 @@
+{
+  "taskAction": {
+	"id": 1,
+    "wbToken": "fhhdsf87s8fsdfdsf9sf",
+	"taskId": "453453",
+	"activityId": null,
+	"actionType": "ACCEPT_TASK",
+	"changesList": null,
+	"loggedInUser": null,
+	"note": null,
+	"success": true,
+	"message": "Task Successfully Accepted."
+  }  
+}

@@ -1,0 +1,21 @@
+{
+	"offboarding/workflowHistorys": [{
+		"id": "12",
+		"action": "Submitted",
+		"comment": "initiated",
+		"updatedBy": "123-VP",
+		"updatedOn": "04 Aug 2016"
+	}, {
+		"id": "13",
+		"action": "Approved",
+		"comment": "-",
+		"updatedBy": "32343-SS",
+		"updatedOn": "19 Aug 2016"
+	}],
+	"meta": {
+		"count": {
+			"total": 2
+		},
+		"totalRecords": 100
+	}
+}

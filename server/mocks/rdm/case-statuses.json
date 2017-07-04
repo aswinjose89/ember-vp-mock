@@ -1,0 +1,44 @@
+{
+  "caseStatuses": [
+    {
+      "code": "S01",
+      "description": "Draft"
+    },
+    {
+      "code": "S016",
+      "description": "In Progress"
+    },
+    {
+      "code": "S02",
+      "description": "Approved"
+    },
+    {
+      "code": "S03",
+      "description": "Under Review"
+    },
+    {
+      "code": "S04",
+      "description": "Overdue for Review"
+    },
+    {
+      "code": "S05",
+      "description": "In Progress-On Hold"
+    },
+    {
+      "code": "S06",
+      "description": "Under Review-On Hold"
+    },
+    {
+      "code": "S11",
+      "description": "Declined"
+    },
+    {
+      "code": "X-S00",
+      "description": "Closed"
+    },
+    {
+      "code": "X02",
+      "description": "Exempted"
+    }
+  ]
+}

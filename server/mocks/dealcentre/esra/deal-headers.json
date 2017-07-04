@@ -1,0 +1,147 @@
+{
+  "dealHeader": {
+    "id": "20150629100863685",
+    "dealRefId": "DEAL-CF-2016-10-1199878",
+    "dealValue": null,
+    "dealDescription": "Deal Description",
+    "dealName": "Test_TTT_VVV",
+    "clientName": null,
+    "dealCloseDate": null,
+    "clientId": null,
+    "domicileCountry": "HK",
+    "dealStage": "0003",
+    "dealExecutionCountry": "AL",
+    "probability": null,
+    "groupId": null,
+    "submittedBy": null,
+    "approvedBy": null,
+    "businessArea": "CF",
+    "dealTeamLeader": [
+      {
+        "userId": "1193293",
+        "name": "Karungi, Carol"
+      }
+    ],
+    "productType": [
+      {
+        "code": "STFI"
+      },
+      {
+        "code": "STFI"
+      },
+      {
+        "code": "STFI"
+      },
+      {
+        "code": "STFI"
+      },
+      {
+        "code": "STFI"
+      }
+    ],
+    "subProductType": [
+      {
+        "code": "AVFI"
+      },
+      {
+        "code": "AVFI"
+      },
+      {
+        "code": "AVFI"
+      },
+      {
+        "code": "AVFI"
+      },
+      {
+        "code": "AVFI"
+      }
+    ],
+    "esraApprovers":[
+    {
+      "id": 1,
+      "name": "EMILY CHOI",
+      "emailId": "Emily.Choi@sc.com",
+      "psId": "1197945"
+    },
+    {
+      "id": 2,
+      "name": "Newman,Peter",
+      "emailId": "Peter.Newman@sc.com",
+      "psId": "1194737"
+    },
+    {
+      "id": 3,
+      "name": "Usman Javed1",
+      "emailId": null,
+      "psId": "1197839"
+    },
+    {
+      "id": 11,
+      "name": "EMILY CHOI1",
+      "emailId": "Emily.Choi@sc.com",
+      "psId": "1197946"
+    },
+    {
+      "id": 21,
+      "name": "Newman,Peter1",
+      "emailId": "Peter.Newman@sc.com",
+      "psId": "1194737"
+    },
+    {
+      "id": 31,
+      "name": "Usman Javed1",
+      "emailId": null,
+      "psId": "1197839"
+    },
+    {
+      "id": 11,
+      "name": "EMILY CHOI44",
+      "emailId": "Emily.Choi@sc.com",
+      "psId": "1197947"
+    },
+    {
+      "id": 21,
+      "name": "Newman,Peter11",
+      "emailId": "Peter.Newman@sc.com",
+      "psId": "1194737"
+    },
+    {
+      "id": 31,
+      "name": "Usman Javed11",
+      "emailId": null,
+      "psId": "1197839"
+    },
+    {
+      "id": 111,
+      "name": "EMILY CHOI11",
+      "emailId": "Emily.Choi@sc.com",
+      "psId": "1197948"
+    }
+  ],
+    "esraActivity": {
+      "id": "20150629100863685",
+      "version": 1,
+      "status": "0001",
+      "outcome": null,
+      "esrmRouteOnly": false,
+      "readOnly": false,
+      "locked": false,
+      "saveDraftEnabled": "N",
+      "submitEnabled": "N",
+      "recallEnabled": "N",
+      "saveEnabled": "E",
+      "approveEnabled": "N",
+      "rejectEnabled": "N",
+      "referBackEnabled": "N",
+      "withdrawEnabled": "N",
+      "reopenEnabled": "N",
+      "deleteEnabled": "E",
+      "referToESRMEnabled": "N",
+      "assignToReviewEnabled": "N",
+      "userRole": false,
+      "userAccess": "EDIT",
+      "lockMessage": "The Transaction ESRA form is currently in use by 1193293 - Karungi, Carol. It will be displayed in Read-Only mode."
+    },
+    "pfam": "1293846 - Yi Hu"
+  }
+}

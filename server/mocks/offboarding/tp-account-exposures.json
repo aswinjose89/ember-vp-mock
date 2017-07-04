@@ -1,0 +1,16 @@
+{
+	"offboarding/tpAccountExposures": [{
+		"exposure": 1000,
+		"expiryDate": "31 dec 2016",
+		"maturity": "29 daus",
+		"id": 4,
+		"limits": 5000,
+		"revenue": 3500
+	}],
+	"meta": {
+		"count": {
+			"total": 1
+		},
+		"totalRecords": 100
+	}
+}

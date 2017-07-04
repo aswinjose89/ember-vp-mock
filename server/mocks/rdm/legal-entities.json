@@ -1,0 +1,412 @@
+{
+  "legalEntities": [
+    {
+      "officeCode": "39",
+      "country": "ZAMBIA",
+      "office": "SCB Zambia",
+      "countryCode": "ZM"
+    },
+    {
+      "officeCode": "25",
+      "country": "BAHRAIN",
+      "office": "SCB Bahrain",
+      "countryCode": "BH"
+    },
+    {
+      "officeCode": "43",
+      "country": "BOTSWANA",
+      "office": "SCB Botswana",
+      "countryCode": "BW"
+    },
+    {
+      "officeCode": "77",
+      "country": "BRUNEI",
+      "office": "SCB Brunei",
+      "countryCode": "BN"
+    },
+    {
+      "officeCode": "47",
+      "country": "LAOS",
+      "office": "SCB Laos",
+      "countryCode": "LA"
+    },
+    {
+      "officeCode": "75",
+      "country": "MACAU",
+      "office": "SCB Macau",
+      "countryCode": "MO"
+    },
+    {
+      "officeCode": "33",
+      "country": "ZIMBABWE",
+      "office": "SCB Zimbabwe",
+      "countryCode": "ZW"
+    },
+    {
+      "officeCode": "62",
+      "country": "TURKEY",
+      "office": "SCB Turkey",
+      "countryCode": "TR"
+    },
+    {
+      "officeCode": "16",
+      "country": "INDIA",
+      "office": "SCB India",
+      "countryCode": "IN"
+    },
+    {
+      "officeCode": "72",
+      "country": "ANGOLA",
+      "office": "SCB Angola",
+      "countryCode": "AO"
+    },
+    {
+      "officeCode": "49",
+      "country": "ARGENTINA",
+      "office": "SCB Argentina",
+      "countryCode": "AR"
+    },
+    {
+      "officeCode": "13",
+      "country": "AUSTRALIA",
+      "office": "SCB Australia",
+      "countryCode": "AU"
+    },
+    {
+      "officeCode": "55",
+      "country": "AUSTRIA",
+      "office": "SCB Austria",
+      "countryCode": "AT"
+    },
+    {
+      "officeCode": "19",
+      "country": "BANGLADESH",
+      "office": "SCB Bangladesh",
+      "countryCode": "BD"
+    },
+    {
+      "officeCode": "48",
+      "country": "BRAZIL",
+      "office": "SCB Brazil",
+      "countryCode": "BR"
+    },
+    {
+      "officeCode": "36",
+      "country": "CAMEROON",
+      "office": "SCB Cameroon",
+      "countryCode": "CM"
+    },
+    {
+      "officeCode": "4",
+      "country": "CHINA",
+      "office": "SCB China",
+      "countryCode": "CN"
+    },
+    {
+      "officeCode": "45",
+      "country": "COTE DIVOIRE",
+      "office": "SCB Cote Divoire",
+      "countryCode": "CI"
+    },
+    {
+      "officeCode": "57",
+      "country": "GERMANY",
+      "office": "SCB Germany",
+      "countryCode": "DE"
+    },
+    {
+      "officeCode": "6",
+      "country": "JAPAN",
+      "office": "SCB Japan",
+      "countryCode": "JP"
+    },
+    {
+      "officeCode": "70",
+      "country": "KOREA SOUTH",
+      "office": "SCFB Korea",
+      "countryCode": "KR"
+    },
+    {
+      "officeCode": "71",
+      "country": "KOREA SOUTH",
+      "office": "SCSK Korea",
+      "countryCode": "KR"
+    },
+    {
+      "officeCode": "8",
+      "country": "MALAYSIA",
+      "office": "SCB Malaysia",
+      "countryCode": "MY"
+    },
+    {
+      "officeCode": "9",
+      "country": "MALAYSIA",
+      "office": "Labuan Offshore",
+      "countryCode": "MY"
+    },
+    {
+      "officeCode": "74",
+      "country": "MOZAMBIQUE",
+      "office": "SCB Mozambique",
+      "countryCode": "MZ"
+    },
+    {
+      "officeCode": "20",
+      "country": "NEPAL",
+      "office": "SCB Nepal",
+      "countryCode": "NP"
+    },
+    {
+      "officeCode": "67",
+      "country": "PERU",
+      "office": "SCB Peru",
+      "countryCode": "PE"
+    },
+    {
+      "officeCode": "7",
+      "country": "SINGAPORE",
+      "office": "SCB Singapore",
+      "countryCode": "SG"
+    },
+    {
+      "officeCode": "18",
+      "country": "SRI LANKA",
+      "office": "SCB Sri Lanka",
+      "countryCode": "LK"
+    },
+    {
+      "officeCode": "21",
+      "country": "UNITED ARAB EMIRATES",
+      "office": "SCB DIFC",
+      "countryCode": "AE"
+    },
+    {
+      "officeCode": "22",
+      "country": "UNITED ARAB EMIRATES",
+      "office": "SCB Dubai",
+      "countryCode": "AE"
+    },
+    {
+      "officeCode": "31",
+      "country": "UNITED STATES",
+      "office": "SCB USA",
+      "countryCode": "US"
+    },
+    {
+      "officeCode": "11",
+      "country": "INDONESIA",
+      "office": "SCB Indonesia",
+      "countryCode": "ID"
+    },
+    {
+      "officeCode": "73",
+      "country": "IRAQ",
+      "office": "SCB Iraq",
+      "countryCode": "IQ"
+    },
+    {
+      "officeCode": "58",
+      "country": "ITALY",
+      "office": "SCB Italy",
+      "countryCode": "IT"
+    },
+    {
+      "officeCode": "28",
+      "country": "LEBANON",
+      "office": "SCB Lebanon",
+      "countryCode": "LB"
+    },
+    {
+      "officeCode": "14",
+      "country": "MAURITIUS",
+      "office": "SCB Mauritius",
+      "countryCode": "MU"
+    },
+    {
+      "officeCode": "52",
+      "country": "MEXICO",
+      "office": "SCB Mexico",
+      "countryCode": "MX"
+    },
+    {
+      "officeCode": "35",
+      "country": "NIGERIA",
+      "office": "SCB Nigeria",
+      "countryCode": "NG"
+    },
+    {
+      "officeCode": "24",
+      "country": "OMAN",
+      "office": "SCB Oman",
+      "countryCode": "OM"
+    },
+    {
+      "officeCode": "12",
+      "country": "PHILIPPINES",
+      "office": "SCB Philippines",
+      "countryCode": "PH"
+    },
+    {
+      "officeCode": "26",
+      "country": "QATAR",
+      "office": "SCB Qatar",
+      "countryCode": "QA"
+    },
+    {
+      "officeCode": "29",
+      "country": "SAUDI ARABIA",
+      "office": "SCB KSA",
+      "countryCode": "SA"
+    },
+    {
+      "officeCode": "42",
+      "country": "SIERRA LEONE",
+      "office": "SCB Sierra Leone",
+      "countryCode": "SL"
+    },
+    {
+      "officeCode": "44",
+      "country": "SOUTH AFRICA",
+      "office": "SCB South Africa",
+      "countryCode": "ZA"
+    },
+    {
+      "officeCode": "60",
+      "country": "SWEDEN",
+      "office": "SCB Sweden",
+      "countryCode": "SE"
+    },
+    {
+      "officeCode": "61",
+      "country": "SWITZERLAND",
+      "office": "SCB Switzerland",
+      "countryCode": "CH"
+    },
+    {
+      "officeCode": "41",
+      "country": "TANZANIA",
+      "office": "SCB Tanzania",
+      "countryCode": "TZ"
+    },
+    {
+      "officeCode": "40",
+      "country": "UGANDA",
+      "office": "SCB Uganda",
+      "countryCode": "UG"
+    },
+    {
+      "officeCode": "68",
+      "country": "VIETNAM",
+      "office": "SCVN Vietnam",
+      "countryCode": "VN"
+    },
+    {
+      "officeCode": "15",
+      "country": "VIETNAM",
+      "office": "SCB Vietnam",
+      "countryCode": "VN"
+    },
+    {
+      "officeCode": "50",
+      "country": "CHILE",
+      "office": "SCB Chile",
+      "countryCode": "CL"
+    },
+    {
+      "officeCode": "51",
+      "country": "COLOMBIA",
+      "office": "SCB Colombia",
+      "countryCode": "CO"
+    },
+    {
+      "officeCode": "56",
+      "country": "FRANCE",
+      "office": "SCB France",
+      "countryCode": "FR"
+    },
+    {
+      "officeCode": "32",
+      "country": "UNITED KINGDOM",
+      "office": "SCB UK",
+      "countryCode": "GB"
+    },
+    {
+      "officeCode": "37",
+      "country": "GHANA",
+      "office": "SCB Ghana",
+      "countryCode": "GH"
+    },
+    {
+      "officeCode": "38",
+      "country": "GAMBIA",
+      "office": "SCB Gambia",
+      "countryCode": "GM"
+    },
+    {
+      "officeCode": "1",
+      "country": "HONG KONG",
+      "office": "SCB HK",
+      "countryCode": "HK"
+    },
+    {
+      "officeCode": "59",
+      "country": "IRELAND",
+      "office": "SCB Ireland",
+      "countryCode": "IE"
+    },
+    {
+      "officeCode": "27",
+      "country": "JORDAN",
+      "office": "SCB Jordan",
+      "countryCode": "JO"
+    },
+    {
+      "officeCode": "34",
+      "country": "KENYA",
+      "office": "SCB Kenya",
+      "countryCode": "KE"
+    },
+    {
+      "officeCode": "46",
+      "country": "CAMBODIA",
+      "office": "SCB Cambodia",
+      "countryCode": "KH"
+    },
+    {
+      "officeCode": "30",
+      "country": "PAKISTAN",
+      "office": "SCB Pakistan",
+      "countryCode": "PK"
+    },
+    {
+      "officeCode": "69",
+      "country": "THAILAND",
+      "office": "SCBT Thailand",
+      "countryCode": "TH"
+    },
+    {
+      "officeCode": "2",
+      "country": "TAIWAN",
+      "office": "SCB Taipei Branch",
+      "countryCode": "TW"
+    },
+    {
+      "officeCode": "3",
+      "country": "TAIWAN",
+      "office": "SCB Taiwan",
+      "countryCode": "TW"
+    },
+    {
+      "officeCode": "54",
+      "country": "VENEZUELA",
+      "office": "SCB Venezuela",
+      "countryCode": "VE"
+    },
+    {
+      "officeCode": "76",
+      "country": "LUXEMBOURG",
+      "office": "SCB Luxembourg",
+      "countryCode": "LU"
+    }
+  ]
+}

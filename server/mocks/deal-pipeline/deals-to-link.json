@@ -1,0 +1,56 @@
+{
+    "dealsToLink": [{
+        "id": 1213,
+        "operation": "CHANGE",
+        "sequence": 14234324,
+        "transactionId": "23423423",
+        "dealName": "DEAL-FM-2016-01",
+        "owner": "Barnao,Dan",
+        "productGroup": "FM",
+        "salesStage": "Marketing",
+        "comments":{
+            "sections": null,
+            "parameter": null,
+            "id": "20160922095602059000082",
+            "operation": null,
+            "sequence": 1474509246515,
+            "transactionId": "20161116022140669000002",
+            "statusFlag": null,
+            "notesType": "DEAL_DSC",
+            "comments": "test"
+        },
+        "notifyDealOwner": false,
+        "dealId": "42342342",
+        "privateDealFM": "privetedealfm",
+        "expectedCloseDate": "26 Sep 2016",
+        "xrefId":"DEAL-FM-2016-01-1231313124"
+    },
+    {
+                "id": 2343,
+                "operation": "CHANGE",
+                "sequence": 314234324,
+                "transactionId": "323423423",
+                "dealName": "DEAL-FM-2016-01",
+                "owner": "Barnao,Dan",
+                "productGroup": "FM",
+                "salesStage": "Marketing",
+                "comments":{
+                                "sections": null,
+                                "parameter": null,
+                                "id": "20160922095602059000082",
+                                "operation": null,
+                                "sequence": 1474509246515,
+                                "transactionId": "20161116022140669000002",
+                                "statusFlag": null,
+                                "notesType": "DEAL_DSC",
+                                "comments": "test"
+                            },
+                "notifyDealOwner": false,
+                "dealId": "342342342",
+                "privateDealFM": "privetedealfm",
+                "expectedCloseDate": "26 Sep 2016",
+                "xrefId":"DEAL-FM-2016-01-234234234235254257"
+            }
+
+]
+}

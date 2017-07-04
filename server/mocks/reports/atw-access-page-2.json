@@ -1,0 +1,107 @@
+{
+    "reportAtwAccess": [
+        {
+            "id": 3,
+            "psId": "2221297014",
+            "firstName": "Sean",
+            "lastName": "Wallace",
+            "preferredName": "Wallace,Sean Robert",
+            "email": "Sean.Wallace@sc.com",
+            "pseudoPsId": "1001049",
+            "pseudoFirstName": "Alun",
+            "pseudoLastName": null,
+            "pseudoPreferredName": "Rees,Alun Michael Guest",
+            "pseudoEmail": "Mike.Rees@sc.com",
+            "department": "NA",
+            "ldapRoles": [
+                "GM",
+                "CDD_REPORT_VIEWER"
+            ],
+            "atwAccess": [
+                "Region: All"
+            ],
+            "managementRoles": [
+                "GLOBAL HEAD - CIC"
+            ],
+            "ldapRolesList": "GM,CDD_REPORT_VIEWER",
+            "atwAccessList": "Region: All",
+            "managementRolesList": "GLOBAL HEAD - CIC",
+            "regionName": "ALL",
+            "countryName": "ALL",
+            "segmentName": "ALL",
+            "subSegmentName": null,
+            "productGroupName": "ALL",
+            "productTypeName": "ALL",
+            "subProductTypeName": "ALL",
+            "industryName": "ALL",
+            "ldapRolesForToolTip2": {
+                "primary": "GM",
+                "subValues": [
+                    "GM",
+                    "CDD_REPORT_VIEWER"
+                ]
+            },
+            "atwAccessForToolTip2": {
+                "primary": "Region: All",
+                "subValues": []
+            },
+            "managementRolesForToolTip2": {
+                "primary": "GLOBAL HEAD - CIC",
+                "subValues": []
+            }
+        },
+        {
+            "id": 4,
+            "psId": "2221297014",
+            "firstName": "Sean",
+            "lastName": "Wallace",
+            "preferredName": "Wallace,Sean Robert",
+            "email": "Sean.Wallace@sc.com",
+            "pseudoPsId": "1001049",
+            "pseudoFirstName": "Alun",
+            "pseudoLastName": null,
+            "pseudoPreferredName": "Rees,Alun Michael Guest",
+            "pseudoEmail": "Mike.Rees@sc.com",
+            "department": "OCC",
+            "ldapRoles": [
+                "GM",
+                "CDD_REPORT_VIEWER"
+            ],
+            "atwAccess": [
+                "Region: All"
+            ],
+            "managementRoles": [
+                "GLOBAL HEAD - CIC"
+            ],
+            "ldapRolesList": "GM,CDD_REPORT_VIEWER",
+            "atwAccessList": "Region: All",
+            "managementRolesList": "GLOBAL HEAD - CIC",
+            "regionName": "ALL",
+            "countryName": "ALL",
+            "segmentName": "ALL",
+            "subSegmentName": null,
+            "productGroupName": "ALL",
+            "productTypeName": "ALL",
+            "subProductTypeName": "ALL",
+            "industryName": "ALL",
+            "ldapRolesForToolTip2": {
+                "primary": "GM",
+                "subValues": [
+                    "GM",
+                    "CDD_REPORT_VIEWER"
+                ]
+            },
+            "atwAccessForToolTip2": {
+                "primary": "Region: All",
+                "subValues": []
+            },
+            "managementRolesForToolTip2": {
+                "primary": "GLOBAL HEAD - CIC",
+                "subValues": []
+            }
+        }
+    ],
+    "meta": {
+        "total": "4"
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "documents": [
+    {
+      "status_code": "100",
+      "status_message": "uploaded successfully"
+    },
+    {
+      "status_code": "101",
+      "status_message": "Duplicate File"
+    },
+    {
+      "status_code": "102",
+      "status_message": "Failed to uplaod"
+    }
+  ]
+}

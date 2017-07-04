@@ -1,0 +1,31 @@
+{
+  "replaceRamUserLists":  [{
+         "id":1,
+         "groupName": "Macsteel Groupqq33",
+         "groupId": "90003561",
+         "clientName": "11074113 - JP Morgan",
+         "clientId": "11074113",
+         "region": "AFRICA",
+         "country": "Zambia",
+         "entityType": "Client",
+         "segment": "Global Corporate",
+         "subSegment": "Metal Traders",
+         "clientCount": 12
+    },{
+         "id":2,
+         "groupName": "Macsteel Groupqq",
+         "groupId": "90003562",
+         "clientName": "11074113 - JP Morgan",
+         "clientId": "11074113",
+         "region": "AFRICA",
+         "country": "Zambia",
+         "entityType": "Client",
+         "segment": "Global Corporate",
+         "subSegment": "Metal Traders",
+         "clientCount": 13
+    }],
+  "meta": {
+    "page": 1,
+    "records": 20
+  }
+}

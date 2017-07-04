@@ -1,0 +1,1996 @@
+{
+  "countries": [
+    {
+      "code": "ZM",
+      "description": "ZAMBIA",
+      "vat": "N",
+      "region": "AFRICA",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "AX",
+      "description": "ALAND ISLANDS",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "UM",
+      "description": "UNITED STATES MINOR OUTLYING ISLANDS",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "AG",
+      "description": "ANTIGUA AND BARBUDA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "BH",
+      "description": "BAHRAIN",
+      "vat": "N",
+      "region": "MENAP",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "BY",
+      "description": "BELARUS",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "BJ",
+      "description": "BENIN",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "BO",
+      "description": "BOLIVIA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "BW",
+      "description": "BOTSWANA",
+      "vat": "N",
+      "region": "AFRICA",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "BN",
+      "description": "BRUNEI",
+      "vat": "N",
+      "region": "ASEAN",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "BI",
+      "description": "BURUNDI",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "CA",
+      "description": "CANADA",
+      "vat": "N",
+      "region": "AMERICAS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "CF",
+      "description": "CENTRAL AFRICAN REPUBLIC",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "CG",
+      "description": "CONGO REPUBLIC OF THE",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "HR",
+      "description": "CROATIA",
+      "vat": "Y",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "CY",
+      "description": "CYPRUS",
+      "vat": "Y",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "DK",
+      "description": "DENMARK",
+      "vat": "Y",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "DM",
+      "description": "DOMINICA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "TF",
+      "description": "FRENCH SOUTHERN AND ARCTIC LANDS",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "LA",
+      "description": "LAOS",
+      "vat": "N",
+      "region": "ASEAN",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "MO",
+      "description": "MACAU",
+      "vat": "N",
+      "region": "GREATER CHINA",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "ME",
+      "description": "MONTENEGRO",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "PY",
+      "description": "PARAGUAY",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "KN",
+      "description": "SAINT KITTS AND NEVIS",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "SN",
+      "description": "SENEGAL",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "SX",
+      "description": "SINT MAARTEN",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "VC",
+      "description": "ST. VINCENT AND THE GRENADINES",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "ZW",
+      "description": "ZIMBABWE",
+      "vat": "N",
+      "region": "AFRICA",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "TR",
+      "description": "TURKEY",
+      "vat": "N",
+      "region": "EUROPE",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "IN",
+      "description": "INDIA",
+      "vat": "N",
+      "region": "SOUTH ASIA",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "AF",
+      "description": "AFGHANISTAN",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Prohibited"
+    },
+    {
+      "code": "AL",
+      "description": "ALBANIA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "DZ",
+      "description": "ALGERIA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "AS",
+      "description": "AMERICAN SAMOA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "AD",
+      "description": "ANDORRA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "AO",
+      "description": "ANGOLA",
+      "vat": "N",
+      "region": "AFRICA",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "AI",
+      "description": "ANGUILLA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "AQ",
+      "description": "ANTARCTICA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "AR",
+      "description": "ARGENTINA",
+      "vat": "N",
+      "region": "AMERICAS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "AM",
+      "description": "ARMENIA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "AW",
+      "description": "ARUBA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "AU",
+      "description": "AUSTRALIA",
+      "vat": "N",
+      "region": "ASEAN",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "AT",
+      "description": "AUSTRIA",
+      "vat": "Y",
+      "region": "EUROPE",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "AZ",
+      "description": "AZERBAIJAN",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "BS",
+      "description": "BAHAMAS",
+      "vat": "N",
+      "region": "AMERICAS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "BD",
+      "description": "BANGLADESH",
+      "vat": "N",
+      "region": "SOUTH ASIA",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "BB",
+      "description": "BARBADOS",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "BE",
+      "description": "BELGIUM",
+      "vat": "Y",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "BZ",
+      "description": "BELIZE",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "BM",
+      "description": "BERMUDA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "BT",
+      "description": "BHUTAN",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "BQ",
+      "description": "BONAIRE, SINT EUSTATIUS AND SABA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "BA",
+      "description": "BOSNIA AND HERZEGOVINA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "BV",
+      "description": "BOUVET ISLAND",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "BR",
+      "description": "BRAZIL",
+      "vat": "N",
+      "region": "AMERICAS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "VG",
+      "description": "BRITISH VIRGIN ISLANDS",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "BG",
+      "description": "BULGARIA",
+      "vat": "Y",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "BF",
+      "description": "BURKINA FASO",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "CM",
+      "description": "CAMEROON",
+      "vat": "N",
+      "region": "AFRICA",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "CV",
+      "description": "CAPE VERDE",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "KY",
+      "description": "CAYMAN ISLANDS",
+      "vat": "N",
+      "region": "AMERICAS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "TD",
+      "description": "CHAD",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "CN",
+      "description": "CHINA",
+      "vat": "N",
+      "region": "GREATER CHINA",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "CC",
+      "description": "COCOS (KEELING) ISLANDS",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "KM",
+      "description": "COMOROS",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "CD",
+      "description": "CONGO DEMOCRATIC REPUBLIC OF THE",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "CI",
+      "description": "COTE DIVOIRE",
+      "vat": "N",
+      "region": "AFRICA",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "CU",
+      "description": "CUBA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Prohibited"
+    },
+    {
+      "code": "DJ",
+      "description": "DJIBOUTI",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "TL",
+      "description": "EAST TIMOR",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "EG",
+      "description": "EGYPT",
+      "vat": "N",
+      "region": "MENAP",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "ER",
+      "description": "ERITREA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "EE",
+      "description": "ESTONIA",
+      "vat": "Y",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "ET",
+      "description": "ETHIOPIA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "FO",
+      "description": "FAROE ISLANDS",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "FJ",
+      "description": "FIJI",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "PF",
+      "description": "FRENCH POLYNESIA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "GE",
+      "description": "GEORGIA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "DE",
+      "description": "GERMANY",
+      "vat": "Y",
+      "region": "EUROPE",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "GI",
+      "description": "GIBRALTAR",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "GD",
+      "description": "GRENADA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "GG",
+      "description": "GUERNSEY",
+      "vat": "N",
+      "region": "EUROPE",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "GY",
+      "description": "GUYANA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "VA",
+      "description": "HOLY SEE (VATICAN CITY)",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "JP",
+      "description": "JAPAN",
+      "vat": "N",
+      "region": "NE ASIA",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "JE",
+      "description": "JERSEY",
+      "vat": "N",
+      "region": "EUROPE",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "KZ",
+      "description": "KAZAKHSTAN",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "KR",
+      "description": "KOREA SOUTH",
+      "vat": "N",
+      "region": "NE ASIA",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "KG",
+      "description": "KYRGYZSTAN",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "LS",
+      "description": "LESOTHO",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "MY",
+      "description": "MALAYSIA",
+      "vat": "N",
+      "region": "ASEAN",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "YT",
+      "description": "MAYOTTE",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "MZ",
+      "description": "MOZAMBIQUE",
+      "vat": "N",
+      "region": "AFRICA",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "NP",
+      "description": "NEPAL",
+      "vat": "N",
+      "region": "SOUTH ASIA",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "NI",
+      "description": "NICARAGUA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "MP",
+      "description": "NORTHERN MARIANA ISLANDS",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "PA",
+      "description": "PANAMA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "PG",
+      "description": "PAPUA NEW GUINEA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "PE",
+      "description": "PERU",
+      "vat": "N",
+      "region": "AMERICAS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "PN",
+      "description": "PITCAIRN ISLANDS",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "GS",
+      "description": "S. GEORGIA & THE S. SANDWICH ISLANDS",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "PM",
+      "description": "SAINT PIERRE AND MIQUELON",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "SM",
+      "description": "SAN MARINO",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "SG",
+      "description": "SINGAPORE",
+      "vat": "N",
+      "region": "ASEAN",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "ES",
+      "description": "SPAIN",
+      "vat": "Y",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "LK",
+      "description": "SRI LANKA",
+      "vat": "N",
+      "region": "SOUTH ASIA",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "SJ",
+      "description": "SVALBARD AND JAN MAYEN",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "TJ",
+      "description": "TAJIKISTAN",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "TC",
+      "description": "TURKS AND CAICOS ISLANDS",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "AE",
+      "description": "UNITED ARAB EMIRATES",
+      "vat": "N",
+      "region": "MENAP",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "US",
+      "description": "UNITED STATES",
+      "vat": "N",
+      "region": "AMERICAS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "VI",
+      "description": "VIRGIN ISLANDS",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "YE",
+      "description": "YEMEN",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "GR",
+      "description": "GREECE",
+      "vat": "Y",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "GP",
+      "description": "GUADELOUPE",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "GU",
+      "description": "GUAM",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "GN",
+      "description": "GUINEA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "HT",
+      "description": "HAITI",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "HM",
+      "description": "HEARD AND MCDONALD ISLANDS",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "HN",
+      "description": "HONDURAS",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "IS",
+      "description": "ICELAND",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "ID",
+      "description": "INDONESIA",
+      "vat": "N",
+      "region": "ASEAN",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "IQ",
+      "description": "IRAQ",
+      "vat": "N",
+      "region": "MENAP",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "IL",
+      "description": "ISRAEL",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "IT",
+      "description": "ITALY",
+      "vat": "Y",
+      "region": "EUROPE",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "JM",
+      "description": "JAMAICA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "KI",
+      "description": "KIRIBATI",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "LV",
+      "description": "LATVIA",
+      "vat": "Y",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "LB",
+      "description": "LEBANON",
+      "vat": "N",
+      "region": "MENAP",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "LR",
+      "description": "LIBERIA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "LY",
+      "description": "LIBYA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "LT",
+      "description": "LITHUANIA",
+      "vat": "Y",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "LU",
+      "description": "LUXEMBOURG",
+      "vat": "Y",
+      "region": "EUROPE",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "MK",
+      "description": "MACEDONIA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "MG",
+      "description": "MADAGASCAR",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "MW",
+      "description": "MALAWI",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "MV",
+      "description": "MALDIVES",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "ML",
+      "description": "MALI",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "MT",
+      "description": "MALTA",
+      "vat": "Y",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "MH",
+      "description": "MARSHALL ISLANDS",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "MQ",
+      "description": "MARTINIQUE",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "MU",
+      "description": "MAURITIUS",
+      "vat": "N",
+      "region": "AFRICA",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "MX",
+      "description": "MEXICO",
+      "vat": "N",
+      "region": "AMERICAS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "FM",
+      "description": "MICRONESIA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "MD",
+      "description": "MOLDOVA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "MC",
+      "description": "MONACO",
+      "vat": "Y",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "MN",
+      "description": "MONGOLIA",
+      "vat": "N",
+      "region": "NE ASIA",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "MS",
+      "description": "MONTSERRAT",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "MA",
+      "description": "MOROCCO",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "MM",
+      "description": "MYANMAR",
+      "vat": "N",
+      "region": "ASEAN",
+      "vatRegistrationStatus": null,
+      "type": "Prohibited"
+    },
+    {
+      "code": "NA",
+      "description": "NAMIBIA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "NR",
+      "description": "NAURU",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "NZ",
+      "description": "NEW ZEALAND",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "NE",
+      "description": "NIGER",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "NG",
+      "description": "NIGERIA",
+      "vat": "N",
+      "region": "AFRICA",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "NF",
+      "description": "NORFOLK ISLAND",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "NO",
+      "description": "NORWAY",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "OM",
+      "description": "OMAN",
+      "vat": "N",
+      "region": "MENAP",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "PW",
+      "description": "PALAU",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "PS",
+      "description": "PALESTINIAN TERRITORIES",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "PH",
+      "description": "PHILIPPINES",
+      "vat": "N",
+      "region": "ASEAN",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "PL",
+      "description": "POLAND",
+      "vat": "Y",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "PT",
+      "description": "PORTUGAL",
+      "vat": "Y",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "QA",
+      "description": "QATAR",
+      "vat": "N",
+      "region": "MENAP",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "RO",
+      "description": "ROMANIA",
+      "vat": "Y",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "RU",
+      "description": "RUSSIA",
+      "vat": "N",
+      "region": "EUROPE",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "RW",
+      "description": "RWANDA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "BL",
+      "description": "SAINT BARTHELEMY",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "LC",
+      "description": "SAINT LUCIA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "MF",
+      "description": "SAINT MARTIN",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "WS",
+      "description": "SAMOA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "ST",
+      "description": "SAO TOME AND PRINCIPE",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "SA",
+      "description": "SAUDI ARABIA",
+      "vat": "N",
+      "region": "MENAP",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "RS",
+      "description": "SERBIA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "SL",
+      "description": "SIERRA LEONE",
+      "vat": "N",
+      "region": "AFRICA",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "SI",
+      "description": "SLOVENIA",
+      "vat": "Y",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "SB",
+      "description": "SOLOMON ISLANDS",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "ZA",
+      "description": "SOUTH AFRICA",
+      "vat": "N",
+      "region": "AFRICA",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "SD",
+      "description": "SUDAN",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Prohibited"
+    },
+    {
+      "code": "SR",
+      "description": "SURINAME",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "SZ",
+      "description": "SWAZILAND",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "SE",
+      "description": "SWEDEN",
+      "vat": "Y",
+      "region": "EUROPE",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "CH",
+      "description": "SWITZERLAND",
+      "vat": "N",
+      "region": "EUROPE",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "TZ",
+      "description": "TANZANIA",
+      "vat": "N",
+      "region": "AFRICA",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "TG",
+      "description": "TOGO",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "TO",
+      "description": "TONGA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "TT",
+      "description": "TRINIDAD AND TOBAGO",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "TN",
+      "description": "TUNISIA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "TM",
+      "description": "TURKMENISTAN",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "TV",
+      "description": "TUVALU",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "UG",
+      "description": "UGANDA",
+      "vat": "N",
+      "region": "AFRICA",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "UZ",
+      "description": "UZBEKISTAN",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "VU",
+      "description": "VANUATU",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "VN",
+      "description": "VIETNAM",
+      "vat": "N",
+      "region": "ASEAN",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "CK",
+      "description": "COOK ISLANDS",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "CL",
+      "description": "CHILE",
+      "vat": "N",
+      "region": "AMERICAS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "CO",
+      "description": "COLOMBIA",
+      "vat": "N",
+      "region": "AMERICAS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "CR",
+      "description": "COSTA RICA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "CW",
+      "description": "CURACAO",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "CX",
+      "description": "CHRISTMAS ISLAND",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "CZ",
+      "description": "CZECH REPUBLIC",
+      "vat": "Y",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "DO",
+      "description": "DOMINICAN REPUBLIC",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "EC",
+      "description": "ECUADOR",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "EH",
+      "description": "WESTERN SAHARA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "FI",
+      "description": "FINLAND",
+      "vat": "Y",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "FK",
+      "description": "FALKLAND ISLANDS",
+      "vat": "N",
+      "region": "EUROPE",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "FR",
+      "description": "FRANCE",
+      "vat": "Y",
+      "region": "EUROPE",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "GA",
+      "description": "GABON",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "GB",
+      "description": "UNITED KINGDOM",
+      "vat": "Y",
+      "region": "EUROPE",
+      "vatRegistrationStatus": null,
+      "type": "Prohibited"
+    },
+    {
+      "code": "GF",
+      "description": "FRENCH GUIANA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "GH",
+      "description": "GHANA",
+      "vat": "N",
+      "region": "AFRICA",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "GL",
+      "description": "GREENLAND",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "GM",
+      "description": "GAMBIA",
+      "vat": "N",
+      "region": "AFRICA",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "GQ",
+      "description": "EQUATORIAL GUINEA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "GT",
+      "description": "GUATEMALA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "GW",
+      "description": "GUINEA-BISSAU",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "HK",
+      "description": "HONG KONG",
+      "vat": "N",
+      "region": "GREATER CHINA",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "HU",
+      "description": "HUNGARY",
+      "vat": "Y",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "IE",
+      "description": "IRELAND",
+      "vat": "Y",
+      "region": "EUROPE",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "IM",
+      "description": "ISLE OF MAN",
+      "vat": "Y",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "IO",
+      "description": "BRITISH INDIAN OCEAN TERRITORY",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "IR",
+      "description": "IRAN",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Prohibited"
+    },
+    {
+      "code": "JO",
+      "description": "JORDAN",
+      "vat": "N",
+      "region": "MENAP",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "KE",
+      "description": "KENYA",
+      "vat": "N",
+      "region": "AFRICA",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "KH",
+      "description": "CAMBODIA",
+      "vat": "N",
+      "region": "ASEAN",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "KP",
+      "description": "KOREA NORTH",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Prohibited"
+    },
+    {
+      "code": "KW",
+      "description": "KUWAIT",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "LI",
+      "description": "LIECHTENSTEIN",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "MR",
+      "description": "MAURITANIA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "NC",
+      "description": "NEW CALEDONIA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "NL",
+      "description": "NETHERLANDS",
+      "vat": "Y",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "NU",
+      "description": "NIUE",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "PK",
+      "description": "PAKISTAN",
+      "vat": "N",
+      "region": "MENAP",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "PR",
+      "description": "PUERTO RICO",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "RE",
+      "description": "REUNION",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "SC",
+      "description": "SEYCHELLES",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "SH",
+      "description": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "SK",
+      "description": "SLOVAKIA",
+      "vat": "Y",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "SO",
+      "description": "SOMALIA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "SV",
+      "description": "EL SALVADOR",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "SY",
+      "description": "SYRIA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "Prohibited"
+    },
+    {
+      "code": "TH",
+      "description": "THAILAND",
+      "vat": "N",
+      "region": "ASEAN",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "TK",
+      "description": "TOKELAU",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "TW",
+      "description": "TAIWAN",
+      "vat": "N",
+      "region": "GREATER CHINA",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "UA",
+      "description": "UKRAINE",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "UY",
+      "description": "URUGUAY",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "VE",
+      "description": "VENEZUELA",
+      "vat": "N",
+      "region": "AMERICAS",
+      "vatRegistrationStatus": null,
+      "type": "Referred"
+    },
+    {
+      "code": "WF",
+      "description": "WALLIS AND FUTUNA",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    },
+    {
+      "code": "LN",
+      "description": "LABUAN",
+      "vat": "N",
+      "region": "OTHERS",
+      "vatRegistrationStatus": null,
+      "type": "No Restrictions"
+    }
+  ]
+}

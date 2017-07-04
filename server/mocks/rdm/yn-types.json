@@ -1,0 +1,12 @@
+{
+  "ynTypes": [
+    {
+      "code": "Y",
+      "description": "Yes"
+    },
+    {
+      "code": "N",
+      "description": "No"
+    }
+  ]
+}

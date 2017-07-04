@@ -1,0 +1,22 @@
+[
+  {
+    "supportTypeCode": "1",
+    "supportTypeDesc": "Contractual (unqualified)"
+  },
+  {
+    "supportTypeCode": "2",
+    "supportTypeDesc": "Contractual (qualified)"
+  },
+  {
+    "supportTypeCode": "3",
+    "supportTypeDesc": "Non-Contractual (unqualified)"
+  },
+  {
+    "supportTypeCode": "4",
+    "supportTypeDesc": "Non-Contractual (qualified)"
+  },
+  {
+    "supportTypeCode": "5",
+    "supportTypeDesc": "None (standalone)"
+  }
+]

@@ -1,0 +1,28 @@
+{
+   "meta":{
+      "totalRecords": 1
+   },
+   "dealActivities": [   
+   {
+      "dealRefId": "DEAL-CF-2015-10-868356",
+      "dealId": "20151015100868356",
+      "dealName": "ReferbackDeal",
+      "activityId": "20151015100868361",
+      "activityStatus": "Under Review",
+      "activityName": "0002",
+      "productGroup": "CF",
+      "productGroupDesc": "Corporate Finance",
+      "decision": "test",
+      "dealPriceMarket": null,
+      "drivingRM": null,
+      "volckerQ1": "N",
+      "volckerQ2": "N",
+      "lastUpdated": 1444908697868,
+      "lastUpdatedBy": "1193293 - Karungi, Carol",
+      "products": ["product", "test"],
+      "subProducts": ["M&A Advisory","test"],
+      "dealRegions": ["EUROPE","test"]
+   }
+   ]
+   
+}

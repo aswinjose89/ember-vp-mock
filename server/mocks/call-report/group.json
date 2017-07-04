@@ -1,0 +1,32 @@
+{
+  "callReportSummarySearch": [
+      {
+      "id": "123-cxcbxcv",
+      "entityId": "990209232",
+      "entityName": "(CCIIB-CI)",
+      "entityType": "G",
+      "subProfileId": null,
+      "groupId": "990209232",
+      "groupName": "(CCIIB-CI)",
+      "clientId": null,
+      "clientName": null,
+      "dealStage": null,
+      "privateDeal": false,
+      "productGroup": null
+   },
+      {
+      "id": 124,     
+      "entityId": "990222446",
+      "entityName": "0THE OPTIONS CLEARING CORPORATION",
+      "entityType": "G",
+      "subProfileId": null,
+      "groupId": "990222446",
+      "groupName": "0THE OPTIONS CLEARING CORPORATION",
+      "clientId": null,
+      "clientName": null,
+      "dealStage": null,
+      "privateDeal": false,
+      "productGroup": null
+   }
+]
+}

@@ -1,0 +1,418 @@
+{
+  "fatcaInfoDocumentCategories": [
+    {
+      "code": "W-8BEN",
+      "description": "W-8BEN",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "NLG",
+      "description": "Proof of non-lethal goods/transactions",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "NDG",
+      "description": "Proof of non-defence goods/transactions",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "NDBZ",
+      "description": "Proof of 0% involvement in Defence Goods and Armaments business",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "NDRR",
+      "description": "Proof of <20% defence related revenue",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "IFDDC",
+      "description": "Individual FATCA Due Diligence Checklist",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "MD3W8BEN",
+      "description": "MD3 W-8BEN screen-print",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "MD3W8ECI",
+      "description": "MD3 W-8ECI screen-print",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "MD3W8EXP",
+      "description": "MD3 W-8EXP screen-print",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "MD3W8IMY",
+      "description": "MD3 W-8IMY screen-print",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "MD3W9",
+      "description": "MD3 W-9 screen-print",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "MD3WBENE",
+      "description": "MD3 W-8BEN-E screen-print",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "W-8ECI",
+      "description": "W-8ECI",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "W-8BEN-E",
+      "description": "W-8BEN-E",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "W-8IMY",
+      "description": "W-8IMY",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "W-8EXP",
+      "description": "W-8EXP",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "W-9",
+      "description": "W-9",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "OTHER",
+      "description": "Other FATCA Documentation",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "PDPA_N",
+      "description": "Personal Data Protection Acknowledgement",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "MOS_N",
+      "description": "Management and Ownership Structure",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "RLOC_N",
+      "description": "Registration / License / Other Certificates",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "PICS_N",
+      "description": "Public Information / Company searches",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "CD_N",
+      "description": "Constitutional documents",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "CAD_N",
+      "description": "Corporate authorization documents",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "RC_N",
+      "description": "RM Confirmation",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "SS_N",
+      "description": "Sanctions search",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "CI_N",
+      "description": "Client Information",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "TCE_N",
+      "description": "Tax Certificate / Exemption",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "FAL_N",
+      "description": "FCA Acknowledgement Letters",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "FCD_N",
+      "description": "FATCA Consent to Disclose",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "FRC_N",
+      "description": "FATCA Reporting Consent",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "FWC_N",
+      "description": "FATCA Withholding Consent",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "AT_N",
+      "description": "Account Terms",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "STI_N",
+      "description": "Standard Terms Integrated",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "CCS_N",
+      "description": "Consolidated Country Supplement",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "UDAF_N",
+      "description": "User Designation  Form",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "SDA_N",
+      "description": "Straight2Bank Designation ",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "RDL_N",
+      "description": "Risk Disclosure Letter",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "FCRE",
+      "description": "FCC Exemption",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "FCRA",
+      "description": "FCC Approval",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "CA",
+      "description": "Country Addendum",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "DG",
+      "description": "Defense Goods Documents",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "DGCEOA",
+      "description": "Defense Goods Documents â€“ Country",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "DGWBMGA",
+      "description": "Defense Goods Documents â€“ WBMG Approval",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "MCF",
+      "description": "MIFID CCA Form",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "MCNL",
+      "description": "MIFID Client Notification Letter",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "ME",
+      "description": "MIFID Evidence",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "NOC",
+      "description": "Norkom Offline Checks",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "TED",
+      "description": "Trigger Event Documents",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "CCAP",
+      "description": "PEP Assessment Country CEO Approval",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "APE_N",
+      "description": "Address Proof/Evidence",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "PEP",
+      "description": "PEP Assessment",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "STQ",
+      "description": "Correspondent Banking Standard Questionnaire",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "TMF",
+      "description": "Transaction Monitoring Form",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "USP",
+      "description": "US Patriot Act Certificate",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "WBC",
+      "description": "CIC CDD Sanctions Questionnaire",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "OTH",
+      "description": "Various",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "MSBQ",
+      "description": "MSB Questionnaire / MSB Evaluation Sheet",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "AN",
+      "description": "Adverse News",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "BSU",
+      "description": "Bearer Shares Undertaking",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "BA",
+      "description": "Branch Addendum",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "CL",
+      "description": "Confirmation Letter",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "CBE",
+      "description": "Correspondent Banking Evaluation",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "IAPE",
+      "description": "ID Proof/Evidence",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "NR",
+      "description": "Norkom Result",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "NOI",
+      "description": "AML call report",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "BSD",
+      "description": "Bearer Share Declaration",
+      "isActive": null,
+      "isFatcaRelevant": null
+    },
+    {
+      "code": "TAXDFORM",
+      "description": "Entity Tax Declaration Form",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    },
+    {
+      "code": "TAXVFORM",
+      "description": "Entity Tax Declaration Form Validation",
+      "isActive": "Y",
+      "isFatcaRelevant": "Y"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "coftTask": {
+    "id": 546,
+    "clientExits": [{
+      "entityName": "Client Name",
+      "entityId": 123,
+      "id": 56,
+      "groupName": "Client",
+      "groupId": "91118799",
+      "region": "Asia",
+      "domicileCountry": "India",
+      "segment": "Global Corporate",
+      "segmentCode": "K",
+      "subSegment": "Global Corporate",
+      "subSegmentCode": "K1",
+      "action": "REFERBACK",
+      "changeKey": "1110",
+      "uniqueKey": "1110",
+      "clientCount": 16
+    }],
+    "tpTrackerTasks": [{
+      "accountNumber": "400009798 ",
+      "accountName": "CUST NAME 27003593",
+      "product": "ATLAS",
+      "productGroup": "Financial Market",
+      "entityId": 11001822,
+      "entityName": "L NAME 11001822",
+      "processingTeam": "ATLAS",
+      "exitType": "Account",
+      "futureDate": "12 May 2017",
+      "closureReason": "reason",
+      "tpTaskId": "12345678",
+      "status": "OPEN",
+      "changeKey": "1110",
+      "uniqueKey": "1110",
+      "id": "400009798",
+      "tpXrefStatus": "tp Xref Status",
+      "accountTxnStatus": "Account Status"
+    }],
+    "taskInfo": {
+      "id": "132",
+      "taskId": "1",
+      "activityId": "2",
+      "initiatedBy": "Tet",
+      "initiatedOn": "Date",
+      "taskStatus": "Pending",
+      "taskCompletedFlag": false,
+      "assignedTo": "1325951",
+      "acceptedBy": "1325951"
+    },
+    "meta": {
+      "clientExitCount": 200,
+      "clientExitIds": ["1234", "3456"],
+      "locationExitCount": 2,
+      "accountExitCount": 3,
+      "taskTrackerCount": 36,
+      "clientSummaryTotalCount": 50,
+      "taskTrackerStatusCount" : {
+        "ALL" : 10,
+        "PENDING_COFT_REVIEW" : 1,
+        "EXITING" : 2,
+        "FUTURE_ACTION" : 3,
+        "PENDING_TP_CLOSURE" : 5,
+        "PENDING_SCI_CLOSURE" : 2,
+        "PENDING_RMA_CLOSURE" : 4,
+        "CLOSED" : 0,
+        "TP_REFER_BACK" : 5,
+        "REFERBACK" : 2
+      },
+      "changeKeys": ["1110"]
+    }
+  }
+}

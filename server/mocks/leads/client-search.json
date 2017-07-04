@@ -1,0 +1,504 @@
+{
+  "leadClients": [
+    {
+      "id": "20214032P01511946_0",
+      "entityId": "20214032",
+      "entityType": "P",
+      "entityName": "\tHUNAN LEAD LEATHER CO.,LTD",
+      "groupId": null,
+      "groupName": null,
+      "subProfileId": "0",
+      "products": null
+    },
+    {
+      "id": "12241455C11511946_0",
+      "entityId": "12241455",
+      "entityType": "C",
+      "entityName": "\"CHINESE WOMAN\" AGRO CHEMICALS",
+      "groupId": null,
+      "groupName": null,
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "13351901C11511946_0",
+      "entityId": "13351901",
+      "entityType": "C",
+      "entityName": "\"H.E.L.P THE GAMBIA\"",
+      "groupId": null,
+      "groupName": null,
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "11265262C11511946_0",
+      "entityId": "11265262",
+      "entityType": "C",
+      "entityName": "\"ICM \"\"LOGISTICS\"\" SERVICES LIMITED\"",
+      "groupId": null,
+      "groupName": null,
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "11066235C11511946_990214340",
+      "entityId": "11066235",
+      "entityType": "C",
+      "entityName": "\"K\" STEAMSHIP AGENCIES PRIVATE LIMITED",
+      "groupId": "990214340",
+      "groupName": "K STEAMSHIP GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "11107158C11511946_0",
+      "entityId": "11107158",
+      "entityType": "C",
+      "entityName": "\"SEVENTY-EIGHT\" REST HOUSE SOCIETY",
+      "groupId": null,
+      "groupName": null,
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "12366345C11511946_0",
+      "entityId": "12366345",
+      "entityType": "C",
+      "entityName": "\"SHADES\"",
+      "groupId": null,
+      "groupName": null,
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "11237611C11511946_990032469",
+      "entityId": "11237611",
+      "entityType": "C",
+      "entityName": "&C. INC",
+      "groupId": "990032469",
+      "groupName": "DENTSU GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "20277333P01511946_0",
+      "entityId": "20277333",
+      "entityType": "P",
+      "entityName": "( B. V. I. )GREIT UNITED INC. TAIWAN BRANCH",
+      "groupId": null,
+      "groupName": null,
+      "subProfileId": "0",
+      "products": null
+    },
+    {
+      "id": "11308769C11511946_990092631",
+      "entityId": "11308769",
+      "entityType": "C",
+      "entityName": "(GULF FOOTWEAR CO. (L.L.C",
+      "groupId": "990092631",
+      "groupName": "SHANKAR TRADING GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "11190520C11511946_0",
+      "entityId": "11190520",
+      "entityType": "C",
+      "entityName": "(HK) DIMAN TECHNOLOGY CO., LIMITED",
+      "groupId": null,
+      "groupName": null,
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "13482068C11511946_990277436",
+      "entityId": "13482068",
+      "entityType": "C",
+      "entityName": "(INC)CAMBRIDGE HOUSE",
+      "groupId": "990277436",
+      "groupName": "LAND STATE CO LTD",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "20272723P01511946_0",
+      "entityId": "20272723",
+      "entityType": "P",
+      "entityName": "(MOHAMMED FUAD) M. A. ALSHARIF",
+      "groupId": null,
+      "groupName": null,
+      "subProfileId": "0",
+      "products": null
+    },
+    {
+      "id": "20268177P01511946_0",
+      "entityId": "20268177",
+      "entityType": "P",
+      "entityName": "(ì£¼)ë°œë¡ ",
+      "groupId": null,
+      "groupName": null,
+      "subProfileId": "0",
+      "products": null
+    },
+    {
+      "id": "20268172P01511946_990044432",
+      "entityId": "20268172",
+      "entityType": "P",
+      "entityName": "(ì£¼)ì—ìŠ¤ë¹„ì”¨ì¼€ì´",
+      "groupId": "990044432",
+      "groupName": "SOFT BANK CORP",
+      "subProfileId": "0",
+      "products": null
+    },
+    {
+      "id": "20268175P01511946_0",
+      "entityId": "20268175",
+      "entityType": "P",
+      "entityName": "(ì£¼)ì—ìŠ¤ì— ì¼€ì´ì¸í„°ë‚´ì…”ë‚ ",
+      "groupId": null,
+      "groupName": null,
+      "subProfileId": "0",
+      "products": null
+    },
+    {
+      "id": "20276161P01511946_0",
+      "entityId": "20276161",
+      "entityType": "P",
+      "entityName": "(ì£¼)ì—ì´ì•Œ",
+      "groupId": null,
+      "groupName": null,
+      "subProfileId": "0",
+      "products": null
+    },
+    {
+      "id": "20291951P01511946_990019692",
+      "entityId": "20291951",
+      "entityType": "P",
+      "entityName": ". JOYALUKKAS JEWELLERY INTERNATIONAL PTE. LTD.",
+      "groupId": "990019692",
+      "groupName": "JOY ALUKKAS JEWELLERY LLC GROUP",
+      "subProfileId": "0",
+      "products": null
+    },
+    {
+      "id": "20290507PG01511946_0",
+      "entityId": "20290507",
+      "entityType": "P",
+      "entityName": "0",
+      "groupId": null,
+      "groupName": null,
+      "subProfileId": "0",
+      "products": null
+    },
+    {
+      "id": "20270827P01511946_0",
+      "entityId": "20270827",
+      "entityType": "P",
+      "entityName": "0",
+      "groupId": null,
+      "groupName": null,
+      "subProfileId": "0",
+      "products": null
+    },
+    {
+      "id": "11538508C11511946_0",
+      "entityId": "11538508",
+      "entityType": "C",
+      "entityName": "001 SOURCE TECHNOLOGY INC LIMITED",
+      "groupId": null,
+      "groupName": null,
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "11693244C11511946_990025022",
+      "entityId": "11693244",
+      "entityType": "C",
+      "entityName": "0137-PENSION BENEFIT GUARANTY CORPORATION",
+      "groupId": "990025022",
+      "groupName": "WELLINGTON MANAGEMENT COMPANY LLP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "11339609C11511946_990010344",
+      "entityId": "11339609",
+      "entityType": "C",
+      "entityName": "02236349",
+      "groupId": "990010344",
+      "groupName": "UBS GROUP AG",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "13542924C11511946_0",
+      "entityId": "13542924",
+      "entityType": "C",
+      "entityName": "03 PETROLEUM AND LOGISTICS SERVICES LIMITED",
+      "groupId": null,
+      "groupName": null,
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "12397505C11511946_990022282",
+      "entityId": "12397505",
+      "entityType": "C",
+      "entityName": "1 A M DAILY FUND MANAGED BY ONE ASSET MANAGED LTD",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "13562620C11511946_990022282",
+      "entityId": "13562620",
+      "entityType": "C",
+      "entityName": "1 A M ENHANCED FINANCIAL INSTRUMENTS FUND 3M1",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "13562621C11511946_990022282",
+      "entityId": "13562621",
+      "entityType": "C",
+      "entityName": "1 A M ENHANCED FINANCIAL INSTRUMENTS FUND 3M2",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "11324050C11511946_990022282",
+      "entityId": "11324050",
+      "entityType": "C",
+      "entityName": "1 A M FINANCIAL INSTRUMENTS FUND 6M/1",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "13562622C11511946_990022282",
+      "entityId": "13562622",
+      "entityType": "C",
+      "entityName": "1 A M FINANCIAL INSTRUMENTS FUND 6M/2",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "12014103C11511946_990022282",
+      "entityId": "12014103",
+      "entityType": "C",
+      "entityName": "1 A M FIXED INCOME FUND 3M1 MANAGED BY ONE ASSET MANAGEMENT CO LTD",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "11928744C11511946_990022282",
+      "entityId": "11928744",
+      "entityType": "C",
+      "entityName": "1 A M FIXED INCOME FUND 3M2 MANAGED BY ONE ASSET MANAGEMENT LIMITED",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "13562623C11511946_990022282",
+      "entityId": "13562623",
+      "entityType": "C",
+      "entityName": "1 A M FIXED INCOME FUND 4Y/1",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "13562624C11511946_990022282",
+      "entityId": "13562624",
+      "entityType": "C",
+      "entityName": "1 A M FIXED INCOME FUND 6M3",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "12400045C11511946_990022282",
+      "entityId": "12400045",
+      "entityType": "C",
+      "entityName": "1 A M FIXED INCOME PLUS FUND 6M MANAGED BY ONE ASSET MANAGED LTD",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "13562628C11511946_990022282",
+      "entityId": "13562628",
+      "entityType": "C",
+      "entityName": "1 A M FLEXIBLE AUTOMATIC REDEMPTION FUND",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "13385164C11511946_990022282",
+      "entityId": "13385164",
+      "entityType": "C",
+      "entityName": "1 A M GLOBAL BOND FUND MGD BY ONE ASSET MGT",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "13546003C11511946_990022282",
+      "entityId": "13546003",
+      "entityType": "C",
+      "entityName": "1 A M GLOBAL FLEXIBLE FUND MGD BY ONE ASSET MGT",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "13385167C11511946_990022282",
+      "entityId": "13385167",
+      "entityType": "C",
+      "entityName": "1 A M GLOBAL FUND 2 MGD BY ONE ASSET MGT",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "13385116C11511946_990022282",
+      "entityId": "13385116",
+      "entityType": "C",
+      "entityName": "1 A M GLOBAL OPPORTUNITY BOND DIVIDEND FUND MGD BY ONE ASSET MGT",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "13385129C11511946_990022282",
+      "entityId": "13385129",
+      "entityType": "C",
+      "entityName": "1 A M GLOBAL OPPORTUNITY BOND FUND MGD BY ONE ASSET MGT",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "13562625C11511946_990022282",
+      "entityId": "13562625",
+      "entityType": "C",
+      "entityName": "1 A M SMART LONG TERM EQUITY FUND",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "13562626C11511946_990022282",
+      "entityId": "13562626",
+      "entityType": "C",
+      "entityName": "1 A M THAI GOVERNMENT BOND FUND",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "13562627C11511946_990022282",
+      "entityId": "13562627",
+      "entityType": "C",
+      "entityName": "1 A M VALUED STOCK FUND DIVIDEND FUND",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "11359413C11511946_990022282",
+      "entityId": "11359413",
+      "entityType": "C",
+      "entityName": "1 A.M. FINANCIAL INSTRUMENTS FUND 6M/2 MANAGED BY ONE ASSET MANAGEMENT",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "12131703C11511946_990022282",
+      "entityId": "12131703",
+      "entityType": "C",
+      "entityName": "1 A.M. FIXED INCOME FUND 3M2",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "12081087C11511946_990022282",
+      "entityId": "12081087",
+      "entityType": "C",
+      "entityName": "1 A.M. FIXED INCOME FUND 6M3 MANAGED BY ONE ASSET MANAGEMENT LIMITED",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "12081003C11511946_990022282",
+      "entityId": "12081003",
+      "entityType": "C",
+      "entityName": "1 A.M. FIXED INCOME FUND 6M4 MANAGED BY ONE ASSET MGT CO LTD",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "12124243C11511946_990022282",
+      "entityId": "12124243",
+      "entityType": "C",
+      "entityName": "1 A.M. FIXED-INCOME FUND 3M1",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "11230148C11511946_990022282",
+      "entityId": "11230148",
+      "entityType": "C",
+      "entityName": "1 A.M. FOREIGN FIXED INCOME FUND 1Y/1",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    },
+    {
+      "id": "11307850C11511946_990022282",
+      "entityId": "11307850",
+      "entityType": "C",
+      "entityName": "1 A.M. FOREIGN FIXED INCOME FUND 1Y/2",
+      "groupId": "990022282",
+      "groupName": "ONE ASSET MANAGEMENT GROUP",
+      "subProfileId": "1",
+      "products": null
+    }
+  ]
+}

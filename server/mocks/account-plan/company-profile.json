@@ -1,0 +1,57 @@
+{
+  "company-profile": {
+    "id": "20161234567890",
+    "entitlements":{
+        "id":"121234",
+        "edit": true,
+        "view": true
+    },
+    "staticInformation": {
+        "id": "G",
+        "entityName":"CONAIR GROUP",
+        "group": {
+          "id": "990002021",
+          "name": "CONAIR GROUP",
+          "stripe": "Striped",
+          "productTag": [
+            "FM",
+            "TB"
+          ],
+          "topNext": "Top Next 100",
+          "segment": "GLOBAL CORPORATES",
+          "subSegment": null,
+          "gamName": "Vahid Sazegara",
+          "gamLocation": "United States",
+          "pfamName": "Vahid Sazegara",
+          "pfamLocation": "United States",
+          "sciId": null,
+          "onboardingStatus": null,
+          "cddStatus": null,
+          "domicileregion": "India",
+          "incorporationCountry": "United States",
+          "legalConstitution": "Singapore"
+        },
+        "client": {
+          "id": "990007882021",
+          "name": "CONAIR GROUP",
+          "stripe": "Striped",
+          "productTag": [
+            "FM",
+            "TB"
+          ],
+          "segment": "GLOBAL CORPORATES",
+          "subSegment": null,
+          "pfamName": "Vahid Sazegara",
+          "pfamLocation": "United States"
+        },
+        "prospect": {
+          "id": "9900026021",
+          "name": "CONAIR GROUP",
+          "segment": "GLOBAL CORPORATES",
+          "subSegment": null,
+          "prospectOwner": "Vahid Sazegara",
+          "prospectOwnerLoc": "United States"
+        }
+    }
+  }
+}

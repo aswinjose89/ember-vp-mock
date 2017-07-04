@@ -1,0 +1,22 @@
+{
+	"closedDeals": {
+    "id" : "12341234123",
+		"dealList": [{
+			"id": 123761234512354173512,
+			"operation": null,
+			"sequence": 2197057092989164,
+			"revenue": 2,
+			"productGroup": "Corporate Finance",
+			"status": "Won - Mandated",
+			"wonLostDate": 1407240387000,
+			"reason": "Pricing Won",
+			"dealType": "PUBLIC",
+			"product": null,
+			"val": "201405301002234635",
+			"topDeal": null,
+			"hasDealAccess": true,
+			"name": "New HKD CASA",
+			"enableEditor": true
+		}]
+	}
+}

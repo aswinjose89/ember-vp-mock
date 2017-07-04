@@ -1,0 +1,53 @@
+{
+  "leadsPicklist": {
+    "id": 1,
+    "disqualifyReason": [
+      {
+        "id": 1,
+        "code": "R1",
+        "label": "Reason 1",
+        "description": "Reason 1",
+        "shortDescription": null,
+        "longDescription": null,
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      },
+      {
+        "id": 2,
+        "code": "R2",
+        "label": "Reason 2",
+        "description": "Reason 2",
+        "shortDescription": null,
+        "longDescription": null,
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      }
+    ],
+    "leadType": [
+      {
+        "id": 1,
+        "code": "L1",
+        "label": "Lead Type 1",
+        "description": "Lead Type 1",
+        "shortDescription": null,
+        "longDescription": null,
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      },
+      {
+        "id": 2,
+        "code": "L2",
+        "label": "Lead Type 2",
+        "description": "Lead Type 2",
+        "shortDescription": null,
+        "longDescription": null,
+        "param1": "",
+        "param2": "",
+        "param3": ""
+      }
+    ]
+  }
+}

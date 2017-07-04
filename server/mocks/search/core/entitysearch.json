@@ -1,0 +1,101 @@
+{
+  "searchEntity": "prospect",
+  "chartDetails": null,
+  "prospect": {
+    "startIndex": 0,
+    "searchResults": [
+      {
+        "groupId": "990214340",
+        "groupName": "K STEAMSHIP GROUP",
+        "subProfileId": 1,
+        "userPsid": "1511946",
+        "entityId": "11066235",
+        "entityType": "C",
+        "entityName": "\"K\" STEAMSHIP AGENCIES PRIVATE LIMITED"
+      },
+      {
+        "groupId": "990281265",
+        "groupName": "ANCIENT STEAMSHIP COMPANY LIMITED",
+        "subProfileId": 1,
+        "userPsid": "1511946",
+        "entityId": "11104184",
+        "entityType": "C",
+        "entityName": "ANCIENT STEAMSHIP COMPANY LIMITED"
+      },
+      {
+        "groupId": "990281265",
+        "groupName": "ANCIENT STEAMSHIP COMPANY LIMITED",
+        "subProfileId": 0,
+        "userPsid": "1511946",
+        "entityId": "990281265",
+        "entityType": "G",
+        "entityName": "ANCIENT STEAMSHIP COMPANY LIMITED"
+      },
+      {
+        "groupId": null,
+        "groupName": null,
+        "subProfileId": 0,
+        "userPsid": "1511946",
+        "entityId": "0001234138",
+        "entityType": "P",
+        "entityName": "CHOWGULE STEAMSHIPS LIMITED"
+      },
+      {
+        "groupId": "990214340",
+        "groupName": "K STEAMSHIP GROUP",
+        "subProfileId": 0,
+        "userPsid": "1511946",
+        "entityId": "990214340",
+        "entityType": "G",
+        "entityName": "K STEAMSHIP GROUP"
+      },
+      {
+        "groupId": "990056740",
+        "groupName": "SITC GROUP",
+        "subProfileId": 0,
+        "userPsid": "1511946",
+        "entityId": "1008013610",
+        "entityType": "P",
+        "entityName": "SITC STEAMSHIPS CO., LTD. TAIWAN BRANCH"
+      },
+      {
+        "groupId": "990049656",
+        "groupName": "FIG LLC",
+        "subProfileId": 1,
+        "userPsid": "1511946",
+        "entityId": "11312235",
+        "entityType": "C",
+        "entityName": "STEAMSHIP TRADE ASSOC. OF BALTIMORE PENSION"
+      },
+      {
+        "groupId": "990067698",
+        "groupName": "LOOMIS SAYLES AND COMPANY LP",
+        "subProfileId": 1,
+        "userPsid": "1511946",
+        "entityId": "13550389",
+        "entityType": "C",
+        "entityName": "THE LONDON STEAMSHIP OWNERS MUTUAL INSURANCE ASSOCIATION BERMUDA LTD"
+      },
+      {
+        "groupId": "990025022",
+        "groupName": "WELLINGTON MANAGEMENT COMPANY LLP",
+        "subProfileId": 1,
+        "userPsid": "1511946",
+        "entityId": "11297376",
+        "entityType": "C",
+        "entityName": "THE STEAMSHIP MUTUAL UNDERWRITING ASSOCIATION TRUSTEES BERMUDA LTD"
+      },
+      {
+        "groupId": "990152111",
+        "groupName": "THE VALLES",
+        "subProfileId": 1,
+        "userPsid": "1511946",
+        "entityId": "12600540",
+        "entityType": "C",
+        "entityName": "VALLES STEAMSHIP COMPANY, LIMITED"
+      }
+    ],
+    "numFound": 10,
+    "rows": 10
+  }
+}

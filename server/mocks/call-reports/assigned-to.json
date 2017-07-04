@@ -1,0 +1,58 @@
+{
+	"assigneeDetails": [{
+		"psId": "1547374",
+		"department": "Branch Banking-Sathupradit",
+		"phoneNumber": "069724488",
+		"name": "Bargavi",
+		"psIdAndName" : "1547374 - Bargavi"
+	}, {
+		"psId": "1165679",
+		"department": "Fraud Investigation",
+		"phoneNumber": "668 1 8352115",
+		"name": "Bargavi",
+		"psIdAndName" : "1165679 - Palmer"
+	}, {
+		"psId": "1236860",
+		"department": "CB - Dist - TSM",
+		"phoneNumber": "+0092 3459338844",
+		"name": "Bargavi",
+		"psIdAndName" : "1236860 - Teddy"
+	}, {
+		"psId": "1236895",
+		"department": "CB - Dist - TSM",
+		"name": "Bargavi",
+		"psIdAndName" : "1236895 - Vinay"
+	}, {
+		"psId": "1547376",
+		"department": "CB - Dist - TSM",
+		"phoneNumber": "0092 322 4445795",
+		"name": "Bargavi",
+		"psIdAndName" : "1547376 - Krishna"
+	}, {
+		"psId": "1155689",
+		"department": "Br. Banking-The Mall Ram",
+		"name": "Bargavi",
+		"psIdAndName" : "1155689 - Amit"
+	}, {
+		"psId": "1547375",
+		"department": "Area Ops South - IS - CHN",
+		"phoneNumber": "984/172-5747",
+		"name": "Bargavi",
+		"psIdAndName" : "1547375 - Manoj"
+	}, {
+		"psId": "1273994",
+		"department": "CB - Dist - PFC",
+		"name": "Bargavi",
+		"psIdAndName" : "1273994 - Veda"
+	}, {
+		"psId": "1236833",
+		"department": "CB - Dist - Teller Services",
+		"name": "Bargavi",
+		"psIdAndName" : "1236833 - Sriram"
+	}, {
+		"psId": "1199634",
+		"department": "SD - C&IB - Cash - Products -",
+		"name": "Bargavi",
+		"psIdAndName" : "1199634 - Akhilan"
+	}]
+}

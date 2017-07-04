@@ -1,0 +1,44 @@
+{
+  "adverseMedia": [
+    {
+      "code": "A1",
+      "description": "Sanctions"
+    },
+    {
+      "code": "A2",
+      "description": "Money Laundering"
+    },
+    {
+      "code": "A3",
+      "description": "Fraud"
+    },
+    {
+      "code": "A4",
+      "description": "Bribery/Corruption"
+    },
+    {
+      "code": "A5",
+      "description": "Significant Action against listed"
+    },
+    {
+      "code": "A6",
+      "description": "company"
+    },
+    {
+      "code": "A7",
+      "description": "Internal Control Failures"
+    },
+    {
+      "code": "A8",
+      "description": "Other Regulatory Action"
+    },
+    {
+      "code": "A9",
+      "description": "Other Adverse Media or Negative"
+    },
+    {
+      "code": "A10",
+      "description": "News"
+    }
+  ]
+}

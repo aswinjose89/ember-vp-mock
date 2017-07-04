@@ -1,0 +1,124 @@
+{
+  "ap-client-information": {
+    "id": "20161234567890",
+    "testdata": "Sekar Test",
+    "readOnly": true,
+    "name": "client information model",
+    "businessDesc": {
+      "notes": "businessDesc Comments Test",
+      "id": "20160906181316281529381101"
+    },
+    "keyResentDesc": {
+      "notes": "keyResentDesc Comments Test",
+      "id": "201609061813162815293811445"
+    },
+    "clientCompetitiveDesc": {
+      "notes": "clientCompetitiveDesc Comments Test",
+      "id": "201609061813162815293811446"
+    },
+    "businessRiskDesc": {
+      "notes": "businessRiskDesc Comments Test",
+      "id": "201609061813162815293811447"
+    },
+    "buyingBehaviourDesc": {
+      "notes": "buyingBehaviourDesc Comments Test",
+      "id": "2016090618131628152938114478"
+    },
+    "clientOperAccStatus": true,
+    "clientIsdaStatus": false,
+    "scbCreditGrade": {
+      "idCode": "TBCM006202",
+      "id": "GTC022",
+      "val": "GTC022",
+      "name": "B Grade",
+      "longDescription": "Duzon",
+      "status": "A",
+      "appGroup": "TBCM",
+      "displayOrder": 1
+    },
+    "externalRating": "456",
+    "promoterContrlClientStatus": true,
+    "groupOwnerShipDesc": {
+      "notes": "groupOwnerShipDesc Comment",
+      "id": "20160906181316281529381144744"
+    },
+    "ecosystemTableData": [{
+      "id": "123334333",
+      "counterPartyName": "",
+      "operation": "ADD",
+      "entityType": {
+        "idCode": "TBCM006202",
+        "id": "CIET1",
+        "val": "1",
+        "name": "Suppliers",
+        "longDescription": "Suppliers",
+        "status": "A",
+        "appGroup": "TBCM",
+        "displayOrder": 1
+      },
+      "scbClentStatus": {
+        "idCode": "12464654",
+        "id": "124646542222",
+        "name": "YES",
+        "val": "YES",
+        "operation": "",
+        "status": ""
+      }
+    }, {
+      "id": "1233343333",
+      "counterPartyName": "",
+      "operation": "ADD",
+      "entityType": {
+        "idCode": "TBCM006203",
+        "id": "CIET2",
+        "val": "2",
+        "name": "Distributors",
+        "longDescription": "Distributors",
+        "status": "A",
+        "appGroup": "TBCM",
+        "displayOrder": 1
+      },
+      "scbClentStatus": {
+        "idCode": "124",
+        "id": "124",
+        "name": "YES",
+        "val": "2"
+      }
+    }],
+    "groupOwnerShipTableData": [{
+      "id": "123334",
+      "sequence": null,
+      "keyGroupEntiry": "EntityGroupTest",
+      "keyGroupType": {
+        "idCode": "TBCM0061033233211111111",
+        "id": "KGT132233",
+        "val": "1",
+        "name": "Business Unit",
+        "longDescription": "Business Unit",
+        "status": "A",
+        "appGroup": "TBCM",
+        "displayOrder": 1
+      },
+      "effectiveStake": "1223",
+      "businessIndustry": "businessIndustry test",
+      "totalWallet": "12345",
+      "operation": "ADD",
+      "operatingCountries": [{
+          "id": "111",
+          "countryCode": "AF",
+          "scbClientCountryStatus": false
+        },
+        {
+          "id": "112",
+          "countryCode": "ARO",
+          "scbClientCountryStatus": false
+        },
+        {
+          "id": "113",
+          "countryCode": "RA",
+          "scbClientCountryStatus": false
+        }
+      ]
+    }]
+  }
+}

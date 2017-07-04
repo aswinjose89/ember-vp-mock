@@ -1,0 +1,20 @@
+{
+  "mifidClassifications": [
+    {
+      "code": "ELPC",
+      "description": "Elective Professional Client (ELPC)"
+    },
+    {
+      "code": "ECP",
+      "description": "Eligible Counterparty (ECP)"
+    },
+    {
+      "code": "PC",
+      "description": "Professional Client (PC)"
+    },
+    {
+      "code": "RC",
+      "description": "Retail Client (RC)"
+    }
+  ]
+}

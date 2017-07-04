@@ -1,0 +1,31 @@
+{
+    "auditInfo": [{
+        "fieldName": "CallSubject",
+        "oldValue": "1478837781528$$DATE",
+        "newValue": null,
+        "updatedBy": "",
+        "updatedOn": "1478837781528",
+        "id":1
+        },{
+        "fieldName": "InteractionType",
+        "oldValue": "001",
+        "newValue": "002",
+        "updatedBy": "1241479",
+        "updatedOn": "1478837733454",
+        "id":2
+    },{
+        "fieldName": "DealName",
+        "oldValue": "20161111121340345",
+        "newValue": "20161111121340346",
+        "updatedBy": "1241479",
+        "updatedOn": "1478837733454",
+        "id":3
+    },{
+        "fieldName": "Is this is a sole or responsibility",
+        "oldValue": "Yes",
+        "newValue": "No",
+        "updatedBy": "1241479",
+        "updatedOn": "1478837733454",
+        "id":4
+    }]
+}

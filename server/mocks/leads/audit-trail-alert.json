@@ -1,0 +1,22 @@
+{
+  "leadAuditTrails": [{
+      "id": "11",
+      "bankId": "1",
+      "type": "ETB",
+      "fileName": "alertDoc.xls",
+      "documentId": "India",
+      "status": "In-Progress",
+      "lastUpdated": "dd/mm/yyyy"
+    },
+    {
+      "id": "12",
+      "bankId": "2",
+      "type": "NTB",
+      "fileName": "alertDoc1.xlsx",
+      "documentId": "singapore",
+      "status": "In-Progress",
+      "lastUpdated": "dd/mm/yyyy"
+
+    }
+  ]
+}

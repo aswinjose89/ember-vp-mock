@@ -1,0 +1,30 @@
+{
+"cctMember":[{
+      "psid": "1193243",
+      "name": "Vinoth",
+      "jobTitle": "Mr.",
+      "productArea": "Capital Markets",
+      "country": "AE",
+      "isCct":false,
+      "isChecked":null,
+      "additionalClientNames":[]
+  },{
+    "psid": "8686878",
+    "name": "Venkat",
+    "jobTitle": "Mr.",
+    "productArea": "Capital Markets",
+    "country": "KE",
+    "isCct":true,
+    "isChecked":null,
+    "additionalClientNames":[]
+ },{
+   "psid": "7676768",
+   "name": "Panda",
+   "jobTitle": "Mr.",
+   "productArea": "Capital Markets",
+   "country": "UAE",
+   "isCct":true,
+   "isChecked":null,
+   "additionalClientNames":[]
+}]
+}

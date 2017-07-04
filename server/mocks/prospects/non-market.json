@@ -1,0 +1,208 @@
+{
+  "prospectPicklistMappings": {
+    "id": "12234234354345",
+    "totalRecords": 20,
+    "prospectPicklist": [
+      {
+        "id": "CB1",
+        "code": "Restricted FGO",
+        "category": "PR0017",
+        "shortDescription": "INDIA",
+        "lastUpdatedBy": "Bill Winters",
+        "lastUpdatedDate": "23-06-2017",
+        "paramVal": "E,K,N,MM",
+        "operation": ""
+      },
+      {
+        "id": "CB2",
+        "code": "Restricted FGO",
+        "category": "PR0017",
+        "shortDescription": "BOTSWON",
+        "lastUpdatedBy": "Bill Winters",
+        "lastUpdatedDate": "23-06-2017",
+        "paramVal": "E,K",
+        "operation": ""
+      },
+      {
+        "id": "CB3",
+        "code": "Restricted FGO",
+        "category": "PR0017",
+        "shortDescription": "UNITED ARAB EMIRATES",
+        "lastUpdatedBy": "Bill Winters",
+        "lastUpdatedDate": "23-06-2017",
+        "paramVal": "CB, CIB",
+        "operation": ""
+      },
+      {
+        "id": "CB4",
+        "code": "Restricted FGO",
+        "category": "PR0017",
+        "shortDescription": "UNITED ARAB EMIRATES",
+        "lastUpdatedBy": "Bill Winters",
+        "lastUpdatedDate": "23-06-2017",
+        "paramVal": "CB, CIB",
+        "operation": ""
+      },
+      {
+        "id": "CB5",
+        "code": "Restricted FGO",
+        "category": "PR0017",
+        "shortDescription": "UNITED ARAB EMIRATES",
+        "lastUpdatedBy": "Bill Winters",
+        "lastUpdatedDate": "23-06-2017",
+        "paramVal": "CB, CIB",
+        "operation": ""
+      },
+      {
+        "id": "CB6",
+        "code": "Restricted FGO",
+        "category": "PR0017",
+        "shortDescription": "UNITED ARAB EMIRATES",
+        "lastUpdatedBy": "Bill Winters",
+        "lastUpdatedDate": "23-06-2017",
+        "paramVal": "CB, CIB",
+        "operation": ""
+      },
+      {
+        "id": "CB7",
+        "code": "Restricted FGO",
+        "category": "PR0017",
+        "shortDescription": "UNITED ARAB EMIRATES",
+        "lastUpdatedBy": "Bill Winters",
+        "lastUpdatedDate": "23-06-2017",
+        "paramVal": "CB, CIB",
+        "operation": ""
+      },
+      {
+        "id": "CB8",
+        "code": "Restricted FGO",
+        "category": "PR0017",
+        "shortDescription": "UNITED ARAB EMIRATES",
+        "lastUpdatedBy": "Bill Winters",
+        "lastUpdatedDate": "23-06-2017",
+        "paramVal": "CB, CIB",
+        "operation": ""
+      },
+      {
+        "id": "CB9",
+        "code": "Restricted FGO",
+        "category": "PR0017",
+        "shortDescription": "UNITED ARAB EMIRATES",
+        "lastUpdatedBy": "Bill Winters",
+        "lastUpdatedDate": "23-06-2017",
+        "paramVal": "CB, CIB",
+        "operation": ""
+      },
+      {
+        "id": "CB10",
+        "code": "Restricted FGO",
+        "category": "PR0017",
+        "shortDescription": "UNITED ARAB EMIRATES",
+        "lastUpdatedBy": "Bill Winters",
+        "lastUpdatedDate": "23-06-2017",
+        "paramVal": "CB, CIB",
+        "operation": ""
+      },
+      {
+        "id": "CB11",
+        "code": "Restricted FGO",
+        "category": "PR0017",
+        "shortDescription": "UNITED ARAB EMIRATES",
+        "lastUpdatedBy": "Bill Winters",
+        "lastUpdatedDate": "23-06-2017",
+        "paramVal": "CB, CIB",
+        "operation": ""
+      },
+      {
+        "id": "CB12",
+        "code": "Restricted FGO",
+        "category": "PR0017",
+        "shortDescription": "UNITED ARAB EMIRATES",
+        "lastUpdatedBy": "Bill Winters",
+        "lastUpdatedDate": "23-06-2017",
+        "paramVal": "CB, CIB",
+        "operation": ""
+      },
+      {
+        "id": "CB13",
+        "code": "Restricted FGO",
+        "category": "PR0017",
+        "shortDescription": "UNITED ARAB EMIRATES",
+        "lastUpdatedBy": "Bill Winters",
+        "lastUpdatedDate": "23-06-2017",
+        "paramVal": "CB, CIB",
+        "operation": ""
+      },
+      {
+        "id": "CB14",
+        "code": "Restricted FGO",
+        "category": "PR0017",
+        "shortDescription": "UNITED ARAB EMIRATES",
+        "lastUpdatedBy": "Bill Winters",
+        "lastUpdatedDate": "23-06-2017",
+        "paramVal": "CB, CIB",
+        "operation": ""
+      },
+      {
+        "id": "CB15",
+        "code": "Restricted FGO",
+        "category": "PR0017",
+        "shortDescription": "UNITED ARAB EMIRATES",
+        "lastUpdatedBy": "Bill Winters",
+        "lastUpdatedDate": "23-06-2017",
+        "paramVal": "CB, CIB",
+        "operation": ""
+      },
+      {
+        "id": "CB16",
+        "code": "Restricted FGO",
+        "category": "PR0017",
+        "shortDescription": "UNITED ARAB EMIRATES",
+        "lastUpdatedBy": "Bill Winters",
+        "lastUpdatedDate": "23-06-2017",
+        "paramVal": "CB, CIB",
+        "operation": ""
+      },
+      {
+        "id": "CB17",
+        "code": "Restricted FGO",
+        "category": "PR0017",
+        "shortDescription": "UNITED ARAB EMIRATES",
+        "lastUpdatedBy": "Bill Winters",
+        "lastUpdatedDate": "23-06-2017",
+        "paramVal": "CB, CIB",
+        "operation": ""
+      },
+      {
+        "id": "CB18",
+        "code": "Restricted FGO",
+        "category": "PR0017",
+        "shortDescription": "UNITED ARAB EMIRATES",
+        "lastUpdatedBy": "Bill Winters",
+        "lastUpdatedDate": "23-06-2017",
+        "paramVal": "CB, CIB",
+        "operation": ""
+      },
+      {
+        "id": "CB19",
+        "code": "Restricted FGO",
+        "category": "PR0017",
+        "shortDescription": "UNITED ARAB EMIRATES",
+        "lastUpdatedBy": "Bill Winters",
+        "lastUpdatedDate": "23-06-2017",
+        "paramVal": "CB, CIB",
+        "operation": ""
+      },
+      {
+        "id": "CB20",
+        "code": "Restricted FGO",
+        "category": "PR0017",
+        "shortDescription": "UNITED ARAB EMIRATES",
+        "lastUpdatedBy": "Bill Winters",
+        "lastUpdatedDate": "23-06-2017",
+        "paramVal": "CB, CIB",
+        "operation": ""
+      }
+    ]
+  }
+}

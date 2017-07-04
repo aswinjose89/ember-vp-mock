@@ -1,0 +1,85 @@
+{
+    "contact": {
+        "headerData": {
+            "clientId": "13311000",
+            "subProfileId": 1,
+            "countryIncorporation": "INDIA",
+            "clientName": "JSS AUTO PARTS PRIVATE LIMITED",
+            "businessSegment": "MEDIUM ENTERPRISE",
+            "domCountry": "INDIA",
+            "owner": "test123 A",
+            "subSegmentId": "03",
+            "subSegmentDesc": "MEDIUM ENTERPRISE",
+            "productTag": [],
+            "entityType": "C",
+            "segmentId": "ME",
+            "segmentDescription": "MEDIUM ENTERPRISE",
+            "domicileRegion": "SOUTH ASIA",
+            "legalConstitution": "Private Company",
+            "creditGrade": "10A"
+        },
+        "basicInformations": {
+            "firstName": "asd",
+            "lastName": "asdsa",
+            "primaryEmail": "asd@sc.com",
+            "contactAddresses": [{
+                "availableAddress": "Others"
+            }, {
+                "addressL1": "42/60 PUNJABI BAGH WEST - - - - - - - 110026 NWD - NEW DELHI - DELHI",
+                "addressL2": ".",
+                "country": {
+                    "id": "IN",
+                    "shortDesc": "INDIA",
+                    "name": "INDIA"
+                },
+                "isActive": "N"
+            }],
+            "roleBuyDecn": [],
+            "access": "F"
+        },
+        "personalInformations": {},
+        "newNotes": [],
+        "socials": [{
+            "mediaId": "LLIN",
+            "media": "Linkedin",
+            "link": "",
+            "s_Id": "6518233765479480182"
+        }, {
+            "mediaId": "FB",
+            "media": "Facebook",
+            "link": "",
+            "s_Id": "3667228839940959981"
+        }, {
+            "mediaId": "TWT",
+            "media": "Twitter",
+            "link": "",
+            "s_Id": "3512324281253643443"
+        }, {
+            "mediaId": "TR",
+            "media": "Thompson Reuters",
+            "link": "",
+            "s_Id": "-1584258764565635644"
+        }, {
+            "mediaId": "PW",
+            "media": "Personal Websites",
+            "link": "",
+            "s_Id": "-1010464731292643835"
+        }, {
+            "mediaId": "OTHR",
+            "media": "Others",
+            "link": "",
+            "s_Id": "3962695778457553679"
+        }, {
+            "mediaId": "BLM",
+            "media": "Bloomberg",
+            "link": "",
+            "s_Id": "-847391492056875779"
+        }],
+        "associatedGrids": [],
+        "callReports": [],
+        "events": [],
+        "interests": {
+            "events": []
+        }
+    }
+}
